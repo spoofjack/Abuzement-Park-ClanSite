@@ -1,0 +1,1242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="description" content="Clash Royale Dashboard for clan Abuzement Park #LP98YUCV. Here we post clan information, member standings, and war data." />
+
+    <meta name="generator" content="crtools 2.12.7 [https://github.com/AaronTraas/Clash-Royale-Clan-Tools]" />
+
+    <title>Abuzement Park Clan Dashboard | crtools</title>
+
+    <link rel="icon" href="favicon.ico"/>
+
+    <link rel="canonical" href="https://spoofjack.github.io/Abuzement-Park-ClanSite" />
+
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:300,300i,700,700i" />
+    <link rel="stylesheet" href="static/crtools.css?version=2.12.7" />
+    <link rel="stylesheet" href="static/hero.css?version=2.12.7" />
+    <link rel="stylesheet" href="static/filters.css?version=2.12.7" />
+    <link rel="stylesheet" href="static/dialog.css?version=2.12.7" />
+
+    <link rel="stylesheet" href="static/fankit.css?version=2.12.7" />
+
+</head>
+<body data-active-dialog="none">
+    <header><div class="inner">
+        <h1>Abuzement Park Clan Dashboard</h1>
+    </div></header>
+    <main>
+        <section id="hero">
+            <div class="section-wrap">
+
+                <div id="clan-description">
+                
+                    <h1>Abuzement Park (#LP98YUCV)</h1>
+                    <h3>👉Donations 350+ /Wars 5 = Elder 👉Donations 700+ /Wars 10= CO royaleapi.com
+                
+                </div>
+                <div id="clan-stats">
+                    <div class="table-wrap">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th colspan="2">Clan Stats</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><th>Clan Score</th><td>2188</td></tr>
+                                <tr><th>Clan Name</th><td>Abuzement Park</td></tr>
+                                <tr>
+                                    <th>Country</th>
+                                
+                                    <td>United States<img class="flag" src="static/images/flags/us.png" /></td>
+                                
+                                </td></tr>
+
+                                <tr><th>Donations/week</th><td>0</td></tr>
+                                <tr><th>Required Trophies</th><td>4300</td></tr>
+                                <tr>
+                                    <th>War Trophies</th>
+                                    <td>
+                                        0
+                                        <img class="war-league" title="Bronze League" src="static/images/war-league-bronze.svg" />
+                                    </td>
+                                </tr>
+                                <tr><th>Clan Tag</th><td>#LP98YUCV</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p class="last-update">Last update: 11/19/2019 2:30:49 PM</p>
+                    
+                    <div class="join-cta">
+                        <h3>Looking for a clan?</h3>
+                        <a class="button join" href="https://link.clashroyale.com/invite/clan/en?tag=#LP98YUCV"><span>Join us!</span></a>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        <section id="info">
+            <div class="section-wrap">
+                <div id="war-stats" class="row">
+    <article id="current-war">
+        <header>
+            <h3>Current war</h3>
+        </header>
+
+        <dl>
+            <div><dt>State</dt><dd>The clan is not currently engaged in a war.</dd></div>
+        
+        </dl>
+    </article>
+
+    <article id="recent-wars">
+        <header>
+            <h3>Recent wars</h3>
+        </header>
+        <table class="war-standings" width="100%">
+        
+            <tr><td>No wars in war log</td></tr>
+        
+        </table>
+    </article>
+</div>
+
+                <article class="member-info">
+                    <header>
+                        <h3>
+                            <span class="no-mobile">Member list and stats:</span>
+                            <span class="no-desktop">Members:</span>
+                        </h3>
+                        <div class="filters">
+                            <input id="show-hidden-columns" class="toggle-button" type="checkbox" /><label for="show-hidden-columns">Details</label>
+                            <label>
+                                Filter:
+                                <select id="member-filter">
+                                    <option value="none">None</option>
+                                    <option value="leadership">Leadership</option>
+                                    <option value="role-elder">Role: Elder</option>
+                                    <option value="role-member">Role: Member</option>
+                                    <option value="new">New Members</option>
+                                
+                                    <option value="activity">Inactive</option>
+                                    <option value="danger">In danger</option>
+                                </select>
+                            </label>
+                        </div>
+                    </header>
+
+                    <div class="table-scroll">
+    <div id="member-table-sortable" class="table-scroll-inner">
+        <table id="member-table" width="100%" data-filter="none">
+            <thead>
+                <tr>
+                    <th class="rank" data-sort-default>#</th>
+                    <th class="rank previous">Previous</th>
+                    <th class="name">Member</th>
+                    <th class="score">Score</th>
+                    <th class="trophies">Trophies</th>
+                    <th class="donations">Dona&shy;tions</th>
+                    <th class="donations-received">Donations received</th>
+                    <th class="inactivity">Days Inactive</th>
+                    <th class="last-seen">Last Seen</th>
+                    <th class="war-win-rate">War win rate</th>
+                    <th class="war current" data-sort-method="none">Current War</th>
+                
+                </tr>
+            </thead>
+            <class="list">
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="0" data-activity="good" data-status="ok" data-clanrole="leader" data-currentwar="na" data-leadership="True" data-vacation="False" data-new="true">
+                    <td class="id rank" data-sort="1">
+                        
+                        <span>
+                        
+                           <strong>1</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="1">
+                        <strong>1</strong>
+                    </td>
+                    <td class="name" data-sort="Ok Girl" data-role="dialog-show" data-target="member-detail" data-member-tag="#2GGYGCRR0">
+                        <strong>Ok Girl</strong><br />
+                        <small class="member-role">Leader</small>
+                    </td>
+                    <td class="score ok" data-sort="0" data-tooltip="true">
+                        <strong>0</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>+0</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league challenger-2" data-sort="4376">
+                        <strong>4376</strong>
+                    </td>
+                    <td class="donations bad" data-sort="0" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>0</strong><br />
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>0</dd></div>
+                                <div><dt>Cards received</dt><dd>0</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="0">
+                        <strong>0</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20191118T120224.000Z" >
+                        1 Days, 7 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>Ok Girl</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+            </tbody>
+        </table>
+    </div>
+</div>
+<style>
+
+    #member-table tr .rank.previous { display: none !important; }
+
+    #member-table tr .donations-received { display: none !important; }
+
+    #member-table tr .last-seen { display: none !important; }
+
+    #member-table tr .war-win-rate { display: none !important; }
+
+</style>
+
+                    <p>
+                        <a href="#" class="button" data-role="dialog-show" data-target="members-old"><span class="no-mobile">View List of Old Members</span><span class="no-desktop">Old Members</span></a>
+                    </p>
+                </article>
+
+                <div class="row">
+                    <article id="leaderboards" data-filter="war">
+    <header>
+        <h3>Leaderboard:</h3>
+        <div class="filters">
+            <select id="leaderboard-filter">
+                <option value="war">War</option>
+                <option value="war-win-rate">War win rate</option>
+                <option value="donations">Donations</option>
+            </select>
+        </div>
+    </header>
+
+    <div class="leaderboard"  data-filter="war">
+        <table class="war-standings" width="100%">
+            <thead>
+                <th>Rank</th>
+                <th>Member</th>
+                <th>War score</th>
+            </thead>
+            <tbody>
+            
+                <tr>
+                    <td class="rank rank-1"><span>1</span></td>
+                    <td class="name"><strong>Ok Girl</strong></td>
+                    <td class="score"><strong>0</strong></td>
+                </tr>
+            
+            </tbody>
+        </table>
+    </div>
+
+    <div class="leaderboard"  data-filter="war-win-rate">
+        <table class="war-standings" width="100%">
+            <thead>
+                <th>Rank</th>
+                <th>Member</th>
+                <th>War win rate</th>
+            </thead>
+            <tbody>
+            
+                <tr>
+                    <td class="rank rank-1"><span>1</span></td>
+                    <td class="name"><strong>Ok Girl</strong></td>
+                    <td class="score"><strong>0%</strong></td>
+                </tr>
+            
+            </tbody>
+        </table>
+    </div>
+
+    <div class="leaderboard"  data-filter="donations">
+        <table class="war-standings" width="100%" >
+            <thead>
+                <th>Rank</th>
+                <th>Member</th>
+                <th>Dona&shy;tions</th>
+            </thead>
+            <tbody>
+            
+                <tr>
+                    <td class="rank rank-1"><span>1</span></td>
+                    <td class="name"><strong>Ok Girl</strong></td>
+                    <td class="score"><strong>0</strong> / Day</td>
+                </tr>
+            
+            </tbody>
+        </table>
+    </div>
+</article>
+
+                    <article id="suggestions">
+                        <header>
+                            <h3>Suggestions:</h3>
+                        </header>
+                        <div class="column">
+                            <div class="list">
+                                <ul>
+                                
+                                    <li><strong>Recruit new members!</strong> The team needs some fresh blood.</li>
+                                
+                                </ul>
+                            </div>
+                            <div class="info">
+                                <p>Members with a <strong class="bad">score below 0</strong> will be recommended for kicking or demotion.</p>
+                                <p>Members inactive for <strong class="bad">21 days</strong> will be kicked.</p>
+                                <p>
+                                    A member who achieves <strong class="good">160 points</strong> is elegible for promotion to <strong>Elder</strong> at the discretion of leadership.
+                                
+                                    Members must be in the clan for a at least <strong>30 days</strong> to be promoted.
+                                
+                                </p>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article>
+                        <header>
+                            <h3>Score explanation:</h3>
+                        </header>
+                        <p>Score is made of two components: <strong>donation score</strong> and <strong>war participation score</strong>.</p>
+                        <h4>Donation Score:</h4>
+                        <p>You are expected to donate <strong>12 cards per day</strong>, on average. If you make more, you will gain points. If you make fewer, you will lose points. If you have zero, you will be penalized <strong class="bad">-40 points</strong></p>
+
+                        <h4>War Participation Score:</h4>
+                        <table class="rules">
+                            <thead>
+                                <tr>
+                                    <th>For each of the last 10 wars, did member...:</th>
+                                    <th>Yes:</th>
+                                    <th>No:</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            
+                                <tr>
+                                    <td>...participate in the war?</td>
+                                    <td class="yes"><strong class="normal">+0</strong></td>
+                                    <td class="no"><strong class="bad">-1</strong></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>...complete each collection battle? (per battle)</td>
+                                    <td class="yes"><strong class="normal">+0</strong></td>
+                                    <td class="no"><strong class="bad">-5</strong></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>...win each collection battle? (per battle)</td>
+                                    <td class="yes"><strong class="good">+2</strong></td>
+                                    <td class="no"><strong class="normal">+0</strong></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>...complete war day battle?</td>
+                                    <td class="yes"><strong class="good">+15</strong></td>
+                                    <td class="no"><strong class="bad">-30</strong></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>...win war day battle? (per battle)</td>
+                                    <td class="yes"><strong class="good">+5</strong></td>
+                                    <td class="no"><strong class="normal">+0</strong></td>
+                                </tr>
+                            
+                            </tbody>
+                        </table>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer><div class="inner">
+        <ul>
+            <li><a rel="external" target="_blank" href="https://github.com/AaronTraas/Clash-Royale-Clan-Tools">Github</a></li>
+            <li><a rel="external" target="_blank" href="https://developer.clashroyale.com/">Clash Royale API</a></li>
+        </ul>
+        <a class="version " rel="external" target="_blank" href="https://pypi.org/project/crtools/">crtools 2.12.7</a>
+
+        <p class="disclaimer">
+            This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.
+        
+            <a href="https://supercell.com/fan-content-policy">For more information see Supercell's Fan Content Policy.</a>
+        
+        </p>
+    </div></footer>
+
+    <a class="github-fork-ribbon" target="_blank" href="https://github.com/AaronTraas/Clash-Royale-Clan-Tools" title="Fork me on GitHub">Fork me on GitHub</a>
+
+    <div class="dialog-shadow"></div>
+    <dialog id="members-old">
+    <header>
+        <h1>Former Members</h1>
+        <a data-role="close" href="#">Close</a>
+    </header>
+    <div class="inner">
+        <table width="100%">
+            <thead>
+                <th>Name / tag</th>
+                <th>Events</th>
+                <th>Links</th>
+            </thead>
+            <tbody>
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>ok guy</strong>
+                        
+                        <br/>
+                        #UVGUUVC0
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/UVGUUVC0" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>didbrewersmom</strong>
+                        
+                        <br/>
+                        #J28UPQ0P
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/J28UPQ0P" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>a##hole</strong>
+                        
+                        <br/>
+                        #J8CGQRJY
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/J8CGQRJY" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>101DeMoNS</strong>
+                        
+                        <br/>
+                        #YVJUJPJ8
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/YVJUJPJ8" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Sarx</strong>
+                        
+                        <br/>
+                        #YYP8PPUV
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/YYP8PPUV" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Silent-Death</strong>
+                        
+                        <br/>
+                        #JQUQ9RQP
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/JQUQ9RQP" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Gopher!</strong>
+                        
+                        <br/>
+                        #YLCPYQPR
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/YLCPYQPR" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Patrick</strong>
+                        
+                        <br/>
+                        #9CCL2G0G
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/9CCL2G0G" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>SloppyJoe</strong>
+                        
+                        <br/>
+                        #GYQQ0PY
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/GYQQ0PY" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>njwalt</strong>
+                        
+                        <br/>
+                        #GL0VQ8YV
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/GL0VQ8YV" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Thrashmaster</strong>
+                        
+                        <br/>
+                        #Y0VP098
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/Y0VP098" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>ivailo361</strong>
+                        
+                        <br/>
+                        #9Q8Q8PY8Y
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/9Q8Q8PY8Y" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>klawler</strong>
+                        
+                        <br/>
+                        #8CLQGRJL0
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/8CLQGRJL0" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Lagertha</strong>
+                        
+                        <br/>
+                        #8QJ90U8U
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/8QJ90U8U" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>chacu</strong>
+                        
+                        <br/>
+                        #2CQ2GG9L0
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/2CQ2GG9L0" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Battle Royale</strong>
+                        
+                        <br/>
+                        #220PP2QU
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/220PP2QU" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Rascal09</strong>
+                        
+                        <br/>
+                        #2Y02UG8C8
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/2Y02UG8C8" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>live long</strong>
+                        
+                        <br/>
+                        #80PQ2RCV
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/80PQ2RCV" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>grimm reaper</strong>
+                        
+                        <br/>
+                        #2C8QPLUPG
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/2C8QPLUPG" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>The Great Dayne</strong>
+                        
+                        <br/>
+                        #CYLYQ8PP
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/CYLYQ8PP" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Wolverine</strong>
+                        
+                        <br/>
+                        #99QU9LQ
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/99QU9LQ" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>xman99</strong>
+                        
+                        <br/>
+                        #PY0GGGQR
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/PY0GGGQR" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>liftedoffkaya</strong>
+                        
+                        <br/>
+                        #PJC8YRYL
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/PJC8YRYL" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Hilda</strong>
+                        
+                        <br/>
+                        #9P0V20CY8
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/9P0V20CY8" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Tyler</strong>
+                        
+                        <br/>
+                        #2VJ09RJP
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/2VJ09RJP" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>John Hurricane</strong>
+                        
+                        <br/>
+                        #UYC898YU
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/UYC898YU" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>fenrobane</strong>
+                        
+                        <br/>
+                        #2RJVVLPC0
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/2RJVVLPC0" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Michael-Buddy</strong>
+                        
+                        <br/>
+                        #2UQ90QUQC
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/2UQ90QUQC" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>fetty wap 679</strong>
+                        
+                        <br/>
+                        #RJ0GPGRY
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/RJ0GPGRY" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>fręď</strong>
+                        
+                        <br/>
+                        #PJYRU0LJY
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/PJYRU0LJY" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Brian</strong>
+                        
+                        <br/>
+                        #9PGVPCGV
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/9PGVPCGV" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Jacob</strong>
+                        
+                        <br/>
+                        #PPCQGU9Q
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/PPCQGU9Q" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>HUNTER</strong>
+                        
+                        <br/>
+                        #YCLRVC9V
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/YCLRVC9V" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>The Big Hurt</strong>
+                        
+                        <br/>
+                        #PY8CJLUYV
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/PY8CJLUYV" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>freighttrain</strong>
+                        
+                        <br/>
+                        #9992GG0CQ
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/9992GG0CQ" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Casvid</strong>
+                        
+                        <br/>
+                        #9YPY0QLCC
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/9YPY0QLCC" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>kilmykrill</strong>
+                        
+                        <br/>
+                        #G0YV9CY0
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/G0YV9CY0" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>fr8trnsollady</strong>
+                        
+                        <br/>
+                        #9J9CRPP8G
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/9J9CRPP8G" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>LYBBxDK</strong>
+                        
+                        <br/>
+                        #PRV9J80C8
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/PRV9J80C8" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Cazrick999</strong>
+                        
+                        <br/>
+                        #GYGVV9R2
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/GYGVV9R2" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Muffinz</strong>
+                        
+                        <br/>
+                        #R9CCJLUJ
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/R9CCJLUJ" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Wub</strong>
+                        
+                        <br/>
+                        #CLL8Q09
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/CLL8Q09" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>Shmooberry7</strong>
+                        
+                        <br/>
+                        #8VY92QPRL
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/8VY92QPRL" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+                <tr class="member-start" data-blacklist="false">
+                    <td rowspan="1">
+                        <strong>ben dover</strong>
+                        
+                        <br/>
+                        #PPVPQVRVR
+                    </td>
+                    <td>11/19/2019 &ndash; Departed clan</td>
+                    <td rowspan="1" class="buttons">
+                        <a href="https://royaleapi.com/player/PPVPQVRVR" rel="external" target="_blank" class="button royaleapi" title="See on RoyaleAPI"><span></span></a>
+                    </td>
+                </tr>
+                
+                
+            
+            </tbody>
+        </table>
+    </div>
+</dialog>
+    <dialog id="member-detail">
+    <header>
+        <h1>Member Details</h1>
+        <a data-role="close" href="#">Close</a>
+    </header>
+    <div class="inner">
+    
+        <div data-member-id="#2GGYGCRR0">
+            <section class="identity">
+                <h2>
+                    Ok Girl
+                    <small>#2GGYGCRR0</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">11</h3>
+                    <h3 class="trophies">4376</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'challenger-2', 'trophies': 4300, 'collection_win': {'bronze': 160, 'silver': 320, 'gold': 560, 'legendary': 880}}">
+                    <figcaption>Challenger II</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Leader</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>11/19/2019</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            11/19/2019<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            11/18/2019 12:02:24 PM
+                            (1 Days, 7 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/2GGYGCRR0" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                    <li>11/19/2019 - Joined clan</li>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+    </div>
+</dialog>
+
+    <script>
+        (function() {
+            var startTimestamp = new Date();
+            var HALF_HOUR = 30 * 60 * 1000;
+            var refreshInterval = null;
+            var script_load_semaphor = 0;
+
+            function refreshAfterHalfHour() {
+                if((new Date()) - startTimestamp > HALF_HOUR) {
+                    clearInterval(refreshInterval)
+                    location.reload(true);
+                }
+            }
+
+            function assetsDoneLoading() {
+                if( script_load_semaphor > 1 ) {
+                    --script_load_semaphor;
+                    return;
+                }
+
+                var memberTable = document.getElementById('member-table');
+
+                var tooltip = new TooltipManager();
+                var memberFilter = new MemberTableFilter();
+                var leaderboardFilter = new LeaderboardFilter();
+                var dialogHandler = new DialogHandler();
+
+                new Tablesort(memberTable);
+
+                refreshInterval = setInterval(refreshAfterHalfHour, 3000)
+            }
+
+            function loadScript(script_url) {
+                ++script_load_semaphor;
+                var element = document.createElement( 'script' );
+                element.setAttribute( 'src', script_url + '?version=2.12.7' );
+                element.onload = assetsDoneLoading;
+
+                document.body.appendChild( element );
+            }
+
+            // delay startup of app until first render if possible.
+            window.requestAnimationFrame( function() {
+                loadScript('static/tablesort-with-number.min.js');
+                loadScript('static/crtools.js');
+            });
+        })();
+    </script>
+</body>
+</html>
