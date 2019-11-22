@@ -1,13 +1,13 @@
 {
-    "last_update": 1574432846.382717,
+    "last_update": 1574434658.458148,
     "members": {
         "#2GGYGCRR0": {
             "name": "Ok Girl",
             "join_date": 0,
-            "last_activity_date": 1574258781.780154,
+            "last_activity_date": 1574434658.458148,
             "last_donation_date": 0,
             "role": "leader",
-            "status": "absent",
+            "status": "present",
             "donations": 0,
             "donations_last_week": 0,
             "events": [
@@ -22,17 +22,23 @@
                     "type": "left",
                     "role": "leader",
                     "date": 1574381555.435096
+                },
+                {
+                    "event": "join",
+                    "type": "re-join",
+                    "role": "leader",
+                    "date": 1574434658.458148
                 }
             ]
         },
         "#8C099Q9J8": {
             "name": "Bow To Chase",
             "join_date": 1574381555.435096,
-            "last_activity_date": 1574426348.525064,
-            "last_donation_date": 1574426348.525064,
+            "last_activity_date": 1574434658.458148,
+            "last_donation_date": 1574434658.458148,
             "role": "coLeader",
             "status": "present",
-            "donations": 48,
+            "donations": 56,
             "donations_last_week": 0,
             "events": [
                 {
@@ -46,11 +52,11 @@
         "#J28UPQ0P": {
             "name": "didbrewersmom",
             "join_date": 1574381555.435096,
-            "last_activity_date": 1574423205.388623,
-            "last_donation_date": 1574423205.388623,
+            "last_activity_date": 1574434658.458148,
+            "last_donation_date": 1574434658.458148,
             "role": "coLeader",
             "status": "present",
-            "donations": 48,
+            "donations": 56,
             "donations_last_week": 0,
             "events": [
                 {
@@ -66,7 +72,7 @@
             "join_date": 1574381555.435096,
             "last_activity_date": 1574431783.463147,
             "last_donation_date": 1574431783.463147,
-            "role": "leader",
+            "role": "coLeader",
             "status": "present",
             "donations": 76,
             "donations_last_week": 0,
@@ -76,6 +82,12 @@
                     "type": "new",
                     "role": "leader",
                     "date": 1574381555.435096
+                },
+                {
+                    "event": "role change",
+                    "type": "demotion",
+                    "role": "coLeader",
+                    "date": 1574434658.458148
                 }
             ]
         },
