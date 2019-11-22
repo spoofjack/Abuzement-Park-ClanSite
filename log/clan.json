@@ -3,13 +3,13 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 26431,
+    "clan_score": 29561,
     "required_trophies": 5000,
-    "donations_per_week": 414,
+    "donations_per_week": 476,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 10,
+    "members": 12,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -30,11 +30,11 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20191122T180211.000Z",
+            "last_seen": "20191122T191554.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 10,
+            "donations_received": 32,
             "clan_chest_points": 0
         },
         {
@@ -50,8 +50,8 @@
             "last_seen": "20191122T191121.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 1,
-            "donations": 76,
-            "donations_received": 60,
+            "donations": 84,
+            "donations_received": 90,
             "clan_chest_points": 0
         },
         {
@@ -60,14 +60,14 @@
             "exp_level": 13,
             "trophies": 5579,
             "arena": {
-                "id": 54000017,
-                "name": "Master III"
+                "id": 54000016,
+                "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20191122T183311.000Z",
+            "last_seen": "20191122T193123.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 2,
-            "donations": 76,
+            "donations": 94,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -89,23 +89,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "exp_level": 13,
-            "trophies": 5477,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20191122T185551.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 0,
-            "donations": 80,
-            "donations_received": 64,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y0VP098",
             "name": "Thrashmaster",
             "exp_level": 13,
@@ -116,23 +99,40 @@
             },
             "role": "coLeader",
             "last_seen": "20191122T121454.000Z",
-            "clan_rank": 6,
+            "clan_rank": 5,
             "previous_clan_rank": 4,
             "donations": 48,
             "donations_received": 60,
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 12,
-            "trophies": 5380,
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "exp_level": 13,
+            "trophies": 5453,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20191122T182933.000Z",
+            "last_seen": "20191122T191940.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 0,
+            "donations": 98,
+            "donations_received": 64,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 12,
+            "trophies": 5364,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20191122T193005.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 0,
             "donations": 0,
@@ -149,11 +149,45 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20191122T191220.000Z",
+            "last_seen": "20191122T193723.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 3,
-            "donations": 106,
+            "donations": 114,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "exp_level": 12,
+            "trophies": 5349,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20191122T192746.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9LCJPUVQ",
+            "name": "BuicksBad",
+            "exp_level": 13,
+            "trophies": 5348,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20191122T194159.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -167,7 +201,7 @@
             },
             "role": "elder",
             "last_seen": "20191122T164851.000Z",
-            "clan_rank": 9,
+            "clan_rank": 11,
             "previous_clan_rank": 5,
             "donations": 0,
             "donations_received": 40,
@@ -184,7 +218,7 @@
             },
             "role": "leader",
             "last_seen": "20191122T183016.000Z",
-            "clan_rank": 10,
+            "clan_rank": 12,
             "previous_clan_rank": 0,
             "donations": 8,
             "donations_received": 0,
