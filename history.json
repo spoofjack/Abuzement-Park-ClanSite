@@ -1,5 +1,5 @@
 {
-    "last_update": 1574434804.879019,
+    "last_update": 1574436615.43347,
     "members": {
         "#2GGYGCRR0": {
             "name": "Ok Girl",
@@ -52,11 +52,11 @@
         "#J28UPQ0P": {
             "name": "didbrewersmom",
             "join_date": 1574381555.435096,
-            "last_activity_date": 1574434658.458148,
-            "last_donation_date": 1574434658.458148,
+            "last_activity_date": 1574436615.43347,
+            "last_donation_date": 1574436615.43347,
             "role": "coLeader",
             "status": "present",
-            "donations": 56,
+            "donations": 66,
             "donations_last_week": 0,
             "events": [
                 {
@@ -70,11 +70,11 @@
         "#2Y02UG8C8": {
             "name": "Rascal09",
             "join_date": 1574381555.435096,
-            "last_activity_date": 1574431783.463147,
-            "last_donation_date": 1574431783.463147,
+            "last_activity_date": 1574436615.43347,
+            "last_donation_date": 1574436615.43347,
             "role": "coLeader",
             "status": "present",
-            "donations": 76,
+            "donations": 86,
             "donations_last_week": 0,
             "events": [
                 {
@@ -174,7 +174,7 @@
             "join_date": 1574434804.879019,
             "last_activity_date": 1574434804.879019,
             "last_donation_date": 1574434804.879019,
-            "role": "member",
+            "role": "elder",
             "status": "present",
             "donations": 0,
             "donations_last_week": 0,
@@ -184,6 +184,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1574434804.879019
+                },
+                {
+                    "event": "role change",
+                    "type": "promotion",
+                    "role": "elder",
+                    "date": 1574436615.43347
                 }
             ]
         }
