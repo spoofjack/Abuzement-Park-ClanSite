@@ -10,19 +10,10 @@
         "participants": 11,
         "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 4,
+        "battles_played": 5,
         "wins": 2
     },
     "participants": [
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 255,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
@@ -87,6 +78,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 255,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "cards_earned": 425,
@@ -121,10 +121,10 @@
             "badge_id": 16000062,
             "clan_score": 466,
             "participants": 10,
-            "crowns": 6,
-            "battles_remaining": 5,
-            "battles_played": 5,
-            "wins": 3
+            "crowns": 7,
+            "battles_remaining": 4,
+            "battles_played": 6,
+            "wins": 4
         },
         {
             "tag": "#PGCV9L",
@@ -166,8 +166,8 @@
             "clan_score": 0,
             "participants": 11,
             "crowns": 3,
-            "battles_remaining": 7,
-            "battles_played": 4,
+            "battles_remaining": 6,
+            "battles_played": 5,
             "wins": 2
         }
     ]
