@@ -10,19 +10,10 @@
         "participants": 11,
         "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 7,
+        "battles_played": 8,
         "wins": 3
     },
     "participants": [
-        {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "cards_earned": 340,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#Y0VP098",
             "name": "Thrashmaster",
@@ -33,46 +24,19 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "cards_earned": 340,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 510,
             "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 340,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didbrewersmom",
-            "cards_earned": 340,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 510,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 255,
-            "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
@@ -96,12 +60,12 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2GGYGCRR0",
-            "name": "Ok Girl",
-            "cards_earned": 480,
+            "tag": "#J28UPQ0P",
+            "name": "didbrewersmom",
+            "cards_earned": 340,
             "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 0,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -112,6 +76,42 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#2GGYGCRR0",
+            "name": "Ok Girl",
+            "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 255,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 340,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -121,10 +121,10 @@
             "badge_id": 16000029,
             "clan_score": 105,
             "participants": 10,
-            "crowns": 15,
-            "battles_remaining": 4,
-            "battles_played": 6,
-            "wins": 5
+            "crowns": 16,
+            "battles_remaining": 3,
+            "battles_played": 7,
+            "wins": 6
         },
         {
             "tag": "#PGCV9L",
@@ -155,8 +155,8 @@
             "clan_score": 0,
             "participants": 11,
             "crowns": 5,
-            "battles_remaining": 4,
-            "battles_played": 7,
+            "battles_remaining": 3,
+            "battles_played": 8,
             "wins": 3
         },
         {
@@ -174,5 +174,5 @@
     "cards": 4540,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "20 hours"
+    "end_label": "19 hours"
 }
