@@ -10,7 +10,7 @@
         "participants": 11,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 0,
+        "battles_played": 1,
         "wins": 0
     },
     "participants": [
@@ -18,15 +18,6 @@
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
             "cards_earned": 340,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "cards_earned": 425,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -112,19 +103,39 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "cards_earned": 425,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#YY89PGG8",
+            "name": "1dit 1",
+            "badge_id": 16000029,
+            "clan_score": 105,
+            "participants": 10,
+            "crowns": 12,
+            "battles_remaining": 6,
+            "battles_played": 4,
+            "wins": 4
+        },
         {
             "tag": "#2R9JRYV2",
             "name": "JP?",
             "badge_id": 16000062,
             "clan_score": 466,
             "participants": 10,
-            "crowns": 0,
-            "battles_remaining": 10,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 3,
+            "battles_remaining": 8,
+            "battles_played": 2,
+            "wins": 2
         },
         {
             "tag": "#PGCV9L",
@@ -132,21 +143,10 @@
             "badge_id": 16000081,
             "clan_score": 331,
             "participants": 10,
-            "crowns": 0,
-            "battles_remaining": 10,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#YY89PGG8",
-            "name": "1dit 1",
-            "badge_id": 16000029,
-            "clan_score": 105,
-            "participants": 10,
-            "crowns": 0,
-            "battles_remaining": 10,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 1,
+            "battles_remaining": 9,
+            "battles_played": 1,
+            "wins": 1
         },
         {
             "tag": "#Y00JQCJQ",
@@ -166,8 +166,8 @@
             "clan_score": 0,
             "participants": 11,
             "crowns": 0,
-            "battles_remaining": 11,
-            "battles_played": 0,
+            "battles_remaining": 10,
+            "battles_played": 1,
             "wins": 0
         }
     ],
