@@ -7,13 +7,31 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 4,
-        "participants": 3,
+        "participants": 6,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 9,
-        "wins": 5
+        "battles_played": 16,
+        "wins": 10
     },
     "participants": [
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didbrewersmom",
+            "cards_earned": 255,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 425,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 3
+        },
         {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
@@ -40,11 +58,20 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 3
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "cards_earned": 340,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 2,
+            "number_of_battles": 3
         }
     ],
     "clans": null,
-    "cards": 1190,
+    "cards": 2210,
     "state_label": "Collection Day",
-    "collection_end_time_label": "22 hours",
-    "end_label": "1 day, 22 hours"
+    "collection_end_time_label": "21 hours",
+    "end_label": "1 day, 21 hours"
 }
