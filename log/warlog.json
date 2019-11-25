@@ -1,5 +1,178 @@
 {
-    "items": [],
+    "items": [
+        {
+            "season_id": 42,
+            "created_date": "20191125T191305.000Z",
+            "participants": [
+                {
+                    "tag": "#Y0VP098",
+                    "name": "Thrashmaster",
+                    "cards_earned": 510,
+                    "battles_played": 1,
+                    "collection_day_battles_played": 3,
+                    "wins": 0,
+                    "number_of_battles": 1
+                },
+                {
+                    "tag": "#J28UPQ0P",
+                    "name": "didbrewersmom",
+                    "cards_earned": 340,
+                    "battles_played": 1,
+                    "collection_day_battles_played": 3,
+                    "wins": 1,
+                    "number_of_battles": 1
+                },
+                {
+                    "tag": "#8C099Q9J8",
+                    "name": "Bow To Chase",
+                    "cards_earned": 425,
+                    "battles_played": 1,
+                    "collection_day_battles_played": 3,
+                    "wins": 0,
+                    "number_of_battles": 1
+                },
+                {
+                    "tag": "#CLL8Q09",
+                    "name": "Wub",
+                    "cards_earned": 320,
+                    "battles_played": 1,
+                    "collection_day_battles_played": 3,
+                    "wins": 1,
+                    "number_of_battles": 1
+                },
+                {
+                    "tag": "#UVGUUVC0",
+                    "name": "ok guy",
+                    "cards_earned": 510,
+                    "battles_played": 1,
+                    "collection_day_battles_played": 3,
+                    "wins": 1,
+                    "number_of_battles": 1
+                },
+                {
+                    "tag": "#2GGYGCRR0",
+                    "name": "Ok Girl",
+                    "cards_earned": 480,
+                    "battles_played": 1,
+                    "collection_day_battles_played": 3,
+                    "wins": 0,
+                    "number_of_battles": 1
+                },
+                {
+                    "tag": "#J8CGQRJY",
+                    "name": "a##hole",
+                    "cards_earned": 340,
+                    "battles_played": 1,
+                    "collection_day_battles_played": 3,
+                    "wins": 0,
+                    "number_of_battles": 1
+                },
+                {
+                    "tag": "#YLCPYQPR",
+                    "name": "Gopher!",
+                    "cards_earned": 510,
+                    "battles_played": 1,
+                    "collection_day_battles_played": 3,
+                    "wins": 1,
+                    "number_of_battles": 1
+                },
+                {
+                    "tag": "#8CLQGRJL0",
+                    "name": "klawler",
+                    "cards_earned": 255,
+                    "battles_played": 1,
+                    "collection_day_battles_played": 3,
+                    "wins": 0,
+                    "number_of_battles": 1
+                },
+                {
+                    "tag": "#2Y02UG8C8",
+                    "name": "Rascal09",
+                    "cards_earned": 510,
+                    "battles_played": 1,
+                    "collection_day_battles_played": 3,
+                    "wins": 0,
+                    "number_of_battles": 1
+                },
+                {
+                    "tag": "#GL0VQ8YV",
+                    "name": "njwalt",
+                    "cards_earned": 340,
+                    "battles_played": 1,
+                    "collection_day_battles_played": 3,
+                    "wins": 0,
+                    "number_of_battles": 1
+                }
+            ],
+            "standings": [
+                {
+                    "clan": {
+                        "tag": "#YY89PGG8",
+                        "name": "1dit 1",
+                        "badge_id": 16000029,
+                        "clan_score": 215,
+                        "participants": 10,
+                        "battles_played": 11,
+                        "wins": 10,
+                        "crowns": 25
+                    },
+                    "trophy_change": 110
+                },
+                {
+                    "clan": {
+                        "tag": "#PGCV9L",
+                        "name": "ROYAL RHYMES",
+                        "badge_id": 16000081,
+                        "clan_score": 391,
+                        "participants": 10,
+                        "battles_played": 11,
+                        "wins": 10,
+                        "crowns": 17
+                    },
+                    "trophy_change": 60
+                },
+                {
+                    "clan": {
+                        "tag": "#2R9JRYV2",
+                        "name": "JP?",
+                        "badge_id": 16000062,
+                        "clan_score": 467,
+                        "participants": 10,
+                        "battles_played": 9,
+                        "wins": 6,
+                        "crowns": 12
+                    },
+                    "trophy_change": 1
+                },
+                {
+                    "clan": {
+                        "tag": "#LP98YUCV",
+                        "name": "Abuzement Park",
+                        "badge_id": 16000003,
+                        "clan_score": 4,
+                        "participants": 11,
+                        "battles_played": 11,
+                        "wins": 4,
+                        "crowns": 7
+                    },
+                    "trophy_change": 4
+                },
+                {
+                    "clan": {
+                        "tag": "#Y00JQCJQ",
+                        "name": "Clash/BR/RJ",
+                        "badge_id": 16000058,
+                        "clan_score": 321,
+                        "participants": 11,
+                        "battles_played": 4,
+                        "wins": 3,
+                        "crowns": 5
+                    },
+                    "trophy_change": -17
+                }
+            ]
+        }
+    ],
     "paging": {
         "cursors": {
             "after": null,
