@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 30887,
+    "clan_score": 30925,
     "required_trophies": 4600,
-    "donations_per_week": 528,
+    "donations_per_week": 552,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5722,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20191125T151541.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 2,
+            "donations": 38,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -31,26 +48,9 @@
             },
             "role": "coLeader",
             "last_seen": "20191125T123033.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 96,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5662,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20191125T124148.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 30,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -60,14 +60,14 @@
             "exp_level": 13,
             "trophies": 5576,
             "arena": {
-                "id": 54000017,
-                "name": "Master III"
+                "id": 54000016,
+                "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20191125T114703.000Z",
+            "last_seen": "20191125T151414.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 18,
+            "donations": 26,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -204,23 +204,23 @@
             "clan_rank": 11,
             "previous_clan_rank": 11,
             "donations": 0,
-            "donations_received": 8,
+            "donations_received": 32,
             "clan_chest_points": 0
         },
         {
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "exp_level": 11,
-            "trophies": 4479,
+            "trophies": 4509,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20191125T131655.000Z",
+            "last_seen": "20191125T152227.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 12,
-            "donations": 60,
+            "donations": 68,
             "donations_received": 80,
             "clan_chest_points": 0
         },
