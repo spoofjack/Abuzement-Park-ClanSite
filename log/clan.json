@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 35276,
+    "clan_score": 35216,
     "required_trophies": 4600,
     "donations_per_week": 1800,
     "clan_war_trophies": 4,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5837,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20191126T154305.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 2,
-            "donations": 270,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -48,9 +31,26 @@
             },
             "role": "coLeader",
             "last_seen": "20191126T153712.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 162,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5779,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20191126T154305.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 2,
+            "donations": 270,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -81,27 +81,10 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20191126T153416.000Z",
+            "last_seen": "20191126T155824.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 106,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didbrewersmom",
-            "exp_level": 13,
-            "trophies": 5531,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "coLeader",
-            "last_seen": "20191126T153707.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 7,
-            "donations": 242,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -116,10 +99,27 @@
             },
             "role": "elder",
             "last_seen": "20191126T133905.000Z",
-            "clan_rank": 6,
+            "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 70,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didbrewersmom",
+            "exp_level": 13,
+            "trophies": 5483,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "coLeader",
+            "last_seen": "20191126T155449.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 7,
+            "donations": 242,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -211,13 +211,13 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 12,
-            "trophies": 5336,
+            "trophies": 5317,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20191126T154035.000Z",
+            "last_seen": "20191126T155109.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 0,
             "donations": 0,
@@ -228,7 +228,7 @@
             "tag": "#2C8QPLUPG",
             "name": "grimm reaper",
             "exp_level": 12,
-            "trophies": 5154,
+            "trophies": 5146,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
