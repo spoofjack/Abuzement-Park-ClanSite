@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 4,
         "participants": 13,
-        "crowns": 0,
+        "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 1,
+        "wins": 1
     },
     "participants": [
         {
@@ -63,15 +63,6 @@
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "cards_earned": 480,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 425,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -130,6 +121,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 425,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -139,9 +139,31 @@
             "badge_id": 16000176,
             "clan_score": 336,
             "participants": 13,
-            "crowns": 1,
-            "battles_remaining": 11,
-            "battles_played": 2,
+            "crowns": 7,
+            "battles_remaining": 8,
+            "battles_played": 5,
+            "wins": 4
+        },
+        {
+            "tag": "#L89GR2YR",
+            "name": "Anarquia",
+            "badge_id": 16000029,
+            "clan_score": 0,
+            "participants": 13,
+            "crowns": 2,
+            "battles_remaining": 10,
+            "battles_played": 3,
+            "wins": 1
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 4,
+            "participants": 13,
+            "crowns": 2,
+            "battles_remaining": 12,
+            "battles_played": 1,
             "wins": 1
         },
         {
@@ -151,8 +173,8 @@
             "clan_score": 3,
             "participants": 12,
             "crowns": 0,
-            "battles_remaining": 12,
-            "battles_played": 0,
+            "battles_remaining": 10,
+            "battles_played": 2,
             "wins": 0
         },
         {
@@ -163,28 +185,6 @@
             "participants": 12,
             "crowns": 0,
             "battles_remaining": 12,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#L89GR2YR",
-            "name": "Anarquia",
-            "badge_id": 16000029,
-            "clan_score": 0,
-            "participants": 13,
-            "crowns": 0,
-            "battles_remaining": 12,
-            "battles_played": 1,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 4,
-            "participants": 13,
-            "crowns": 0,
-            "battles_remaining": 13,
             "battles_played": 0,
             "wins": 0
         }
