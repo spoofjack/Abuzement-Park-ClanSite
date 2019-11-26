@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 35414,
+    "clan_score": 35407,
     "required_trophies": 4600,
-    "donations_per_week": 2090,
+    "donations_per_week": 2110,
     "clan_war_trophies": 4,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5840,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20191126T200934.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 1,
-            "donations": 218,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -48,9 +31,26 @@
             },
             "role": "coLeader",
             "last_seen": "20191126T191553.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 2,
             "donations": 296,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5813,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20191126T205805.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 1,
+            "donations": 228,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 106,
-            "donations_received": 130,
+            "donations_received": 150,
             "clan_chest_points": 0
         },
         {
@@ -262,16 +262,16 @@
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "exp_level": 11,
-            "trophies": 4801,
+            "trophies": 4831,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "leader",
-            "last_seen": "20191126T185915.000Z",
+            "last_seen": "20191126T210320.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 12,
-            "donations": 216,
+            "donations": 226,
             "donations_received": 240,
             "clan_chest_points": 0
         },
