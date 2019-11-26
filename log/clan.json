@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 35438,
+    "clan_score": 35413,
     "required_trophies": 4600,
-    "donations_per_week": 2180,
+    "donations_per_week": 2190,
     "clan_war_trophies": 4,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5840,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20191126T231424.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 2,
-            "donations": 306,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -48,9 +31,26 @@
             },
             "role": "coLeader",
             "last_seen": "20191126T225521.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 236,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5786,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20191126T233340.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 2,
+            "donations": 316,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -75,13 +75,13 @@
             "tag": "#J28UPQ0P",
             "name": "didbrewersmom",
             "exp_level": 13,
-            "trophies": 5571,
+            "trophies": 5578,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20191126T232040.000Z",
+            "last_seen": "20191126T234021.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 7,
             "donations": 270,
@@ -211,13 +211,13 @@
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "exp_level": 13,
-            "trophies": 5346,
+            "trophies": 5352,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20191126T232533.000Z",
+            "last_seen": "20191126T233257.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 10,
             "donations": 324,
@@ -279,7 +279,7 @@
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 10,
-            "trophies": 4475,
+            "trophies": 4458,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 13,
             "donations": 136,
-            "donations_received": 140,
+            "donations_received": 150,
             "clan_chest_points": 0
         }
     ]
