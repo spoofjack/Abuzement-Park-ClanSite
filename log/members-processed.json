@@ -27,12 +27,12 @@
         "blacklist": false,
         "no_promote": false,
         "join_date": 1574406000,
-        "last_activity_date": 1574788593.453223,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 0,
         "donations_last_week": 0,
         "days_inactive": 0,
         "last_seen_formatted": "11/26/2019 5:09:05 PM",
-        "last_seen_delta": "8 Minutes",
+        "last_seen_delta": "23 Minutes",
         "join_date_label": "11/22/2019",
         "activity_date_label": "11/26/2019",
         "days_from_join": 4,
@@ -113,7 +113,7 @@
         "blacklist": false,
         "no_promote": false,
         "join_date": 1574406000,
-        "last_activity_date": 1574788593.453223,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 1574782210.456561,
         "donations_last_week": 0,
         "days_inactive": 0,
@@ -204,7 +204,7 @@
         "donations_last_week": 0,
         "days_inactive": 0,
         "last_seen_formatted": "11/26/2019 4:59:32 PM",
-        "last_seen_delta": "17 Minutes",
+        "last_seen_delta": "1 Hours",
         "join_date_label": "11/22/2019",
         "activity_date_label": "11/26/2019",
         "days_from_join": 4,
@@ -284,8 +284,8 @@
         "safe": false,
         "blacklist": false,
         "no_promote": false,
-        "join_date": 1574406000,
-        "last_activity_date": 1574788593.453223,
+        "join_date": 1574451682.42911,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 1574783120.474862,
         "donations_last_week": 0,
         "days_inactive": 0,
@@ -297,7 +297,14 @@
         "new": true,
         "total_donations": 106,
         "donations_daily": 53,
-        "events": [],
+        "events": [
+            {
+                "date": "11/22/2019",
+                "timestamp": 1574451682.42911,
+                "event": "join",
+                "message": "Joined clan"
+            }
+        ],
         "notes": "",
         "current_war": {
             "in_war": true,
@@ -371,7 +378,7 @@
         "blacklist": false,
         "no_promote": false,
         "join_date": 1574406000,
-        "last_activity_date": 1574788593.453223,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 1574778822.161045,
         "donations_last_week": 0,
         "days_inactive": 0,
@@ -457,7 +464,7 @@
         "blacklist": false,
         "no_promote": false,
         "join_date": 1574406000,
-        "last_activity_date": 1574788593.453223,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 1574778822.161045,
         "donations_last_week": 0,
         "days_inactive": 0,
@@ -542,7 +549,7 @@
         "safe": false,
         "blacklist": false,
         "no_promote": false,
-        "join_date": 1574782210.456561,
+        "join_date": 1574788305.7422,
         "last_activity_date": 1574771796.827276,
         "last_donation_date": 0,
         "donations_last_week": 0,
@@ -558,7 +565,7 @@
         "events": [
             {
                 "date": "11/26/2019",
-                "timestamp": 1574782210.456561,
+                "timestamp": 1574788305.7422,
                 "event": "join",
                 "message": "Joined clan"
             }
@@ -630,25 +637,32 @@
                 "legendary": 935
             }
         },
-        "score": 16,
+        "score": -8,
         "vacation": false,
         "safe": false,
         "blacklist": false,
         "no_promote": false,
-        "join_date": 1574701175,
-        "last_activity_date": 1574788593.453223,
+        "join_date": 1574567583.448478,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 1574772161.408708,
         "donations_last_week": 0,
         "days_inactive": 0,
         "last_seen_formatted": "11/26/2019 12:34:59 PM",
         "last_seen_delta": "5 Hours",
-        "join_date_label": "11/25/2019",
+        "join_date_label": "11/23/2019",
         "activity_date_label": "11/26/2019",
-        "days_from_join": 1,
+        "days_from_join": 2,
         "new": true,
         "total_donations": 28,
-        "donations_daily": 28,
-        "events": [],
+        "donations_daily": 14,
+        "events": [
+            {
+                "date": "11/23/2019",
+                "timestamp": 1574567583.448478,
+                "event": "join",
+                "message": "Joined clan"
+            }
+        ],
         "notes": "",
         "current_war": {
             "in_war": true,
@@ -667,8 +681,8 @@
         "warlog": [
             {
                 "in_war": false,
-                "status": "not-in-clan",
-                "score": 0,
+                "status": "na",
+                "score": -10,
                 "battles_played": false,
                 "cards_earned": 0,
                 "collection_win_cards": 0,
@@ -680,10 +694,10 @@
                 "number_of_battles": 0
             }
         ],
-        "donation_score": 16,
-        "war_score": 0,
+        "donation_score": 2,
+        "war_score": -10,
         "donation_status": "normal",
-        "status": "ok",
+        "status": "bad",
         "activity_status": "good",
         "role_label": "Elder",
         "trophies_status": "normal",
@@ -692,7 +706,7 @@
         "war_win_rate": 0,
         "war_collection_win_rate": 0,
         "war_collection_cards_average": 0,
-        "war_score_average": 0
+        "war_score_average": -1
     },
     {
         "tag": "#YLCPYQPR",
@@ -722,7 +736,7 @@
         "blacklist": false,
         "no_promote": false,
         "join_date": 1574406000,
-        "last_activity_date": 1574788593.453223,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 1574782210.456561,
         "donations_last_week": 0,
         "days_inactive": 0,
@@ -807,13 +821,13 @@
         "safe": false,
         "blacklist": false,
         "no_promote": false,
-        "join_date": 1574782210.456561,
+        "join_date": 1574788305.7422,
         "last_activity_date": 1574771796.827276,
         "last_donation_date": 0,
         "donations_last_week": 0,
         "days_inactive": 0,
         "last_seen_formatted": "11/26/2019 5:07:39 PM",
-        "last_seen_delta": "9 Minutes",
+        "last_seen_delta": "24 Minutes",
         "join_date_label": "11/26/2019",
         "activity_date_label": "11/26/2019",
         "days_from_join": 0,
@@ -823,7 +837,7 @@
         "events": [
             {
                 "date": "11/26/2019",
-                "timestamp": 1574782210.456561,
+                "timestamp": 1574788305.7422,
                 "event": "join",
                 "message": "Joined clan"
             }
@@ -900,8 +914,8 @@
         "safe": false,
         "blacklist": false,
         "no_promote": false,
-        "join_date": 1574406000,
-        "last_activity_date": 1574788593.453223,
+        "join_date": 1574446249.46422,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 0,
         "donations_last_week": 0,
         "days_inactive": 0,
@@ -913,7 +927,14 @@
         "new": true,
         "total_donations": 184,
         "donations_daily": 92,
-        "events": [],
+        "events": [
+            {
+                "date": "11/22/2019",
+                "timestamp": 1574446249.46422,
+                "event": "join",
+                "message": "Joined clan"
+            }
+        ],
         "notes": "",
         "current_war": {
             "in_war": true,
@@ -987,7 +1008,7 @@
         "blacklist": false,
         "no_promote": false,
         "join_date": 1574406000,
-        "last_activity_date": 1574788593.453223,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 1574783120.474862,
         "donations_last_week": 0,
         "days_inactive": 0,
@@ -1072,7 +1093,7 @@
         "safe": false,
         "blacklist": false,
         "no_promote": false,
-        "join_date": 1574782210.456561,
+        "join_date": 1574788305.7422,
         "last_activity_date": 1574782210.456561,
         "last_donation_date": 1574782210.456561,
         "donations_last_week": 0,
@@ -1088,7 +1109,7 @@
         "events": [
             {
                 "date": "11/26/2019",
-                "timestamp": 1574782210.456561,
+                "timestamp": 1574788305.7422,
                 "event": "join",
                 "message": "Joined clan"
             }
@@ -1160,25 +1181,32 @@
                 "legendary": 935
             }
         },
-        "score": 0,
+        "score": -10,
         "vacation": false,
         "safe": false,
         "blacklist": false,
         "no_promote": false,
-        "join_date": 1574701175,
-        "last_activity_date": 1574788593.453223,
+        "join_date": 1574538613.492009,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 0,
         "donations_last_week": 0,
         "days_inactive": 0,
         "last_seen_formatted": "11/26/2019 4:44:28 PM",
         "last_seen_delta": "1 Hours",
-        "join_date_label": "11/25/2019",
+        "join_date_label": "11/23/2019",
         "activity_date_label": "11/26/2019",
-        "days_from_join": 1,
+        "days_from_join": 3,
         "new": true,
         "total_donations": 10,
-        "donations_daily": 10,
-        "events": [],
+        "donations_daily": 5,
+        "events": [
+            {
+                "date": "11/23/2019",
+                "timestamp": 1574538613.492009,
+                "event": "join",
+                "message": "Joined clan"
+            }
+        ],
         "notes": "",
         "current_war": {
             "in_war": true,
@@ -1197,8 +1225,8 @@
         "warlog": [
             {
                 "in_war": false,
-                "status": "not-in-clan",
-                "score": 0,
+                "status": "na",
+                "score": -10,
                 "battles_played": false,
                 "cards_earned": 0,
                 "collection_win_cards": 0,
@@ -1211,9 +1239,9 @@
             }
         ],
         "donation_score": 0,
-        "war_score": 0,
+        "war_score": -10,
         "donation_status": "ok",
-        "status": "ok",
+        "status": "bad",
         "activity_status": "good",
         "role_label": "Elder",
         "trophies_status": "normal",
@@ -1222,13 +1250,13 @@
         "war_win_rate": 0,
         "war_collection_win_rate": 0,
         "war_collection_cards_average": 0,
-        "war_score_average": 0
+        "war_score_average": -1
     },
     {
         "tag": "#2GGYGCRR0",
         "name": "Ok Girl",
         "exp_level": 11,
-        "trophies": 4700,
+        "trophies": 4771,
         "role": "leader",
         "last_seen": "20191126T171327.000Z",
         "clan_rank": 15,
@@ -1252,12 +1280,12 @@
         "blacklist": false,
         "no_promote": false,
         "join_date": 1574146800,
-        "last_activity_date": 1574788593.453223,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 0,
         "donations_last_week": 0,
         "days_inactive": 0,
         "last_seen_formatted": "11/26/2019 5:13:27 PM",
-        "last_seen_delta": "3 Minutes",
+        "last_seen_delta": "18 Minutes",
         "join_date_label": "11/19/2019",
         "activity_date_label": "11/26/2019",
         "days_from_join": 7,
@@ -1338,12 +1366,12 @@
         "blacklist": false,
         "no_promote": false,
         "join_date": 1574406000,
-        "last_activity_date": 1574788593.453223,
+        "last_activity_date": 1574789509.406959,
         "last_donation_date": 0,
         "donations_last_week": 0,
         "days_inactive": 0,
         "last_seen_formatted": "11/26/2019 4:48:42 PM",
-        "last_seen_delta": "28 Minutes",
+        "last_seen_delta": "1 Hours",
         "join_date_label": "11/22/2019",
         "activity_date_label": "11/26/2019",
         "days_from_join": 4,
