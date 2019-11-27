@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 36851,
+    "clan_score": 36845,
     "required_trophies": 4600,
-    "donations_per_week": 3060,
+    "donations_per_week": 3070,
     "clan_war_trophies": 4,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,7 +30,7 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20191127T154437.000Z",
+            "last_seen": "20191127T160409.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 430,
@@ -187,7 +187,7 @@
             "clan_rank": 10,
             "previous_clan_rank": 12,
             "donations": 86,
-            "donations_received": 110,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "exp_level": 12,
-            "trophies": 5209,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20191127T135816.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 14,
-            "donations": 20,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#80PQ2RCV",
             "name": "live long",
             "exp_level": 12,
@@ -269,9 +252,26 @@
             },
             "role": "elder",
             "last_seen": "20191127T143224.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 15,
             "donations": 58,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "exp_level": 12,
+            "trophies": 5186,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20191127T160021.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 14,
+            "donations": 30,
             "donations_received": 80,
             "clan_chest_points": 0
         },
