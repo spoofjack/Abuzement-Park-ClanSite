@@ -7,12 +7,31 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 63,
-        "participants": 0,
+        "participants": 2,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 4,
+        "wins": 1
     },
-    "participants": [],
+    "participants": [
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 255,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "cards_earned": 170,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 3
+        }
+    ],
     "clans": null
 }
