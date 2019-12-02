@@ -8,12 +8,21 @@
         "badge_id": 16000003,
         "clan_score": 280,
         "participants": 17,
-        "crowns": 1,
+        "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 0
+        "battles_played": 4,
+        "wins": 1
     },
     "participants": [
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 510,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
         {
             "tag": "#J8CGQRJY",
             "name": "a##hole",
@@ -54,24 +63,6 @@
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "cards_earned": 320,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didbrewersmom",
-            "cards_earned": 400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 510,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -141,9 +132,18 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#CGYJ220",
-            "name": "kravtrak",
-            "cards_earned": 425,
+            "tag": "#J28UPQ0P",
+            "name": "didbrewersmom",
+            "cards_earned": 400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "cards_earned": 320,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -159,9 +159,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "cards_earned": 320,
+            "tag": "#CGYJ220",
+            "name": "kravtrak",
+            "cards_earned": 425,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -208,10 +208,10 @@
             "badge_id": 16000003,
             "clan_score": 280,
             "participants": 17,
-            "crowns": 1,
-            "battles_remaining": 14,
-            "battles_played": 3,
-            "wins": 0
+            "crowns": 3,
+            "battles_remaining": 13,
+            "battles_played": 4,
+            "wins": 1
         },
         {
             "tag": "#PRCVPQ88",
@@ -228,5 +228,5 @@
     "cards": 6620,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
