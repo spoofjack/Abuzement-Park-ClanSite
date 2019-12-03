@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 34269,
+    "clan_score": 34260,
     "required_trophies": 4600,
     "donations_per_week": 1312,
     "clan_war_trophies": 280,
@@ -41,10 +41,10 @@
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
-            "trophies": 5024,
+            "trophies": 4977,
             "arena": {
-                "id": 54000015,
-                "name": "Master I"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "coLeader",
             "last_seen": "20191203T011530.000Z",
@@ -52,6 +52,23 @@
             "previous_clan_rank": 2,
             "donations": 134,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 12,
+            "trophies": 4926,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20191203T011858.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 7,
+            "donations": 104,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -65,26 +82,9 @@
             },
             "role": "coLeader",
             "last_seen": "20191203T005339.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 6,
             "donations": 156,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 12,
-            "trophies": 4896,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20191203T001846.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 7,
-            "donations": 104,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -132,7 +132,7 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20191203T000459.000Z",
+            "last_seen": "20191203T012855.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 5,
             "donations": 114,
