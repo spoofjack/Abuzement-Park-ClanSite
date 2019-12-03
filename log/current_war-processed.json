@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 280,
         "participants": 17,
-        "crowns": 6,
+        "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 8,
+        "battles_played": 9,
         "wins": 2
     },
     "participants": [
@@ -18,15 +18,6 @@
             "tag": "#Y0VP098",
             "name": "Thrashmaster",
             "cards_earned": 400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 340,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -123,9 +114,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 425,
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 340,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -135,15 +126,6 @@
             "tag": "#CGYJ220",
             "name": "kravtrak",
             "cards_earned": 425,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "cards_earned": 320,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -165,6 +147,24 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 425,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         }
     ],
@@ -208,9 +208,9 @@
             "badge_id": 16000003,
             "clan_score": 280,
             "participants": 17,
-            "crowns": 6,
-            "battles_remaining": 9,
-            "battles_played": 8,
+            "crowns": 7,
+            "battles_remaining": 8,
+            "battles_played": 9,
             "wins": 2
         },
         {
@@ -228,5 +228,5 @@
     "cards": 6620,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "21 hours"
+    "end_label": "20 hours"
 }
