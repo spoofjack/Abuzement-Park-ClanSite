@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 35551,
+    "clan_score": 35561,
     "required_trophies": 4300,
-    "donations_per_week": 2342,
+    "donations_per_week": 2422,
     "clan_war_trophies": 280,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5045,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20191203T190257.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 1,
+            "donations": 332,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J28UPQ0P",
             "name": "didbrewersmom",
             "exp_level": 13,
@@ -30,28 +47,11 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20191203T185003.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 5,
-            "donations": 280,
-            "donations_received": 170,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5005,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20191203T184338.000Z",
+            "last_seen": "20191203T190420.000Z",
             "clan_rank": 2,
-            "previous_clan_rank": 1,
-            "donations": 302,
-            "donations_received": 180,
+            "previous_clan_rank": 5,
+            "donations": 290,
+            "donations_received": 190,
             "clan_chest_points": 0
         },
         {
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 2,
             "donations": 228,
-            "donations_received": 160,
+            "donations_received": 190,
             "clan_chest_points": 0
         },
         {
@@ -166,10 +166,10 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20191203T172847.000Z",
+            "last_seen": "20191203T190321.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 12,
-            "donations": 180,
+            "donations": 210,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -191,23 +191,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "exp_level": 12,
-            "trophies": 4760,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20191203T154248.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 9,
-            "donations": 84,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2C8QPLUPG",
             "name": "grimm reaper",
             "exp_level": 12,
@@ -218,7 +201,7 @@
             },
             "role": "member",
             "last_seen": "20191203T170716.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 10,
             "donations": 74,
             "donations_received": 120,
@@ -235,10 +218,27 @@
             },
             "role": "member",
             "last_seen": "20191203T032352.000Z",
-            "clan_rank": 13,
+            "clan_rank": 12,
             "previous_clan_rank": 11,
             "donations": 10,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "exp_level": 12,
+            "trophies": 4722,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20191203T190814.000Z",
+            "clan_rank": 13,
+            "previous_clan_rank": 9,
+            "donations": 94,
+            "donations_received": 170,
             "clan_chest_points": 0
         },
         {
