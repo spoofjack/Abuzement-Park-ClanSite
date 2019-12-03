@@ -15,15 +15,6 @@
     },
     "participants": [
         {
-            "tag": "#Y0VP098",
-            "name": "Thrashmaster",
-            "cards_earned": 400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "cards_earned": 340,
@@ -36,6 +27,15 @@
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "cards_earned": 320,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#Y0VP098",
+            "name": "Thrashmaster",
+            "cards_earned": 400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -114,21 +114,12 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "cards_earned": 320,
+            "tag": "#J28UPQ0P",
+            "name": "didbrewersmom",
+            "cards_earned": 400,
             "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CGYJ220",
-            "name": "kravtrak",
-            "cards_earned": 425,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -138,6 +129,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#CGYJ220",
+            "name": "kravtrak",
+            "cards_earned": 425,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -159,12 +159,12 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J28UPQ0P",
-            "name": "didbrewersmom",
-            "cards_earned": 400,
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "cards_earned": 320,
             "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 1,
+            "wins": 0,
             "number_of_battles": 1
         }
     ],
@@ -175,10 +175,10 @@
             "badge_id": 16000044,
             "clan_score": 124,
             "participants": 15,
-            "crowns": 8,
-            "battles_remaining": 9,
-            "battles_played": 6,
-            "wins": 6
+            "crowns": 9,
+            "battles_remaining": 8,
+            "battles_played": 7,
+            "wins": 7
         },
         {
             "tag": "#PRYPC0PL",
@@ -198,8 +198,8 @@
             "clan_score": 324,
             "participants": 17,
             "crowns": 0,
-            "battles_remaining": 17,
-            "battles_played": 0,
+            "battles_remaining": 16,
+            "battles_played": 1,
             "wins": 0
         },
         {
@@ -219,10 +219,10 @@
             "badge_id": 16000044,
             "clan_score": 350,
             "participants": 15,
-            "crowns": 4,
-            "battles_remaining": 9,
-            "battles_played": 6,
-            "wins": 3
+            "crowns": 6,
+            "battles_remaining": 8,
+            "battles_played": 7,
+            "wins": 4
         }
     ]
 }
