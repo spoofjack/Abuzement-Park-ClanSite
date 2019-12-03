@@ -42,15 +42,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "cards_earned": 425,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#Y0VP098",
             "name": "Thrashmaster",
             "cards_earned": 400,
@@ -60,10 +51,10 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 405,
-            "battles_played": 1,
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "cards_earned": 425,
+            "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
@@ -72,6 +63,15 @@
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "cards_earned": 340,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 405,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -105,15 +105,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
-            "cards_earned": 320,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#J28UPQ0P",
             "name": "didbrewersmom",
             "cards_earned": 400,
@@ -129,24 +120,6 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "cards_earned": 320,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "cards_earned": 340,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -166,6 +139,33 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "cards_earned": 340,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -175,10 +175,10 @@
             "badge_id": 16000044,
             "clan_score": 124,
             "participants": 15,
-            "crowns": 16,
+            "crowns": 17,
             "battles_remaining": 0,
-            "battles_played": 16,
-            "wins": 11
+            "battles_played": 17,
+            "wins": 12
         },
         {
             "tag": "#YCGP8P9U",
@@ -228,5 +228,5 @@
     "cards": 6620,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "7 hours"
+    "end_label": "6 hours"
 }
