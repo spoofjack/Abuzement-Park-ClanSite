@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 266,
         "participants": 19,
-        "crowns": 12,
+        "crowns": 13,
         "battles_remaining": null,
-        "battles_played": 12,
+        "battles_played": 13,
         "wins": 6
     },
     "participants": [
-        {
-            "tag": "#2GGYGCRR0",
-            "name": "Ok Girl",
-            "cards_earned": 400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
@@ -78,6 +69,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#80PQ2RCV",
+            "name": "live long",
+            "cards_earned": 400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "cards_earned": 510,
@@ -87,12 +87,12 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#80PQ2RCV",
-            "name": "live long",
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
             "cards_earned": 400,
             "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 1,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -114,9 +114,18 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
+            "tag": "#2GGYGCRR0",
+            "name": "Ok Girl",
             "cards_earned": 400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 320,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -132,26 +141,8 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#Y0VP098",
-            "name": "Thrashmaster",
-            "cards_earned": 240,
-            "battles_played": 1,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#29RCLR22U",
-            "name": "KRYOS",
-            "cards_earned": 400,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
-            "tag": "#CGYJ220",
-            "name": "kravtrak",
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
             "cards_earned": 320,
             "battles_played": 1,
             "collection_day_battles_played": 3,
@@ -159,8 +150,8 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
+            "tag": "#CGYJ220",
+            "name": "kravtrak",
             "cards_earned": 320,
             "battles_played": 1,
             "collection_day_battles_played": 3,
@@ -177,11 +168,20 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 320,
+            "tag": "#29RCLR22U",
+            "name": "KRYOS",
+            "cards_earned": 400,
             "battles_played": 1,
             "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
+        },
+        {
+            "tag": "#Y0VP098",
+            "name": "Thrashmaster",
+            "cards_earned": 240,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         }
@@ -237,9 +237,9 @@
             "badge_id": 16000003,
             "clan_score": 266,
             "participants": 19,
-            "crowns": 12,
-            "battles_remaining": 7,
-            "battles_played": 12,
+            "crowns": 13,
+            "battles_remaining": 6,
+            "battles_played": 13,
             "wins": 6
         }
     ]
