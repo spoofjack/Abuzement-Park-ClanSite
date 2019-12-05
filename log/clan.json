@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 36794,
+    "clan_score": 36847,
     "required_trophies": 4300,
     "donations_per_week": 4112,
     "clan_war_trophies": 266,
@@ -24,13 +24,13 @@
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
-            "trophies": 5163,
+            "trophies": 5172,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20191205T010237.000Z",
+            "last_seen": "20191205T012815.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 544,
@@ -58,10 +58,10 @@
             "tag": "#J28UPQ0P",
             "name": "didbrewersmom",
             "exp_level": 13,
-            "trophies": 5008,
+            "trophies": 4986,
             "arena": {
-                "id": 54000015,
-                "name": "Master I"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "coLeader",
             "last_seen": "20191205T011451.000Z",
@@ -69,6 +69,23 @@
             "previous_clan_rank": 2,
             "donations": 556,
             "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "exp_level": 13,
+            "trophies": 4979,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "coLeader",
+            "last_seen": "20191205T012903.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 9,
+            "donations": 398,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -82,27 +99,10 @@
             },
             "role": "elder",
             "last_seen": "20191204T233856.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 10,
             "donations": 160,
             "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
-            "exp_level": 13,
-            "trophies": 4950,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "coLeader",
-            "last_seen": "20191205T002855.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 9,
-            "donations": 398,
-            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -208,40 +208,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 12,
-            "trophies": 4759,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20191205T005549.000Z",
-            "clan_rank": 12,
-            "previous_clan_rank": 15,
-            "donations": 96,
-            "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#80PQ2RCV",
-            "name": "live long",
-            "exp_level": 12,
-            "trophies": 4757,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20191205T010335.000Z",
-            "clan_rank": 13,
-            "previous_clan_rank": 11,
-            "donations": 46,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "exp_level": 13,
@@ -252,10 +218,44 @@
             },
             "role": "member",
             "last_seen": "20191204T212715.000Z",
-            "clan_rank": 14,
+            "clan_rank": 12,
             "previous_clan_rank": 13,
             "donations": 30,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#80PQ2RCV",
+            "name": "live long",
+            "exp_level": 12,
+            "trophies": 4750,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20191205T012859.000Z",
+            "clan_rank": 13,
+            "previous_clan_rank": 11,
+            "donations": 46,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 12,
+            "trophies": 4741,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20191205T011843.000Z",
+            "clan_rank": 14,
+            "previous_clan_rank": 15,
+            "donations": 96,
+            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -310,6 +310,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CGYJ220",
+            "name": "kravtrak",
+            "exp_level": 11,
+            "trophies": 4622,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20191205T005716.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 19,
+            "donations": 0,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "exp_level": 11,
@@ -320,7 +337,7 @@
             },
             "role": "leader",
             "last_seen": "20191204T202449.000Z",
-            "clan_rank": 18,
+            "clan_rank": 19,
             "previous_clan_rank": 17,
             "donations": 124,
             "donations_received": 192,
@@ -330,34 +347,17 @@
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 10,
-            "trophies": 4492,
+            "trophies": 4522,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "elder",
-            "last_seen": "20191205T011146.000Z",
-            "clan_rank": 19,
+            "last_seen": "20191205T012015.000Z",
+            "clan_rank": 20,
             "previous_clan_rank": 18,
             "donations": 444,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CGYJ220",
-            "name": "kravtrak",
-            "exp_level": 11,
-            "trophies": 4447,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20191205T005716.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 19,
-            "donations": 0,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
