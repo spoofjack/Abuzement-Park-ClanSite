@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 37320,
+    "clan_score": 37357,
     "required_trophies": 4300,
-    "donations_per_week": 5638,
+    "donations_per_week": 5722,
     "clan_war_trophies": 270,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5278,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20191206T022147.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 2,
+            "donations": 604,
+            "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "coLeader",
             "last_seen": "20191206T015726.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 686,
-            "donations_received": 460,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5248,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20191206T000512.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 566,
-            "donations_received": 440,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -251,11 +251,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20191206T015359.000Z",
+            "last_seen": "20191206T022132.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 13,
-            "donations": 48,
-            "donations_received": 70,
+            "donations": 76,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -272,7 +272,7 @@
             "clan_rank": 15,
             "previous_clan_rank": 12,
             "donations": 100,
-            "donations_received": 90,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -302,11 +302,11 @@
                 "name": "Challenger III"
             },
             "role": "leader",
-            "last_seen": "20191206T020538.000Z",
+            "last_seen": "20191206T022823.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 18,
-            "donations": 334,
-            "donations_received": 288,
+            "donations": 344,
+            "donations_received": 312,
             "clan_chest_points": 0
         },
         {
@@ -347,16 +347,16 @@
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 10,
-            "trophies": 4526,
+            "trophies": 4615,
             "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "elder",
             "last_seen": "20191206T020453.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 20,
-            "donations": 640,
+            "donations": 648,
             "donations_received": 280,
             "clan_chest_points": 0
         },
