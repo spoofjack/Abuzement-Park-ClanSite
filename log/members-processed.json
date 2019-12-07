@@ -21,7 +21,7 @@
                 "legendary": 935
             }
         },
-        "score": 231,
+        "score": 255,
         "vacation": false,
         "safe": true,
         "blacklist": false,
@@ -42,20 +42,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 340,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
             "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 24,
+                "battles_played": 1,
+                "cards_earned": 340,
+                "collection_win_cards": 170,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 0,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -142,7 +156,7 @@
             }
         ],
         "donation_score": 40,
-        "war_score": 191,
+        "war_score": 215,
         "donation_status": "good",
         "status": "normal",
         "activity_status": "good",
@@ -150,11 +164,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Master II",
         "leadership": true,
-        "war_win_rate": 50,
-        "war_battles": 6,
-        "war_collection_win_rate": 43,
-        "war_collection_cards_average": 102,
-        "war_score_average": 19
+        "war_win_rate": 43,
+        "war_battles": 7,
+        "war_collection_win_rate": 50,
+        "war_collection_cards_average": 119,
+        "war_score_average": 22
     },
     {
         "tag": "#8C099Q9J8",
@@ -178,7 +192,7 @@
                 "legendary": 935
             }
         },
-        "score": 231,
+        "score": 257,
         "vacation": false,
         "safe": true,
         "blacklist": false,
@@ -199,20 +213,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 510,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
             "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 26,
+                "battles_played": 1,
+                "cards_earned": 510,
+                "collection_win_cards": 170,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 3,
+                "collection_battle_losses": 0,
+                "wins": 0,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -299,7 +327,7 @@
             }
         ],
         "donation_score": 40,
-        "war_score": 191,
+        "war_score": 217,
         "donation_status": "good",
         "status": "normal",
         "activity_status": "good",
@@ -307,11 +335,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Master I",
         "leadership": true,
-        "war_win_rate": 50,
-        "war_battles": 6,
-        "war_collection_win_rate": 43,
-        "war_collection_cards_average": 102,
-        "war_score_average": 19
+        "war_win_rate": 43,
+        "war_battles": 7,
+        "war_collection_win_rate": 53,
+        "war_collection_cards_average": 119,
+        "war_score_average": 22
     },
     {
         "tag": "#J28UPQ0P",
@@ -335,7 +363,7 @@
                 "legendary": 935
             }
         },
-        "score": 246,
+        "score": 285,
         "vacation": false,
         "safe": true,
         "blacklist": false,
@@ -356,20 +384,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 255,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
-            "wins": 1,
+            "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 39,
+                "battles_played": 1,
+                "cards_earned": 255,
+                "collection_win_cards": 170,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 1,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -456,7 +498,7 @@
             }
         ],
         "donation_score": 40,
-        "war_score": 206,
+        "war_score": 245,
         "donation_status": "good",
         "status": "normal",
         "activity_status": "good",
@@ -464,11 +506,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Master I",
         "leadership": true,
-        "war_win_rate": 67,
-        "war_battles": 6,
-        "war_collection_win_rate": 43,
-        "war_collection_cards_average": 102,
-        "war_score_average": 21
+        "war_win_rate": 71,
+        "war_battles": 7,
+        "war_collection_win_rate": 50,
+        "war_collection_cards_average": 119,
+        "war_score_average": 24
     },
     {
         "tag": "#YLCPYQPR",
@@ -492,7 +534,7 @@
                 "legendary": 935
             }
         },
-        "score": 190,
+        "score": 169,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -503,7 +545,7 @@
         "donations_last_week": 336,
         "days_inactive": 0,
         "last_seen_formatted": "12/6/2019 10:12:11 PM",
-        "last_seen_delta": "1 Days, 6 Minutes",
+        "last_seen_delta": "1 Days, 21 Minutes",
         "join_date_label": "11/22/2019",
         "activity_date_label": "12/7/2019",
         "days_from_join": 15,
@@ -513,20 +555,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "normal incomplete",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 0,
-            "cards_earned": 425,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
             "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "bad",
+                "score": -21,
+                "battles_played": 0,
+                "cards_earned": 425,
+                "collection_win_cards": 170,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 0,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -613,7 +669,7 @@
             }
         ],
         "donation_score": 31,
-        "war_score": 159,
+        "war_score": 138,
         "donation_status": "normal",
         "status": "normal",
         "activity_status": "good",
@@ -621,11 +677,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Master I",
         "leadership": false,
-        "war_win_rate": 60,
-        "war_battles": 5,
-        "war_collection_win_rate": 40,
-        "war_collection_cards_average": 85,
-        "war_score_average": 16
+        "war_win_rate": 50,
+        "war_battles": 6,
+        "war_collection_win_rate": 47,
+        "war_collection_cards_average": 102,
+        "war_score_average": 14
     },
     {
         "tag": "#Y0VP098",
@@ -649,7 +705,7 @@
                 "legendary": 935
             }
         },
-        "score": 191,
+        "score": 198,
         "vacation": false,
         "safe": true,
         "blacklist": false,
@@ -660,7 +716,7 @@
         "donations_last_week": 340,
         "days_inactive": 0,
         "last_seen_formatted": "12/7/2019 10:03:54 PM",
-        "last_seen_delta": "14 Minutes",
+        "last_seen_delta": "29 Minutes",
         "join_date_label": "11/22/2019",
         "activity_date_label": "12/7/2019",
         "days_from_join": 15,
@@ -670,20 +726,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "ok",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 240,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 2,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
             "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "ok",
+                "score": 7,
+                "battles_played": 1,
+                "cards_earned": 240,
+                "collection_win_cards": 170,
+                "collection_day_battles_played": 2,
+                "collection_battle_wins": 1,
+                "collection_battle_losses": 1,
+                "wins": 0,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "ok",
@@ -770,7 +840,7 @@
             }
         ],
         "donation_score": 34,
-        "war_score": 157,
+        "war_score": 164,
         "donation_status": "normal",
         "status": "normal",
         "activity_status": "good",
@@ -778,10 +848,10 @@
         "trophies_status": "normal",
         "arena_league_label": "Master I",
         "leadership": true,
-        "war_win_rate": 50,
-        "war_battles": 6,
-        "war_collection_win_rate": 37,
-        "war_collection_cards_average": 102,
+        "war_win_rate": 43,
+        "war_battles": 7,
+        "war_collection_win_rate": 40,
+        "war_collection_cards_average": 119,
         "war_score_average": 16
     },
     {
@@ -806,7 +876,7 @@
                 "legendary": 935
             }
         },
-        "score": 261,
+        "score": 300,
         "vacation": false,
         "safe": true,
         "blacklist": false,
@@ -817,7 +887,7 @@
         "donations_last_week": 839,
         "days_inactive": 0,
         "last_seen_formatted": "12/7/2019 10:13:30 PM",
-        "last_seen_delta": "5 Minutes",
+        "last_seen_delta": "20 Minutes",
         "join_date_label": "11/22/2019",
         "activity_date_label": "12/7/2019",
         "days_from_join": 15,
@@ -827,20 +897,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 320,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
-            "wins": 1,
+            "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 39,
+                "battles_played": 1,
+                "cards_earned": 320,
+                "collection_win_cards": 170,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 1,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -927,7 +1011,7 @@
             }
         ],
         "donation_score": 40,
-        "war_score": 221,
+        "war_score": 260,
         "donation_status": "good",
         "status": "normal",
         "activity_status": "good",
@@ -935,11 +1019,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Master I",
         "leadership": true,
-        "war_win_rate": 83,
-        "war_battles": 6,
-        "war_collection_win_rate": 43,
-        "war_collection_cards_average": 102,
-        "war_score_average": 22
+        "war_win_rate": 86,
+        "war_battles": 7,
+        "war_collection_win_rate": 50,
+        "war_collection_cards_average": 119,
+        "war_score_average": 26
     },
     {
         "tag": "#J8CGQRJY",
@@ -963,7 +1047,7 @@
                 "legendary": 935
             }
         },
-        "score": 160,
+        "score": 184,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -984,20 +1068,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 320,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
             "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 24,
+                "battles_played": 1,
+                "cards_earned": 320,
+                "collection_win_cards": 170,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 0,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -1084,7 +1182,7 @@
             }
         ],
         "donation_score": 16,
-        "war_score": 144,
+        "war_score": 168,
         "donation_status": "normal",
         "status": "normal",
         "activity_status": "good",
@@ -1092,11 +1190,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Master I",
         "leadership": false,
-        "war_win_rate": 17,
-        "war_battles": 6,
-        "war_collection_win_rate": 40,
-        "war_collection_cards_average": 102,
-        "war_score_average": 14
+        "war_win_rate": 14,
+        "war_battles": 7,
+        "war_collection_win_rate": 47,
+        "war_collection_cards_average": 119,
+        "war_score_average": 17
     },
     {
         "tag": "#GL0VQ8YV",
@@ -1120,7 +1218,7 @@
                 "legendary": 935
             }
         },
-        "score": 196,
+        "score": 220,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1131,7 +1229,7 @@
         "donations_last_week": 344,
         "days_inactive": 0,
         "last_seen_formatted": "12/7/2019 10:11:23 PM",
-        "last_seen_delta": "7 Minutes",
+        "last_seen_delta": "22 Minutes",
         "join_date_label": "11/22/2019",
         "activity_date_label": "12/7/2019",
         "days_from_join": 15,
@@ -1148,20 +1246,34 @@
         ],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 320,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
             "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 24,
+                "battles_played": 1,
+                "cards_earned": 320,
+                "collection_win_cards": 170,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 0,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -1248,7 +1360,7 @@
             }
         ],
         "donation_score": 22,
-        "war_score": 174,
+        "war_score": 198,
         "donation_status": "normal",
         "status": "normal",
         "activity_status": "good",
@@ -1256,11 +1368,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Master I",
         "leadership": false,
-        "war_win_rate": 33,
-        "war_battles": 6,
-        "war_collection_win_rate": 40,
-        "war_collection_cards_average": 102,
-        "war_score_average": 17
+        "war_win_rate": 29,
+        "war_battles": 7,
+        "war_collection_win_rate": 47,
+        "war_collection_cards_average": 119,
+        "war_score_average": 20
     },
     {
         "tag": "#9CCL2G0G",
@@ -1284,7 +1396,7 @@
                 "legendary": 935
             }
         },
-        "score": 142,
+        "score": 181,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1312,20 +1424,34 @@
         ],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 400,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
-            "wins": 1,
+            "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 39,
+                "battles_played": 1,
+                "cards_earned": 400,
+                "collection_win_cards": 170,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 1,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -1412,7 +1538,7 @@
             }
         ],
         "donation_score": 31,
-        "war_score": 111,
+        "war_score": 150,
         "donation_status": "normal",
         "status": "normal",
         "activity_status": "good",
@@ -1420,11 +1546,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Master I",
         "leadership": false,
-        "war_win_rate": 40,
-        "war_battles": 5,
-        "war_collection_win_rate": 27,
-        "war_collection_cards_average": 68,
-        "war_score_average": 11
+        "war_win_rate": 50,
+        "war_battles": 6,
+        "war_collection_win_rate": 33,
+        "war_collection_cards_average": 85,
+        "war_score_average": 15
     },
     {
         "tag": "#CGYJ220",
@@ -1448,7 +1574,7 @@
                 "legendary": 880
             }
         },
-        "score": 5,
+        "score": -5,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1459,7 +1585,7 @@
         "donations_last_week": 0,
         "days_inactive": 0,
         "last_seen_formatted": "12/7/2019 10:57:11 AM",
-        "last_seen_delta": "11 Hours",
+        "last_seen_delta": "12 Hours",
         "join_date_label": "11/26/2019",
         "activity_date_label": "12/7/2019",
         "days_from_join": 11,
@@ -1490,6 +1616,20 @@
             "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": false,
+                "status": "na",
+                "score": -10,
+                "battles_played": false,
+                "cards_earned": 0,
+                "collection_win_cards": 0,
+                "collection_day_battles_played": 0,
+                "collection_battle_wins": 0,
+                "collection_battle_losses": 0,
+                "wins": 0,
+                "war_league": "na",
+                "number_of_battles": 0
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -1576,9 +1716,9 @@
             }
         ],
         "donation_score": -22,
-        "war_score": 27,
+        "war_score": 17,
         "donation_status": "ok",
-        "status": "ok",
+        "status": "bad",
         "activity_status": "good",
         "role_label": "Member",
         "trophies_status": "normal",
@@ -1588,7 +1728,7 @@
         "war_battles": 4,
         "war_collection_win_rate": 37,
         "war_collection_cards_average": 64,
-        "war_score_average": 3
+        "war_score_average": 2
     },
     {
         "tag": "#8CLQGRJL0",
@@ -1612,7 +1752,7 @@
                 "legendary": 880
             }
         },
-        "score": 205,
+        "score": 229,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1640,20 +1780,34 @@
         ],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 400,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
             "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 24,
+                "battles_played": 1,
+                "cards_earned": 400,
+                "collection_win_cards": 160,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 0,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -1740,7 +1894,7 @@
             }
         ],
         "donation_score": 40,
-        "war_score": 165,
+        "war_score": 189,
         "donation_status": "good",
         "status": "normal",
         "activity_status": "good",
@@ -1748,11 +1902,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Challenger III",
         "leadership": false,
-        "war_win_rate": 17,
-        "war_battles": 6,
-        "war_collection_win_rate": 50,
-        "war_collection_cards_average": 96,
-        "war_score_average": 16
+        "war_win_rate": 14,
+        "war_battles": 7,
+        "war_collection_win_rate": 57,
+        "war_collection_cards_average": 112,
+        "war_score_average": 19
     },
     {
         "tag": "#9P0V20CY8",
@@ -1776,7 +1930,7 @@
                 "legendary": 880
             }
         },
-        "score": 152,
+        "score": 176,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1797,20 +1951,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 320,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
             "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 24,
+                "battles_played": 1,
+                "cards_earned": 320,
+                "collection_win_cards": 160,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 0,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -1897,7 +2065,7 @@
             }
         ],
         "donation_score": 22,
-        "war_score": 130,
+        "war_score": 154,
         "donation_status": "normal",
         "status": "normal",
         "activity_status": "good",
@@ -1905,11 +2073,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Challenger III",
         "leadership": false,
-        "war_win_rate": 50,
-        "war_battles": 4,
-        "war_collection_win_rate": 33,
-        "war_collection_cards_average": 64,
-        "war_score_average": 13
+        "war_win_rate": 40,
+        "war_battles": 5,
+        "war_collection_win_rate": 40,
+        "war_collection_cards_average": 80,
+        "war_score_average": 15
     },
     {
         "tag": "#2C8QPLUPG",
@@ -1933,7 +2101,7 @@
                 "legendary": 880
             }
         },
-        "score": 42,
+        "score": 66,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1944,7 +2112,7 @@
         "donations_last_week": 130,
         "days_inactive": 0,
         "last_seen_formatted": "12/7/2019 6:54:06 PM",
-        "last_seen_delta": "3 Hours",
+        "last_seen_delta": "4 Hours",
         "join_date_label": "11/26/2019",
         "activity_date_label": "12/7/2019",
         "days_from_join": 11,
@@ -1954,20 +2122,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 400,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
             "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 24,
+                "battles_played": 1,
+                "cards_earned": 400,
+                "collection_win_cards": 160,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 0,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "bad",
@@ -2054,7 +2236,7 @@
             }
         ],
         "donation_score": 8,
-        "war_score": 34,
+        "war_score": 58,
         "donation_status": "normal",
         "status": "ok",
         "activity_status": "good",
@@ -2062,11 +2244,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Challenger III",
         "leadership": false,
-        "war_win_rate": 25,
-        "war_battles": 4,
-        "war_collection_win_rate": 23,
-        "war_collection_cards_average": 64,
-        "war_score_average": 3
+        "war_win_rate": 20,
+        "war_battles": 5,
+        "war_collection_win_rate": 30,
+        "war_collection_cards_average": 80,
+        "war_score_average": 6
     },
     {
         "tag": "#80PQ2RCV",
@@ -2090,7 +2272,7 @@
                 "legendary": 880
             }
         },
-        "score": 147,
+        "score": 171,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2101,7 +2283,7 @@
         "donations_last_week": 86,
         "days_inactive": 0,
         "last_seen_formatted": "12/7/2019 3:01:47 AM",
-        "last_seen_delta": "19 Hours",
+        "last_seen_delta": "20 Hours",
         "join_date_label": "11/25/2019",
         "activity_date_label": "12/7/2019",
         "days_from_join": 12,
@@ -2118,20 +2300,34 @@
         ],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 240,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
             "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 24,
+                "battles_played": 1,
+                "cards_earned": 240,
+                "collection_win_cards": 160,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 0,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -2218,7 +2414,7 @@
             }
         ],
         "donation_score": -5,
-        "war_score": 152,
+        "war_score": 176,
         "donation_status": "ok",
         "status": "normal",
         "activity_status": "good",
@@ -2226,11 +2422,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Challenger III",
         "leadership": false,
-        "war_win_rate": 40,
-        "war_battles": 5,
-        "war_collection_win_rate": 37,
-        "war_collection_cards_average": 80,
-        "war_score_average": 15
+        "war_win_rate": 33,
+        "war_battles": 6,
+        "war_collection_win_rate": 43,
+        "war_collection_cards_average": 96,
+        "war_score_average": 18
     },
     {
         "tag": "#22L9YLUJL",
@@ -2254,7 +2450,7 @@
                 "legendary": 880
             }
         },
-        "score": 24,
+        "score": 14,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2296,6 +2492,20 @@
             "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": false,
+                "status": "na",
+                "score": -10,
+                "battles_played": false,
+                "cards_earned": 0,
+                "collection_win_cards": 0,
+                "collection_day_battles_played": 0,
+                "collection_battle_wins": 0,
+                "collection_battle_losses": 0,
+                "wins": 0,
+                "war_league": "na",
+                "number_of_battles": 0
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -2382,7 +2592,7 @@
             }
         ],
         "donation_score": -5,
-        "war_score": 29,
+        "war_score": 19,
         "donation_status": "ok",
         "status": "ok",
         "activity_status": "good",
@@ -2394,7 +2604,7 @@
         "war_battles": 1,
         "war_collection_win_rate": 7,
         "war_collection_cards_average": 16,
-        "war_score_average": 3
+        "war_score_average": 2
     },
     {
         "tag": "#GYQQ0PY",
@@ -2418,7 +2628,7 @@
                 "legendary": 880
             }
         },
-        "score": 10,
+        "score": 34,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2439,20 +2649,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 240,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
             "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 24,
+                "battles_played": 1,
+                "cards_earned": 240,
+                "collection_win_cards": 160,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 0,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "bad",
@@ -2539,7 +2763,7 @@
             }
         ],
         "donation_score": -7,
-        "war_score": 17,
+        "war_score": 41,
         "donation_status": "ok",
         "status": "ok",
         "activity_status": "good",
@@ -2548,10 +2772,10 @@
         "arena_league_label": "Challenger III",
         "leadership": false,
         "war_win_rate": 0,
-        "war_battles": 3,
-        "war_collection_win_rate": 20,
-        "war_collection_cards_average": 48,
-        "war_score_average": 2
+        "war_battles": 4,
+        "war_collection_win_rate": 27,
+        "war_collection_cards_average": 64,
+        "war_score_average": 4
     },
     {
         "tag": "#29RCLR22U",
@@ -2575,7 +2799,7 @@
                 "legendary": 880
             }
         },
-        "score": 26,
+        "score": 16,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2617,6 +2841,20 @@
             "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": false,
+                "status": "na",
+                "score": -10,
+                "battles_played": false,
+                "cards_earned": 0,
+                "collection_win_cards": 0,
+                "collection_day_battles_played": 0,
+                "collection_battle_wins": 0,
+                "collection_battle_losses": 0,
+                "wins": 0,
+                "war_league": "na",
+                "number_of_battles": 0
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -2703,7 +2941,7 @@
             }
         ],
         "donation_score": 2,
-        "war_score": 24,
+        "war_score": 14,
         "donation_status": "normal",
         "status": "ok",
         "activity_status": "good",
@@ -2715,7 +2953,7 @@
         "war_battles": 2,
         "war_collection_win_rate": 7,
         "war_collection_cards_average": 16,
-        "war_score_average": 2
+        "war_score_average": 1
     },
     {
         "tag": "#2GGYGCRR0",
@@ -2739,7 +2977,7 @@
                 "legendary": 880
             }
         },
-        "score": 262,
+        "score": 296,
         "vacation": false,
         "safe": true,
         "blacklist": false,
@@ -2760,20 +2998,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 2,
-            "cards_earned": 400,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
-            "wins": 1,
+            "wins": 0,
             "war_league": "na",
-            "number_of_battles": 2
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 34,
+                "battles_played": 2,
+                "cards_earned": 400,
+                "collection_win_cards": 160,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 1,
+                "war_league": "bronze",
+                "number_of_battles": 2
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -2860,7 +3112,7 @@
             }
         ],
         "donation_score": 40,
-        "war_score": 222,
+        "war_score": 256,
         "donation_status": "good",
         "status": "normal",
         "activity_status": "good",
@@ -2868,11 +3120,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Challenger III",
         "leadership": true,
-        "war_win_rate": 71,
-        "war_battles": 7,
-        "war_collection_win_rate": 53,
-        "war_collection_cards_average": 96,
-        "war_score_average": 22
+        "war_win_rate": 67,
+        "war_battles": 9,
+        "war_collection_win_rate": 60,
+        "war_collection_cards_average": 112,
+        "war_score_average": 26
     },
     {
         "tag": "#9J82GQRPR",
@@ -2896,7 +3148,7 @@
                 "legendary": 880
             }
         },
-        "score": -10,
+        "score": -20,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2907,7 +3159,7 @@
         "donations_last_week": 0,
         "days_inactive": 3,
         "last_seen_formatted": "12/5/2019 4:57:08 PM",
-        "last_seen_delta": "2 Days, 5 Hours",
+        "last_seen_delta": "2 Days, 6 Hours",
         "join_date_label": "12/4/2019",
         "activity_date_label": "12/4/2019",
         "days_from_join": 3,
@@ -2938,6 +3190,20 @@
             "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": false,
+                "status": "na",
+                "score": -10,
+                "battles_played": false,
+                "cards_earned": 0,
+                "collection_win_cards": 0,
+                "collection_day_battles_played": 0,
+                "collection_battle_wins": 0,
+                "collection_battle_losses": 0,
+                "wins": 0,
+                "war_league": "na",
+                "number_of_battles": 0
+            },
             {
                 "in_war": false,
                 "status": "na",
@@ -3024,7 +3290,7 @@
             }
         ],
         "donation_score": 0,
-        "war_score": -10,
+        "war_score": -20,
         "donation_status": "ok",
         "status": "bad",
         "activity_status": "bad",
@@ -3036,7 +3302,7 @@
         "war_battles": 0,
         "war_collection_win_rate": 0,
         "war_collection_cards_average": 0,
-        "war_score_average": -1
+        "war_score_average": -2
     },
     {
         "tag": "#CLL8Q09",
@@ -3060,7 +3326,7 @@
                 "legendary": 880
             }
         },
-        "score": 263,
+        "score": 302,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -3071,7 +3337,7 @@
         "donations_last_week": 380,
         "days_inactive": 0,
         "last_seen_formatted": "12/7/2019 9:56:23 PM",
-        "last_seen_delta": "22 Minutes",
+        "last_seen_delta": "1 Hours",
         "join_date_label": "11/22/2019",
         "activity_date_label": "12/7/2019",
         "days_from_join": 15,
@@ -3081,20 +3347,34 @@
         "events": [],
         "notes": "",
         "current_war": {
-            "in_war": true,
-            "status": "good",
+            "in_war": false,
+            "status": "na",
             "score": 0,
-            "battles_played": 1,
-            "cards_earned": 400,
+            "battles_played": false,
+            "cards_earned": 0,
             "collection_win_cards": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 0,
             "collection_battle_wins": 0,
             "collection_battle_losses": 0,
-            "wins": 1,
+            "wins": 0,
             "war_league": "na",
-            "number_of_battles": 1
+            "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": true,
+                "status": "good",
+                "score": 39,
+                "battles_played": 1,
+                "cards_earned": 400,
+                "collection_win_cards": 160,
+                "collection_day_battles_played": 3,
+                "collection_battle_wins": 2,
+                "collection_battle_losses": 1,
+                "wins": 1,
+                "war_league": "bronze",
+                "number_of_battles": 1
+            },
             {
                 "in_war": true,
                 "status": "good",
@@ -3181,7 +3461,7 @@
             }
         ],
         "donation_score": 40,
-        "war_score": 223,
+        "war_score": 262,
         "donation_status": "good",
         "status": "normal",
         "activity_status": "good",
@@ -3189,11 +3469,11 @@
         "trophies_status": "normal",
         "arena_league_label": "Challenger III",
         "leadership": false,
-        "war_win_rate": 83,
-        "war_battles": 6,
-        "war_collection_win_rate": 47,
-        "war_collection_cards_average": 96,
-        "war_score_average": 22
+        "war_win_rate": 86,
+        "war_battles": 7,
+        "war_collection_win_rate": 53,
+        "war_collection_cards_average": 112,
+        "war_score_average": 26
     },
     {
         "tag": "#RVJ9L8RV",
@@ -3217,7 +3497,7 @@
                 "legendary": 715
             }
         },
-        "score": -30,
+        "score": -40,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -3228,7 +3508,7 @@
         "donations_last_week": 38,
         "days_inactive": 0,
         "last_seen_formatted": "12/7/2019 5:51:47 PM",
-        "last_seen_delta": "4 Hours",
+        "last_seen_delta": "5 Hours",
         "join_date_label": "11/27/2019",
         "activity_date_label": "12/7/2019",
         "days_from_join": 10,
@@ -3259,6 +3539,20 @@
             "number_of_battles": 0
         },
         "warlog": [
+            {
+                "in_war": false,
+                "status": "na",
+                "score": -10,
+                "battles_played": false,
+                "cards_earned": 0,
+                "collection_win_cards": 0,
+                "collection_day_battles_played": 0,
+                "collection_battle_wins": 0,
+                "collection_battle_losses": 0,
+                "wins": 0,
+                "war_league": "na",
+                "number_of_battles": 0
+            },
             {
                 "in_war": false,
                 "status": "na",
@@ -3345,7 +3639,7 @@
             }
         ],
         "donation_score": -24,
-        "war_score": -6,
+        "war_score": -16,
         "donation_status": "ok",
         "status": "bad",
         "activity_status": "good",
@@ -3357,6 +3651,6 @@
         "war_battles": 1,
         "war_collection_win_rate": 7,
         "war_collection_cards_average": 13,
-        "war_score_average": -1
+        "war_score_average": -2
     }
 ]
