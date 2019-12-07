@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 37594,
+    "clan_score": 37583,
     "required_trophies": 4300,
     "donations_per_week": 6912,
     "clan_war_trophies": 270,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5269,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20191207T011342.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 1,
-            "donations": 730,
-            "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -48,10 +31,27 @@
             },
             "role": "coLeader",
             "last_seen": "20191206T210028.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 2,
             "donations": 830,
             "donations_received": 560,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5247,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20191207T021133.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 1,
+            "donations": 730,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -64,7 +64,7 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20191207T014714.000Z",
+            "last_seen": "20191207T021944.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 916,
