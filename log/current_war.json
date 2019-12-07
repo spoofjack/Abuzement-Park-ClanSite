@@ -10,7 +10,7 @@
         "participants": 16,
         "crowns": 6,
         "battles_remaining": null,
-        "battles_played": 8,
+        "battles_played": 9,
         "wins": 2
     },
     "participants": [
@@ -45,15 +45,6 @@
             "tag": "#2C8QPLUPG",
             "name": "grimm reaper",
             "cards_earned": 400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 320,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -157,6 +148,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -189,8 +189,8 @@
             "clan_score": 270,
             "participants": 16,
             "crowns": 6,
-            "battles_remaining": 8,
-            "battles_played": 8,
+            "battles_remaining": 7,
+            "battles_played": 9,
             "wins": 2
         },
         {
