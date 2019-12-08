@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 37982,
+    "clan_score": 37968,
     "required_trophies": 4300,
     "donations_per_week": 8322,
     "clan_war_trophies": 255,
@@ -327,23 +327,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 10,
-            "trophies": 4680,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20191208T044438.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 20,
-            "donations": 906,
-            "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9J82GQRPR",
             "name": "Magic",
             "exp_level": 12,
@@ -354,10 +337,27 @@
             },
             "role": "member",
             "last_seen": "20191205T165708.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 18,
             "donations": 46,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 10,
+            "trophies": 4626,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20191208T045839.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 20,
+            "donations": 906,
+            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
