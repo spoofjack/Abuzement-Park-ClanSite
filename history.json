@@ -1,5 +1,5 @@
 {
-    "last_update": 1575931555.434846,
+    "last_update": 1575932465.415106,
     "members": {
         "#UVGUUVC0": {
             "name": "ok guy",
@@ -190,11 +190,11 @@
         "#YLCPYQPR": {
             "name": "Gopher!",
             "join_date": 1574406000,
-            "last_activity_date": 1575927005.433123,
-            "last_donation_date": 1575927005.433123,
+            "last_activity_date": 1575932465.415106,
+            "last_donation_date": 1575932465.415106,
             "role": "elder",
             "status": "present",
-            "donations": 28,
+            "donations": 38,
             "donations_last_week": 390,
             "events": [
                 {
@@ -208,11 +208,11 @@
         "#2Y02UG8C8": {
             "name": "Rascal09",
             "join_date": 1574406000,
-            "last_activity_date": 1575931555.434846,
-            "last_donation_date": 1575931555.434846,
+            "last_activity_date": 1575932465.415106,
+            "last_donation_date": 1575932465.415106,
             "role": "coLeader",
             "status": "present",
-            "donations": 116,
+            "donations": 126,
             "donations_last_week": 670,
             "events": [
                 {
@@ -463,7 +463,7 @@
             "last_activity_date": 1575929735.41269,
             "last_donation_date": 1575929735.41269,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 10,
             "donations_last_week": 0,
             "events": [
@@ -472,6 +472,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1575894022.878476
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1575932465.415106
                 }
             ]
         },
