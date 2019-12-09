@@ -10,7 +10,7 @@
         "participants": 20,
         "crowns": 10,
         "battles_remaining": null,
-        "battles_played": 16,
+        "battles_played": 17,
         "wins": 5
     },
     "participants": [
@@ -132,15 +132,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "cards_earned": 400,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "cards_earned": 400,
@@ -193,9 +184,29 @@
             "collection_day_battles_played": 3,
             "wins": 2,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "cards_earned": 400,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
         }
     ],
     "clans": [
+        {
+            "tag": "#PRRGJP8C",
+            "name": "Elitarna Polska",
+            "badge_id": 16000146,
+            "clan_score": 32,
+            "participants": 18,
+            "crowns": 20,
+            "battles_remaining": 3,
+            "battles_played": 15,
+            "wins": 9
+        },
         {
             "tag": "#PG8RVU9Q",
             "name": "1bmei",
@@ -206,17 +217,6 @@
             "battles_remaining": 5,
             "battles_played": 18,
             "wins": 9
-        },
-        {
-            "tag": "#PRRGJP8C",
-            "name": "Elitarna Polska",
-            "badge_id": 16000146,
-            "clan_score": 32,
-            "participants": 18,
-            "crowns": 17,
-            "battles_remaining": 4,
-            "battles_played": 14,
-            "wins": 8
         },
         {
             "tag": "#YLY8C0VL",
@@ -247,8 +247,8 @@
             "clan_score": 255,
             "participants": 20,
             "crowns": 10,
-            "battles_remaining": 4,
-            "battles_played": 16,
+            "battles_remaining": 3,
+            "battles_played": 17,
             "wins": 5
         }
     ],
