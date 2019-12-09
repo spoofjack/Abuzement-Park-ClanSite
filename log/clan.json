@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 41154,
+    "clan_score": 41131,
     "required_trophies": 4600,
     "donations_per_week": 1602,
     "clan_war_trophies": 255,
@@ -89,23 +89,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 12,
-            "trophies": 5185,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20191209T204809.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 7,
-            "donations": 171,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J8CGQRJY",
             "name": "a##hole",
             "exp_level": 13,
@@ -116,10 +99,27 @@
             },
             "role": "elder",
             "last_seen": "20191209T184330.000Z",
-            "clan_rank": 6,
+            "clan_rank": 5,
             "previous_clan_rank": 10,
             "donations": 38,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 12,
+            "trophies": 5138,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20191209T204809.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 7,
+            "donations": 171,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -421,7 +421,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20191209T204822.000Z",
+            "last_seen": "20191209T205706.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 22,
             "donations": 1,
