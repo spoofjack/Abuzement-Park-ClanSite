@@ -1,8 +1,28 @@
 {
-    "state": "notInWar",
+    "state": "collectionDay",
     "war_end_time": null,
-    "collection_end_time": null,
-    "clan": null,
-    "participants": null,
+    "collection_end_time": "20191210T235722.208Z",
+    "clan": {
+        "tag": "#LP98YUCV",
+        "name": "Abuzement Park",
+        "badge_id": 16000003,
+        "clan_score": 241,
+        "participants": 1,
+        "crowns": 0,
+        "battles_remaining": null,
+        "battles_played": 1,
+        "wins": 1
+    },
+    "participants": [
+        {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "cards_earned": 160,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 3
+        }
+    ],
     "clans": null
 }
