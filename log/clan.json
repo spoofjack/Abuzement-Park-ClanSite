@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 40180,
+    "clan_score": 40187,
     "required_trophies": 4600,
-    "donations_per_week": 2640,
+    "donations_per_week": 2650,
     "clan_war_trophies": 241,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -242,6 +242,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 12,
+            "trophies": 4919,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20191210T130657.000Z",
+            "clan_rank": 14,
+            "previous_clan_rank": 18,
+            "donations": 108,
+            "donations_received": 170,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#80PQ2RCV",
             "name": "live long",
             "exp_level": 12,
@@ -252,27 +269,10 @@
             },
             "role": "elder",
             "last_seen": "20191209T143600.000Z",
-            "clan_rank": 14,
+            "clan_rank": 15,
             "previous_clan_rank": 14,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 12,
-            "trophies": 4889,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20191210T130657.000Z",
-            "clan_rank": 15,
-            "previous_clan_rank": 18,
-            "donations": 98,
-            "donations_received": 170,
             "clan_chest_points": 0
         },
         {
@@ -374,7 +374,7 @@
             "clan_rank": 21,
             "previous_clan_rank": 24,
             "donations": 188,
-            "donations_received": 130,
+            "donations_received": 140,
             "clan_chest_points": 0
         },
         {
