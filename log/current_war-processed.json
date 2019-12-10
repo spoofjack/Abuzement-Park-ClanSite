@@ -7,13 +7,31 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 241,
-        "participants": 4,
+        "participants": 6,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 13,
         "wins": 8
     },
     "participants": [
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didbrewersmom",
+            "cards_earned": 85,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
+            "cards_earned": 80,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 3
+        },
         {
             "tag": "#8GJVQJVU9",
             "name": "navaBROchief",
@@ -26,9 +44,9 @@
         {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
-            "cards_earned": 340,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
+            "cards_earned": 425,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
             "wins": 2,
             "number_of_battles": 3
         },
@@ -52,7 +70,7 @@
         }
     ],
     "clans": null,
-    "cards": 1480,
+    "cards": 1730,
     "state_label": "Collection Day",
     "collection_end_time_label": "21 hours",
     "end_label": "1 day, 21 hours"
