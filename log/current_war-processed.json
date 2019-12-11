@@ -10,7 +10,7 @@
         "participants": 19,
         "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 1,
+        "battles_played": 3,
         "wins": 1
     },
     "participants": [
@@ -22,15 +22,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "cards_earned": 480,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#2Y02UG8C8",
@@ -123,15 +114,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "cards_earned": 480,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "cards_earned": 480,
@@ -177,12 +159,30 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8GJVQJVU9",
             "name": "navaBROchief",
             "cards_earned": 340,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         }
     ],
@@ -193,10 +193,10 @@
             "badge_id": 16000126,
             "clan_score": 369,
             "participants": 21,
-            "crowns": 6,
-            "battles_remaining": 18,
-            "battles_played": 3,
-            "wins": 2
+            "crowns": 7,
+            "battles_remaining": 17,
+            "battles_played": 4,
+            "wins": 3
         },
         {
             "tag": "#LP98YUCV",
@@ -205,7 +205,18 @@
             "clan_score": 241,
             "participants": 19,
             "crowns": 3,
-            "battles_remaining": 18,
+            "battles_remaining": 16,
+            "battles_played": 3,
+            "wins": 1
+        },
+        {
+            "tag": "#LP98UPVC",
+            "name": "Aka Knights",
+            "badge_id": 16000157,
+            "clan_score": 330,
+            "participants": 20,
+            "crowns": 3,
+            "battles_remaining": 19,
             "battles_played": 1,
             "wins": 1
         },
@@ -228,17 +239,6 @@
             "participants": 19,
             "crowns": 0,
             "battles_remaining": 19,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98UPVC",
-            "name": "Aka Knights",
-            "badge_id": 16000157,
-            "clan_score": 330,
-            "participants": 20,
-            "crowns": 0,
-            "battles_remaining": 20,
             "battles_played": 0,
             "wins": 0
         }
