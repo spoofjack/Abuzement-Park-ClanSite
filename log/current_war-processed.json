@@ -193,10 +193,32 @@
             "badge_id": 16000126,
             "clan_score": 369,
             "participants": 21,
-            "crowns": 13,
+            "crowns": 14,
+            "battles_remaining": 14,
+            "battles_played": 7,
+            "wins": 6
+        },
+        {
+            "tag": "#PRCGGLLL",
+            "name": "Legendary \u8f1d\u714c\u6642\u4ee3",
+            "badge_id": 16000035,
+            "clan_score": 286,
+            "participants": 21,
+            "crowns": 7,
             "battles_remaining": 15,
             "battles_played": 6,
-            "wins": 5
+            "wins": 2
+        },
+        {
+            "tag": "#LP98UPVC",
+            "name": "Aka Knights",
+            "badge_id": 16000157,
+            "clan_score": 330,
+            "participants": 20,
+            "crowns": 7,
+            "battles_remaining": 17,
+            "battles_played": 3,
+            "wins": 2
         },
         {
             "tag": "#LP98YUCV",
@@ -208,28 +230,6 @@
             "battles_remaining": 14,
             "battles_played": 5,
             "wins": 2
-        },
-        {
-            "tag": "#PRCGGLLL",
-            "name": "Legendary \u8f1d\u714c\u6642\u4ee3",
-            "badge_id": 16000035,
-            "clan_score": 286,
-            "participants": 21,
-            "crowns": 5,
-            "battles_remaining": 17,
-            "battles_played": 4,
-            "wins": 2
-        },
-        {
-            "tag": "#LP98UPVC",
-            "name": "Aka Knights",
-            "badge_id": 16000157,
-            "clan_score": 330,
-            "participants": 20,
-            "crowns": 3,
-            "battles_remaining": 19,
-            "battles_played": 1,
-            "wins": 1
         },
         {
             "tag": "#YJ9U2P08",
@@ -246,5 +246,5 @@
     "cards": 7805,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
