@@ -10,7 +10,7 @@
         "participants": 19,
         "crowns": 20,
         "battles_remaining": null,
-        "battles_played": 11,
+        "battles_played": 12,
         "wins": 10
     },
     "participants": [
@@ -40,15 +40,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 340,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#9CCL2G0G",
@@ -141,6 +132,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 340,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8GJVQJVU9",
             "name": "navaBROchief",
             "cards_earned": 340,
@@ -194,8 +194,8 @@
             "clan_score": 303,
             "participants": 19,
             "crowns": 20,
-            "battles_remaining": 8,
-            "battles_played": 11,
+            "battles_remaining": 7,
+            "battles_played": 12,
             "wins": 10
         },
         {
@@ -246,5 +246,5 @@
     "cards": 6700,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "16 hours"
+    "end_label": "15 hours"
 }
