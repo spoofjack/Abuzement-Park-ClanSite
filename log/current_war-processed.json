@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 303,
         "participants": 19,
-        "crowns": 0,
+        "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 2,
+        "wins": 2
     },
     "participants": [
         {
             "tag": "#J28UPQ0P",
             "name": "didbrewersmom",
             "cards_earned": 425,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "cards_earned": 320,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -89,15 +80,6 @@
         {
             "tag": "#J8CGQRJY",
             "name": "a##hole",
-            "cards_earned": 340,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8GJVQJVU9",
-            "name": "navaBROchief",
             "cards_earned": 340,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -184,19 +166,48 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8GJVQJVU9",
+            "name": "navaBROchief",
+            "cards_earned": 340,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 303,
+            "participants": 19,
+            "crowns": 5,
+            "battles_remaining": 17,
+            "battles_played": 2,
+            "wins": 2
+        },
         {
             "tag": "#PJLCYV0R",
             "name": "Paliza Tit\u00e1nica",
             "badge_id": 16000026,
             "clan_score": 324,
             "participants": 21,
-            "crowns": 0,
-            "battles_remaining": 21,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 2,
+            "battles_remaining": 20,
+            "battles_played": 1,
+            "wins": 1
         },
         {
             "tag": "#PJUGVLCR",
@@ -205,8 +216,8 @@
             "clan_score": 110,
             "participants": 20,
             "crowns": 0,
-            "battles_remaining": 20,
-            "battles_played": 0,
+            "battles_remaining": 18,
+            "battles_played": 2,
             "wins": 0
         },
         {
@@ -221,25 +232,14 @@
             "wins": 0
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 303,
-            "participants": 19,
-            "crowns": 0,
-            "battles_remaining": 19,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
             "tag": "#Y8L9PGVU",
             "name": "Big Smoke",
             "badge_id": 16000170,
             "clan_score": 599,
             "participants": 18,
             "crowns": 0,
-            "battles_remaining": 18,
-            "battles_played": 0,
+            "battles_remaining": 17,
+            "battles_played": 1,
             "wins": 0
         }
     ],
