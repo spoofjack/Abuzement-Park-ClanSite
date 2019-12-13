@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 303,
         "participants": 19,
-        "crowns": 28,
+        "crowns": 31,
         "battles_remaining": null,
-        "battles_played": 19,
-        "wins": 13
+        "battles_played": 20,
+        "wins": 14
     },
     "participants": [
         {
@@ -22,15 +22,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#2GGYGCRR0",
-            "name": "Ok Girl",
-            "cards_earned": 320,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#J28UPQ0P",
@@ -141,6 +132,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2GGYGCRR0",
+            "name": "Ok Girl",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 425,
@@ -226,10 +226,10 @@
             "badge_id": 16000003,
             "clan_score": 303,
             "participants": 19,
-            "crowns": 28,
+            "crowns": 31,
             "battles_remaining": 0,
-            "battles_played": 19,
-            "wins": 13
+            "battles_played": 20,
+            "wins": 14
         },
         {
             "tag": "#Y8L9PGVU",
@@ -237,10 +237,10 @@
             "badge_id": 16000170,
             "clan_score": 599,
             "participants": 18,
-            "crowns": 20,
-            "battles_remaining": 1,
-            "battles_played": 17,
-            "wins": 11
+            "crowns": 23,
+            "battles_remaining": 0,
+            "battles_played": 18,
+            "wins": 12
         }
     ]
 }
