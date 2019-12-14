@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 303,
         "participants": 19,
-        "crowns": 31,
+        "crowns": 32,
         "battles_remaining": null,
-        "battles_played": 20,
-        "wins": 14
+        "battles_played": 21,
+        "wins": 15
     },
     "participants": [
-        {
-            "tag": "#Y0VP098",
-            "name": "Thrashmaster",
-            "cards_earned": 425,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
         {
             "tag": "#J28UPQ0P",
             "name": "didbrewersmom",
@@ -85,6 +76,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#Y0VP098",
+            "name": "Thrashmaster",
+            "cards_earned": 425,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 2
         },
         {
             "tag": "#J8CGQRJY",
@@ -193,10 +193,10 @@
             "badge_id": 16000003,
             "clan_score": 303,
             "participants": 19,
-            "crowns": 31,
+            "crowns": 32,
             "battles_remaining": 0,
-            "battles_played": 20,
-            "wins": 14
+            "battles_played": 21,
+            "wins": 15
         },
         {
             "tag": "#Y8L9PGVU",
@@ -246,5 +246,5 @@
     "cards": 6700,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "0 hours"
+    "end_label": "23 hours"
 }
