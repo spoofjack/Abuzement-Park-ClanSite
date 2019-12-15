@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 418,
         "participants": 18,
-        "crowns": 14,
+        "crowns": 15,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 11,
         "wins": 5
     },
     "participants": [
-        {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 425,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#LUVYCYUQ",
             "name": "KiLL3rC0W8OY03",
@@ -175,6 +166,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 425,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -206,9 +206,9 @@
             "badge_id": 16000003,
             "clan_score": 418,
             "participants": 18,
-            "crowns": 14,
-            "battles_remaining": 8,
-            "battles_played": 10,
+            "crowns": 15,
+            "battles_remaining": 7,
+            "battles_played": 11,
             "wins": 5
         },
         {
