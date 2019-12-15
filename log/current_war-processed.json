@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 418,
         "participants": 18,
-        "crowns": 4,
+        "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 1
+        "battles_played": 4,
+        "wins": 2
     },
     "participants": [
         {
@@ -63,15 +63,6 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 410,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 425,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -150,6 +141,24 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 425,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 340,
@@ -166,15 +175,6 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "cards_earned": 320,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -185,8 +185,8 @@
             "clan_score": 181,
             "participants": 19,
             "crowns": 11,
-            "battles_remaining": 11,
-            "battles_played": 8,
+            "battles_remaining": 10,
+            "battles_played": 9,
             "wins": 6
         },
         {
@@ -212,6 +212,17 @@
             "wins": 3
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 418,
+            "participants": 18,
+            "crowns": 7,
+            "battles_remaining": 14,
+            "battles_played": 4,
+            "wins": 2
+        },
+        {
             "tag": "#PY0YCRCJ",
             "name": "Nubtacular",
             "badge_id": 16000004,
@@ -221,17 +232,6 @@
             "battles_remaining": 16,
             "battles_played": 3,
             "wins": 2
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 418,
-            "participants": 18,
-            "crowns": 4,
-            "battles_remaining": 15,
-            "battles_played": 3,
-            "wins": 1
         }
     ],
     "cards": 6890,
