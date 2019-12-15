@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 40479,
+    "clan_score": 40481,
     "required_trophies": 4600,
-    "donations_per_week": 10360,
+    "donations_per_week": 10390,
     "clan_war_trophies": 418,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -38,6 +38,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5431,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "coLeader",
+            "last_seen": "20191215T032941.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 2,
+            "donations": 676,
+            "donations_received": 650,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#Y0VP098",
             "name": "Thrashmaster",
             "exp_level": 13,
@@ -48,27 +65,10 @@
             },
             "role": "coLeader",
             "last_seen": "20191214T214847.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 4,
             "donations": 612,
             "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5418,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "coLeader",
-            "last_seen": "20191215T032941.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 2,
-            "donations": 676,
-            "donations_received": 640,
             "clan_chest_points": 0
         },
         {
@@ -83,7 +83,7 @@
             "role": "coLeader",
             "last_seen": "20191215T023502.000Z",
             "clan_rank": 4,
-            "previous_clan_rank": 5,
+            "previous_clan_rank": 3,
             "donations": 1083,
             "donations_received": 600,
             "clan_chest_points": 0
@@ -117,7 +117,7 @@
             "role": "member",
             "last_seen": "20191215T020938.000Z",
             "clan_rank": 6,
-            "previous_clan_rank": 3,
+            "previous_clan_rank": 5,
             "donations": 506,
             "donations_received": 400,
             "clan_chest_points": 0
@@ -185,7 +185,7 @@
             "role": "elder",
             "last_seen": "20191215T014259.000Z",
             "clan_rank": 10,
-            "previous_clan_rank": 12,
+            "previous_clan_rank": 11,
             "donations": 326,
             "donations_received": 520,
             "clan_chest_points": 0
@@ -219,9 +219,9 @@
             "role": "coLeader",
             "last_seen": "20191215T031428.000Z",
             "clan_rank": 12,
-            "previous_clan_rank": 11,
+            "previous_clan_rank": 12,
             "donations": 514,
-            "donations_received": 620,
+            "donations_received": 630,
             "clan_chest_points": 0
         },
         {
@@ -321,26 +321,9 @@
             "role": "member",
             "last_seen": "20191209T182103.000Z",
             "clan_rank": 18,
-            "previous_clan_rank": 19,
+            "previous_clan_rank": 20,
             "donations": 66,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "exp_level": 10,
-            "trophies": 4699,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20191215T003524.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 20,
-            "donations": 288,
-            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -354,10 +337,27 @@
             },
             "role": "leader",
             "last_seen": "20191215T010019.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 18,
             "donations": 176,
             "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "exp_level": 10,
+            "trophies": 4682,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20191215T033727.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 19,
+            "donations": 318,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -374,7 +374,7 @@
             "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 49,
-            "donations_received": 390,
+            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
