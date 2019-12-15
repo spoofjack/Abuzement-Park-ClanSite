@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 418,
         "participants": 18,
-        "crowns": 17,
+        "crowns": 18,
         "battles_remaining": null,
-        "battles_played": 15,
+        "battles_played": 16,
         "wins": 6
     },
     "participants": [
@@ -114,15 +114,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2GGYGCRR0",
-            "name": "Ok Girl",
-            "cards_earned": 400,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#PL990R0YG",
             "name": "JayWizz",
             "cards_earned": 160,
@@ -132,27 +123,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 425,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 425,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#LUVYCYUQ",
-            "name": "KiLL3rC0W8OY03",
-            "cards_earned": 400,
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 510,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -168,13 +141,40 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 510,
+            "tag": "#LUVYCYUQ",
+            "name": "KiLL3rC0W8OY03",
+            "cards_earned": 400,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 425,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 425,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2GGYGCRR0",
+            "name": "Ok Girl",
+            "cards_earned": 400,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -217,9 +217,9 @@
             "badge_id": 16000003,
             "clan_score": 418,
             "participants": 18,
-            "crowns": 17,
-            "battles_remaining": 3,
-            "battles_played": 15,
+            "crowns": 18,
+            "battles_remaining": 2,
+            "battles_played": 16,
             "wins": 6
         },
         {
@@ -237,5 +237,5 @@
     "cards": 6890,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "9 hours"
+    "end_label": "8 hours"
 }
