@@ -15,15 +15,6 @@
     },
     "participants": [
         {
-            "tag": "#80PQ2RCV",
-            "name": "live long",
-            "cards_earned": 320,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "cards_earned": 400,
@@ -99,6 +90,15 @@
             "tag": "#2C8QPLUPG",
             "name": "grimm reaper",
             "cards_earned": 510,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#80PQ2RCV",
+            "name": "live long",
+            "cards_earned": 320,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -229,8 +229,8 @@
             "clan_score": 181,
             "participants": 19,
             "crowns": 11,
-            "battles_remaining": 10,
-            "battles_played": 9,
+            "battles_remaining": 9,
+            "battles_played": 10,
             "wins": 6
         }
     ]
