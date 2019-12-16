@@ -7,17 +7,26 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 476,
-        "participants": 8,
+        "participants": 9,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 21,
-        "wins": 8
+        "battles_played": 24,
+        "wins": 9
     },
     "participants": [
         {
             "tag": "#J28UPQ0P",
             "name": "didbrewersmom",
             "cards_earned": 340,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 320,
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -88,7 +97,7 @@
         }
     ],
     "clans": null,
-    "cards": 2400,
+    "cards": 2720,
     "state_label": "Collection Day",
     "collection_end_time_label": "17 hours",
     "end_label": "1 day, 17 hours"
