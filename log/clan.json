@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 40071,
+    "clan_score": 40084,
     "required_trophies": 4600,
-    "donations_per_week": 978,
+    "donations_per_week": 1028,
     "clan_war_trophies": 476,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -38,6 +38,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5444,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "coLeader",
+            "last_seen": "20191216T184511.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 2,
+            "donations": 78,
+            "donations_received": 50,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "exp_level": 13,
@@ -48,26 +65,9 @@
             },
             "role": "member",
             "last_seen": "20191216T155113.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 6,
             "donations": 18,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5418,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "coLeader",
-            "last_seen": "20191216T170412.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 2,
-            "donations": 58,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -85,7 +85,7 @@
             "clan_rank": 4,
             "previous_clan_rank": 5,
             "donations": 40,
-            "donations_received": 60,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -132,11 +132,11 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20191216T173707.000Z",
+            "last_seen": "20191216T183924.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 4,
-            "donations": 140,
-            "donations_received": 60,
+            "donations": 150,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -220,7 +220,7 @@
             "last_seen": "20191216T183028.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 14,
-            "donations": 28,
+            "donations": 48,
             "donations_received": 0,
             "clan_chest_points": 0
         },
