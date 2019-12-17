@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 40779,
+    "clan_score": 40826,
     "required_trophies": 4600,
-    "donations_per_week": 2808,
+    "donations_per_week": 2818,
     "clan_war_trophies": 476,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -24,17 +24,34 @@
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
-            "trophies": 5628,
+            "trophies": 5688,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20191217T185955.000Z",
+            "last_seen": "20191217T191318.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 208,
             "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5530,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "coLeader",
+            "last_seen": "20191217T185826.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 4,
+            "donations": 288,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -48,27 +65,10 @@
             },
             "role": "coLeader",
             "last_seen": "20191217T182047.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 2,
             "donations": 356,
             "donations_received": 180,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5502,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "coLeader",
-            "last_seen": "20191217T185826.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 4,
-            "donations": 288,
-            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -153,7 +153,7 @@
             "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 324,
-            "donations_received": 190,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -177,13 +177,13 @@
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "exp_level": 13,
-            "trophies": 5186,
+            "trophies": 5215,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20191217T163611.000Z",
+            "last_seen": "20191217T190635.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 10,
             "donations": 190,
@@ -228,7 +228,7 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 12,
-            "trophies": 5047,
+            "trophies": 5013,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -319,28 +319,11 @@
                 "name": "Challenger III"
             },
             "role": "leader",
-            "last_seen": "20191217T163644.000Z",
+            "last_seen": "20191217T190538.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 18,
-            "donations": 0,
+            "donations": 10,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8PPGP90JU",
-            "name": "Legend3Thebest",
-            "exp_level": 11,
-            "trophies": 4737,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20191217T042609.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 19,
-            "donations": 78,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -353,8 +336,8 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20191217T165715.000Z",
-            "clan_rank": 20,
+            "last_seen": "20191217T191352.000Z",
+            "clan_rank": 19,
             "previous_clan_rank": 0,
             "donations": 50,
             "donations_received": 80,
@@ -371,10 +354,27 @@
             },
             "role": "member",
             "last_seen": "20191217T184137.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 21,
             "donations": 66,
             "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8PPGP90JU",
+            "name": "Legend3Thebest",
+            "exp_level": 11,
+            "trophies": 4719,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20191217T190425.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 19,
+            "donations": 78,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
