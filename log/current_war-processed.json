@@ -179,6 +179,17 @@
     ],
     "clans": [
         {
+            "tag": "#PJJC0YYC",
+            "name": "Vortex eSports",
+            "badge_id": 16000077,
+            "clan_score": 598,
+            "participants": 20,
+            "crowns": 22,
+            "battles_remaining": 2,
+            "battles_played": 18,
+            "wins": 13
+        },
+        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
@@ -187,17 +198,6 @@
             "crowns": 24,
             "battles_remaining": 4,
             "battles_played": 14,
-            "wins": 10
-        },
-        {
-            "tag": "#PJJC0YYC",
-            "name": "Vortex eSports",
-            "badge_id": 16000077,
-            "clan_score": 598,
-            "participants": 20,
-            "crowns": 16,
-            "battles_remaining": 5,
-            "battles_played": 15,
             "wins": 10
         },
         {
@@ -218,8 +218,8 @@
             "clan_score": 210,
             "participants": 21,
             "crowns": 11,
-            "battles_remaining": 8,
-            "battles_played": 13,
+            "battles_remaining": 7,
+            "battles_played": 14,
             "wins": 4
         },
         {
@@ -237,5 +237,5 @@
     "cards": 6040,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "11 hours"
+    "end_label": "10 hours"
 }
