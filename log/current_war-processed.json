@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 476,
         "participants": 18,
-        "crowns": 0,
+        "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 2,
+        "wins": 2
     },
     "participants": [
         {
@@ -27,15 +27,6 @@
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "cards_earned": 320,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
-            "cards_earned": 340,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -141,15 +132,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "cards_earned": 320,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "cards_earned": 510,
@@ -175,6 +157,24 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "cards_earned": 340,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -188,6 +188,28 @@
             "battles_remaining": 18,
             "battles_played": 2,
             "wins": 2
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 476,
+            "participants": 18,
+            "crowns": 4,
+            "battles_remaining": 16,
+            "battles_played": 2,
+            "wins": 2
+        },
+        {
+            "tag": "#YCR2QLQ0",
+            "name": "Beer Me",
+            "badge_id": 16000059,
+            "clan_score": 210,
+            "participants": 21,
+            "crowns": 2,
+            "battles_remaining": 19,
+            "battles_played": 2,
+            "wins": 1
         },
         {
             "tag": "#L0VP9JVR",
@@ -208,28 +230,6 @@
             "participants": 22,
             "crowns": 0,
             "battles_remaining": 22,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 476,
-            "participants": 18,
-            "crowns": 0,
-            "battles_remaining": 18,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#YCR2QLQ0",
-            "name": "Beer Me",
-            "badge_id": 16000059,
-            "clan_score": 210,
-            "participants": 21,
-            "crowns": 0,
-            "battles_remaining": 21,
             "battles_played": 0,
             "wins": 0
         }
