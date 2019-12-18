@@ -7,20 +7,29 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 590,
-        "participants": 2,
+        "participants": 3,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 2,
-        "wins": 2
+        "battles_played": 5,
+        "wins": 4
     },
     "participants": [
         {
-            "tag": "#RVJ9L8RV",
-            "name": "hgghdf",
-            "cards_earned": 130,
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "cards_earned": 85,
             "battles_played": 1,
             "collection_day_battles_played": 1,
-            "wins": 1,
+            "wins": 0,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#RVJ9L8RV",
+            "name": "hgghdf",
+            "cards_earned": 390,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 3,
             "number_of_battles": 3
         },
         {
@@ -34,7 +43,7 @@
         }
     ],
     "clans": null,
-    "cards": 300,
+    "cards": 645,
     "state_label": "Collection Day",
     "collection_end_time_label": "23 hours",
     "end_label": "1 day, 23 hours"
