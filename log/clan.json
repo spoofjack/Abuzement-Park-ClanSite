@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 41865,
+    "clan_score": 41843,
     "required_trophies": 4600,
     "donations_per_week": 3446,
     "clan_war_trophies": 590,
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 12,
-            "trophies": 5034,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20191218T070045.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 13,
-            "donations": 144,
-            "donations_received": 250,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2C8QPLUPG",
             "name": "grimm reaper",
             "exp_level": 12,
@@ -269,10 +252,27 @@
             },
             "role": "member",
             "last_seen": "20191217T151944.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 0,
             "donations_received": 8,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 12,
+            "trophies": 4946,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20191218T070045.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 13,
+            "donations": 144,
+            "donations_received": 250,
             "clan_chest_points": 0
         },
         {
