@@ -10,7 +10,7 @@
         "participants": 22,
         "crowns": 10,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 11,
         "wins": 3
     },
     "participants": [
@@ -114,15 +114,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8LLURYQUG",
-            "name": "3t2",
-            "cards_earned": 510,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "cards_earned": 255,
@@ -211,6 +202,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8LLURYQUG",
+            "name": "3t2",
+            "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -254,8 +254,8 @@
             "clan_score": 590,
             "participants": 22,
             "crowns": 10,
-            "battles_remaining": 12,
-            "battles_played": 10,
+            "battles_remaining": 11,
+            "battles_played": 11,
             "wins": 3
         },
         {
@@ -265,8 +265,8 @@
             "clan_score": 148,
             "participants": 21,
             "crowns": 7,
-            "battles_remaining": 14,
-            "battles_played": 7,
+            "battles_remaining": 13,
+            "battles_played": 8,
             "wins": 3
         }
     ],
