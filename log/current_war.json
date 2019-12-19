@@ -10,7 +10,7 @@
         "participants": 22,
         "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 12,
+        "battles_played": 13,
         "wins": 4
     },
     "participants": [
@@ -27,15 +27,6 @@
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "cards_earned": 255,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y0VP098",
-            "name": "Thrashmaster",
-            "cards_earned": 340,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -159,6 +150,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#Y0VP098",
+            "name": "Thrashmaster",
+            "cards_earned": 340,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "a##hole",
             "cards_earned": 255,
@@ -220,10 +220,10 @@
             "badge_id": 16000140,
             "clan_score": 218,
             "participants": 21,
-            "crowns": 10,
-            "battles_remaining": 12,
-            "battles_played": 9,
-            "wins": 7
+            "crowns": 13,
+            "battles_remaining": 11,
+            "battles_played": 10,
+            "wins": 8
         },
         {
             "tag": "#9GYCRRPG",
@@ -254,8 +254,8 @@
             "clan_score": 590,
             "participants": 22,
             "crowns": 11,
-            "battles_remaining": 10,
-            "battles_played": 12,
+            "battles_remaining": 9,
+            "battles_played": 13,
             "wins": 4
         },
         {
@@ -265,8 +265,8 @@
             "clan_score": 585,
             "participants": 20,
             "crowns": 36,
-            "battles_remaining": 4,
-            "battles_played": 16,
+            "battles_remaining": 2,
+            "battles_played": 18,
             "wins": 13
         }
     ]
