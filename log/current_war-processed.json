@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 590,
         "participants": 22,
-        "crowns": 9,
+        "crowns": 10,
         "battles_remaining": null,
-        "battles_played": 7,
+        "battles_played": 8,
         "wins": 3
     },
     "participants": [
-        {
-            "tag": "#8PPGP90JU",
-            "name": "Legend3Thebest",
-            "cards_earned": 160,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
@@ -159,6 +150,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8PPGP90JU",
+            "name": "Legend3Thebest",
+            "cards_earned": 160,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#RVJ9L8RV",
             "name": "hgghdf",
             "cards_earned": 390,
@@ -242,9 +242,9 @@
             "badge_id": 16000003,
             "clan_score": 590,
             "participants": 22,
-            "crowns": 9,
-            "battles_remaining": 15,
-            "battles_played": 7,
+            "crowns": 10,
+            "battles_remaining": 14,
+            "battles_played": 8,
             "wins": 3
         },
         {
@@ -264,10 +264,10 @@
             "badge_id": 16000072,
             "clan_score": 148,
             "participants": 21,
-            "crowns": 1,
-            "battles_remaining": 17,
-            "battles_played": 4,
-            "wins": 0
+            "crowns": 3,
+            "battles_remaining": 16,
+            "battles_played": 5,
+            "wins": 1
         }
     ],
     "cards": 7325,
