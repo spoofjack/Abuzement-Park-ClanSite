@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 590,
         "participants": 22,
-        "crowns": 4,
+        "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 2,
-        "wins": 1
+        "battles_played": 4,
+        "wins": 2
     },
     "participants": [
         {
@@ -123,15 +123,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#L2GPCGJ22",
-            "name": "jhon",
-            "cards_earned": 320,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "cards_earned": 400,
@@ -153,15 +144,6 @@
             "tag": "#CLL8Q09",
             "name": "Wub",
             "cards_earned": 400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "cards_earned": 510,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -211,9 +193,38 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#L2GPCGJ22",
+            "name": "jhon",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 590,
+            "participants": 22,
+            "crowns": 7,
+            "battles_remaining": 18,
+            "battles_played": 4,
+            "wins": 2
+        },
         {
             "tag": "#L8L9Q2QC",
             "name": "Feed Us",
@@ -226,26 +237,15 @@
             "wins": 2
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 590,
-            "participants": 22,
-            "crowns": 4,
-            "battles_remaining": 20,
-            "battles_played": 2,
-            "wins": 1
-        },
-        {
             "tag": "#9GYCRRPG",
             "name": "Knight Legends",
             "badge_id": 16000139,
             "clan_score": 522,
             "participants": 20,
-            "crowns": 0,
-            "battles_remaining": 20,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 2,
+            "battles_remaining": 19,
+            "battles_played": 1,
+            "wins": 1
         },
         {
             "tag": "#L2P8UUGU",
