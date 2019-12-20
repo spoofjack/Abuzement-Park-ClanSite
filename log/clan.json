@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 41522,
+    "clan_score": 41457,
     "required_trophies": 4600,
     "donations_per_week": 7758,
     "clan_war_trophies": 582,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5754,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20191220T195336.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 1,
-            "donations": 530,
-            "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -48,9 +31,26 @@
             },
             "role": "coLeader",
             "last_seen": "20191220T200933.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 2,
             "donations": 708,
+            "donations_received": 480,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5648,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20191220T195336.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 1,
+            "donations": 530,
             "donations_received": 480,
             "clan_chest_points": 0
         },
@@ -140,23 +140,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "exp_level": 12,
-            "trophies": 5380,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20191220T154711.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 12,
-            "donations": 442,
-            "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "exp_level": 13,
@@ -167,7 +150,7 @@
             },
             "role": "coLeader",
             "last_seen": "20191220T163254.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 9,
             "donations": 478,
             "donations_received": 400,
@@ -184,10 +167,27 @@
             },
             "role": "elder",
             "last_seen": "20191220T161918.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 10,
             "donations": 785,
             "donations_received": 470,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "exp_level": 12,
+            "trophies": 5357,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20191220T203319.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 12,
+            "donations": 442,
+            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
