@@ -7,13 +7,22 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 582,
-        "participants": 1,
+        "participants": 3,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 1
+        "battles_played": 6,
+        "wins": 3
     },
     "participants": [
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 85,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 3
+        },
         {
             "tag": "#CLL8Q09",
             "name": "Wub",
@@ -21,6 +30,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "cards_earned": 340,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 2,
             "number_of_battles": 3
         }
     ],
