@@ -15,15 +15,6 @@
     },
     "participants": [
         {
-            "tag": "#80PQ2RCV",
-            "name": "live long",
-            "cards_earned": 340,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 340,
@@ -63,6 +54,15 @@
             "tag": "#J8CGQRJY",
             "name": "a##hole",
             "cards_earned": 510,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#80PQ2RCV",
+            "name": "live long",
+            "cards_earned": 340,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -205,8 +205,8 @@
             "clan_score": 301,
             "participants": 18,
             "crowns": 9,
-            "battles_remaining": 7,
-            "battles_played": 11,
+            "battles_remaining": 6,
+            "battles_played": 12,
             "wins": 5
         },
         {
@@ -246,5 +246,5 @@
     "cards": 7000,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "17 hours"
+    "end_label": "16 hours"
 }
