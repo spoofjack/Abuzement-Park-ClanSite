@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 41491,
+    "clan_score": 41506,
     "required_trophies": 4600,
-    "donations_per_week": 9358,
+    "donations_per_week": 9368,
     "clan_war_trophies": 582,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,6 +34,23 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 934,
+            "donations_received": 570,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5669,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20191221T193600.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 2,
+            "donations": 636,
             "donations_received": 560,
             "clan_chest_points": 0
         },
@@ -48,27 +65,10 @@
             },
             "role": "elder",
             "last_seen": "20191221T130202.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 252,
             "donations_received": 500,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5642,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20191221T193600.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 2,
-            "donations": 636,
-            "donations_received": 560,
             "clan_chest_points": 0
         },
         {
@@ -115,11 +115,28 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20191221T171516.000Z",
+            "last_seen": "20191221T195037.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 10,
             "donations": 893,
             "donations_received": 550,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "exp_level": 12,
+            "trophies": 5410,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20191221T193801.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 9,
+            "donations": 564,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -133,27 +150,10 @@
             },
             "role": "coLeader",
             "last_seen": "20191221T191036.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 6,
             "donations": 1141,
             "donations_received": 610,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "exp_level": 12,
-            "trophies": 5406,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20191221T175923.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 9,
-            "donations": 554,
-            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
