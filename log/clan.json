@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 41913,
+    "clan_score": 41918,
     "required_trophies": 4600,
-    "donations_per_week": 11008,
+    "donations_per_week": 11018,
     "clan_war_trophies": 582,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 12,
-            "trophies": 5343,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20191222T193637.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 9,
-            "donations": 1091,
-            "donations_received": 630,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "exp_level": 13,
@@ -184,10 +167,27 @@
             },
             "role": "member",
             "last_seen": "20191222T181540.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 10,
             "donations": 182,
             "donations_received": 480,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 12,
+            "trophies": 5320,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20191222T202435.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 9,
+            "donations": 1091,
+            "donations_received": 630,
             "clan_chest_points": 0
         },
         {
@@ -259,6 +259,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#LUVYCYUQ",
+            "name": "KiLL3rC0W8OY03",
+            "exp_level": 10,
+            "trophies": 5060,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20191222T202935.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 17,
+            "donations": 444,
+            "donations_received": 520,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#29RCLR22U",
             "name": "KRYOS",
             "exp_level": 11,
@@ -269,27 +286,10 @@
             },
             "role": "member",
             "last_seen": "20191222T184448.000Z",
-            "clan_rank": 15,
+            "clan_rank": 16,
             "previous_clan_rank": 15,
             "donations": 142,
             "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LUVYCYUQ",
-            "name": "KiLL3rC0W8OY03",
-            "exp_level": 10,
-            "trophies": 5001,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20191222T194206.000Z",
-            "clan_rank": 16,
-            "previous_clan_rank": 17,
-            "donations": 434,
-            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -357,14 +357,14 @@
             "clan_rank": 20,
             "previous_clan_rank": 20,
             "donations": 76,
-            "donations_received": 230,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 11,
-            "trophies": 4750,
+            "trophies": 4762,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
