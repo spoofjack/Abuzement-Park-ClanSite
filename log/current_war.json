@@ -1,246 +1,37 @@
 {
-    "state": "warDay",
-    "war_end_time": "20191222T000557.263Z",
-    "collection_end_time": null,
+    "state": "collectionDay",
+    "war_end_time": null,
+    "collection_end_time": "20191223T000836.739Z",
     "clan": {
         "tag": "#LP98YUCV",
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 582,
-        "participants": 19,
-        "crowns": 18,
+        "participants": 2,
+        "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 16,
-        "wins": 5
+        "battles_played": 4,
+        "wins": 0
     },
     "participants": [
         {
-            "tag": "#8LLURYQUG",
-            "name": "3t2",
-            "cards_earned": 340,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#L2GPCGJ22",
-            "name": "jhon",
-            "cards_earned": 400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "cards_earned": 340,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "cards_earned": 510,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 340,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
-            "cards_earned": 340,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
+            "cards_earned": 170,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
             "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "cards_earned": 320,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 255,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#29RCLR22U",
-            "name": "KRYOS",
-            "cards_earned": 340,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#LUVYCYUQ",
-            "name": "KiLL3rC0W8OY03",
-            "cards_earned": 400,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "cards_earned": 425,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#80PQ2RCV",
-            "name": "live long",
-            "cards_earned": 340,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y0VP098",
-            "name": "Thrashmaster",
-            "cards_earned": 340,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 510,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 340,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "cards_earned": 400,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2GGYGCRR0",
-            "name": "Ok Girl",
-            "cards_earned": 400,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
+            "number_of_battles": 3
         },
         {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
-            "cards_earned": 340,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
+            "cards_earned": 170,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
             "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "cards_earned": 320,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
+            "number_of_battles": 3
         }
     ],
-    "clans": [
-        {
-            "tag": "#PC2Y008P",
-            "name": "Twins06",
-            "badge_id": 16000044,
-            "clan_score": 420,
-            "participants": 18,
-            "crowns": 11,
-            "battles_remaining": 1,
-            "battles_played": 17,
-            "wins": 5
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 582,
-            "participants": 19,
-            "crowns": 18,
-            "battles_remaining": 3,
-            "battles_played": 16,
-            "wins": 5
-        },
-        {
-            "tag": "#YY8V82UG",
-            "name": "clan fredo",
-            "badge_id": 16000124,
-            "clan_score": 279,
-            "participants": 17,
-            "crowns": 17,
-            "battles_remaining": 3,
-            "battles_played": 14,
-            "wins": 8
-        },
-        {
-            "tag": "#YUYL8UL2",
-            "name": "los pendjios",
-            "badge_id": 16000009,
-            "clan_score": 301,
-            "participants": 18,
-            "crowns": 9,
-            "battles_remaining": 2,
-            "battles_played": 16,
-            "wins": 5
-        },
-        {
-            "tag": "#L0Q89UCP",
-            "name": "j j j j j j",
-            "badge_id": 16000077,
-            "clan_score": 4,
-            "participants": 17,
-            "crowns": 17,
-            "battles_remaining": 4,
-            "battles_played": 13,
-            "wins": 6
-        }
-    ]
+    "clans": null
 }
