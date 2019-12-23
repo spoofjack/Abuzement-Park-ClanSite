@@ -69,21 +69,21 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "cards_earned": 425,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#80PQ2RCV",
             "name": "live long",
             "cards_earned": 340,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "cards_earned": 425,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -114,21 +114,21 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8PPGP90JU",
-            "name": "Legend3Thebest",
-            "cards_earned": 320,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "cards_earned": 425,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8PPGP90JU",
+            "name": "Legend3Thebest",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -150,21 +150,21 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 340,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 340,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 340,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -188,6 +188,17 @@
     ],
     "clans": [
         {
+            "tag": "#Y92JCYCC",
+            "name": "Legends",
+            "badge_id": 16000002,
+            "clan_score": 551,
+            "participants": 20,
+            "crowns": 21,
+            "battles_remaining": 5,
+            "battles_played": 15,
+            "wins": 11
+        },
+        {
             "tag": "#PCJ99JJU",
             "name": "WeAreNoobsXD",
             "badge_id": 16000029,
@@ -196,17 +207,6 @@
             "crowns": 25,
             "battles_remaining": 0,
             "battles_played": 17,
-            "wins": 10
-        },
-        {
-            "tag": "#Y92JCYCC",
-            "name": "Legends",
-            "badge_id": 16000002,
-            "clan_score": 551,
-            "participants": 20,
-            "crowns": 20,
-            "battles_remaining": 6,
-            "battles_played": 14,
             "wins": 10
         },
         {
@@ -246,5 +246,5 @@
     "cards": 7060,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "5 hours"
+    "end_label": "4 hours"
 }
