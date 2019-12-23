@@ -87,9 +87,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "cards_earned": 320,
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "cards_earned": 400,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -99,15 +99,6 @@
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 340,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "cards_earned": 400,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -168,6 +159,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8PPGP90JU",
             "name": "Legend3Thebest",
             "cards_earned": 320,
@@ -188,6 +188,17 @@
     ],
     "clans": [
         {
+            "tag": "#PCJ99JJU",
+            "name": "WeAreNoobsXD",
+            "badge_id": 16000029,
+            "clan_score": 18,
+            "participants": 17,
+            "crowns": 16,
+            "battles_remaining": 5,
+            "battles_played": 12,
+            "wins": 7
+        },
+        {
             "tag": "#Y92JCYCC",
             "name": "Legends",
             "badge_id": 16000002,
@@ -205,20 +216,9 @@
             "clan_score": 257,
             "participants": 19,
             "crowns": 10,
-            "battles_remaining": 4,
-            "battles_played": 15,
+            "battles_remaining": 3,
+            "battles_played": 16,
             "wins": 7
-        },
-        {
-            "tag": "#PCJ99JJU",
-            "name": "WeAreNoobsXD",
-            "badge_id": 16000029,
-            "clan_score": 18,
-            "participants": 17,
-            "crowns": 13,
-            "battles_remaining": 7,
-            "battles_played": 10,
-            "wins": 6
         },
         {
             "tag": "#Y2J92QLY",
@@ -246,5 +246,5 @@
     "cards": 7060,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "9 hours"
+    "end_label": "8 hours"
 }
