@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 42039,
+    "clan_score": 42058,
     "required_trophies": 4600,
     "donations_per_week": 200,
     "clan_war_trophies": 582,
@@ -225,6 +225,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 12,
+            "trophies": 5175,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20191223T031858.000Z",
+            "clan_rank": 13,
+            "previous_clan_rank": 13,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#80PQ2RCV",
             "name": "live long",
             "exp_level": 12,
@@ -235,25 +252,8 @@
             },
             "role": "elder",
             "last_seen": "20191222T224950.000Z",
-            "clan_rank": 13,
-            "previous_clan_rank": 14,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 12,
-            "trophies": 5085,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20191223T031858.000Z",
             "clan_rank": 14,
-            "previous_clan_rank": 13,
+            "previous_clan_rank": 14,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -361,23 +361,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "exp_level": 10,
-            "trophies": 4803,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20191223T022648.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 22,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "exp_level": 11,
@@ -388,8 +371,25 @@
             },
             "role": "leader",
             "last_seen": "20191222T195422.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 20,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "exp_level": 10,
+            "trophies": 4783,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20191223T033402.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 22,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
