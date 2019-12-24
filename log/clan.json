@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 42150,
+    "clan_score": 42152,
     "required_trophies": 4600,
-    "donations_per_week": 2300,
+    "donations_per_week": 2360,
     "clan_war_trophies": 585,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5799,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20191224T134531.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 2,
+            "donations": 210,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -30,28 +47,11 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20191224T130219.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 1,
-            "donations": 200,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5770,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20191224T132510.000Z",
+            "last_seen": "20191224T134251.000Z",
             "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 210,
-            "donations_received": 180,
+            "previous_clan_rank": 1,
+            "donations": 230,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -98,10 +98,10 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20191224T132223.000Z",
+            "last_seen": "20191224T134944.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 7,
-            "donations": 231,
+            "donations": 241,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -174,23 +174,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "exp_level": 12,
-            "trophies": 5373,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20191224T132951.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 5,
-            "donations": 100,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
             "exp_level": 12,
@@ -201,10 +184,27 @@
             },
             "role": "elder",
             "last_seen": "20191224T050528.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 8,
             "donations": 134,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "exp_level": 12,
+            "trophies": 5326,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20191224T132951.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 5,
+            "donations": 100,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -285,11 +285,11 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20191224T130646.000Z",
+            "last_seen": "20191224T134937.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 16,
-            "donations": 167,
-            "donations_received": 130,
+            "donations": 187,
+            "donations_received": 140,
             "clan_chest_points": 0
         },
         {
@@ -302,11 +302,11 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20191224T131146.000Z",
+            "last_seen": "20191224T134721.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 17,
             "donations": 226,
-            "donations_received": 90,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
