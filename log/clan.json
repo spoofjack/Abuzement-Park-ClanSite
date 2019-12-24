@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 42098,
+    "clan_score": 42094,
     "required_trophies": 4600,
-    "donations_per_week": 1990,
+    "donations_per_week": 2010,
     "clan_war_trophies": 585,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -271,7 +271,7 @@
             "last_seen": "20191224T052531.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 14,
-            "donations": 90,
+            "donations": 100,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -327,23 +327,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "exp_level": 10,
-            "trophies": 4817,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20191224T052149.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 19,
-            "donations": 18,
-            "donations_received": 90,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#L2GPCGJ22",
             "name": "jhon",
             "exp_level": 9,
@@ -354,7 +337,7 @@
             },
             "role": "member",
             "last_seen": "20191224T025004.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 18,
             "donations": 40,
             "donations_received": 80,
@@ -371,7 +354,7 @@
             },
             "role": "member",
             "last_seen": "20191224T011118.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 21,
             "donations": 10,
             "donations_received": 40,
@@ -388,10 +371,27 @@
             },
             "role": "leader",
             "last_seen": "20191223T233142.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 8,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "exp_level": 10,
+            "trophies": 4797,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20191224T052149.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 19,
+            "donations": 18,
+            "donations_received": 100,
             "clan_chest_points": 0
         },
         {
@@ -421,11 +421,11 @@
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20191223T122322.000Z",
+            "last_seen": "20191224T053528.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 24,
-            "donations": 14,
-            "donations_received": 20,
+            "donations": 24,
+            "donations_received": 30,
             "clan_chest_points": 0
         }
     ]
