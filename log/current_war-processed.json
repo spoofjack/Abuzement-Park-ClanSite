@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 585,
         "participants": 19,
-        "crowns": 1,
+        "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 1,
-        "wins": 1
+        "battles_played": 2,
+        "wins": 2
     },
     "participants": [
-        {
-            "tag": "#29RCLR22U",
-            "name": "KRYOS",
-            "cards_earned": 425,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#P09P0VQ8L",
             "name": "HQFaded",
@@ -87,6 +78,24 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2GGYGCRR0",
+            "name": "Ok Girl",
+            "cards_earned": 480,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#29RCLR22U",
+            "name": "KRYOS",
+            "cards_earned": 425,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "cards_earned": 340,
@@ -105,27 +114,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 425,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 340,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2GGYGCRR0",
-            "name": "Ok Girl",
-            "cards_earned": 480,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -184,6 +175,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 425,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -199,6 +199,17 @@
             "wins": 2
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 585,
+            "participants": 19,
+            "crowns": 2,
+            "battles_remaining": 17,
+            "battles_played": 2,
+            "wins": 2
+        },
+        {
             "tag": "#92JQG2CJ",
             "name": "pekas",
             "badge_id": 16000162,
@@ -207,17 +218,6 @@
             "crowns": 2,
             "battles_remaining": 15,
             "battles_played": 2,
-            "wins": 1
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 585,
-            "participants": 19,
-            "crowns": 1,
-            "battles_remaining": 18,
-            "battles_played": 1,
             "wins": 1
         },
         {
@@ -238,8 +238,8 @@
             "clan_score": 290,
             "participants": 18,
             "crowns": 0,
-            "battles_remaining": 17,
-            "battles_played": 1,
+            "battles_remaining": 16,
+            "battles_played": 2,
             "wins": 0
         }
     ],
