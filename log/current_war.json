@@ -7,12 +7,31 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 695,
-        "participants": 0,
+        "participants": 2,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 0,
+        "battles_played": 5,
         "wins": 0
     },
-    "participants": [],
+    "participants": [
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "cards_earned": 340,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "cards_earned": 510,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 3
+        }
+    ],
     "clans": null
 }
