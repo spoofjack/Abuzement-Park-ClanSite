@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 695,
         "participants": 18,
-        "crowns": 7,
+        "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 8,
-        "wins": 4
+        "battles_played": 10,
+        "wins": 5
     },
     "participants": [
         {
@@ -69,18 +69,18 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 510,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#29RCLR22U",
             "name": "KRYOS",
             "cards_earned": 850,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "cards_earned": 680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -96,12 +96,12 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
-            "cards_earned": 680,
-            "battles_played": 0,
+            "tag": "#80PQ2RCV",
+            "name": "live long",
+            "cards_earned": 850,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 0,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -150,15 +150,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#80PQ2RCV",
-            "name": "live long",
-            "cards_earned": 850,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
             "cards_earned": 850,
@@ -175,6 +166,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 510,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -195,10 +195,10 @@
             "badge_id": 16000003,
             "clan_score": 695,
             "participants": 18,
-            "crowns": 7,
-            "battles_remaining": 10,
-            "battles_played": 8,
-            "wins": 4
+            "crowns": 8,
+            "battles_remaining": 8,
+            "battles_played": 10,
+            "wins": 5
         },
         {
             "tag": "#LP9JPQUV",
@@ -207,8 +207,8 @@
             "clan_score": 1465,
             "participants": 18,
             "crowns": 11,
-            "battles_remaining": 6,
-            "battles_played": 12,
+            "battles_remaining": 5,
+            "battles_played": 13,
             "wins": 6
         },
         {
