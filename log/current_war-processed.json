@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 695,
         "participants": 18,
-        "crowns": 9,
+        "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 6
+        "battles_played": 12,
+        "wins": 7
     },
     "participants": [
         {
@@ -29,15 +29,6 @@
             "cards_earned": 850,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "cards_earned": 640,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -168,6 +159,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "cards_earned": 640,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "a##hole",
             "cards_earned": 510,
@@ -178,6 +178,17 @@
         }
     ],
     "clans": [
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 695,
+            "participants": 18,
+            "crowns": 11,
+            "battles_remaining": 6,
+            "battles_played": 12,
+            "wins": 7
+        },
         {
             "tag": "#2RQQPQ2",
             "name": "Furka",
@@ -190,6 +201,17 @@
             "wins": 6
         },
         {
+            "tag": "#22U9L0GL",
+            "name": "Black Ice",
+            "badge_id": 16000095,
+            "clan_score": 1023,
+            "participants": 19,
+            "crowns": 14,
+            "battles_remaining": 11,
+            "battles_played": 8,
+            "wins": 6
+        },
+        {
             "tag": "#LP9JPQUV",
             "name": "Ultimatelasagne",
             "badge_id": 16000139,
@@ -199,28 +221,6 @@
             "battles_remaining": 5,
             "battles_played": 13,
             "wins": 6
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 695,
-            "participants": 18,
-            "crowns": 9,
-            "battles_remaining": 7,
-            "battles_played": 11,
-            "wins": 6
-        },
-        {
-            "tag": "#22U9L0GL",
-            "name": "Black Ice",
-            "badge_id": 16000095,
-            "clan_score": 1023,
-            "participants": 19,
-            "crowns": 11,
-            "battles_remaining": 12,
-            "battles_played": 7,
-            "wins": 5
         },
         {
             "tag": "#PQVPUJJ0",
