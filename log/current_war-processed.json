@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 695,
         "participants": 18,
-        "crowns": 2,
+        "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 1
+        "battles_played": 6,
+        "wins": 2
     },
     "participants": [
         {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "cards_earned": 680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "cards_earned": 850,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -51,15 +42,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#29RCLR22U",
             "name": "KRYOS",
             "cards_earned": 850,
@@ -76,24 +58,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#80PQ2RCV",
-            "name": "live long",
-            "cards_earned": 850,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "cards_earned": 640,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#UVGUUVC0",
@@ -150,9 +114,54 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#80PQ2RCV",
+            "name": "live long",
+            "cards_earned": 850,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "cards_earned": 640,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -166,18 +175,20 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 850,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 695,
+            "participants": 18,
+            "crowns": 4,
+            "battles_remaining": 12,
+            "battles_played": 6,
+            "wins": 2
+        },
         {
             "tag": "#LP9JPQUV",
             "name": "Ultimatelasagne",
@@ -185,8 +196,19 @@
             "clan_score": 1465,
             "participants": 18,
             "crowns": 2,
-            "battles_remaining": 14,
-            "battles_played": 4,
+            "battles_remaining": 12,
+            "battles_played": 6,
+            "wins": 2
+        },
+        {
+            "tag": "#22U9L0GL",
+            "name": "Black Ice",
+            "badge_id": 16000095,
+            "clan_score": 1023,
+            "participants": 19,
+            "crowns": 2,
+            "battles_remaining": 17,
+            "battles_played": 2,
             "wins": 2
         },
         {
@@ -198,28 +220,6 @@
             "crowns": 4,
             "battles_remaining": 16,
             "battles_played": 3,
-            "wins": 1
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 695,
-            "participants": 18,
-            "crowns": 2,
-            "battles_remaining": 15,
-            "battles_played": 3,
-            "wins": 1
-        },
-        {
-            "tag": "#22U9L0GL",
-            "name": "Black Ice",
-            "badge_id": 16000095,
-            "clan_score": 1023,
-            "participants": 19,
-            "crowns": 1,
-            "battles_remaining": 18,
-            "battles_played": 1,
             "wins": 1
         },
         {
