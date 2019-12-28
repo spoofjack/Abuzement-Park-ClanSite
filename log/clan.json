@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 42732,
+    "clan_score": 42718,
     "required_trophies": 4600,
-    "donations_per_week": 7810,
+    "donations_per_week": 7820,
     "clan_war_trophies": 808,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -38,23 +38,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5798,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20191228T031018.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 5,
-            "donations": 737,
-            "donations_received": 590,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -65,10 +48,27 @@
             },
             "role": "coLeader",
             "last_seen": "20191228T071339.000Z",
-            "clan_rank": 3,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 474,
             "donations_received": 480,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5771,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20191228T100525.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 5,
+            "donations": 747,
+            "donations_received": 590,
             "clan_chest_points": 0
         },
         {
@@ -425,7 +425,7 @@
             "clan_rank": 24,
             "previous_clan_rank": 24,
             "donations": 58,
-            "donations_received": 100,
+            "donations_received": 110,
             "clan_chest_points": 0
         }
     ]
