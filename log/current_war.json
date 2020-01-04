@@ -1,163 +1,291 @@
 {
-    "state": "collectionDay",
-    "war_end_time": null,
-    "collection_end_time": "20191229T015148.118Z",
+    "state": "warDay",
+    "war_end_time": "20200105T024909.576Z",
+    "collection_end_time": null,
     "clan": {
         "tag": "#LP98YUCV",
         "name": "Abuzement Park",
         "badge_id": 16000003,
-        "clan_score": 808,
-        "participants": 16,
-        "crowns": 0,
+        "clan_score": 880,
+        "participants": 24,
+        "crowns": 24,
         "battles_remaining": null,
-        "battles_played": 42,
-        "wins": 17
+        "battles_played": 21,
+        "wins": 12
     },
     "participants": [
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 680,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "cards_earned": 680,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
-            "cards_earned": 680,
-            "battles_played": 3,
+            "cards_earned": 850,
+            "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 680,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 680,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#29RCLR22U",
-            "name": "KRYOS",
-            "cards_earned": 680,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#LUVYCYUQ",
-            "name": "KiLL3rC0W8OY03",
-            "cards_earned": 170,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
             "wins": 0,
-            "number_of_battles": 3
+            "number_of_battles": 1
         },
         {
             "tag": "#J8CGQRJY",
             "name": "a##hole",
-            "cards_earned": 850,
-            "battles_played": 3,
+            "cards_earned": 1020,
+            "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 2,
-            "number_of_battles": 3
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#RQGJJR9J",
+            "name": "anjeffrey24",
+            "cards_earned": 800,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 1020,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8JGUU092",
+            "name": "Demon Hunter",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#CJUU8U2",
+            "name": "supersized",
+            "cards_earned": 640,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#G8YQY2QP",
+            "name": "cowfun",
+            "cards_earned": 800,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
+            "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#29RCLR22U",
+            "name": "KRYOS",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#Y0VP098",
+            "name": "melissasboatboy",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "cards_earned": 680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         },
         {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
-            "cards_earned": 510,
-            "battles_played": 3,
+            "cards_earned": 680,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 3
+            "wins": 1,
+            "number_of_battles": 1
         },
         {
             "tag": "#PL990R0YG",
             "name": "JayWizz",
-            "cards_earned": 320,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#L2GPCGJ22",
-            "name": "jhon",
-            "cards_earned": 160,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#2GGYGCRR0",
-            "name": "Ok Girl",
             "cards_earned": 800,
-            "battles_played": 3,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 2,
-            "number_of_battles": 3
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "cards_earned": 800,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         },
         {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
-            "cards_earned": 680,
-            "battles_played": 3,
+            "cards_earned": 900,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
-            "number_of_battles": 3
+            "number_of_battles": 1
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
             "cards_earned": 850,
-            "battles_played": 3,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 2,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#80PQ2RCV",
-            "name": "live long",
-            "cards_earned": 680,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
+            "wins": 0,
+            "number_of_battles": 1
         },
         {
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
-            "cards_earned": 850,
-            "battles_played": 3,
+            "cards_earned": 680,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 2,
-            "number_of_battles": 3
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YGQG9VUVL",
+            "name": "Burkelbear",
+            "cards_earned": 640,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
-    "clans": null
+    "clans": [
+        {
+            "tag": "#8QCJVGJC",
+            "name": "es corpion",
+            "badge_id": 16000086,
+            "clan_score": 843,
+            "participants": 22,
+            "crowns": 13,
+            "battles_remaining": 3,
+            "battles_played": 19,
+            "wins": 8
+        },
+        {
+            "tag": "#YPQYPG9G",
+            "name": "Raiders Nation",
+            "badge_id": 16000163,
+            "clan_score": 680,
+            "participants": 23,
+            "crowns": 25,
+            "battles_remaining": 4,
+            "battles_played": 19,
+            "wins": 12
+        },
+        {
+            "tag": "#Y92LJRJR",
+            "name": "DarkRoses",
+            "badge_id": 16000024,
+            "clan_score": 1426,
+            "participants": 24,
+            "crowns": 22,
+            "battles_remaining": 1,
+            "battles_played": 23,
+            "wins": 10
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 880,
+            "participants": 24,
+            "crowns": 24,
+            "battles_remaining": 3,
+            "battles_played": 21,
+            "wins": 12
+        },
+        {
+            "tag": "#YUCP0PVJ",
+            "name": "Andean's Evil's",
+            "badge_id": 16000144,
+            "clan_score": 1061,
+            "participants": 22,
+            "crowns": 16,
+            "battles_remaining": 5,
+            "battles_played": 17,
+            "wins": 8
+        }
+    ]
 }
