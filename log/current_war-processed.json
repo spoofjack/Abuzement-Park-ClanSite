@@ -7,13 +7,22 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 942,
-        "participants": 2,
+        "participants": 3,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 6,
-        "wins": 2
+        "battles_played": 8,
+        "wins": 3
     },
     "participants": [
+        {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 510,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 3
+        },
         {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
@@ -34,7 +43,7 @@
         }
     ],
     "clans": null,
-    "cards": 1360,
+    "cards": 1870,
     "state_label": "Collection Day",
     "collection_end_time_label": "22 hours",
     "end_label": "1 day, 22 hours"
