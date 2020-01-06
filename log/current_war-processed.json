@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 942,
         "participants": 28,
-        "crowns": 1,
+        "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 4,
-        "wins": 1
+        "battles_played": 6,
+        "wins": 2
     },
     "participants": [
         {
@@ -40,15 +40,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "cards_earned": 680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#PV02PGVQ",
@@ -265,6 +256,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 680,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -274,10 +274,21 @@
             "badge_id": 16000076,
             "clan_score": 1313,
             "participants": 31,
-            "crowns": 2,
-            "battles_remaining": 29,
-            "battles_played": 2,
-            "wins": 1
+            "crowns": 6,
+            "battles_remaining": 26,
+            "battles_played": 5,
+            "wins": 3
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 942,
+            "participants": 28,
+            "crowns": 4,
+            "battles_remaining": 22,
+            "battles_played": 6,
+            "wins": 2
         },
         {
             "tag": "#92Y9R29",
@@ -291,26 +302,15 @@
             "wins": 1
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 942,
-            "participants": 28,
-            "crowns": 1,
-            "battles_remaining": 24,
-            "battles_played": 4,
-            "wins": 1
-        },
-        {
             "tag": "#2PCP8JC8",
             "name": "Wanna Play!!",
             "badge_id": 16000107,
             "clan_score": 1190,
             "participants": 26,
-            "crowns": 0,
-            "battles_remaining": 25,
-            "battles_played": 1,
-            "wins": 0
+            "crowns": 1,
+            "battles_remaining": 23,
+            "battles_played": 3,
+            "wins": 1
         },
         {
             "tag": "#88R2C8YP",
