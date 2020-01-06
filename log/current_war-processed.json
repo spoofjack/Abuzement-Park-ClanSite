@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 942,
         "participants": 28,
-        "crowns": 7,
+        "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 9,
-        "wins": 3
+        "battles_played": 11,
+        "wins": 4
     },
     "participants": [
         {
@@ -62,15 +62,6 @@
         {
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
-            "cards_earned": 850,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#29RCLR22U",
-            "name": "KRYOS",
             "cards_earned": 850,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -186,15 +177,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "cards_earned": 510,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#YGQG9VUVL",
             "name": "Burkelbear",
             "cards_earned": 800,
@@ -240,12 +222,30 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#29RCLR22U",
+            "name": "KRYOS",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "cards_earned": 680,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -274,10 +274,21 @@
             "badge_id": 16000076,
             "clan_score": 1313,
             "participants": 31,
-            "crowns": 11,
-            "battles_remaining": 21,
-            "battles_played": 10,
+            "crowns": 12,
+            "battles_remaining": 20,
+            "battles_played": 11,
             "wins": 5
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 942,
+            "participants": 28,
+            "crowns": 8,
+            "battles_remaining": 17,
+            "battles_played": 11,
+            "wins": 4
         },
         {
             "tag": "#92Y9R29",
@@ -289,17 +300,6 @@
             "battles_remaining": 19,
             "battles_played": 7,
             "wins": 4
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 942,
-            "participants": 28,
-            "crowns": 7,
-            "battles_remaining": 19,
-            "battles_played": 9,
-            "wins": 3
         },
         {
             "tag": "#2PCP8JC8",
@@ -327,5 +327,5 @@
     "cards": 20010,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "21 hours"
+    "end_label": "20 hours"
 }
