@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 43870,
+    "clan_score": 43877,
     "required_trophies": 4600,
-    "donations_per_week": 1900,
+    "donations_per_week": 1920,
     "clan_war_trophies": 942,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -174,6 +174,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "exp_level": 12,
+            "trophies": 4808,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200106T193658.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 7,
+            "donations": 98,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "exp_level": 13,
@@ -184,7 +201,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200106T180948.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 12,
             "donations": 96,
             "donations_received": 80,
@@ -201,7 +218,7 @@
             },
             "role": "member",
             "last_seen": "20200106T165220.000Z",
-            "clan_rank": 11,
+            "clan_rank": 12,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -218,27 +235,10 @@
             },
             "role": "elder",
             "last_seen": "20200106T172933.000Z",
-            "clan_rank": 12,
+            "clan_rank": 13,
             "previous_clan_rank": 11,
             "donations": 11,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "exp_level": 12,
-            "trophies": 4765,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200106T192253.000Z",
-            "clan_rank": 13,
-            "previous_clan_rank": 7,
-            "donations": 78,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -272,24 +272,7 @@
             "clan_rank": 15,
             "previous_clan_rank": 13,
             "donations": 78,
-            "donations_received": 70,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PV9QLU9GQ",
-            "name": "mohamad",
-            "exp_level": 11,
-            "trophies": 4662,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200106T192252.000Z",
-            "clan_rank": 16,
-            "previous_clan_rank": 18,
-            "donations": 20,
-            "donations_received": 70,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -303,10 +286,27 @@
             },
             "role": "member",
             "last_seen": "20200106T183505.000Z",
-            "clan_rank": 17,
+            "clan_rank": 16,
             "previous_clan_rank": 16,
             "donations": 188,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PV9QLU9GQ",
+            "name": "mohamad",
+            "exp_level": 11,
+            "trophies": 4645,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200106T194536.000Z",
+            "clan_rank": 17,
+            "previous_clan_rank": 18,
+            "donations": 20,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -421,7 +421,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200106T192218.000Z",
+            "last_seen": "20200106T193735.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 26,
             "donations": 98,
