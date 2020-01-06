@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50970,
+    "clan_score": 50953,
     "required_trophies": 4600,
-    "donations_per_week": 590,
+    "donations_per_week": 610,
     "clan_war_trophies": 942,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -225,23 +225,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8JGUU092",
-            "name": "Demon Hunter",
-            "exp_level": 13,
-            "trophies": 5429,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20200106T042009.000Z",
-            "clan_rank": 13,
-            "previous_clan_rank": 13,
-            "donations": 68,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 12,
@@ -252,9 +235,26 @@
             },
             "role": "elder",
             "last_seen": "20200106T040408.000Z",
-            "clan_rank": 14,
+            "clan_rank": 13,
             "previous_clan_rank": 14,
             "donations": 20,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JGUU092",
+            "name": "Demon Hunter",
+            "exp_level": 13,
+            "trophies": 5411,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20200106T065924.000Z",
+            "clan_rank": 14,
+            "previous_clan_rank": 13,
+            "donations": 78,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -327,23 +327,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2VQPRPQJ",
-            "name": "grognard",
-            "exp_level": 11,
-            "trophies": 5177,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200106T065811.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "exp_level": 11,
@@ -354,9 +337,26 @@
             },
             "role": "member",
             "last_seen": "20200106T030540.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 21,
             "donations": 78,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2VQPRPQJ",
+            "name": "grognard",
+            "exp_level": 11,
+            "trophies": 5130,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200106T070532.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 0,
+            "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -374,7 +374,7 @@
             "clan_rank": 21,
             "previous_clan_rank": 19,
             "donations": 0,
-            "donations_received": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -591,10 +591,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200106T042247.000Z",
+            "last_seen": "20200106T070236.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 33,
-            "donations": 10,
+            "donations": 20,
             "donations_received": 0,
             "clan_chest_points": 0
         },
