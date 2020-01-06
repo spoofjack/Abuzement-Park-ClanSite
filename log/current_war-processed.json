@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 942,
         "participants": 28,
-        "crowns": 31,
+        "crowns": 33,
         "battles_remaining": null,
-        "battles_played": 26,
-        "wins": 14
+        "battles_played": 27,
+        "wins": 15
     },
     "participants": [
-        {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
-            "cards_earned": 850,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#RVJ9L8RV",
             "name": "hgghdf",
@@ -72,6 +63,15 @@
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "cards_earned": 680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "cards_earned": 850,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -269,6 +269,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 942,
+            "participants": 28,
+            "crowns": 33,
+            "battles_remaining": 1,
+            "battles_played": 27,
+            "wins": 15
+        },
+        {
             "tag": "#92Y9R29",
             "name": "COCHA \u2b50 ROYALE",
             "badge_id": 16000083,
@@ -278,17 +289,6 @@
             "battles_remaining": 2,
             "battles_played": 24,
             "wins": 15
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 942,
-            "participants": 28,
-            "crowns": 31,
-            "battles_remaining": 2,
-            "battles_played": 26,
-            "wins": 14
         },
         {
             "tag": "#88R2C8YP",
