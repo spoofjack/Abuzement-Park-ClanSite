@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50062,
+    "clan_score": 50042,
     "required_trophies": 4600,
-    "donations_per_week": 50,
+    "donations_per_week": 70,
     "clan_war_trophies": 942,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -41,17 +41,17 @@
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
-            "trophies": 5868,
+            "trophies": 5841,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200106T001735.000Z",
+            "last_seen": "20200106T002350.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 3,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -89,18 +89,18 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#GYQQ0PY",
-            "name": "SloppyJoe",
-            "exp_level": 13,
-            "trophies": 5735,
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 12,
+            "trophies": 5734,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
-            "role": "member",
-            "last_seen": "20200106T000634.000Z",
+            "role": "elder",
+            "last_seen": "20200106T001852.000Z",
             "clan_rank": 5,
-            "previous_clan_rank": 6,
+            "previous_clan_rank": 10,
             "donations": 10,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -123,6 +123,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
+            "exp_level": 13,
+            "trophies": 5708,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "member",
+            "last_seen": "20200106T000634.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 6,
+            "donations": 10,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "a##hole",
             "exp_level": 13,
@@ -133,7 +150,7 @@
             },
             "role": "elder",
             "last_seen": "20200105T235208.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 9,
             "donations": 0,
             "donations_received": 10,
@@ -150,26 +167,9 @@
             },
             "role": "elder",
             "last_seen": "20200106T001713.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 10,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 12,
-            "trophies": 5675,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "elder",
-            "last_seen": "20200105T234945.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 10,
-            "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -191,23 +191,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8JGUU092",
-            "name": "Demon Hunter",
-            "exp_level": 13,
-            "trophies": 5634,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "member",
-            "last_seen": "20200106T000830.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 13,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "exp_level": 13,
@@ -218,8 +201,25 @@
             },
             "role": "coLeader",
             "last_seen": "20200105T233217.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 11,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JGUU092",
+            "name": "Demon Hunter",
+            "exp_level": 13,
+            "trophies": 5607,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "member",
+            "last_seen": "20200106T000830.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 13,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -330,7 +330,7 @@
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "exp_level": 11,
-            "trophies": 5184,
+            "trophies": 5121,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -339,7 +339,7 @@
             "last_seen": "20200106T001527.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 21,
-            "donations": 10,
+            "donations": 20,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -404,7 +404,7 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200105T221748.000Z",
+            "last_seen": "20200106T002147.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 24,
             "donations": 0,
