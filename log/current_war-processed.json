@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 942,
         "participants": 28,
-        "crowns": 0,
+        "crowns": 1,
         "battles_remaining": null,
-        "battles_played": 1,
-        "wins": 0
+        "battles_played": 4,
+        "wins": 1
     },
     "participants": [
         {
@@ -51,29 +51,11 @@
             "number_of_battles": 2
         },
         {
-            "tag": "#8JGUU092",
-            "name": "Demon Hunter",
-            "cards_earned": 1020,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "cards_earned": 340,
             "battles_played": 0,
             "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CJUU8U2",
-            "name": "supersized",
-            "cards_earned": 830,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -117,15 +99,6 @@
             "tag": "#29RCLR22U",
             "name": "KRYOS",
             "cards_earned": 850,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "cards_earned": 680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -258,6 +231,24 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8JGUU092",
+            "name": "Demon Hunter",
+            "cards_earned": 1020,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#CJUU8U2",
+            "name": "supersized",
+            "cards_earned": 830,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 850,
@@ -265,19 +256,50 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#Y0JVRPR9",
+            "name": "The True North",
+            "badge_id": 16000076,
+            "clan_score": 1313,
+            "participants": 31,
+            "crowns": 2,
+            "battles_remaining": 29,
+            "battles_played": 2,
+            "wins": 1
+        },
         {
             "tag": "#92Y9R29",
             "name": "COCHA \u2b50 ROYALE",
             "badge_id": 16000083,
             "clan_score": 1208,
             "participants": 26,
-            "crowns": 0,
-            "battles_remaining": 26,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 1,
+            "battles_remaining": 24,
+            "battles_played": 2,
+            "wins": 1
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 942,
+            "participants": 28,
+            "crowns": 1,
+            "battles_remaining": 24,
+            "battles_played": 4,
+            "wins": 1
         },
         {
             "tag": "#2PCP8JC8",
@@ -291,17 +313,6 @@
             "wins": 0
         },
         {
-            "tag": "#Y0JVRPR9",
-            "name": "The True North",
-            "badge_id": 16000076,
-            "clan_score": 1313,
-            "participants": 31,
-            "crowns": 0,
-            "battles_remaining": 31,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
             "tag": "#88R2C8YP",
             "name": "KillerWarriors2",
             "badge_id": 16000042,
@@ -310,17 +321,6 @@
             "crowns": 0,
             "battles_remaining": 30,
             "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 942,
-            "participants": 28,
-            "crowns": 0,
-            "battles_remaining": 27,
-            "battles_played": 1,
             "wins": 0
         }
     ],
