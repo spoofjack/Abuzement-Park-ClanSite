@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 43932,
+    "clan_score": 43939,
     "required_trophies": 4600,
-    "donations_per_week": 2150,
+    "donations_per_week": 2170,
     "clan_war_trophies": 942,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -115,11 +115,28 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200106T221830.000Z",
+            "last_seen": "20200106T233730.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 7,
-            "donations": 258,
+            "donations": 268,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "exp_level": 12,
+            "trophies": 4880,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200106T233904.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 10,
+            "donations": 37,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -132,8 +149,8 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200106T021037.000Z",
-            "clan_rank": 7,
+            "last_seen": "20200106T234147.000Z",
+            "clan_rank": 8,
             "previous_clan_rank": 4,
             "donations": 10,
             "donations_received": 0,
@@ -149,27 +166,10 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20200106T195810.000Z",
-            "clan_rank": 8,
+            "last_seen": "20200106T234605.000Z",
+            "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 76,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "exp_level": 12,
-            "trophies": 4850,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200106T231805.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 10,
-            "donations": 27,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -183,7 +183,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200106T213905.000Z",
+            "last_seen": "20200106T234311.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 6,
             "donations": 98,
@@ -310,23 +310,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "exp_level": 11,
-            "trophies": 4621,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200106T231014.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 18,
-            "donations": 44,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#80PQ2RCV",
             "name": "live long",
             "exp_level": 13,
@@ -337,10 +320,27 @@
             },
             "role": "elder",
             "last_seen": "20200105T205825.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 17,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "exp_level": 11,
+            "trophies": 4587,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200106T231014.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 18,
+            "donations": 44,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -361,23 +361,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2VQPRPQJ",
-            "name": "grognard",
-            "exp_level": 11,
-            "trophies": 4561,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200106T233150.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 20,
-            "donations": 18,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "exp_level": 11,
@@ -388,10 +371,27 @@
             },
             "role": "member",
             "last_seen": "20200106T231653.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 24,
             "donations": 58,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2VQPRPQJ",
+            "name": "grognard",
+            "exp_level": 11,
+            "trophies": 4544,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200106T233150.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 20,
+            "donations": 18,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -446,6 +446,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "exp_level": 10,
+            "trophies": 4508,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200106T234542.000Z",
+            "clan_rank": 26,
+            "previous_clan_rank": 30,
+            "donations": 0,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 11,
@@ -456,7 +473,7 @@
             },
             "role": "elder",
             "last_seen": "20200106T232619.000Z",
-            "clan_rank": 26,
+            "clan_rank": 27,
             "previous_clan_rank": 27,
             "donations": 99,
             "donations_received": 120,
@@ -473,7 +490,7 @@
             },
             "role": "leader",
             "last_seen": "20200105T211306.000Z",
-            "clan_rank": 27,
+            "clan_rank": 28,
             "previous_clan_rank": 28,
             "donations": 0,
             "donations_received": 0,
@@ -490,27 +507,10 @@
             },
             "role": "member",
             "last_seen": "20200106T215835.000Z",
-            "clan_rank": 28,
+            "clan_rank": 29,
             "previous_clan_rank": 29,
             "donations": 0,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "exp_level": 10,
-            "trophies": 4478,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200106T232745.000Z",
-            "clan_rank": 29,
-            "previous_clan_rank": 30,
-            "donations": 0,
-            "donations_received": 100,
             "clan_chest_points": 0
         },
         {
