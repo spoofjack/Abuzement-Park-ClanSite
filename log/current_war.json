@@ -10,7 +10,7 @@
         "participants": 28,
         "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 6,
+        "battles_played": 8,
         "wins": 2
     },
     "participants": [
@@ -76,15 +76,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 850,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#29RCLR22U",
@@ -265,6 +256,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 850,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -296,10 +296,10 @@
             "badge_id": 16000076,
             "clan_score": 1313,
             "participants": 31,
-            "crowns": 7,
-            "battles_remaining": 25,
-            "battles_played": 6,
-            "wins": 3
+            "crowns": 11,
+            "battles_remaining": 23,
+            "battles_played": 8,
+            "wins": 5
         },
         {
             "tag": "#88R2C8YP",
@@ -319,8 +319,8 @@
             "clan_score": 942,
             "participants": 28,
             "crowns": 4,
-            "battles_remaining": 22,
-            "battles_played": 6,
+            "battles_remaining": 20,
+            "battles_played": 8,
             "wins": 2
         }
     ]
