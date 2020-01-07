@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 43658,
+    "clan_score": 43653,
     "required_trophies": 4600,
-    "donations_per_week": 2820,
+    "donations_per_week": 2830,
     "clan_war_trophies": 1058,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -191,23 +191,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 12,
-            "trophies": 4852,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200107T024806.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 5,
-            "donations": 184,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 12,
@@ -218,10 +201,27 @@
             },
             "role": "elder",
             "last_seen": "20200107T040625.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 9,
             "donations": 108,
             "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 12,
+            "trophies": 4832,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200107T100055.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 5,
+            "donations": 194,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -370,7 +370,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200107T073515.000Z",
+            "last_seen": "20200107T100910.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 21,
             "donations": 48,
@@ -425,7 +425,7 @@
             "clan_rank": 24,
             "previous_clan_rank": 23,
             "donations": 10,
-            "donations_received": 90,
+            "donations_received": 100,
             "clan_chest_points": 0
         },
         {
