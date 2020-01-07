@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 942,
         "participants": 28,
-        "crowns": 34,
+        "crowns": 37,
         "battles_remaining": null,
-        "battles_played": 29,
-        "wins": 15
+        "battles_played": 30,
+        "wins": 16
     },
     "participants": [
         {
             "tag": "#RVJ9L8RV",
             "name": "hgghdf",
             "cards_earned": 450,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2GGYGCRR0",
-            "name": "Ok Girl",
-            "cards_earned": 480,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -186,6 +177,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2GGYGCRR0",
+            "name": "Ok Girl",
+            "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#20LGGP900",
             "name": "blackdog",
             "cards_earned": 680,
@@ -318,10 +318,10 @@
             "badge_id": 16000003,
             "clan_score": 942,
             "participants": 28,
-            "crowns": 34,
+            "crowns": 37,
             "battles_remaining": 0,
-            "battles_played": 29,
-            "wins": 15
+            "battles_played": 30,
+            "wins": 16
         }
     ]
 }
