@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 1058,
-        "participants": 7,
+        "participants": 8,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 20,
-        "wins": 7
+        "battles_played": 23,
+        "wins": 8
     },
     "participants": [
         {
@@ -30,6 +30,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#2C089YV2",
+            "name": "bry",
+            "cards_earned": 640,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 3
         },
         {
@@ -79,7 +88,7 @@
         }
     ],
     "clans": null,
-    "cards": 4320,
+    "cards": 4960,
     "state_label": "Collection Day",
     "collection_end_time_label": "21 hours",
     "end_label": "1 day, 21 hours"
