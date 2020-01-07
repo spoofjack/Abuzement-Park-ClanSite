@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 43806,
+    "clan_score": 43817,
     "required_trophies": 4600,
     "donations_per_week": 4091,
     "clan_war_trophies": 1058,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5055,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20200107T224012.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 1,
+            "donations": 404,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200107T181315.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 6,
             "donations": 146,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5025,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20200107T211351.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 1,
-            "donations": 404,
-            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -395,23 +395,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "exp_level": 11,
-            "trophies": 4563,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200107T220523.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 20,
-            "donations": 234,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PL990R0YG",
             "name": "JayWizz",
             "exp_level": 10,
@@ -422,7 +405,7 @@
             },
             "role": "member",
             "last_seen": "20200107T220121.000Z",
-            "clan_rank": 24,
+            "clan_rank": 23,
             "previous_clan_rank": 19,
             "donations": 40,
             "donations_received": 160,
@@ -439,7 +422,7 @@
             },
             "role": "member",
             "last_seen": "20200107T203235.000Z",
-            "clan_rank": 25,
+            "clan_rank": 24,
             "previous_clan_rank": 24,
             "donations": 10,
             "donations_received": 160,
@@ -456,10 +439,27 @@
             },
             "role": "member",
             "last_seen": "20200107T221711.000Z",
-            "clan_rank": 26,
+            "clan_rank": 25,
             "previous_clan_rank": 29,
             "donations": 202,
             "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "exp_level": 11,
+            "trophies": 4530,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200107T224610.000Z",
+            "clan_rank": 26,
+            "previous_clan_rank": 20,
+            "donations": 234,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
