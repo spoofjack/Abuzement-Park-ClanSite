@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 43693,
+    "clan_score": 43736,
     "required_trophies": 4600,
-    "donations_per_week": 3323,
+    "donations_per_week": 3354,
     "clan_war_trophies": 1058,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 4986,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200107T135145.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 4,
+            "donations": 370,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -31,7 +48,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200107T131237.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 308,
             "donations_received": 160,
@@ -48,10 +65,27 @@
             },
             "role": "coLeader",
             "last_seen": "20200107T131414.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 6,
             "donations": 146,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "exp_level": 12,
+            "trophies": 4961,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200107T133814.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 10,
+            "donations": 125,
+            "donations_received": 104,
             "clan_chest_points": 0
         },
         {
@@ -65,27 +99,10 @@
             },
             "role": "elder",
             "last_seen": "20200107T115650.000Z",
-            "clan_rank": 3,
+            "clan_rank": 5,
             "previous_clan_rank": 8,
             "donations": 96,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "exp_level": 12,
-            "trophies": 4932,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200107T014421.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 10,
-            "donations": 118,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -99,7 +116,7 @@
             },
             "role": "elder",
             "last_seen": "20200107T085918.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 3,
             "donations": 80,
             "donations_received": 130,
@@ -115,27 +132,10 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200107T133044.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 2,
-            "donations": 144,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 4919,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200107T132625.000Z",
+            "last_seen": "20200107T135146.000Z",
             "clan_rank": 7,
-            "previous_clan_rank": 4,
-            "donations": 362,
+            "previous_clan_rank": 2,
+            "donations": 152,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 4797,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200107T125516.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 14,
-            "donations": 61,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "exp_level": 13,
@@ -268,10 +251,27 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200107T111816.000Z",
-            "clan_rank": 15,
+            "last_seen": "20200107T135142.000Z",
+            "clan_rank": 14,
             "previous_clan_rank": 11,
-            "donations": 154,
+            "donations": 162,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 4777,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200107T125516.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 14,
+            "donations": 61,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -510,7 +510,7 @@
             "clan_rank": 29,
             "previous_clan_rank": 24,
             "donations": 164,
-            "donations_received": 193,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
