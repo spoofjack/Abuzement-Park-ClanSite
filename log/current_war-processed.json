@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1058,
         "participants": 25,
-        "crowns": 8,
+        "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 4,
-        "wins": 4
+        "battles_played": 5,
+        "wins": 5
     },
     "participants": [
         {
@@ -62,15 +62,6 @@
         {
             "tag": "#CJUU8U2",
             "name": "supersized",
-            "cards_earned": 640,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2C089YV2",
-            "name": "bry",
             "cards_earned": 640,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -213,6 +204,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2C089YV2",
+            "name": "bry",
+            "cards_earned": 640,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "cards_earned": 960,
@@ -247,9 +247,20 @@
             "badge_id": 16000003,
             "clan_score": 1058,
             "participants": 25,
-            "crowns": 8,
-            "battles_remaining": 21,
-            "battles_played": 4,
+            "crowns": 11,
+            "battles_remaining": 20,
+            "battles_played": 5,
+            "wins": 5
+        },
+        {
+            "tag": "#YPYJR2GG",
+            "name": "Nova Realeza BR",
+            "badge_id": 16000058,
+            "clan_score": 1023,
+            "participants": 26,
+            "crowns": 13,
+            "battles_remaining": 20,
+            "battles_played": 6,
             "wins": 4
         },
         {
@@ -264,25 +275,14 @@
             "wins": 4
         },
         {
-            "tag": "#YPYJR2GG",
-            "name": "Nova Realeza BR",
-            "badge_id": 16000058,
-            "clan_score": 1023,
-            "participants": 26,
-            "crowns": 10,
-            "battles_remaining": 21,
-            "battles_played": 5,
-            "wins": 3
-        },
-        {
             "tag": "#YYCC22JC",
             "name": "elporsiacaso",
             "badge_id": 16000166,
             "clan_score": 981,
             "participants": 23,
-            "crowns": 6,
-            "battles_remaining": 19,
-            "battles_played": 4,
+            "crowns": 8,
+            "battles_remaining": 17,
+            "battles_played": 6,
             "wins": 2
         },
         {
@@ -300,5 +300,5 @@
     "cards": 16690,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
