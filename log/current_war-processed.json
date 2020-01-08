@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1058,
         "participants": 25,
-        "crowns": 6,
+        "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 3
+        "battles_played": 4,
+        "wins": 4
     },
     "participants": [
         {
@@ -150,15 +150,6 @@
             "number_of_battles": 2
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 480,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#PV9QLU9GQ",
             "name": "mohamad",
             "cards_earned": 320,
@@ -231,6 +222,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
             "cards_earned": 640,
@@ -242,6 +242,28 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1058,
+            "participants": 25,
+            "crowns": 8,
+            "battles_remaining": 21,
+            "battles_played": 4,
+            "wins": 4
+        },
+        {
+            "tag": "#92JP8009",
+            "name": "washers Team",
+            "badge_id": 16000027,
+            "clan_score": 1128,
+            "participants": 27,
+            "crowns": 7,
+            "battles_remaining": 22,
+            "battles_played": 5,
+            "wins": 4
+        },
+        {
             "tag": "#YPYJR2GG",
             "name": "Nova Realeza BR",
             "badge_id": 16000058,
@@ -250,28 +272,6 @@
             "crowns": 10,
             "battles_remaining": 21,
             "battles_played": 5,
-            "wins": 3
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1058,
-            "participants": 25,
-            "crowns": 6,
-            "battles_remaining": 22,
-            "battles_played": 3,
-            "wins": 3
-        },
-        {
-            "tag": "#92JP8009",
-            "name": "washers Team",
-            "badge_id": 16000027,
-            "clan_score": 1128,
-            "participants": 27,
-            "crowns": 5,
-            "battles_remaining": 23,
-            "battles_played": 4,
             "wins": 3
         },
         {
