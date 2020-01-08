@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 1058,
         "participants": 25,
-        "crowns": 18,
+        "crowns": 19,
         "battles_remaining": null,
-        "battles_played": 12,
-        "wins": 8
+        "battles_played": 13,
+        "wins": 9
     },
     "participants": [
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 800,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
@@ -141,6 +132,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 800,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 480,
@@ -242,6 +242,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1058,
+            "participants": 25,
+            "crowns": 19,
+            "battles_remaining": 12,
+            "battles_played": 13,
+            "wins": 9
+        },
+        {
             "tag": "#YPYJR2GG",
             "name": "Nova Realeza BR",
             "badge_id": 16000058,
@@ -253,15 +264,15 @@
             "wins": 8
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1058,
-            "participants": 25,
-            "crowns": 18,
+            "tag": "#PC2PY88C",
+            "name": "Famos",
+            "badge_id": 16000016,
+            "clan_score": 762,
+            "participants": 24,
+            "crowns": 15,
             "battles_remaining": 13,
-            "battles_played": 12,
-            "wins": 8
+            "battles_played": 11,
+            "wins": 7
         },
         {
             "tag": "#YYCC22JC",
@@ -272,17 +283,6 @@
             "crowns": 13,
             "battles_remaining": 12,
             "battles_played": 11,
-            "wins": 6
-        },
-        {
-            "tag": "#PC2PY88C",
-            "name": "Famos",
-            "badge_id": 16000016,
-            "clan_score": 762,
-            "participants": 24,
-            "crowns": 13,
-            "battles_remaining": 14,
-            "battles_played": 10,
             "wins": 6
         },
         {
