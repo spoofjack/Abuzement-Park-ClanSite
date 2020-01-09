@@ -8,33 +8,15 @@
         "badge_id": 16000003,
         "clan_score": 1058,
         "participants": 25,
-        "crowns": 26,
+        "crowns": 27,
         "battles_remaining": null,
-        "battles_played": 22,
-        "wins": 12
+        "battles_played": 24,
+        "wins": 13
     },
     "participants": [
         {
-            "tag": "#RVJ9L8RV",
-            "name": "hgghdf",
-            "cards_earned": 600,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2VQPRPQJ",
             "name": "grognard",
-            "cards_earned": 800,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#GYQQ0PY",
-            "name": "SloppyJoe",
             "cards_earned": 800,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -132,9 +114,27 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#RVJ9L8RV",
+            "name": "hgghdf",
+            "cards_earned": 600,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
+            "cards_earned": 800,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -269,10 +269,10 @@
             "badge_id": 16000003,
             "clan_score": 1058,
             "participants": 25,
-            "crowns": 26,
-            "battles_remaining": 3,
-            "battles_played": 22,
-            "wins": 12
+            "crowns": 27,
+            "battles_remaining": 1,
+            "battles_played": 24,
+            "wins": 13
         },
         {
             "tag": "#92JP8009",
