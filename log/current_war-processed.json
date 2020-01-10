@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1122,
         "participants": 29,
-        "crowns": 20,
+        "crowns": 22,
         "battles_remaining": null,
-        "battles_played": 17,
-        "wins": 12
+        "battles_played": 19,
+        "wins": 14
     },
     "participants": [
         {
@@ -105,27 +105,9 @@
             "number_of_battles": 2
         },
         {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "cards_earned": 640,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "cards_earned": 480,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "cards_earned": 680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -240,12 +222,30 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "cards_earned": 640,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 850,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "cards_earned": 680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -278,6 +278,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1122,
+            "participants": 29,
+            "crowns": 22,
+            "battles_remaining": 10,
+            "battles_played": 19,
+            "wins": 14
+        },
+        {
             "tag": "#899V2G8P",
             "name": "BAKEPOTATO",
             "badge_id": 16000077,
@@ -289,15 +300,15 @@
             "wins": 12
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1122,
-            "participants": 29,
-            "crowns": 20,
-            "battles_remaining": 12,
-            "battles_played": 17,
-            "wins": 12
+            "tag": "#9L22UUY8",
+            "name": "Indian warriors",
+            "badge_id": 16000017,
+            "clan_score": 936,
+            "participants": 26,
+            "crowns": 31,
+            "battles_remaining": 3,
+            "battles_played": 23,
+            "wins": 10
         },
         {
             "tag": "#8RV8QQ28",
@@ -311,25 +322,14 @@
             "wins": 10
         },
         {
-            "tag": "#9L22UUY8",
-            "name": "Indian warriors",
-            "badge_id": 16000017,
-            "clan_score": 936,
-            "participants": 26,
-            "crowns": 29,
-            "battles_remaining": 4,
-            "battles_played": 22,
-            "wins": 9
-        },
-        {
             "tag": "#LPRQQY0P",
             "name": "Knights",
             "badge_id": 16000177,
             "clan_score": 730,
             "participants": 31,
-            "crowns": 16,
-            "battles_remaining": 10,
-            "battles_played": 21,
+            "crowns": 17,
+            "battles_remaining": 9,
+            "battles_played": 22,
             "wins": 6
         }
     ],
