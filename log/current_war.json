@@ -10,7 +10,7 @@
         "participants": 29,
         "crowns": 28,
         "battles_remaining": null,
-        "battles_played": 23,
+        "battles_played": 24,
         "wins": 17
     },
     "participants": [
@@ -18,15 +18,6 @@
             "tag": "#PV02PGVQ",
             "name": "someone",
             "cards_earned": 800,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CJUU8U2",
-            "name": "supersized",
-            "cards_earned": 480,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -117,6 +108,15 @@
             "tag": "#8JGUU092",
             "name": "Demon Hunter",
             "cards_earned": 800,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#CJUU8U2",
+            "name": "supersized",
+            "cards_earned": 480,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -306,8 +306,8 @@
             "clan_score": 1122,
             "participants": 29,
             "crowns": 28,
-            "battles_remaining": 6,
-            "battles_played": 23,
+            "battles_remaining": 5,
+            "battles_played": 24,
             "wins": 17
         },
         {
