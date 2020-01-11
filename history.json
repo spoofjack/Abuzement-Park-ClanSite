@@ -1,5 +1,5 @@
 {
-    "last_update": 1578715574.540021,
+    "last_update": 1578716463.511633,
     "members": {
         "#UVGUUVC0": {
             "name": "ok guy",
@@ -166,11 +166,11 @@
         "#9CCL2G0G": {
             "name": "Patrick",
             "join_date": 1574710200,
-            "last_activity_date": 1578712905.553813,
-            "last_donation_date": 1578672824.540268,
+            "last_activity_date": 1578716463.511633,
+            "last_donation_date": 1578716463.511633,
             "role": "elder",
             "status": "present",
-            "donations": 304,
+            "donations": 314,
             "donations_last_week": 406,
             "events": [
                 {
@@ -202,11 +202,11 @@
         "#YLCPYQPR": {
             "name": "Gopher!",
             "join_date": 1574406000,
-            "last_activity_date": 1578712905.553813,
-            "last_donation_date": 1578712905.553813,
+            "last_activity_date": 1578716463.511633,
+            "last_donation_date": 1578716463.511633,
             "role": "elder",
             "status": "present",
-            "donations": 452,
+            "donations": 462,
             "donations_last_week": 860,
             "events": [
                 {
@@ -244,11 +244,11 @@
         "#9P0V20CY8": {
             "name": "Hilda",
             "join_date": 1574816400,
-            "last_activity_date": 1578715574.540021,
-            "last_donation_date": 1578713795.485549,
+            "last_activity_date": 1578716463.511633,
+            "last_donation_date": 1578716463.511633,
             "role": "elder",
             "status": "present",
-            "donations": 254,
+            "donations": 264,
             "donations_last_week": 242,
             "events": [
                 {
@@ -496,7 +496,7 @@
         "#PL990R0YG": {
             "name": "JayWizz",
             "join_date": 1575894022.878476,
-            "last_activity_date": 1578715574.540021,
+            "last_activity_date": 1578716463.511633,
             "last_donation_date": 1578508622.625092,
             "role": "member",
             "status": "present",
@@ -721,7 +721,7 @@
             "last_activity_date": 1578712905.553813,
             "last_donation_date": 1578674604.475584,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 84,
             "donations_last_week": 88,
             "events": [
@@ -730,6 +730,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1578169292.169115
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1578716463.511633
                 }
             ]
         },
@@ -811,7 +817,7 @@
             "last_activity_date": 1578712905.553813,
             "last_donation_date": 1578344622.493724,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 10,
             "donations_last_week": 58,
             "events": [
@@ -820,17 +826,23 @@
                     "type": "new",
                     "role": "member",
                     "date": 1578169292.169115
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1578716463.511633
                 }
             ]
         },
         "#YJPYL02JC": {
             "name": "john",
             "join_date": 1578169292.169115,
-            "last_activity_date": 1578697779.552634,
-            "last_donation_date": 1578697779.552634,
+            "last_activity_date": 1578716463.511633,
+            "last_donation_date": 1578716463.511633,
             "role": "member",
             "status": "present",
-            "donations": 153,
+            "donations": 163,
             "donations_last_week": 123,
             "events": [
                 {
@@ -1063,7 +1075,7 @@
             "last_activity_date": 1578715574.540021,
             "last_donation_date": 1578715574.540021,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 0,
             "events": [
@@ -1072,6 +1084,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1578715574.540021
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1578716463.511633
                 }
             ]
         }
