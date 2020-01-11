@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 45182,
+    "clan_score": 45219,
     "required_trophies": 4600,
-    "donations_per_week": 10367,
+    "donations_per_week": 10425,
     "clan_war_trophies": 1122,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -51,7 +51,24 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 887,
-            "donations_received": 550,
+            "donations_received": 560,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5265,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20200111T020150.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 3,
+            "donations": 1162,
+            "donations_received": 528,
             "clan_chest_points": 0
         },
         {
@@ -65,27 +82,10 @@
             },
             "role": "elder",
             "last_seen": "20200111T005413.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 6,
             "donations": 353,
             "donations_received": 178,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5150,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20200111T020150.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 3,
-            "donations": 1152,
-            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -166,27 +166,10 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200111T011231.000Z",
+            "last_seen": "20200111T022046.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 12,
-            "donations": 466,
-            "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "exp_level": 13,
-            "trophies": 5061,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200111T020515.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 7,
-            "donations": 424,
+            "donations": 476,
             "donations_received": 440,
             "clan_chest_points": 0
         },
@@ -201,10 +184,27 @@
             },
             "role": "leader",
             "last_seen": "20200110T235116.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 11,
             "donations": 568,
             "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "exp_level": 13,
+            "trophies": 4995,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200111T020515.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 7,
+            "donations": 424,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -327,6 +327,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YGQG9VUVL",
+            "name": "Burkelbear",
+            "exp_level": 11,
+            "trophies": 4689,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200111T021656.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 21,
+            "donations": 164,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PL990R0YG",
             "name": "JayWizz",
             "exp_level": 10,
@@ -336,28 +353,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200110T170654.000Z",
-            "clan_rank": 19,
+            "last_seen": "20200111T022144.000Z",
+            "clan_rank": 20,
             "previous_clan_rank": 18,
             "donations": 96,
             "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YGQG9VUVL",
-            "name": "Burkelbear",
-            "exp_level": 11,
-            "trophies": 4660,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200111T015555.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 21,
-            "donations": 146,
-            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -557,10 +557,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200110T014700.000Z",
+            "last_seen": "20200111T021428.000Z",
             "clan_rank": 32,
             "previous_clan_rank": 32,
-            "donations": 78,
+            "donations": 98,
             "donations_received": 0,
             "clan_chest_points": 0
         },
