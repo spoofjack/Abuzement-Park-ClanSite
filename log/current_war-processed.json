@@ -10,7 +10,7 @@
         "participants": 27,
         "crowns": 6,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 11,
         "wins": 4
     },
     "participants": [
@@ -81,15 +81,6 @@
             "tag": "#LUVYCYUQ",
             "name": "KiLL3rC0W8OY03",
             "cards_earned": 800,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y0VP098",
-            "name": "melissasboatboy",
-            "cards_earned": 850,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -240,6 +231,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#Y0VP098",
+            "name": "melissasboatboy",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PL990R0YG",
             "name": "JayWizz",
             "cards_earned": 160,
@@ -298,10 +298,10 @@
             "badge_id": 16000058,
             "clan_score": 1222,
             "participants": 27,
-            "crowns": 6,
-            "battles_remaining": 19,
-            "battles_played": 8,
-            "wins": 5
+            "crowns": 9,
+            "battles_remaining": 18,
+            "battles_played": 9,
+            "wins": 6
         },
         {
             "tag": "#LP98YUCV",
@@ -310,13 +310,13 @@
             "clan_score": 1242,
             "participants": 27,
             "crowns": 6,
-            "battles_remaining": 17,
-            "battles_played": 10,
+            "battles_remaining": 16,
+            "battles_played": 11,
             "wins": 4
         }
     ],
     "cards": 19110,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "17 hours"
+    "end_label": "16 hours"
 }
