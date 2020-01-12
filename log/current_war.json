@@ -10,7 +10,7 @@
         "participants": 27,
         "crowns": 6,
         "battles_remaining": null,
-        "battles_played": 7,
+        "battles_played": 8,
         "wins": 4
     },
     "participants": [
@@ -177,15 +177,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "cards_earned": 850,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#YGQG9VUVL",
             "name": "Burkelbear",
             "cards_earned": 640,
@@ -256,6 +247,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -277,8 +277,8 @@
             "clan_score": 1222,
             "participants": 27,
             "crowns": 3,
-            "battles_remaining": 24,
-            "battles_played": 3,
+            "battles_remaining": 23,
+            "battles_played": 4,
             "wins": 2
         },
         {
@@ -288,8 +288,8 @@
             "clan_score": 1242,
             "participants": 27,
             "crowns": 6,
-            "battles_remaining": 20,
-            "battles_played": 7,
+            "battles_remaining": 19,
+            "battles_played": 8,
             "wins": 4
         },
         {
@@ -298,10 +298,10 @@
             "badge_id": 16000143,
             "clan_score": 1280,
             "participants": 27,
-            "crowns": 15,
-            "battles_remaining": 17,
-            "battles_played": 10,
-            "wins": 6
+            "crowns": 16,
+            "battles_remaining": 16,
+            "battles_played": 11,
+            "wins": 7
         },
         {
             "tag": "#92JP8009",
