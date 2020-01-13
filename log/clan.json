@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50071,
+    "clan_score": 50083,
     "required_trophies": 5000,
-    "donations_per_week": 2536,
+    "donations_per_week": 2624,
     "clan_war_trophies": 1235,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -60,14 +60,14 @@
             "exp_level": 13,
             "trophies": 5282,
             "arena": {
-                "id": 54000016,
-                "name": "Master II"
+                "id": 54000015,
+                "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200113T154221.000Z",
+            "last_seen": "20200113T201216.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 5,
-            "donations": 60,
+            "donations": 68,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -98,27 +98,27 @@
                 "name": "Master I"
             },
             "role": "leader",
-            "last_seen": "20200113T190320.000Z",
+            "last_seen": "20200113T200103.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 9,
-            "donations": 96,
-            "donations_received": 40,
+            "donations": 104,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
-            "trophies": 5168,
+            "trophies": 5147,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200113T195416.000Z",
+            "last_seen": "20200113T200737.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 2,
-            "donations": 272,
+            "donations": 290,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -140,6 +140,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "exp_level": 12,
+            "trophies": 5124,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200113T200339.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 13,
+            "donations": 66,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
             "exp_level": 12,
@@ -150,7 +167,7 @@
             },
             "role": "elder",
             "last_seen": "20200113T151739.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 7,
             "donations": 30,
             "donations_received": 40,
@@ -167,7 +184,7 @@
             },
             "role": "elder",
             "last_seen": "20200113T152327.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 8,
             "donations": 0,
             "donations_received": 0,
@@ -184,7 +201,7 @@
             },
             "role": "member",
             "last_seen": "20200113T082630.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 6,
             "donations": 96,
             "donations_received": 80,
@@ -201,7 +218,7 @@
             },
             "role": "elder",
             "last_seen": "20200113T155035.000Z",
-            "clan_rank": 11,
+            "clan_rank": 12,
             "previous_clan_rank": 11,
             "donations": 88,
             "donations_received": 40,
@@ -218,27 +235,10 @@
             },
             "role": "elder",
             "last_seen": "20200113T161202.000Z",
-            "clan_rank": 12,
+            "clan_rank": 13,
             "previous_clan_rank": 15,
             "donations": 38,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "exp_level": 12,
-            "trophies": 5065,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200113T194757.000Z",
-            "clan_rank": 13,
-            "previous_clan_rank": 13,
-            "donations": 48,
-            "donations_received": 56,
             "clan_chest_points": 0
         },
         {
@@ -455,10 +455,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200113T190915.000Z",
+            "last_seen": "20200113T200445.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 18,
-            "donations": 92,
+            "donations": 110,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -523,11 +523,11 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20200113T174944.000Z",
+            "last_seen": "20200113T200649.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 25,
-            "donations": 86,
-            "donations_received": 80,
+            "donations": 104,
+            "donations_received": 104,
             "clan_chest_points": 0
         },
         {
@@ -540,7 +540,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200113T190117.000Z",
+            "last_seen": "20200113T200649.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 23,
             "donations": 64,
@@ -633,23 +633,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "exp_level": 10,
-            "trophies": 4666,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200113T184743.000Z",
-            "clan_rank": 37,
-            "previous_clan_rank": 31,
-            "donations": 0,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "exp_level": 11,
@@ -660,7 +643,7 @@
             },
             "role": "elder",
             "last_seen": "20200113T194426.000Z",
-            "clan_rank": 38,
+            "clan_rank": 37,
             "previous_clan_rank": 26,
             "donations": 150,
             "donations_received": 80,
@@ -677,7 +660,7 @@
             },
             "role": "member",
             "last_seen": "20200113T191511.000Z",
-            "clan_rank": 39,
+            "clan_rank": 38,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 40,
@@ -694,10 +677,27 @@
             },
             "role": "member",
             "last_seen": "20200113T122616.000Z",
-            "clan_rank": 40,
+            "clan_rank": 39,
             "previous_clan_rank": 28,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "exp_level": 10,
+            "trophies": 4648,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200113T200312.000Z",
+            "clan_rank": 40,
+            "previous_clan_rank": 31,
+            "donations": 0,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
