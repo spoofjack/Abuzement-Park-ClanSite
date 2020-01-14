@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50098,
+    "clan_score": 50089,
     "required_trophies": 5000,
     "donations_per_week": 3826,
     "clan_war_trophies": 1235,
@@ -228,10 +228,10 @@
             "tag": "#8RLU8ULYU",
             "name": "Royal Blue",
             "exp_level": 13,
-            "trophies": 5012,
+            "trophies": 4999,
             "arena": {
-                "id": 54000015,
-                "name": "Master I"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "member",
             "last_seen": "20200114T074331.000Z",
@@ -276,23 +276,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2VQPRPQJ",
-            "name": "grognard",
-            "exp_level": 11,
-            "trophies": 4903,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200114T073116.000Z",
-            "clan_rank": 16,
-            "previous_clan_rank": 26,
-            "donations": 120,
-            "donations_received": 56,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PQ80L2QV2",
             "name": "JoeyD5348",
             "exp_level": 11,
@@ -303,7 +286,7 @@
             },
             "role": "member",
             "last_seen": "20200114T022531.000Z",
-            "clan_rank": 17,
+            "clan_rank": 16,
             "previous_clan_rank": 16,
             "donations": 68,
             "donations_received": 80,
@@ -320,10 +303,27 @@
             },
             "role": "member",
             "last_seen": "20200114T032618.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 28,
             "donations": 80,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2VQPRPQJ",
+            "name": "grognard",
+            "exp_level": 11,
+            "trophies": 4881,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200114T075930.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 26,
+            "donations": 120,
+            "donations_received": 56,
             "clan_chest_points": 0
         },
         {
