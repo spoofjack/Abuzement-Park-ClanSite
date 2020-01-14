@@ -10,7 +10,7 @@
         "participants": 34,
         "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 5,
+        "battles_played": 6,
         "wins": 3
     },
     "participants": [
@@ -168,15 +168,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 850,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2C8QPLUPG",
             "name": "grimm reaper",
             "cards_earned": 850,
@@ -294,6 +285,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "cards_earned": 480,
@@ -328,10 +328,10 @@
             "badge_id": 16000039,
             "clan_score": 1379,
             "participants": 33,
-            "crowns": 12,
-            "battles_remaining": 24,
-            "battles_played": 9,
-            "wins": 6
+            "crowns": 14,
+            "battles_remaining": 22,
+            "battles_played": 11,
+            "wins": 7
         },
         {
             "tag": "#PGLLGCPC",
@@ -339,10 +339,10 @@
             "badge_id": 16000003,
             "clan_score": 1215,
             "participants": 35,
-            "crowns": 8,
-            "battles_remaining": 27,
-            "battles_played": 8,
-            "wins": 3
+            "crowns": 9,
+            "battles_remaining": 26,
+            "battles_played": 9,
+            "wins": 4
         },
         {
             "tag": "#LP98YUCV",
@@ -351,9 +351,20 @@
             "clan_score": 1235,
             "participants": 34,
             "crowns": 7,
-            "battles_remaining": 29,
-            "battles_played": 5,
+            "battles_remaining": 28,
+            "battles_played": 6,
             "wins": 3
+        },
+        {
+            "tag": "#L8QR2P9V",
+            "name": "Mansi\u00f3n Foster",
+            "badge_id": 16000027,
+            "clan_score": 1255,
+            "participants": 39,
+            "crowns": 4,
+            "battles_remaining": 35,
+            "battles_played": 4,
+            "wins": 2
         },
         {
             "tag": "#Y8J2C2V8",
@@ -365,21 +376,10 @@
             "battles_remaining": 24,
             "battles_played": 5,
             "wins": 1
-        },
-        {
-            "tag": "#L8QR2P9V",
-            "name": "Mansi\u00f3n Foster",
-            "badge_id": 16000027,
-            "clan_score": 1255,
-            "participants": 39,
-            "crowns": 1,
-            "battles_remaining": 36,
-            "battles_played": 3,
-            "wins": 1
         }
     ],
     "cards": 23120,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
