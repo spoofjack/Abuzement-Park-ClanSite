@@ -10,7 +10,7 @@
         "participants": 34,
         "crowns": 10,
         "battles_remaining": null,
-        "battles_played": 8,
+        "battles_played": 10,
         "wins": 4
     },
     "participants": [
@@ -53,15 +53,6 @@
         {
             "tag": "#PV02PGVQ",
             "name": "someone",
-            "cards_earned": 800,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CJUU8U2",
-            "name": "supersized",
             "cards_earned": 800,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -128,15 +119,6 @@
             "cards_earned": 160,
             "battles_played": 0,
             "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "cards_earned": 960,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -267,9 +249,27 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#CJUU8U2",
+            "name": "supersized",
+            "cards_earned": 800,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 640,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 960,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -328,10 +328,10 @@
             "badge_id": 16000003,
             "clan_score": 1215,
             "participants": 35,
-            "crowns": 9,
-            "battles_remaining": 26,
-            "battles_played": 9,
-            "wins": 4
+            "crowns": 15,
+            "battles_remaining": 23,
+            "battles_played": 12,
+            "wins": 6
         },
         {
             "tag": "#2YVQ0CJ",
@@ -339,10 +339,10 @@
             "badge_id": 16000039,
             "clan_score": 1379,
             "participants": 33,
-            "crowns": 14,
-            "battles_remaining": 22,
-            "battles_played": 11,
-            "wins": 7
+            "crowns": 16,
+            "battles_remaining": 20,
+            "battles_played": 13,
+            "wins": 9
         },
         {
             "tag": "#L8QR2P9V",
@@ -351,8 +351,8 @@
             "clan_score": 1255,
             "participants": 39,
             "crowns": 4,
-            "battles_remaining": 35,
-            "battles_played": 4,
+            "battles_remaining": 34,
+            "battles_played": 5,
             "wins": 2
         },
         {
@@ -362,8 +362,8 @@
             "clan_score": 1235,
             "participants": 34,
             "crowns": 10,
-            "battles_remaining": 26,
-            "battles_played": 8,
+            "battles_remaining": 24,
+            "battles_played": 10,
             "wins": 4
         },
         {
@@ -372,10 +372,10 @@
             "badge_id": 16000111,
             "clan_score": 1038,
             "participants": 29,
-            "crowns": 4,
-            "battles_remaining": 24,
-            "battles_played": 5,
-            "wins": 1
+            "crowns": 7,
+            "battles_remaining": 23,
+            "battles_played": 6,
+            "wins": 2
         }
     ]
 }
