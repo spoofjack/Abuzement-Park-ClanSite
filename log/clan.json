@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49749,
+    "clan_score": 49743,
     "required_trophies": 5000,
     "donations_per_week": 6480,
     "clan_war_trophies": 1235,
@@ -191,23 +191,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "exp_level": 12,
-            "trophies": 5076,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200115T102609.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 11,
-            "donations": 184,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -218,7 +201,7 @@
             },
             "role": "elder",
             "last_seen": "20200115T052325.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 13,
             "donations": 96,
             "donations_received": 280,
@@ -235,10 +218,27 @@
             },
             "role": "member",
             "last_seen": "20200114T213717.000Z",
-            "clan_rank": 13,
+            "clan_rank": 12,
             "previous_clan_rank": 12,
             "donations": 180,
             "donations_received": 152,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "exp_level": 12,
+            "trophies": 5055,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200115T102609.000Z",
+            "clan_rank": 13,
+            "previous_clan_rank": 11,
+            "donations": 184,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
