@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49812,
+    "clan_score": 49818,
     "required_trophies": 5000,
     "donations_per_week": 8112,
     "clan_war_trophies": 1304,
@@ -123,6 +123,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 12,
+            "trophies": 5190,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200115T222907.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 8,
+            "donations": 271,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "exp_level": 13,
@@ -133,7 +150,7 @@
             },
             "role": "leader",
             "last_seen": "20200115T220144.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 6,
             "donations": 460,
             "donations_received": 280,
@@ -150,27 +167,10 @@
             },
             "role": "elder",
             "last_seen": "20200115T163928.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 7,
             "donations": 161,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 12,
-            "trophies": 5163,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200115T222907.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 8,
-            "donations": 271,
-            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -330,13 +330,13 @@
             "tag": "#202U0V29",
             "name": "estebanito",
             "exp_level": 11,
-            "trophies": 4912,
+            "trophies": 4871,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200115T193758.000Z",
+            "last_seen": "20200115T223609.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 17,
             "donations": 104,
@@ -531,6 +531,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "exp_level": 10,
+            "trophies": 4763,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200115T223525.000Z",
+            "clan_rank": 31,
+            "previous_clan_rank": 33,
+            "donations": 20,
+            "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9YLU8PRVY",
             "name": "hunterxHunter",
             "exp_level": 11,
@@ -540,28 +557,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200115T041020.000Z",
-            "clan_rank": 31,
+            "last_seen": "20200115T223927.000Z",
+            "clan_rank": 32,
             "previous_clan_rank": 29,
             "donations": 40,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "exp_level": 10,
-            "trophies": 4724,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200115T222619.000Z",
-            "clan_rank": 32,
-            "previous_clan_rank": 33,
-            "donations": 20,
-            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -701,23 +701,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YJPYL02JC",
-            "name": "john",
-            "exp_level": 9,
-            "trophies": 4570,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200115T213111.000Z",
-            "clan_rank": 41,
-            "previous_clan_rank": 43,
-            "donations": 79,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YY2U2JVCG",
             "name": "zlib",
             "exp_level": 10,
@@ -728,10 +711,27 @@
             },
             "role": "member",
             "last_seen": "20200115T214757.000Z",
-            "clan_rank": 42,
+            "clan_rank": 41,
             "previous_clan_rank": 41,
             "donations": 0,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YJPYL02JC",
+            "name": "john",
+            "exp_level": 9,
+            "trophies": 4553,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200115T223305.000Z",
+            "clan_rank": 42,
+            "previous_clan_rank": 43,
+            "donations": 79,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -761,7 +761,7 @@
                 "name": "Arena 12"
             },
             "role": "member",
-            "last_seen": "20200115T010225.000Z",
+            "last_seen": "20200115T223949.000Z",
             "clan_rank": 44,
             "previous_clan_rank": 45,
             "donations": 10,
