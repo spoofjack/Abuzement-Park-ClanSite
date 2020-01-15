@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 1235,
         "participants": 34,
-        "crowns": 27,
+        "crowns": 28,
         "battles_remaining": null,
-        "battles_played": 26,
-        "wins": 11
+        "battles_played": 27,
+        "wins": 12
     },
     "participants": [
         {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "cards_earned": 680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PQC8QV2GC",
-            "name": "TheHatter",
-            "cards_earned": 800,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -117,6 +108,15 @@
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "cards_earned": 640,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PQC8QV2GC",
+            "name": "TheHatter",
+            "cards_earned": 800,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -345,6 +345,17 @@
             "wins": 13
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1235,
+            "participants": 34,
+            "crowns": 28,
+            "battles_remaining": 7,
+            "battles_played": 27,
+            "wins": 12
+        },
+        {
             "tag": "#Y8J2C2V8",
             "name": "\u062e\u0648\u0634\u06af\u0644 \u0633\u06cc\u062a\u06cc",
             "badge_id": 16000111,
@@ -354,17 +365,6 @@
             "battles_remaining": 1,
             "battles_played": 28,
             "wins": 12
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1235,
-            "participants": 34,
-            "crowns": 27,
-            "battles_remaining": 8,
-            "battles_played": 26,
-            "wins": 11
         },
         {
             "tag": "#PGLLGCPC",
