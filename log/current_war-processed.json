@@ -7,10 +7,10 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 1304,
-        "participants": 4,
+        "participants": 5,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 8,
+        "battles_played": 9,
         "wins": 3
     },
     "participants": [
@@ -26,6 +26,15 @@
         {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
+            "cards_earned": 170,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
             "cards_earned": 170,
             "battles_played": 1,
             "collection_day_battles_played": 1,
@@ -52,7 +61,7 @@
         }
     ],
     "clans": null,
-    "cards": 1860,
+    "cards": 2030,
     "state_label": "Collection Day",
     "collection_end_time_label": "22 hours",
     "end_label": "1 day, 22 hours"
