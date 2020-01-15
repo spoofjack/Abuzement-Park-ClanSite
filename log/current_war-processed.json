@@ -8,30 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 1235,
         "participants": 34,
-        "crowns": 43,
+        "crowns": 46,
         "battles_remaining": null,
-        "battles_played": 35,
-        "wins": 18
+        "battles_played": 37,
+        "wins": 19
     },
     "participants": [
-        {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "cards_earned": 800,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2GRRCG8P",
-            "name": "Dashie",
-            "cards_earned": 320,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
@@ -105,6 +87,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "cards_earned": 800,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#CJUU8U2",
             "name": "supersized",
             "cards_earned": 800,
@@ -147,6 +138,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2GRRCG8P",
+            "name": "Dashie",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -339,10 +339,10 @@
             "badge_id": 16000003,
             "clan_score": 1235,
             "participants": 34,
-            "crowns": 43,
+            "crowns": 46,
             "battles_remaining": 0,
-            "battles_played": 35,
-            "wins": 18
+            "battles_played": 37,
+            "wins": 19
         },
         {
             "tag": "#L8QR2P9V",
@@ -373,8 +373,8 @@
             "clan_score": 1215,
             "participants": 35,
             "crowns": 25,
-            "battles_remaining": 4,
-            "battles_played": 31,
+            "battles_remaining": 3,
+            "battles_played": 32,
             "wins": 9
         }
     ],
