@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1304,
         "participants": 32,
-        "crowns": 14,
+        "crowns": 15,
         "battles_remaining": null,
-        "battles_played": 9,
-        "wins": 6
+        "battles_played": 10,
+        "wins": 7
     },
     "participants": [
         {
@@ -27,15 +27,6 @@
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "cards_earned": 680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PQC8QV2GC",
-            "name": "TheHatter",
-            "cards_earned": 800,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -231,6 +222,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PQC8QV2GC",
+            "name": "TheHatter",
+            "cards_earned": 800,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#CJUU8U2",
             "name": "supersized",
             "cards_earned": 480,
@@ -310,9 +310,9 @@
             "badge_id": 16000043,
             "clan_score": 1339,
             "participants": 37,
-            "crowns": 30,
-            "battles_remaining": 17,
-            "battles_played": 20,
+            "crowns": 31,
+            "battles_remaining": 16,
+            "battles_played": 21,
             "wins": 11
         },
         {
@@ -354,10 +354,10 @@
             "badge_id": 16000003,
             "clan_score": 1304,
             "participants": 32,
-            "crowns": 14,
-            "battles_remaining": 23,
-            "battles_played": 9,
-            "wins": 6
+            "crowns": 15,
+            "battles_remaining": 22,
+            "battles_played": 10,
+            "wins": 7
         }
     ]
 }
