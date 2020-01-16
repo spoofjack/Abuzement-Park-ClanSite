@@ -305,6 +305,17 @@
     ],
     "clans": [
         {
+            "tag": "#Y0JU9LLR",
+            "name": "AUSSIE",
+            "badge_id": 16000053,
+            "clan_score": 1063,
+            "participants": 32,
+            "crowns": 11,
+            "battles_remaining": 20,
+            "battles_played": 12,
+            "wins": 7
+        },
+        {
             "tag": "#PRPLLC9Q",
             "name": "#CR GAMERS#",
             "badge_id": 16000043,
@@ -322,8 +333,8 @@
             "clan_score": 935,
             "participants": 36,
             "crowns": 12,
-            "battles_remaining": 23,
-            "battles_played": 13,
+            "battles_remaining": 22,
+            "battles_played": 14,
             "wins": 6
         },
         {
@@ -347,21 +358,10 @@
             "battles_remaining": 24,
             "battles_played": 9,
             "wins": 4
-        },
-        {
-            "tag": "#Y0JU9LLR",
-            "name": "AUSSIE",
-            "badge_id": 16000053,
-            "clan_score": 1063,
-            "participants": 32,
-            "crowns": 6,
-            "battles_remaining": 23,
-            "battles_played": 9,
-            "wins": 4
         }
     ],
     "cards": 22400,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "22 hours"
+    "end_label": "21 hours"
 }
