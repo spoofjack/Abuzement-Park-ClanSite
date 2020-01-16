@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 1304,
         "participants": 32,
-        "crowns": 13,
+        "crowns": 14,
         "battles_remaining": null,
-        "battles_played": 7,
+        "battles_played": 8,
         "wins": 6
     },
     "participants": [
@@ -150,15 +150,6 @@
             "number_of_battles": 2
         },
         {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "cards_earned": 510,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#J8PVY9QV",
             "name": "Heartbreaker68",
             "cards_earned": 800,
@@ -276,6 +267,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 850,
@@ -305,6 +305,17 @@
     ],
     "clans": [
         {
+            "tag": "#Y0JU9LLR",
+            "name": "AUSSIE",
+            "badge_id": 16000053,
+            "clan_score": 1063,
+            "participants": 32,
+            "crowns": 18,
+            "battles_remaining": 17,
+            "battles_played": 15,
+            "wins": 10
+        },
+        {
             "tag": "#PRPLLC9Q",
             "name": "#CR GAMERS#",
             "badge_id": 16000043,
@@ -313,17 +324,6 @@
             "crowns": 23,
             "battles_remaining": 21,
             "battles_played": 16,
-            "wins": 8
-        },
-        {
-            "tag": "#Y0JU9LLR",
-            "name": "AUSSIE",
-            "badge_id": 16000053,
-            "clan_score": 1063,
-            "participants": 32,
-            "crowns": 14,
-            "battles_remaining": 19,
-            "battles_played": 13,
             "wins": 8
         },
         {
@@ -343,9 +343,9 @@
             "badge_id": 16000003,
             "clan_score": 1304,
             "participants": 32,
-            "crowns": 13,
-            "battles_remaining": 25,
-            "battles_played": 7,
+            "crowns": 14,
+            "battles_remaining": 24,
+            "battles_played": 8,
             "wins": 6
         },
         {
@@ -355,8 +355,8 @@
             "clan_score": 708,
             "participants": 33,
             "crowns": 9,
-            "battles_remaining": 24,
-            "battles_played": 9,
+            "battles_remaining": 23,
+            "battles_played": 10,
             "wins": 4
         }
     ],

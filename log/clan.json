@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49715,
+    "clan_score": 49727,
     "required_trophies": 5000,
     "donations_per_week": 9472,
     "clan_war_trophies": 1304,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5568,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "coLeader",
+            "last_seen": "20200116T141949.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 1,
+            "donations": 530,
+            "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200116T135321.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 924,
             "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5540,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "coLeader",
-            "last_seen": "20200116T122234.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 1,
-            "donations": 530,
-            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -115,7 +115,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200116T135853.000Z",
+            "last_seen": "20200116T141458.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 264,
@@ -217,7 +217,7 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200116T131352.000Z",
+            "last_seen": "20200116T141644.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 13,
             "donations": 136,
@@ -616,23 +616,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#P8YGU0YYL",
-            "name": "sorry_youlost",
-            "exp_level": 10,
-            "trophies": 4660,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200116T135251.000Z",
-            "clan_rank": 36,
-            "previous_clan_rank": 38,
-            "donations": 30,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CJUU8U2",
             "name": "supersized",
             "exp_level": 11,
@@ -643,10 +626,27 @@
             },
             "role": "member",
             "last_seen": "20200116T130532.000Z",
-            "clan_rank": 37,
+            "clan_rank": 36,
             "previous_clan_rank": 37,
             "donations": 138,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#P8YGU0YYL",
+            "name": "sorry_youlost",
+            "exp_level": 10,
+            "trophies": 4642,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200116T141428.000Z",
+            "clan_rank": 37,
+            "previous_clan_rank": 38,
+            "donations": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -659,7 +659,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200116T063514.000Z",
+            "last_seen": "20200116T142503.000Z",
             "clan_rank": 38,
             "previous_clan_rank": 35,
             "donations": 30,
