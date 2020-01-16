@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49700,
+    "clan_score": 49729,
     "required_trophies": 5000,
-    "donations_per_week": 9442,
+    "donations_per_week": 9452,
     "clan_war_trophies": 1304,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5545,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "coLeader",
+            "last_seen": "20200116T131348.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 2,
+            "donations": 924,
+            "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200116T122234.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 530,
             "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5487,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "coLeader",
-            "last_seen": "20200116T125217.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 914,
-            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -183,11 +183,11 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200116T125209.000Z",
+            "last_seen": "20200116T131352.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 13,
             "donations": 136,
-            "donations_received": 410,
+            "donations_received": 420,
             "clan_chest_points": 0
         },
         {
