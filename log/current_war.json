@@ -10,7 +10,7 @@
         "participants": 32,
         "crowns": 29,
         "battles_remaining": null,
-        "battles_played": 18,
+        "battles_played": 19,
         "wins": 13
     },
     "participants": [
@@ -72,15 +72,6 @@
             "tag": "#2VQPRPQJ",
             "name": "grognard",
             "cards_earned": 960,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 510,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -183,6 +174,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -332,9 +332,9 @@
             "badge_id": 16000010,
             "clan_score": 708,
             "participants": 33,
-            "crowns": 11,
-            "battles_remaining": 21,
-            "battles_played": 12,
+            "crowns": 12,
+            "battles_remaining": 20,
+            "battles_played": 13,
             "wins": 5
         },
         {
@@ -343,10 +343,10 @@
             "badge_id": 16000145,
             "clan_score": 935,
             "participants": 36,
-            "crowns": 32,
-            "battles_remaining": 9,
-            "battles_played": 27,
-            "wins": 18
+            "crowns": 33,
+            "battles_remaining": 8,
+            "battles_played": 28,
+            "wins": 19
         },
         {
             "tag": "#LP98YUCV",
@@ -355,8 +355,8 @@
             "clan_score": 1304,
             "participants": 32,
             "crowns": 29,
-            "battles_remaining": 14,
-            "battles_played": 18,
+            "battles_remaining": 13,
+            "battles_played": 19,
             "wins": 13
         }
     ]
