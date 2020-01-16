@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1304,
         "participants": 32,
-        "crowns": 3,
+        "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 2
+        "battles_played": 5,
+        "wins": 4
     },
     "participants": [
         {
@@ -150,15 +150,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 1020,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9YLU8PRVY",
             "name": "hunterxHunter",
             "cards_earned": 320,
@@ -166,15 +157,6 @@
             "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#2C8QPLUPG",
@@ -285,6 +267,24 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 1020,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 850,
@@ -305,15 +305,26 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1304,
+            "participants": 32,
+            "crowns": 7,
+            "battles_remaining": 27,
+            "battles_played": 5,
+            "wins": 4
+        },
+        {
             "tag": "#Y0JU9LLR",
             "name": "AUSSIE",
             "badge_id": 16000053,
             "clan_score": 1063,
             "participants": 32,
-            "crowns": 5,
-            "battles_remaining": 27,
-            "battles_played": 5,
-            "wins": 3
+            "crowns": 6,
+            "battles_remaining": 25,
+            "battles_played": 7,
+            "wins": 4
         },
         {
             "tag": "#PRPLLC9Q",
@@ -321,32 +332,10 @@
             "badge_id": 16000043,
             "clan_score": 1339,
             "participants": 37,
-            "crowns": 7,
-            "battles_remaining": 34,
-            "battles_played": 3,
-            "wins": 2
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1304,
-            "participants": 32,
-            "crowns": 3,
-            "battles_remaining": 29,
-            "battles_played": 3,
-            "wins": 2
-        },
-        {
-            "tag": "#92PQY9JP",
-            "name": "187.5 Troops",
-            "badge_id": 16000010,
-            "clan_score": 708,
-            "participants": 33,
-            "crowns": 4,
-            "battles_remaining": 29,
-            "battles_played": 4,
-            "wins": 1
+            "crowns": 10,
+            "battles_remaining": 32,
+            "battles_played": 5,
+            "wins": 3
         },
         {
             "tag": "#L8GRJ8Q8",
@@ -354,14 +343,25 @@
             "badge_id": 16000145,
             "clan_score": 935,
             "participants": 36,
-            "crowns": 4,
-            "battles_remaining": 30,
+            "crowns": 9,
+            "battles_remaining": 26,
+            "battles_played": 10,
+            "wins": 3
+        },
+        {
+            "tag": "#92PQY9JP",
+            "name": "187.5 Troops",
+            "badge_id": 16000010,
+            "clan_score": 708,
+            "participants": 33,
+            "crowns": 7,
+            "battles_remaining": 27,
             "battles_played": 6,
-            "wins": 1
+            "wins": 2
         }
     ],
     "cards": 22400,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
