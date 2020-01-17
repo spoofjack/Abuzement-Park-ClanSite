@@ -305,6 +305,17 @@
     ],
     "clans": [
         {
+            "tag": "#92PQY9JP",
+            "name": "187.5 Troops",
+            "badge_id": 16000010,
+            "clan_score": 708,
+            "participants": 33,
+            "crowns": 45,
+            "battles_remaining": 0,
+            "battles_played": 35,
+            "wins": 21
+        },
+        {
             "tag": "#L8GRJ8Q8",
             "name": "accademia fumo",
             "badge_id": 16000145,
@@ -314,17 +325,6 @@
             "battles_remaining": 3,
             "battles_played": 33,
             "wins": 21
-        },
-        {
-            "tag": "#92PQY9JP",
-            "name": "187.5 Troops",
-            "badge_id": 16000010,
-            "clan_score": 708,
-            "participants": 33,
-            "crowns": 44,
-            "battles_remaining": 0,
-            "battles_played": 34,
-            "wins": 20
         },
         {
             "tag": "#Y0JU9LLR",
@@ -355,13 +355,13 @@
             "clan_score": 1339,
             "participants": 37,
             "crowns": 41,
-            "battles_remaining": 6,
-            "battles_played": 31,
+            "battles_remaining": 5,
+            "battles_played": 32,
             "wins": 16
         }
     ],
     "cards": 22400,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "2 hours"
+    "end_label": "1 hours"
 }
