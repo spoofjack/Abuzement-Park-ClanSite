@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1304,
         "participants": 32,
-        "crowns": 43,
+        "crowns": 47,
         "battles_remaining": null,
-        "battles_played": 33,
-        "wins": 19
+        "battles_played": 35,
+        "wins": 20
     },
     "participants": [
         {
@@ -31,15 +31,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#9YLU8PRVY",
-            "name": "hunterxHunter",
-            "cards_earned": 320,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#J28UPQ0P",
@@ -276,6 +267,15 @@
             "number_of_battles": 2
         },
         {
+            "tag": "#9YLU8PRVY",
+            "name": "hunterxHunter",
+            "cards_earned": 320,
+            "battles_played": 2,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 2
+        },
+        {
             "tag": "#202U0V29",
             "name": "estebanito",
             "cards_earned": 960,
@@ -323,7 +323,7 @@
             "participants": 32,
             "crowns": 36,
             "battles_remaining": 0,
-            "battles_played": 32,
+            "battles_played": 33,
             "wins": 20
         },
         {
@@ -354,10 +354,10 @@
             "badge_id": 16000003,
             "clan_score": 1304,
             "participants": 32,
-            "crowns": 43,
+            "crowns": 47,
             "battles_remaining": 0,
-            "battles_played": 33,
-            "wins": 19
+            "battles_played": 35,
+            "wins": 20
         }
     ]
 }
