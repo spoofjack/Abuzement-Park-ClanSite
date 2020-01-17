@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 1304,
         "participants": 32,
-        "crowns": 42,
+        "crowns": 43,
         "battles_remaining": null,
-        "battles_played": 32,
+        "battles_played": 33,
         "wins": 19
     },
     "participants": [
-        {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "cards_earned": 960,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2VQPRPQJ",
             "name": "grognard",
@@ -102,6 +93,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "cards_earned": 960,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -305,6 +305,17 @@
     ],
     "clans": [
         {
+            "tag": "#92PQY9JP",
+            "name": "187.5 Troops",
+            "badge_id": 16000010,
+            "clan_score": 708,
+            "participants": 33,
+            "crowns": 44,
+            "battles_remaining": 0,
+            "battles_played": 34,
+            "wins": 20
+        },
+        {
             "tag": "#L8GRJ8Q8",
             "name": "accademia fumo",
             "badge_id": 16000145,
@@ -316,25 +327,14 @@
             "wins": 20
         },
         {
-            "tag": "#92PQY9JP",
-            "name": "187.5 Troops",
-            "badge_id": 16000010,
-            "clan_score": 708,
-            "participants": 33,
-            "crowns": 42,
-            "battles_remaining": 0,
-            "battles_played": 33,
-            "wins": 19
-        },
-        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 1304,
             "participants": 32,
-            "crowns": 42,
+            "crowns": 43,
             "battles_remaining": 0,
-            "battles_played": 32,
+            "battles_played": 33,
             "wins": 19
         },
         {
@@ -354,10 +354,10 @@
             "badge_id": 16000043,
             "clan_score": 1339,
             "participants": 37,
-            "crowns": 36,
-            "battles_remaining": 10,
-            "battles_played": 27,
-            "wins": 13
+            "crowns": 38,
+            "battles_remaining": 9,
+            "battles_played": 28,
+            "wins": 14
         }
     ],
     "cards": 22400,
