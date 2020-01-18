@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 1304,
         "participants": 29,
-        "crowns": 15,
+        "crowns": 17,
         "battles_remaining": null,
-        "battles_played": 18,
-        "wins": 9
+        "battles_played": 19,
+        "wins": 10
     },
     "participants": [
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "cards_earned": 480,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
@@ -120,6 +111,15 @@
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -289,6 +289,17 @@
             "wins": 11
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1304,
+            "participants": 29,
+            "crowns": 17,
+            "battles_remaining": 10,
+            "battles_played": 19,
+            "wins": 10
+        },
+        {
             "tag": "#PQ2QV9YJ",
             "name": "\u6e2f\u8c6c\u806f\u76df",
             "badge_id": 16000134,
@@ -297,17 +308,6 @@
             "crowns": 21,
             "battles_remaining": 17,
             "battles_played": 13,
-            "wins": 9
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1304,
-            "participants": 29,
-            "crowns": 15,
-            "battles_remaining": 11,
-            "battles_played": 18,
             "wins": 9
         },
         {
