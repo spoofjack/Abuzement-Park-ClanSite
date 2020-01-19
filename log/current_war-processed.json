@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 1304,
         "participants": 29,
-        "crowns": 24,
+        "crowns": 25,
         "battles_remaining": null,
-        "battles_played": 27,
-        "wins": 15
+        "battles_played": 28,
+        "wins": 16
     },
     "participants": [
-        {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "cards_earned": 800,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#RVJ9L8RV",
             "name": "hgghdf",
@@ -99,6 +90,15 @@
             "tag": "#PV02PGVQ",
             "name": "someone",
             "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "cards_earned": 800,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -278,6 +278,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1304,
+            "participants": 29,
+            "crowns": 25,
+            "battles_remaining": 1,
+            "battles_played": 28,
+            "wins": 16
+        },
+        {
             "tag": "#YYPJUL22",
             "name": "\u0410\u0441\u0433\u0430\u0440\u0434",
             "badge_id": 16000168,
@@ -286,17 +297,6 @@
             "crowns": 30,
             "battles_remaining": 6,
             "battles_played": 25,
-            "wins": 15
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1304,
-            "participants": 29,
-            "crowns": 24,
-            "battles_remaining": 2,
-            "battles_played": 27,
             "wins": 15
         },
         {
