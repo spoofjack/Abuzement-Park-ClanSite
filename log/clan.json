@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50322,
+    "clan_score": 50319,
     "required_trophies": 5000,
-    "donations_per_week": 498,
+    "donations_per_week": 508,
     "clan_war_trophies": 1300,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -162,14 +162,14 @@
             "exp_level": 13,
             "trophies": 5288,
             "arena": {
-                "id": 54000016,
-                "name": "Master II"
+                "id": 54000015,
+                "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200120T045731.000Z",
+            "last_seen": "20200120T052938.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 9,
-            "donations": 10,
+            "donations": 20,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -293,23 +293,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8JGUU092",
-            "name": "Disfatt Bidge",
-            "exp_level": 13,
-            "trophies": 5023,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200120T051155.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 19,
-            "donations": 28,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PJ0U9GQYR",
             "name": "walleyemaster2",
             "exp_level": 10,
@@ -320,7 +303,7 @@
             },
             "role": "member",
             "last_seen": "20200120T004427.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 14,
             "donations": 0,
             "donations_received": 10,
@@ -337,7 +320,7 @@
             },
             "role": "member",
             "last_seen": "20200120T003438.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 18,
             "donations": 30,
             "donations_received": 40,
@@ -354,10 +337,27 @@
             },
             "role": "member",
             "last_seen": "20200120T015318.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 16,
             "donations": 18,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JGUU092",
+            "name": "Disfatt Bidge",
+            "exp_level": 13,
+            "trophies": 5008,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200120T051155.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 19,
+            "donations": 28,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
