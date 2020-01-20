@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 1300,
         "participants": 34,
-        "crowns": 14,
+        "crowns": 15,
         "battles_remaining": null,
-        "battles_played": 11,
+        "battles_played": 12,
         "wins": 6
     },
     "participants": [
@@ -36,15 +36,6 @@
             "tag": "#PQC8QV2GC",
             "name": "TheHatter",
             "cards_earned": 800,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8JGUU092",
-            "name": "Disfatt Bidge",
-            "cards_earned": 640,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -240,6 +231,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8JGUU092",
+            "name": "Disfatt Bidge",
+            "cards_earned": 640,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#CJUU8U2",
             "name": "supersized",
             "cards_earned": 800,
@@ -372,9 +372,9 @@
             "badge_id": 16000003,
             "clan_score": 1300,
             "participants": 34,
-            "crowns": 14,
-            "battles_remaining": 23,
-            "battles_played": 11,
+            "crowns": 15,
+            "battles_remaining": 22,
+            "battles_played": 12,
             "wins": 6
         }
     ]
