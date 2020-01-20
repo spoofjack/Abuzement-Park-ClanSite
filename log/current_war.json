@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1300,
         "participants": 34,
-        "crowns": 21,
+        "crowns": 22,
         "battles_remaining": null,
-        "battles_played": 16,
-        "wins": 9
+        "battles_played": 17,
+        "wins": 10
     },
     "participants": [
         {
@@ -29,15 +29,6 @@
             "cards_earned": 850,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "cards_earned": 160,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -213,6 +204,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "cards_earned": 160,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#CJUU8U2",
             "name": "supersized",
             "cards_earned": 800,
@@ -339,10 +339,10 @@
             "badge_id": 16000061,
             "clan_score": 1340,
             "participants": 30,
-            "crowns": 12,
-            "battles_remaining": 15,
-            "battles_played": 15,
-            "wins": 5
+            "crowns": 13,
+            "battles_remaining": 14,
+            "battles_played": 16,
+            "wins": 6
         },
         {
             "tag": "#YPRQ9LJG",
@@ -372,10 +372,10 @@
             "badge_id": 16000003,
             "clan_score": 1300,
             "participants": 34,
-            "crowns": 21,
-            "battles_remaining": 18,
-            "battles_played": 16,
-            "wins": 9
+            "crowns": 22,
+            "battles_remaining": 17,
+            "battles_played": 17,
+            "wins": 10
         }
     ]
 }
