@@ -10,7 +10,7 @@
         "participants": 32,
         "crowns": 6,
         "battles_remaining": null,
-        "battles_played": 6,
+        "battles_played": 7,
         "wins": 3
     },
     "participants": [
@@ -108,15 +108,6 @@
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "cards_earned": 510,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 850,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -276,6 +267,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "a##hole",
             "cards_earned": 680,
@@ -327,25 +327,25 @@
             "wins": 4
         },
         {
+            "tag": "#PCUV0R8L",
+            "name": "!TOXIC BRASIL!",
+            "badge_id": 16000058,
+            "clan_score": 1120,
+            "participants": 34,
+            "crowns": 5,
+            "battles_remaining": 29,
+            "battles_played": 5,
+            "wins": 4
+        },
+        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 1367,
             "participants": 32,
             "crowns": 6,
-            "battles_remaining": 26,
-            "battles_played": 6,
-            "wins": 3
-        },
-        {
-            "tag": "#PCUV0R8L",
-            "name": "!TOXIC BRASIL!",
-            "badge_id": 16000058,
-            "clan_score": 1120,
-            "participants": 34,
-            "crowns": 4,
-            "battles_remaining": 30,
-            "battles_played": 4,
+            "battles_remaining": 25,
+            "battles_played": 7,
             "wins": 3
         },
         {
@@ -354,10 +354,10 @@
             "badge_id": 16000038,
             "clan_score": 1149,
             "participants": 32,
-            "crowns": 1,
-            "battles_remaining": 29,
-            "battles_played": 3,
-            "wins": 1
+            "crowns": 4,
+            "battles_remaining": 28,
+            "battles_played": 4,
+            "wins": 2
         }
     ],
     "cards": 21980,
