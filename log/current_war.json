@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 1367,
         "participants": 32,
-        "crowns": 5,
+        "crowns": 6,
         "battles_remaining": null,
-        "battles_played": 3,
+        "battles_played": 5,
         "wins": 3
     },
     "participants": [
@@ -168,15 +168,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 510,
@@ -207,15 +198,6 @@
             "tag": "#202U0V29",
             "name": "estebanito",
             "cards_earned": 850,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "cards_earned": 510,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -301,6 +283,24 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -321,10 +321,10 @@
             "badge_id": 16000043,
             "clan_score": 1011,
             "participants": 32,
-            "crowns": 5,
-            "battles_remaining": 27,
-            "battles_played": 5,
-            "wins": 2
+            "crowns": 6,
+            "battles_remaining": 26,
+            "battles_played": 6,
+            "wins": 3
         },
         {
             "tag": "#990R8VV",
@@ -343,9 +343,9 @@
             "badge_id": 16000003,
             "clan_score": 1367,
             "participants": 32,
-            "crowns": 5,
-            "battles_remaining": 29,
-            "battles_played": 3,
+            "crowns": 6,
+            "battles_remaining": 27,
+            "battles_played": 5,
             "wins": 3
         },
         {
@@ -354,10 +354,10 @@
             "badge_id": 16000168,
             "clan_score": 1276,
             "participants": 32,
-            "crowns": 4,
-            "battles_remaining": 28,
-            "battles_played": 4,
-            "wins": 2
+            "crowns": 5,
+            "battles_remaining": 27,
+            "battles_played": 5,
+            "wins": 3
         }
     ]
 }
