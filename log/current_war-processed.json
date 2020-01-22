@@ -10,7 +10,7 @@
         "participants": 32,
         "crowns": 29,
         "battles_remaining": null,
-        "battles_played": 25,
+        "battles_played": 26,
         "wins": 15
     },
     "participants": [
@@ -26,15 +26,6 @@
         {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
-            "cards_earned": 960,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PQC8QV2GC",
-            "name": "TheHatter",
             "cards_earned": 960,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -111,6 +102,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PQC8QV2GC",
+            "name": "TheHatter",
+            "cards_earned": 960,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -333,8 +333,8 @@
             "clan_score": 1367,
             "participants": 32,
             "crowns": 29,
-            "battles_remaining": 7,
-            "battles_played": 25,
+            "battles_remaining": 6,
+            "battles_played": 26,
             "wins": 15
         },
         {
@@ -344,8 +344,8 @@
             "clan_score": 1149,
             "participants": 32,
             "crowns": 25,
-            "battles_remaining": 13,
-            "battles_played": 19,
+            "battles_remaining": 12,
+            "battles_played": 20,
             "wins": 12
         },
         {
@@ -355,8 +355,8 @@
             "clan_score": 1276,
             "participants": 32,
             "crowns": 9,
-            "battles_remaining": 24,
-            "battles_played": 8,
+            "battles_remaining": 23,
+            "battles_played": 9,
             "wins": 4
         }
     ],
