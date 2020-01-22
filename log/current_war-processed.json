@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1367,
         "participants": 32,
-        "crowns": 3,
+        "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 2,
-        "wins": 2
+        "battles_played": 3,
+        "wins": 3
     },
     "participants": [
         {
@@ -99,15 +99,6 @@
             "tag": "#RVJ9L8RV",
             "name": "hgghdf",
             "cards_earned": 600,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 850,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -301,9 +292,51 @@
             "collection_day_battles_played": 1,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1367,
+            "participants": 32,
+            "crowns": 5,
+            "battles_remaining": 29,
+            "battles_played": 3,
+            "wins": 3
+        },
+        {
+            "tag": "#PCUV0R8L",
+            "name": "!TOXIC BRASIL!",
+            "badge_id": 16000058,
+            "clan_score": 1120,
+            "participants": 34,
+            "crowns": 4,
+            "battles_remaining": 31,
+            "battles_played": 3,
+            "wins": 3
+        },
+        {
+            "tag": "#YYGQU0YU",
+            "name": "\u041f\u0435\u0440\u043c\u044c",
+            "badge_id": 16000043,
+            "clan_score": 1011,
+            "participants": 32,
+            "crowns": 5,
+            "battles_remaining": 27,
+            "battles_played": 5,
+            "wins": 2
+        },
         {
             "tag": "#YC2QL0L0",
             "name": "COC\u4e2d\u56fd\u57ce\u8f68\u8054\u76df",
@@ -316,48 +349,15 @@
             "wins": 2
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1367,
-            "participants": 32,
-            "crowns": 3,
-            "battles_remaining": 30,
-            "battles_played": 2,
-            "wins": 2
-        },
-        {
-            "tag": "#YYGQU0YU",
-            "name": "\u041f\u0435\u0440\u043c\u044c",
-            "badge_id": 16000043,
-            "clan_score": 1011,
-            "participants": 32,
-            "crowns": 2,
-            "battles_remaining": 28,
-            "battles_played": 4,
-            "wins": 1
-        },
-        {
-            "tag": "#PCUV0R8L",
-            "name": "!TOXIC BRASIL!",
-            "badge_id": 16000058,
-            "clan_score": 1120,
-            "participants": 34,
-            "crowns": 1,
-            "battles_remaining": 33,
-            "battles_played": 1,
-            "wins": 1
-        },
-        {
             "tag": "#990R8VV",
             "name": "Battle COCs",
             "badge_id": 16000038,
             "clan_score": 1149,
             "participants": 32,
-            "crowns": 0,
-            "battles_remaining": 31,
-            "battles_played": 1,
-            "wins": 0
+            "crowns": 1,
+            "battles_remaining": 30,
+            "battles_played": 2,
+            "wins": 1
         }
     ],
     "cards": 21980,
