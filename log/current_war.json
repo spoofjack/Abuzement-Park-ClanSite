@@ -7,13 +7,22 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 1365,
-        "participants": 5,
+        "participants": 7,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 3
+        "battles_played": 14,
+        "wins": 5
     },
     "participants": [
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 680,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 2,
+            "number_of_battles": 3
+        },
         {
             "tag": "#PQC8QV2GC",
             "name": "TheHatter",
@@ -47,6 +56,15 @@
             "cards_earned": 510,
             "battles_played": 3,
             "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "cards_earned": 160,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 3
         },

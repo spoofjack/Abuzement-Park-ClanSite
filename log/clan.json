@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51193,
+    "clan_score": 51200,
     "required_trophies": 5000,
-    "donations_per_week": 8058,
+    "donations_per_week": 8113,
     "clan_war_trophies": 1365,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,10 +47,10 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200123T154815.000Z",
+            "last_seen": "20200123T164508.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 3,
-            "donations": 450,
+            "donations": 460,
             "donations_received": 400,
             "clan_chest_points": 0
         },
@@ -64,10 +64,10 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20200123T163129.000Z",
+            "last_seen": "20200123T165633.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 2,
-            "donations": 728,
+            "donations": 735,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -183,10 +183,10 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200123T161128.000Z",
+            "last_seen": "20200123T164535.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 12,
-            "donations": 476,
+            "donations": 486,
             "donations_received": 400,
             "clan_chest_points": 0
         },
@@ -293,6 +293,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 11,
+            "trophies": 5185,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200123T165217.000Z",
+            "clan_rank": 17,
+            "previous_clan_rank": 15,
+            "donations": 411,
+            "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8YGPPGRY",
             "name": "slaight",
             "exp_level": 11,
@@ -303,27 +320,10 @@
             },
             "role": "member",
             "last_seen": "20200123T143612.000Z",
-            "clan_rank": 17,
+            "clan_rank": 18,
             "previous_clan_rank": 14,
             "donations": 16,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 11,
-            "trophies": 5144,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200123T162031.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 15,
-            "donations": 393,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -339,7 +339,7 @@
             "last_seen": "20200123T164321.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 24,
-            "donations": 225,
+            "donations": 235,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -438,28 +438,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200123T142447.000Z",
+            "last_seen": "20200123T164800.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 28,
             "donations": 10,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "exp_level": 10,
-            "trophies": 4919,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200123T164145.000Z",
-            "clan_rank": 26,
-            "previous_clan_rank": 34,
-            "donations": 8,
-            "donations_received": 160,
+            "donations_received": 95,
             "clan_chest_points": 0
         },
         {
@@ -473,7 +456,7 @@
             },
             "role": "member",
             "last_seen": "20200123T143134.000Z",
-            "clan_rank": 27,
+            "clan_rank": 26,
             "previous_clan_rank": 18,
             "donations": 225,
             "donations_received": 320,
@@ -490,7 +473,7 @@
             },
             "role": "elder",
             "last_seen": "20200123T163331.000Z",
-            "clan_rank": 28,
+            "clan_rank": 27,
             "previous_clan_rank": 27,
             "donations": 284,
             "donations_received": 280,
@@ -507,7 +490,7 @@
             },
             "role": "member",
             "last_seen": "20200123T095225.000Z",
-            "clan_rank": 29,
+            "clan_rank": 28,
             "previous_clan_rank": 26,
             "donations": 0,
             "donations_received": 0,
@@ -524,10 +507,27 @@
             },
             "role": "member",
             "last_seen": "20200123T104130.000Z",
-            "clan_rank": 30,
+            "clan_rank": 29,
             "previous_clan_rank": 29,
             "donations": 322,
             "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "exp_level": 10,
+            "trophies": 4899,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200123T164145.000Z",
+            "clan_rank": 30,
+            "previous_clan_rank": 34,
+            "donations": 8,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
