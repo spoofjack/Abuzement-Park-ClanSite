@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51001,
+    "clan_score": 51008,
     "required_trophies": 5000,
-    "donations_per_week": 6568,
+    "donations_per_week": 6608,
     "clan_war_trophies": 1367,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -200,10 +200,10 @@
                 "name": "Master II"
             },
             "role": "leader",
-            "last_seen": "20200122T231941.000Z",
+            "last_seen": "20200123T003956.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 10,
-            "donations": 484,
+            "donations": 494,
             "donations_received": 270,
             "clan_chest_points": 0
         },
@@ -211,7 +211,7 @@
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 12,
-            "trophies": 5296,
+            "trophies": 5280,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -220,7 +220,7 @@
             "last_seen": "20200123T002653.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 8,
-            "donations": 400,
+            "donations": 410,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -259,6 +259,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 11,
+            "trophies": 5155,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200123T004135.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 16,
+            "donations": 261,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8JGUU092",
             "name": "Disfatt Bidge",
             "exp_level": 13,
@@ -269,7 +286,7 @@
             },
             "role": "member",
             "last_seen": "20200123T002238.000Z",
-            "clan_rank": 15,
+            "clan_rank": 16,
             "previous_clan_rank": 23,
             "donations": 200,
             "donations_received": 200,
@@ -286,27 +303,10 @@
             },
             "role": "elder",
             "last_seen": "20200122T202810.000Z",
-            "clan_rank": 16,
+            "clan_rank": 17,
             "previous_clan_rank": 15,
             "donations": 149,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 11,
-            "trophies": 5119,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200123T001724.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 16,
-            "donations": 251,
-            "donations_received": 270,
             "clan_chest_points": 0
         },
         {
@@ -531,6 +531,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 11,
+            "trophies": 4835,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200123T002929.000Z",
+            "clan_rank": 31,
+            "previous_clan_rank": 34,
+            "donations": 392,
+            "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "exp_level": 11,
@@ -541,26 +558,9 @@
             },
             "role": "member",
             "last_seen": "20200122T224723.000Z",
-            "clan_rank": 31,
+            "clan_rank": 32,
             "previous_clan_rank": 29,
             "donations": 176,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 11,
-            "trophies": 4814,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200123T002929.000Z",
-            "clan_rank": 32,
-            "previous_clan_rank": 34,
-            "donations": 392,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -710,11 +710,11 @@
                 "name": "Arena 12"
             },
             "role": "member",
-            "last_seen": "20200121T235436.000Z",
+            "last_seen": "20200123T003444.000Z",
             "clan_rank": 41,
             "previous_clan_rank": 40,
-            "donations": 10,
-            "donations_received": 40,
+            "donations": 20,
+            "donations_received": 70,
             "clan_chest_points": 0
         }
     ]
