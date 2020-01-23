@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 1367,
         "participants": 32,
-        "crowns": 29,
+        "crowns": 30,
         "battles_remaining": null,
-        "battles_played": 28,
-        "wins": 15
+        "battles_played": 29,
+        "wins": 16
     },
     "participants": [
         {
             "tag": "#9R02YGGC",
             "name": "harrison",
             "cards_earned": 800,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "cards_earned": 960,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -72,6 +63,15 @@
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 960,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -305,6 +305,17 @@
     ],
     "clans": [
         {
+            "tag": "#YYGQU0YU",
+            "name": "\u041f\u0435\u0440\u043c\u044c",
+            "badge_id": 16000043,
+            "clan_score": 1011,
+            "participants": 32,
+            "crowns": 35,
+            "battles_remaining": 5,
+            "battles_played": 27,
+            "wins": 20
+        },
+        {
             "tag": "#PCUV0R8L",
             "name": "!TOXIC BRASIL!",
             "badge_id": 16000058,
@@ -316,26 +327,15 @@
             "wins": 20
         },
         {
-            "tag": "#YYGQU0YU",
-            "name": "\u041f\u0435\u0440\u043c\u044c",
-            "badge_id": 16000043,
-            "clan_score": 1011,
-            "participants": 32,
-            "crowns": 34,
-            "battles_remaining": 6,
-            "battles_played": 26,
-            "wins": 19
-        },
-        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 1367,
             "participants": 32,
-            "crowns": 29,
-            "battles_remaining": 4,
-            "battles_played": 28,
-            "wins": 15
+            "crowns": 30,
+            "battles_remaining": 3,
+            "battles_played": 29,
+            "wins": 16
         },
         {
             "tag": "#990R8VV",
