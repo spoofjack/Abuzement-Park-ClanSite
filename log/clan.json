@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51229,
+    "clan_score": 51231,
     "required_trophies": 5000,
     "donations_per_week": 10480,
     "clan_war_trophies": 1365,
@@ -123,6 +123,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "exp_level": 12,
+            "trophies": 5423,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20200124T181714.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 6,
+            "donations": 138,
+            "donations_received": 176,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -133,27 +150,10 @@
             },
             "role": "elder",
             "last_seen": "20200124T171008.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 508,
             "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "exp_level": 12,
-            "trophies": 5394,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20200124T180558.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 6,
-            "donations": 138,
-            "donations_received": 176,
             "clan_chest_points": 0
         },
         {
@@ -262,7 +262,7 @@
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 11,
-            "trophies": 5092,
+            "trophies": 5088,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -347,10 +347,10 @@
             "tag": "#202U0V29",
             "name": "estebanito",
             "exp_level": 11,
-            "trophies": 5033,
+            "trophies": 4989,
             "arena": {
-                "id": 54000015,
-                "name": "Master I"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "member",
             "last_seen": "20200124T181139.000Z",
@@ -523,7 +523,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200124T105557.000Z",
+            "last_seen": "20200124T182821.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 26,
             "donations": 450,
