@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1365,
         "participants": 28,
-        "crowns": 3,
+        "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 7,
-        "wins": 3
+        "battles_played": 8,
+        "wins": 4
     },
     "participants": [
         {
@@ -168,15 +168,6 @@
             "number_of_battles": 2
         },
         {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "cards_earned": 800,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 850,
@@ -249,6 +240,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "cards_earned": 800,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "cards_earned": 680,
@@ -274,10 +274,10 @@
             "badge_id": 16000058,
             "clan_score": 1192,
             "participants": 32,
-            "crowns": 18,
-            "battles_remaining": 20,
-            "battles_played": 12,
-            "wins": 8
+            "crowns": 19,
+            "battles_remaining": 19,
+            "battles_played": 13,
+            "wins": 9
         },
         {
             "tag": "#PQ02U0JR",
@@ -285,10 +285,21 @@
             "badge_id": 16000024,
             "clan_score": 916,
             "participants": 28,
-            "crowns": 15,
-            "battles_remaining": 22,
-            "battles_played": 6,
-            "wins": 5
+            "crowns": 18,
+            "battles_remaining": 20,
+            "battles_played": 8,
+            "wins": 6
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1365,
+            "participants": 28,
+            "crowns": 4,
+            "battles_remaining": 20,
+            "battles_played": 8,
+            "wins": 4
         },
         {
             "tag": "#PC02YRVY",
@@ -297,18 +308,7 @@
             "clan_score": 672,
             "participants": 30,
             "crowns": 7,
-            "battles_remaining": 24,
-            "battles_played": 6,
-            "wins": 3
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1365,
-            "participants": 28,
-            "crowns": 3,
-            "battles_remaining": 21,
+            "battles_remaining": 23,
             "battles_played": 7,
             "wins": 3
         },
@@ -319,13 +319,13 @@
             "clan_score": 617,
             "participants": 28,
             "crowns": 0,
-            "battles_remaining": 27,
-            "battles_played": 1,
+            "battles_remaining": 26,
+            "battles_played": 2,
             "wins": 0
         }
     ],
     "cards": 19480,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
