@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 1365,
         "participants": 28,
-        "crowns": 23,
+        "crowns": 24,
         "battles_remaining": null,
-        "battles_played": 21,
-        "wins": 14
+        "battles_played": 22,
+        "wins": 15
     },
     "participants": [
         {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "cards_earned": 850,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8JGUU092",
-            "name": "Disfatt Bidge",
-            "cards_earned": 680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -135,6 +126,15 @@
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8JGUU092",
+            "name": "Disfatt Bidge",
+            "cards_earned": 680,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -280,6 +280,17 @@
             "wins": 16
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1365,
+            "participants": 28,
+            "crowns": 24,
+            "battles_remaining": 6,
+            "battles_played": 22,
+            "wins": 15
+        },
+        {
             "tag": "#PQ02U0JR",
             "name": "Bad and Boujee\u2122",
             "badge_id": 16000024,
@@ -291,25 +302,14 @@
             "wins": 14
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1365,
-            "participants": 28,
-            "crowns": 23,
-            "battles_remaining": 7,
-            "battles_played": 21,
-            "wins": 14
-        },
-        {
             "tag": "#PC02YRVY",
             "name": "Dinner Team",
             "badge_id": 16000000,
             "clan_score": 672,
             "participants": 30,
-            "crowns": 20,
-            "battles_remaining": 12,
-            "battles_played": 18,
+            "crowns": 21,
+            "battles_remaining": 11,
+            "battles_played": 19,
             "wins": 8
         },
         {
@@ -327,5 +327,5 @@
     "cards": 19480,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "18 hours"
+    "end_label": "17 hours"
 }
