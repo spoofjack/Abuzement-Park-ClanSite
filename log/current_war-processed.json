@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 1487,
-        "participants": 30,
+        "participants": 31,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 84,
-        "wins": 46
+        "battles_played": 87,
+        "wins": 48
     },
     "participants": [
         {
@@ -249,6 +249,15 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "cards_earned": 850,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "cards_earned": 640,
@@ -286,7 +295,7 @@
         }
     ],
     "clans": null,
-    "cards": 21570,
+    "cards": 22420,
     "state_label": "Collection Day",
     "collection_end_time_label": "2 hours",
     "end_label": "1 day, 2 hours"
