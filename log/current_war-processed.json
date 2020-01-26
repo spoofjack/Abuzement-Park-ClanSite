@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1487,
         "participants": 35,
-        "crowns": 23,
+        "crowns": 26,
         "battles_remaining": null,
-        "battles_played": 22,
-        "wins": 12
+        "battles_played": 23,
+        "wins": 13
     },
     "participants": [
         {
@@ -63,15 +63,6 @@
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "cards_earned": 510,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y22V9PQ2",
-            "name": "Jacob",
-            "cards_earned": 1020,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -213,6 +204,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#Y22V9PQ2",
+            "name": "Jacob",
+            "cards_earned": 1020,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 510,
@@ -337,9 +337,9 @@
             "badge_id": 16000144,
             "clan_score": 1030,
             "participants": 42,
-            "crowns": 29,
-            "battles_remaining": 20,
-            "battles_played": 22,
+            "crowns": 30,
+            "battles_remaining": 19,
+            "battles_played": 23,
             "wins": 19
         },
         {
@@ -359,10 +359,21 @@
             "badge_id": 16000003,
             "clan_score": 1487,
             "participants": 35,
-            "crowns": 23,
-            "battles_remaining": 13,
-            "battles_played": 22,
-            "wins": 12
+            "crowns": 26,
+            "battles_remaining": 12,
+            "battles_played": 23,
+            "wins": 13
+        },
+        {
+            "tag": "#LL0CPYYL",
+            "name": "Carioca Fajuto\u2667",
+            "badge_id": 16000058,
+            "clan_score": 1111,
+            "participants": 38,
+            "crowns": 18,
+            "battles_remaining": 19,
+            "battles_played": 19,
+            "wins": 11
         },
         {
             "tag": "#9VLUPYC9",
@@ -373,17 +384,6 @@
             "crowns": 26,
             "battles_remaining": 13,
             "battles_played": 19,
-            "wins": 10
-        },
-        {
-            "tag": "#LL0CPYYL",
-            "name": "Carioca Fajuto\u2667",
-            "badge_id": 16000058,
-            "clan_score": 1111,
-            "participants": 38,
-            "crowns": 17,
-            "battles_remaining": 20,
-            "battles_played": 18,
             "wins": 10
         }
     ],
