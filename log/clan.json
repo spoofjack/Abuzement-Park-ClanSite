@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52196,
+    "clan_score": 52172,
     "required_trophies": 5000,
-    "donations_per_week": 1492,
+    "donations_per_week": 1510,
     "clan_war_trophies": 1487,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -140,23 +140,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "exp_level": 12,
-            "trophies": 5440,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20200127T143617.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 9,
-            "donations": 30,
-            "donations_received": 32,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 12,
@@ -167,7 +150,7 @@
             },
             "role": "elder",
             "last_seen": "20200127T122549.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 10,
             "donations": 30,
             "donations_received": 80,
@@ -184,7 +167,7 @@
             },
             "role": "elder",
             "last_seen": "20200127T060027.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 7,
             "donations": 56,
             "donations_received": 40,
@@ -201,10 +184,27 @@
             },
             "role": "elder",
             "last_seen": "20200127T112230.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 11,
             "donations": 46,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "exp_level": 12,
+            "trophies": 5375,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20200127T143617.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 9,
+            "donations": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -340,7 +340,7 @@
             "clan_rank": 19,
             "previous_clan_rank": 18,
             "donations": 28,
-            "donations_received": 10,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -710,10 +710,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200127T133604.000Z",
+            "last_seen": "20200127T145239.000Z",
             "clan_rank": 41,
             "previous_clan_rank": 40,
-            "donations": 46,
+            "donations": 64,
             "donations_received": 0,
             "clan_chest_points": 0
         },
