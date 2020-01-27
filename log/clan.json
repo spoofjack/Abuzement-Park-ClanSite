@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51944,
+    "clan_score": 51936,
     "required_trophies": 5000,
     "donations_per_week": 770,
     "clan_war_trophies": 1487,
@@ -330,7 +330,7 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
-            "trophies": 5116,
+            "trophies": 5104,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -497,23 +497,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2GRRCG8P",
-            "name": "Dashie",
-            "exp_level": 10,
-            "trophies": 4965,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200127T065012.000Z",
-            "clan_rank": 29,
-            "previous_clan_rank": 31,
-            "donations": 10,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#20LGGP900",
             "name": "blackdog",
             "exp_level": 11,
@@ -524,7 +507,7 @@
             },
             "role": "elder",
             "last_seen": "20200127T032600.000Z",
-            "clan_rank": 30,
+            "clan_rank": 29,
             "previous_clan_rank": 29,
             "donations": 26,
             "donations_received": 0,
@@ -541,10 +524,27 @@
             },
             "role": "member",
             "last_seen": "20200127T054732.000Z",
-            "clan_rank": 31,
+            "clan_rank": 30,
             "previous_clan_rank": 35,
             "donations": 0,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2GRRCG8P",
+            "name": "Dashie",
+            "exp_level": 10,
+            "trophies": 4923,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200127T065012.000Z",
+            "clan_rank": 31,
+            "previous_clan_rank": 31,
+            "donations": 10,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
