@@ -332,6 +332,17 @@
     ],
     "clans": [
         {
+            "tag": "#20V8UYV0",
+            "name": "arts of clans",
+            "badge_id": 16000010,
+            "clan_score": 1060,
+            "participants": 32,
+            "crowns": 47,
+            "battles_remaining": 1,
+            "battles_played": 31,
+            "wins": 27
+        },
+        {
             "tag": "#L9VG8CUY",
             "name": "Super Squad",
             "badge_id": 16000144,
@@ -341,17 +352,6 @@
             "battles_remaining": 6,
             "battles_played": 36,
             "wins": 27
-        },
-        {
-            "tag": "#20V8UYV0",
-            "name": "arts of clans",
-            "badge_id": 16000010,
-            "clan_score": 1060,
-            "participants": 32,
-            "crowns": 45,
-            "battles_remaining": 2,
-            "battles_played": 30,
-            "wins": 26
         },
         {
             "tag": "#LP98YUCV",
@@ -390,5 +390,5 @@
     "cards": 25460,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "6 hours"
+    "end_label": "5 hours"
 }
