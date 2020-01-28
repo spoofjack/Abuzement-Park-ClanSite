@@ -10,7 +10,7 @@
         "participants": 37,
         "crowns": 10,
         "battles_remaining": null,
-        "battles_played": 7,
+        "battles_played": 8,
         "wins": 6
     },
     "participants": [
@@ -267,15 +267,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "cards_earned": 510,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
             "cards_earned": 680,
@@ -346,6 +337,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -355,10 +355,10 @@
             "badge_id": 16000168,
             "clan_score": 1249,
             "participants": 35,
-            "crowns": 8,
-            "battles_remaining": 30,
-            "battles_played": 5,
-            "wins": 4
+            "crowns": 10,
+            "battles_remaining": 28,
+            "battles_played": 7,
+            "wins": 5
         },
         {
             "tag": "#2LJ8CVYU",
@@ -366,10 +366,10 @@
             "badge_id": 16000076,
             "clan_score": 1198,
             "participants": 26,
-            "crowns": 13,
-            "battles_remaining": 13,
-            "battles_played": 13,
-            "wins": 6
+            "crowns": 16,
+            "battles_remaining": 12,
+            "battles_played": 14,
+            "wins": 7
         },
         {
             "tag": "#P902UL0V",
@@ -400,8 +400,8 @@
             "clan_score": 1492,
             "participants": 37,
             "crowns": 10,
-            "battles_remaining": 30,
-            "battles_played": 7,
+            "battles_remaining": 29,
+            "battles_played": 8,
             "wins": 6
         }
     ]
