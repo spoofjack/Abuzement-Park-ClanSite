@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53062,
+    "clan_score": 53052,
     "required_trophies": 5000,
     "donations_per_week": 3250,
     "clan_war_trophies": 1492,
@@ -327,23 +327,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5238,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200128T065039.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 19,
-            "donations": 86,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 11,
@@ -354,7 +337,7 @@
             },
             "role": "elder",
             "last_seen": "20200128T031307.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 18,
             "donations": 152,
             "donations_received": 120,
@@ -371,10 +354,27 @@
             },
             "role": "member",
             "last_seen": "20200128T063730.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 15,
             "donations": 83,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5192,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200128T065039.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 19,
+            "donations": 86,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -455,7 +455,7 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200128T064442.000Z",
+            "last_seen": "20200128T073414.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 25,
             "donations": 242,
