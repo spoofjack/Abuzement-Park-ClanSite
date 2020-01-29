@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1492,
         "participants": 37,
-        "crowns": 36,
+        "crowns": 40,
         "battles_remaining": null,
-        "battles_played": 29,
-        "wins": 23
+        "battles_played": 31,
+        "wins": 25
     },
     "participants": [
         {
@@ -27,24 +27,6 @@
             "tag": "#Y22V9PQ2",
             "name": "Jacob",
             "cards_earned": 1020,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#G8YQY2QP",
-            "name": "cowfun",
-            "cards_earned": 800,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#GYQQ0PY",
-            "name": "SloppyJoe",
-            "cards_earned": 510,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -195,6 +177,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#G8YQY2QP",
+            "name": "cowfun",
+            "cards_earned": 800,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#RVJ9L8RV",
             "name": "hgghdf",
             "cards_earned": 450,
@@ -207,6 +198,15 @@
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
+            "cards_earned": 510,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -355,10 +355,10 @@
             "badge_id": 16000003,
             "clan_score": 1492,
             "participants": 37,
-            "crowns": 36,
-            "battles_remaining": 8,
-            "battles_played": 29,
-            "wins": 23
+            "crowns": 40,
+            "battles_remaining": 6,
+            "battles_played": 31,
+            "wins": 25
         },
         {
             "tag": "#YG8VL8PP",
@@ -400,8 +400,8 @@
             "clan_score": 1325,
             "participants": 29,
             "crowns": 20,
-            "battles_remaining": 11,
-            "battles_played": 18,
+            "battles_remaining": 9,
+            "battles_played": 20,
             "wins": 11
         }
     ],
