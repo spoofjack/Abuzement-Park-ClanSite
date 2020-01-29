@@ -8,34 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 1492,
         "participants": 37,
-        "crowns": 34,
+        "crowns": 36,
         "battles_remaining": null,
-        "battles_played": 27,
-        "wins": 21
+        "battles_played": 29,
+        "wins": 23
     },
     "participants": [
-        {
-            "tag": "#9CV9YL02",
-            "name": "\u9e22\u98de",
-            "cards_earned": 850,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#GJ2RL0VU",
             "name": "Dior Savage",
             "cards_earned": 1020,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "cards_earned": 680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -107,6 +89,24 @@
         {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
+            "cards_earned": 680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CV9YL02",
+            "name": "\u9e22\u98de",
+            "cards_earned": 850,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
             "cards_earned": 680,
             "battles_played": 1,
             "collection_day_battles_played": 3,
@@ -350,6 +350,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1492,
+            "participants": 37,
+            "crowns": 36,
+            "battles_remaining": 8,
+            "battles_played": 29,
+            "wins": 23
+        },
+        {
             "tag": "#YG8VL8PP",
             "name": "S\u0103geata MD",
             "badge_id": 16000018,
@@ -359,17 +370,6 @@
             "battles_remaining": 9,
             "battles_played": 27,
             "wins": 22
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1492,
-            "participants": 37,
-            "crowns": 34,
-            "battles_remaining": 10,
-            "battles_played": 27,
-            "wins": 21
         },
         {
             "tag": "#2LJ8CVYU",
