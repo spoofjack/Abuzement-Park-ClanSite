@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1619,
         "participants": 38,
-        "crowns": 5,
+        "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 4,
-        "wins": 3
+        "battles_played": 6,
+        "wins": 4
     },
     "participants": [
         {
@@ -35,15 +35,6 @@
         {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9QLU0J80",
-            "name": "no1giantsfan76",
             "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -153,15 +144,6 @@
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -330,8 +312,26 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9QLU0J80",
+            "name": "no1giantsfan76",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#Y22V9PQ2",
             "name": "Jacob",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
             "cards_earned": 1487,
             "battles_played": 1,
             "collection_day_battles_played": 3,
@@ -364,10 +364,21 @@
             "badge_id": 16000029,
             "clan_score": 2892,
             "participants": 40,
-            "crowns": 10,
-            "battles_remaining": 33,
-            "battles_played": 7,
-            "wins": 6
+            "crowns": 11,
+            "battles_remaining": 32,
+            "battles_played": 8,
+            "wins": 7
+        },
+        {
+            "tag": "#9UJCYPJU",
+            "name": "\u041f\u0435\u0439 \u0432\u043e\u0434\u0438\u0447\u043a\u0443",
+            "badge_id": 16000143,
+            "clan_score": 1802,
+            "participants": 40,
+            "crowns": 12,
+            "battles_remaining": 31,
+            "battles_played": 9,
+            "wins": 4
         },
         {
             "tag": "#PLLPP8UL",
@@ -381,15 +392,15 @@
             "wins": 4
         },
         {
-            "tag": "#9UJCYPJU",
-            "name": "\u041f\u0435\u0439 \u0432\u043e\u0434\u0438\u0447\u043a\u0443",
-            "badge_id": 16000143,
-            "clan_score": 1802,
-            "participants": 40,
-            "crowns": 9,
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1619,
+            "participants": 38,
+            "crowns": 7,
             "battles_remaining": 32,
-            "battles_played": 8,
-            "wins": 3
+            "battles_played": 6,
+            "wins": 4
         },
         {
             "tag": "#YLJG2YQY",
@@ -401,21 +412,10 @@
             "battles_remaining": 35,
             "battles_played": 4,
             "wins": 3
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1619,
-            "participants": 38,
-            "crowns": 5,
-            "battles_remaining": 34,
-            "battles_played": 4,
-            "wins": 3
         }
     ],
     "cards": 45475,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
