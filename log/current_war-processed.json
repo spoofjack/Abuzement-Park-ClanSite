@@ -7,20 +7,29 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 1693,
-        "participants": 9,
+        "participants": 11,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 20,
-        "wins": 10
+        "battles_played": 25,
+        "wins": 11
     },
     "participants": [
         {
             "tag": "#9RURV22L0",
             "name": "PapaGucci69",
-            "cards_earned": 595,
+            "cards_earned": 892,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#8YGPPGRY",
+            "name": "slaight",
+            "cards_earned": 297,
             "battles_played": 1,
             "collection_day_battles_played": 1,
-            "wins": 1,
+            "wins": 0,
             "number_of_battles": 3
         },
         {
@@ -33,11 +42,20 @@
             "number_of_battles": 3
         },
         {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
+            "tag": "#8JGUU092",
+            "name": "Disfatt Bidge",
             "cards_earned": 892,
             "battles_played": 2,
             "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 1189,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 3
         },
@@ -97,7 +115,7 @@
         }
     ],
     "clans": null,
-    "cards": 8920,
+    "cards": 10703,
     "state_label": "Collection Day",
     "collection_end_time_label": "21 hours",
     "end_label": "1 day, 21 hours"
