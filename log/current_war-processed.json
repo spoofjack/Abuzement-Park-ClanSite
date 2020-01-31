@@ -10,7 +10,7 @@
         "participants": 38,
         "crowns": 45,
         "battles_remaining": null,
-        "battles_played": 34,
+        "battles_played": 35,
         "wins": 22
     },
     "participants": [
@@ -27,15 +27,6 @@
             "tag": "#P2YYY2VU",
             "name": "nailon",
             "cards_earned": 1785,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2P9QGRRLC",
-            "name": "IvoVich",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -240,6 +231,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2P9QGRRLC",
+            "name": "IvoVich",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YJPYL02JC",
             "name": "john",
             "cards_earned": 1400,
@@ -376,8 +376,8 @@
             "clan_score": 1619,
             "participants": 38,
             "crowns": 45,
-            "battles_remaining": 4,
-            "battles_played": 34,
+            "battles_remaining": 3,
+            "battles_played": 35,
             "wins": 22
         },
         {
@@ -397,9 +397,9 @@
             "badge_id": 16000029,
             "clan_score": 2892,
             "participants": 40,
-            "crowns": 28,
-            "battles_remaining": 8,
-            "battles_played": 32,
+            "crowns": 29,
+            "battles_remaining": 7,
+            "battles_played": 33,
             "wins": 17
         },
         {
@@ -417,5 +417,5 @@
     "cards": 45475,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "7 hours"
+    "end_label": "6 hours"
 }
