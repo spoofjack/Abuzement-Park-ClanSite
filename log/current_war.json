@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1619,
         "participants": 38,
-        "crowns": 45,
+        "crowns": 47,
         "battles_remaining": null,
-        "battles_played": 35,
-        "wins": 22
+        "battles_played": 37,
+        "wins": 23
     },
     "participants": [
         {
@@ -33,27 +33,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2C8QPLUPG",
-            "name": "grimm reaper",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 891,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -258,6 +240,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2C8QPLUPG",
+            "name": "grimm reaper",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 891,
@@ -306,6 +297,15 @@
             "tag": "#20LGGP900",
             "name": "blackdog",
             "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "cards_earned": 1120,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -386,10 +386,10 @@
             "badge_id": 16000003,
             "clan_score": 1619,
             "participants": 38,
-            "crowns": 45,
-            "battles_remaining": 3,
-            "battles_played": 35,
-            "wins": 22
+            "crowns": 47,
+            "battles_remaining": 1,
+            "battles_played": 37,
+            "wins": 23
         },
         {
             "tag": "#9UJCYPJU",
@@ -408,9 +408,9 @@
             "badge_id": 16000078,
             "clan_score": 2891,
             "participants": 39,
-            "crowns": 39,
-            "battles_remaining": 9,
-            "battles_played": 30,
+            "crowns": 40,
+            "battles_remaining": 8,
+            "battles_played": 31,
             "wins": 19
         }
     ]
