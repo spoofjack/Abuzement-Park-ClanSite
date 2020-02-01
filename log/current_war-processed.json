@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 1693,
         "participants": 39,
-        "crowns": 10,
+        "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 6,
-        "wins": 5
+        "battles_played": 7,
+        "wins": 6
     },
     "participants": [
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#9RURV22L0",
             "name": "PapaGucci69",
@@ -312,6 +303,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 1785,
@@ -373,9 +373,20 @@
             "badge_id": 16000003,
             "clan_score": 1693,
             "participants": 39,
+            "crowns": 12,
+            "battles_remaining": 32,
+            "battles_played": 7,
+            "wins": 6
+        },
+        {
+            "tag": "#YGQCJGJL",
+            "name": "Armani \u00a1mex!",
+            "badge_id": 16000024,
+            "clan_score": 2807,
+            "participants": 38,
             "crowns": 10,
-            "battles_remaining": 33,
-            "battles_played": 6,
+            "battles_remaining": 29,
+            "battles_played": 9,
             "wins": 5
         },
         {
@@ -390,26 +401,15 @@
             "wins": 4
         },
         {
-            "tag": "#YGQCJGJL",
-            "name": "Armani \u00a1mex!",
-            "badge_id": 16000024,
-            "clan_score": 2807,
-            "participants": 38,
-            "crowns": 3,
-            "battles_remaining": 33,
-            "battles_played": 5,
-            "wins": 2
-        },
-        {
             "tag": "#9LJRGR0U",
             "name": "Elite Mexico",
             "badge_id": 16000176,
             "clan_score": 2275,
             "participants": 39,
-            "crowns": 3,
-            "battles_remaining": 36,
-            "battles_played": 3,
-            "wins": 1
+            "crowns": 4,
+            "battles_remaining": 35,
+            "battles_played": 4,
+            "wins": 2
         },
         {
             "tag": "#99QV0JLP",
@@ -417,9 +417,9 @@
             "badge_id": 16000012,
             "clan_score": 2488,
             "participants": 37,
-            "crowns": 0,
-            "battles_remaining": 33,
-            "battles_played": 4,
+            "crowns": 1,
+            "battles_remaining": 31,
+            "battles_played": 6,
             "wins": 0
         }
     ],
