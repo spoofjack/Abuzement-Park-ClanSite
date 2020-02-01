@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 1693,
-        "participants": 31,
+        "participants": 33,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 78,
-        "wins": 42
+        "battles_played": 82,
+        "wins": 45
     },
     "participants": [
         {
@@ -66,6 +66,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 2,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#2UG9UURC",
+            "name": "Spaceman Spiff",
+            "cards_earned": 595,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
             "number_of_battles": 3
         },
         {
@@ -125,10 +134,10 @@
         {
             "tag": "#RVJ9L8RV",
             "name": "hgghdf",
-            "cards_earned": 262,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 0,
+            "cards_earned": 1312,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
             "number_of_battles": 3
         },
         {
@@ -240,6 +249,15 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#2J8GVPY8U",
+            "name": "Portsmouth",
+            "cards_earned": 280,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1189,
@@ -295,7 +313,7 @@
         }
     ],
     "clans": null,
-    "cards": 35631,
+    "cards": 37556,
     "state_label": "Collection Day",
     "collection_end_time_label": "13 hours",
     "end_label": "1 day, 13 hours"
