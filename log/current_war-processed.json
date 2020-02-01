@@ -10,7 +10,7 @@
         "participants": 39,
         "crowns": 23,
         "battles_remaining": null,
-        "battles_played": 19,
+        "battles_played": 20,
         "wins": 12
     },
     "participants": [
@@ -159,15 +159,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#20LGGP900",
             "name": "blackdog",
             "cards_earned": 1785,
@@ -303,6 +294,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2J9CP02VU",
             "name": "Zeus",
             "cards_earned": 1487,
@@ -374,8 +374,8 @@
             "clan_score": 1693,
             "participants": 39,
             "crowns": 23,
-            "battles_remaining": 20,
-            "battles_played": 19,
+            "battles_remaining": 19,
+            "battles_played": 20,
             "wins": 12
         },
         {
@@ -388,6 +388,17 @@
             "battles_remaining": 23,
             "battles_played": 15,
             "wins": 10
+        },
+        {
+            "tag": "#9LJRGR0U",
+            "name": "Elite Mexico",
+            "badge_id": 16000176,
+            "clan_score": 2275,
+            "participants": 39,
+            "crowns": 17,
+            "battles_remaining": 26,
+            "battles_played": 13,
+            "wins": 8
         },
         {
             "tag": "#99C2J8Q8",
@@ -407,20 +418,9 @@
             "clan_score": 2488,
             "participants": 37,
             "crowns": 15,
-            "battles_remaining": 18,
-            "battles_played": 19,
+            "battles_remaining": 17,
+            "battles_played": 20,
             "wins": 8
-        },
-        {
-            "tag": "#9LJRGR0U",
-            "name": "Elite Mexico",
-            "badge_id": 16000176,
-            "clan_score": 2275,
-            "participants": 39,
-            "crowns": 14,
-            "battles_remaining": 27,
-            "battles_played": 12,
-            "wins": 7
         }
     ],
     "cards": 51569,
