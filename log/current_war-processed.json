@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 1693,
         "participants": 39,
-        "crowns": 43,
+        "crowns": 44,
         "battles_remaining": null,
-        "battles_played": 38,
-        "wins": 24
+        "battles_played": 39,
+        "wins": 25
     },
     "participants": [
-        {
-            "tag": "#LUVYCYUQ",
-            "name": "KiLL3rC0W8OY03",
-            "cards_earned": 840,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
@@ -204,6 +195,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#LUVYCYUQ",
+            "name": "KiLL3rC0W8OY03",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2P9QGRRLC",
             "name": "IvoVich",
             "cards_earned": 1487,
@@ -368,6 +368,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1693,
+            "participants": 39,
+            "crowns": 44,
+            "battles_remaining": 0,
+            "battles_played": 39,
+            "wins": 25
+        },
+        {
             "tag": "#99C2J8Q8",
             "name": "alger dz",
             "badge_id": 16000028,
@@ -379,26 +390,15 @@
             "wins": 24
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1693,
-            "participants": 39,
-            "crowns": 43,
-            "battles_remaining": 1,
-            "battles_played": 38,
-            "wins": 24
-        },
-        {
             "tag": "#YGQCJGJL",
             "name": "Armani \u00a1mex!",
             "badge_id": 16000024,
             "clan_score": 2807,
             "participants": 38,
-            "crowns": 39,
-            "battles_remaining": 5,
-            "battles_played": 33,
-            "wins": 21
+            "crowns": 42,
+            "battles_remaining": 4,
+            "battles_played": 34,
+            "wins": 22
         },
         {
             "tag": "#99QV0JLP",
@@ -417,10 +417,10 @@
             "badge_id": 16000176,
             "clan_score": 2275,
             "participants": 39,
-            "crowns": 30,
-            "battles_remaining": 9,
-            "battles_played": 30,
-            "wins": 16
+            "crowns": 32,
+            "battles_remaining": 8,
+            "battles_played": 31,
+            "wins": 17
         }
     ],
     "cards": 51569,
