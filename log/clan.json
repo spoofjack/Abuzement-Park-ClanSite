@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54185,
+    "clan_score": 54200,
     "required_trophies": 5000,
-    "donations_per_week": 450,
+    "donations_per_week": 582,
     "clan_war_trophies": 1818,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -55,6 +55,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "exp_level": 12,
+            "trophies": 5841,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20200203T023621.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 4,
+            "donations": 40,
+            "donations_received": 32,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -65,25 +82,8 @@
             },
             "role": "coLeader",
             "last_seen": "20200203T002124.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 3,
-            "donations": 10,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "exp_level": 12,
-            "trophies": 5781,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "elder",
-            "last_seen": "20200203T022919.000Z",
             "clan_rank": 4,
-            "previous_clan_rank": 4,
+            "previous_clan_rank": 3,
             "donations": 10,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -245,7 +245,7 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
-            "trophies": 5391,
+            "trophies": 5351,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
@@ -254,7 +254,7 @@
             "last_seen": "20200203T020556.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 19,
-            "donations": 18,
+            "donations": 38,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -268,7 +268,7 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200203T005725.000Z",
+            "last_seen": "20200203T024453.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 18,
             "donations": 20,
@@ -330,17 +330,17 @@
             "tag": "#8JGUU092",
             "name": "Disfatt Bidge",
             "exp_level": 13,
-            "trophies": 5288,
+            "trophies": 5265,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200203T014338.000Z",
+            "last_seen": "20200203T023043.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 16,
-            "donations": 26,
-            "donations_received": 0,
+            "donations": 44,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -472,10 +472,10 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200203T021803.000Z",
+            "last_seen": "20200203T023859.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 25,
-            "donations": 30,
+            "donations": 48,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -582,23 +582,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "exp_level": 11,
-            "trophies": 5068,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200202T225832.000Z",
-            "clan_rank": 34,
-            "previous_clan_rank": 34,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2J8GVPY8U",
             "name": "Portsmouth",
             "exp_level": 11,
@@ -609,7 +592,7 @@
             },
             "role": "member",
             "last_seen": "20200203T020753.000Z",
-            "clan_rank": 35,
+            "clan_rank": 34,
             "previous_clan_rank": 41,
             "donations": 8,
             "donations_received": 40,
@@ -626,10 +609,27 @@
             },
             "role": "member",
             "last_seen": "20200202T224420.000Z",
-            "clan_rank": 36,
+            "clan_rank": 35,
             "previous_clan_rank": 36,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "exp_level": 11,
+            "trophies": 5046,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200203T023318.000Z",
+            "clan_rank": 36,
+            "previous_clan_rank": 34,
+            "donations": 0,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -650,6 +650,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YGQG9VUVL",
+            "name": "Burkelbear",
+            "exp_level": 11,
+            "trophies": 5024,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200203T022756.000Z",
+            "clan_rank": 38,
+            "previous_clan_rank": 40,
+            "donations": 18,
+            "donations_received": 20,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#Y2YPJRJ09",
             "name": "ThoughtSlayer69",
             "exp_level": 9,
@@ -660,7 +677,7 @@
             },
             "role": "member",
             "last_seen": "20200202T233308.000Z",
-            "clan_rank": 38,
+            "clan_rank": 39,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -676,8 +693,8 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200203T022617.000Z",
-            "clan_rank": 39,
+            "last_seen": "20200203T023833.000Z",
+            "clan_rank": 40,
             "previous_clan_rank": 37,
             "donations": 18,
             "donations_received": 40,
@@ -694,7 +711,7 @@
             },
             "role": "member",
             "last_seen": "20200202T231801.000Z",
-            "clan_rank": 40,
+            "clan_rank": 41,
             "previous_clan_rank": 39,
             "donations": 0,
             "donations_received": 0,
@@ -710,27 +727,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200202T210523.000Z",
-            "clan_rank": 41,
-            "previous_clan_rank": 42,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YGQG9VUVL",
-            "name": "Burkelbear",
-            "exp_level": 11,
-            "trophies": 4985,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200203T022756.000Z",
+            "last_seen": "20200203T023551.000Z",
             "clan_rank": 42,
-            "previous_clan_rank": 40,
-            "donations": 0,
+            "previous_clan_rank": 42,
+            "donations": 28,
             "donations_received": 0,
             "clan_chest_points": 0
         },
