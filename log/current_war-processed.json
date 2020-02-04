@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1818,
         "participants": 38,
-        "crowns": 28,
+        "crowns": 34,
         "battles_remaining": null,
-        "battles_played": 25,
-        "wins": 16
+        "battles_played": 27,
+        "wins": 18
     },
     "participants": [
         {
@@ -103,15 +103,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#2GGYGCRR0",
-            "name": "Ok Girl",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#20LGGP900",
@@ -355,9 +346,29 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#2GGYGCRR0",
+            "name": "Ok Girl",
+            "cards_earned": 1120,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 2
         }
     ],
     "clans": [
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 1818,
+            "participants": 38,
+            "crowns": 34,
+            "battles_remaining": 11,
+            "battles_played": 27,
+            "wins": 18
+        },
         {
             "tag": "#8LU8GVPG",
             "name": "\u7687\u5ba4\u6218\u4e89\uff08\u9f99\u57ce\u5bb6\u65cf\uff09",
@@ -368,17 +379,6 @@
             "battles_remaining": 20,
             "battles_played": 19,
             "wins": 17
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 1818,
-            "participants": 38,
-            "crowns": 28,
-            "battles_remaining": 13,
-            "battles_played": 25,
-            "wins": 16
         },
         {
             "tag": "#2YUGU0UJ",
@@ -408,10 +408,10 @@
             "badge_id": 16000162,
             "clan_score": 2823,
             "participants": 40,
-            "crowns": 5,
-            "battles_remaining": 32,
-            "battles_played": 8,
-            "wins": 3
+            "crowns": 8,
+            "battles_remaining": 31,
+            "battles_played": 9,
+            "wins": 4
         }
     ],
     "cards": 45826,
