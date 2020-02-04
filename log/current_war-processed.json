@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1818,
         "participants": 38,
-        "crowns": 34,
+        "crowns": 35,
         "battles_remaining": null,
-        "battles_played": 27,
-        "wins": 18
+        "battles_played": 28,
+        "wins": 19
     },
     "participants": [
         {
@@ -108,15 +108,6 @@
             "tag": "#20LGGP900",
             "name": "blackdog",
             "cards_earned": 891,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -303,6 +294,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "cards_earned": 1189,
@@ -364,10 +364,10 @@
             "badge_id": 16000003,
             "clan_score": 1818,
             "participants": 38,
-            "crowns": 34,
-            "battles_remaining": 11,
-            "battles_played": 27,
-            "wins": 18
+            "crowns": 35,
+            "battles_remaining": 10,
+            "battles_played": 28,
+            "wins": 19
         },
         {
             "tag": "#8LU8GVPG",
@@ -375,10 +375,10 @@
             "badge_id": 16000035,
             "clan_score": 2984,
             "participants": 39,
-            "crowns": 44,
-            "battles_remaining": 20,
-            "battles_played": 19,
-            "wins": 17
+            "crowns": 45,
+            "battles_remaining": 18,
+            "battles_played": 21,
+            "wins": 18
         },
         {
             "tag": "#2YUGU0UJ",
@@ -387,8 +387,8 @@
             "clan_score": 2950,
             "participants": 37,
             "crowns": 24,
-            "battles_remaining": 14,
-            "battles_played": 23,
+            "battles_remaining": 11,
+            "battles_played": 26,
             "wins": 15
         },
         {
@@ -409,13 +409,13 @@
             "clan_score": 2823,
             "participants": 40,
             "crowns": 8,
-            "battles_remaining": 31,
-            "battles_played": 9,
+            "battles_remaining": 30,
+            "battles_played": 10,
             "wins": 4
         }
     ],
     "cards": 45826,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "17 hours"
+    "end_label": "16 hours"
 }
