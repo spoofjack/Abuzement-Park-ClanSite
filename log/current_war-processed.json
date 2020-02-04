@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 1818,
         "participants": 38,
-        "crowns": 37,
+        "crowns": 38,
         "battles_remaining": null,
-        "battles_played": 30,
+        "battles_played": 31,
         "wins": 20
     },
     "participants": [
@@ -63,15 +63,6 @@
             "tag": "#YJPYL02JC",
             "name": "john",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 891,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -240,6 +231,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 891,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#202U0V29",
             "name": "estebanito",
             "cards_earned": 1487,
@@ -364,9 +364,9 @@
             "badge_id": 16000003,
             "clan_score": 1818,
             "participants": 38,
-            "crowns": 37,
-            "battles_remaining": 8,
-            "battles_played": 30,
+            "crowns": 38,
+            "battles_remaining": 7,
+            "battles_played": 31,
             "wins": 20
         },
         {
@@ -398,8 +398,8 @@
             "clan_score": 2964,
             "participants": 39,
             "crowns": 26,
-            "battles_remaining": 18,
-            "battles_played": 21,
+            "battles_remaining": 17,
+            "battles_played": 22,
             "wins": 14
         },
         {
@@ -409,8 +409,8 @@
             "clan_score": 2823,
             "participants": 40,
             "crowns": 14,
-            "battles_remaining": 24,
-            "battles_played": 16,
+            "battles_remaining": 23,
+            "battles_played": 17,
             "wins": 8
         }
     ],
