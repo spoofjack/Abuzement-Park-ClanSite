@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1892,
         "participants": 43,
-        "crowns": 26,
+        "crowns": 28,
         "battles_remaining": null,
-        "battles_played": 20,
-        "wins": 14
+        "battles_played": 21,
+        "wins": 15
     },
     "participants": [
         {
@@ -81,15 +81,6 @@
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "cards_earned": 1680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#RVJ9L8RV",
-            "name": "hgghdf",
-            "cards_earned": 1049,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -294,6 +285,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#RVJ9L8RV",
+            "name": "hgghdf",
+            "cards_earned": 1049,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "cards_earned": 840,
@@ -453,10 +453,10 @@
             "badge_id": 16000003,
             "clan_score": 1892,
             "participants": 43,
-            "crowns": 26,
-            "battles_remaining": 23,
-            "battles_played": 20,
-            "wins": 14
+            "crowns": 28,
+            "battles_remaining": 22,
+            "battles_played": 21,
+            "wins": 15
         }
     ]
 }
