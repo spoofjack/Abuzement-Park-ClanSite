@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 1892,
-        "participants": 25,
+        "participants": 26,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 64,
-        "wins": 42
+        "battles_played": 68,
+        "wins": 45
     },
     "participants": [
         {
@@ -98,10 +98,10 @@
         {
             "tag": "#Y22V9PQ2",
             "name": "Jacob",
-            "cards_earned": 560,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 1,
+            "cards_earned": 1120,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 2,
             "number_of_battles": 3
         },
         {
@@ -120,6 +120,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 3,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#CJUU8U2",
+            "name": "supersized",
+            "cards_earned": 560,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
             "number_of_battles": 3
         },
         {
@@ -233,15 +242,15 @@
         {
             "tag": "#YGQG9VUVL",
             "name": "Burkelbear",
-            "cards_earned": 560,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 1,
+            "cards_earned": 1400,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
             "number_of_battles": 3
         }
     ],
     "clans": null,
-    "cards": 29872,
+    "cards": 31832,
     "state_label": "Collection Day",
     "collection_end_time_label": "16 hours",
     "end_label": "1 day, 16 hours"
