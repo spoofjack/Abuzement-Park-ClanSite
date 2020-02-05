@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47669,
+    "clan_score": 47668,
     "required_trophies": 5000,
-    "donations_per_week": 7024,
+    "donations_per_week": 7080,
     "clan_war_trophies": 1892,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -85,7 +85,24 @@
             "clan_rank": 4,
             "previous_clan_rank": 3,
             "donations": 392,
-            "donations_received": 210,
+            "donations_received": 230,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "exp_level": 13,
+            "trophies": 4939,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200205T103405.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 6,
+            "donations": 88,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -99,27 +116,10 @@
             },
             "role": "elder",
             "last_seen": "20200205T065551.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 7,
             "donations": 204,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "exp_level": 13,
-            "trophies": 4931,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200205T103405.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 6,
-            "donations": 88,
-            "donations_received": 150,
             "clan_chest_points": 0
         },
         {
@@ -293,23 +293,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#202U0V29",
-            "name": "estebanito",
-            "exp_level": 11,
-            "trophies": 4708,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200205T102525.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 24,
-            "donations": 114,
-            "donations_received": 144,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8YGPPGRY",
             "name": "slaight",
             "exp_level": 11,
@@ -320,7 +303,7 @@
             },
             "role": "member",
             "last_seen": "20200205T025409.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 16,
             "donations": 184,
             "donations_received": 120,
@@ -337,9 +320,26 @@
             },
             "role": "elder",
             "last_seen": "20200205T100745.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 21,
             "donations": 330,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#202U0V29",
+            "name": "estebanito",
+            "exp_level": 11,
+            "trophies": 4689,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200205T102525.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 24,
+            "donations": 114,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -421,11 +421,11 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20200205T091134.000Z",
+            "last_seen": "20200205T104354.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 30,
-            "donations": 435,
-            "donations_received": 270,
+            "donations": 453,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -523,10 +523,10 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20200205T023948.000Z",
+            "last_seen": "20200205T105708.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 22,
-            "donations": 200,
+            "donations": 238,
             "donations_received": 200,
             "clan_chest_points": 0
         },
