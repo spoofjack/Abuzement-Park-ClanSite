@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1892,
         "participants": 43,
-        "crowns": 35,
+        "crowns": 38,
         "battles_remaining": null,
-        "battles_played": 26,
-        "wins": 18
+        "battles_played": 27,
+        "wins": 19
     },
     "participants": [
         {
@@ -27,15 +27,6 @@
             "tag": "#Y2YPJRJ09",
             "name": "ThoughtSlayer69",
             "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -198,6 +189,15 @@
             "tag": "#9QLU0J80",
             "name": "no1giantsfan76",
             "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "cards_earned": 1120,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -409,10 +409,10 @@
             "badge_id": 16000003,
             "clan_score": 1892,
             "participants": 43,
-            "crowns": 35,
-            "battles_remaining": 17,
-            "battles_played": 26,
-            "wins": 18
+            "crowns": 38,
+            "battles_remaining": 16,
+            "battles_played": 27,
+            "wins": 19
         },
         {
             "tag": "#992QPJ2",
@@ -453,14 +453,14 @@
             "badge_id": 16000000,
             "clan_score": 2588,
             "participants": 41,
-            "crowns": 16,
-            "battles_remaining": 23,
-            "battles_played": 18,
-            "wins": 7
+            "crowns": 19,
+            "battles_remaining": 22,
+            "battles_played": 19,
+            "wins": 8
         }
     ],
     "cards": 58448,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "17 hours"
+    "end_label": "16 hours"
 }
