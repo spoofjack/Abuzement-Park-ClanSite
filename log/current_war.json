@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 1892,
         "participants": 43,
-        "crowns": 61,
+        "crowns": 62,
         "battles_remaining": null,
-        "battles_played": 41,
-        "wins": 29
+        "battles_played": 42,
+        "wins": 30
     },
     "participants": [
-        {
-            "tag": "#Y2YPJRJ09",
-            "name": "ThoughtSlayer69",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#280R2CG8L",
             "name": "PinksBabe",
@@ -62,6 +53,15 @@
         {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#Y2YPJRJ09",
+            "name": "ThoughtSlayer69",
             "cards_earned": 1400,
             "battles_played": 1,
             "collection_day_battles_played": 3,
@@ -453,10 +453,10 @@
             "badge_id": 16000003,
             "clan_score": 1892,
             "participants": 43,
-            "crowns": 61,
-            "battles_remaining": 2,
-            "battles_played": 41,
-            "wins": 29
+            "crowns": 62,
+            "battles_remaining": 1,
+            "battles_played": 42,
+            "wins": 30
         }
     ]
 }
