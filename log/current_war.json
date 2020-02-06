@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 1892,
         "participants": 43,
-        "crowns": 45,
+        "crowns": 46,
         "battles_remaining": null,
-        "battles_played": 31,
-        "wins": 21
+        "battles_played": 32,
+        "wins": 22
     },
     "participants": [
         {
@@ -81,15 +81,6 @@
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 1400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -285,6 +276,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2C8QPLUPG",
             "name": "grimm reaper",
             "cards_earned": 1400,
@@ -453,10 +453,10 @@
             "badge_id": 16000003,
             "clan_score": 1892,
             "participants": 43,
-            "crowns": 45,
-            "battles_remaining": 12,
-            "battles_played": 31,
-            "wins": 21
+            "crowns": 46,
+            "battles_remaining": 11,
+            "battles_played": 32,
+            "wins": 22
         }
     ]
 }
