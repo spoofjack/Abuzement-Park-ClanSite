@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2022,
-        "participants": 26,
+        "participants": 27,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 71,
-        "wins": 32
+        "battles_played": 74,
+        "wins": 35
     },
     "participants": [
         {
@@ -195,12 +195,21 @@
             "number_of_battles": 3
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "cards_earned": 297,
+            "tag": "#2J8GVPY8U",
+            "name": "Portsmouth",
+            "cards_earned": 560,
             "battles_played": 1,
             "collection_day_battles_played": 1,
-            "wins": 0,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "cards_earned": 1487,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
             "number_of_battles": 3
         },
         {
@@ -250,8 +259,8 @@
         }
     ],
     "clans": null,
-    "cards": 29115,
+    "cards": 30865,
     "state_label": "Collection Day",
-    "collection_end_time_label": "16 hours",
-    "end_label": "1 day, 16 hours"
+    "collection_end_time_label": "15 hours",
+    "end_label": "1 day, 15 hours"
 }
