@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2022,
-        "participants": 40,
+        "participants": 41,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 120,
-        "wins": 61
+        "battles_played": 123,
+        "wins": 64
     },
     "participants": [
         {
@@ -303,6 +303,15 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#2GGYGCRR0",
+            "name": "Ok Girl",
+            "cards_earned": 1680,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 3,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#20LGGP900",
             "name": "blackdog",
             "cards_earned": 840,
@@ -376,7 +385,7 @@
         }
     ],
     "clans": null,
-    "cards": 51112,
+    "cards": 52792,
     "state_label": "Collection Day",
     "collection_end_time_label": "0 hours",
     "end_label": "1 day, 0 hours"
