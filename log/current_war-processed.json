@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2022,
         "participants": 41,
-        "crowns": 0,
+        "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 4,
+        "wins": 2
     },
     "participants": [
         {
@@ -195,27 +195,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2GRRCG8P",
-            "name": "Dashie",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#90VLQC2GU",
             "name": "Rmin",
             "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "cards_earned": 840,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -294,15 +276,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2J9CP02VU",
-            "name": "Zeus",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "cards_earned": 1680,
@@ -333,15 +306,6 @@
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9C9YGP8CV",
-            "name": "boi",
-            "cards_earned": 1400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -382,9 +346,78 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#2GRRCG8P",
+            "name": "Dashie",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2J9CP02VU",
+            "name": "Zeus",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9C9YGP8CV",
+            "name": "boi",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#YRYY08PP",
+            "name": "GloriaArgentina",
+            "badge_id": 16000124,
+            "clan_score": 2621,
+            "participants": 42,
+            "crowns": 8,
+            "battles_remaining": 39,
+            "battles_played": 3,
+            "wins": 3
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2022,
+            "participants": 41,
+            "crowns": 5,
+            "battles_remaining": 37,
+            "battles_played": 4,
+            "wins": 2
+        },
+        {
+            "tag": "#YURJGVR8",
+            "name": "Olimpia",
+            "badge_id": 16000109,
+            "clan_score": 2549,
+            "participants": 40,
+            "crowns": 2,
+            "battles_remaining": 39,
+            "battles_played": 1,
+            "wins": 1
+        },
         {
             "tag": "#2YLPYL2",
             "name": "\u0411\u043e\u0435\u0446",
@@ -404,39 +437,6 @@
             "participants": 42,
             "crowns": 0,
             "battles_remaining": 42,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2022,
-            "participants": 41,
-            "crowns": 0,
-            "battles_remaining": 41,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#YRYY08PP",
-            "name": "GloriaArgentina",
-            "badge_id": 16000124,
-            "clan_score": 2621,
-            "participants": 42,
-            "crowns": 0,
-            "battles_remaining": 42,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#YURJGVR8",
-            "name": "Olimpia",
-            "badge_id": 16000109,
-            "clan_score": 2549,
-            "participants": 40,
-            "crowns": 0,
-            "battles_remaining": 40,
             "battles_played": 0,
             "wins": 0
         }
