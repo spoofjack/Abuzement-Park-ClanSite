@@ -5,7 +5,7 @@
     "type": "inviteOnly",
     "clan_score": 49076,
     "required_trophies": 5000,
-    "donations_per_week": 15950,
+    "donations_per_week": 15970,
     "clan_war_trophies": 2022,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,10 +47,10 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200208T025905.000Z",
+            "last_seen": "20200208T034602.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 671,
+            "donations": 681,
             "donations_received": 480,
             "clan_chest_points": 0
         },
@@ -98,7 +98,7 @@
                 "name": "Master I"
             },
             "role": "leader",
-            "last_seen": "20200208T032752.000Z",
+            "last_seen": "20200208T035910.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 899,
@@ -353,11 +353,28 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200208T024633.000Z",
+            "last_seen": "20200208T035522.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 27,
             "donations": 402,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CPYC92RU",
+            "name": "Pecesitp",
+            "exp_level": 11,
+            "trophies": 4814,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200208T034951.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 25,
+            "donations": 114,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -371,7 +388,7 @@
             },
             "role": "member",
             "last_seen": "20200207T134206.000Z",
-            "clan_rank": 21,
+            "clan_rank": 22,
             "previous_clan_rank": 20,
             "donations": 26,
             "donations_received": 80,
@@ -388,27 +405,10 @@
             },
             "role": "member",
             "last_seen": "20200207T073730.000Z",
-            "clan_rank": 22,
+            "clan_rank": 23,
             "previous_clan_rank": 21,
             "donations": 114,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CPYC92RU",
-            "name": "Pecesitp",
-            "exp_level": 11,
-            "trophies": 4785,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200208T024348.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 25,
-            "donations": 104,
-            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -531,23 +531,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "exp_level": 11,
-            "trophies": 4730,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200208T034203.000Z",
-            "clan_rank": 31,
-            "previous_clan_rank": 28,
-            "donations": 300,
-            "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 11,
@@ -558,10 +541,27 @@
             },
             "role": "elder",
             "last_seen": "20200208T030408.000Z",
-            "clan_rank": 32,
+            "clan_rank": 31,
             "previous_clan_rank": 26,
             "donations": 777,
             "donations_received": 560,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "exp_level": 11,
+            "trophies": 4711,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200208T034539.000Z",
+            "clan_rank": 32,
+            "previous_clan_rank": 28,
+            "donations": 300,
+            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -752,23 +752,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YJPYL02JC",
-            "name": "john",
-            "exp_level": 10,
-            "trophies": 4600,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200208T033759.000Z",
-            "clan_rank": 44,
-            "previous_clan_rank": 45,
-            "donations": 215,
-            "donations_received": 260,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CJUU8U2",
             "name": "supersized",
             "exp_level": 11,
@@ -779,10 +762,27 @@
             },
             "role": "member",
             "last_seen": "20200208T012653.000Z",
-            "clan_rank": 45,
+            "clan_rank": 44,
             "previous_clan_rank": 44,
             "donations": 207,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YJPYL02JC",
+            "name": "john",
+            "exp_level": 10,
+            "trophies": 4583,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200208T033759.000Z",
+            "clan_rank": 45,
+            "previous_clan_rank": 45,
+            "donations": 215,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
