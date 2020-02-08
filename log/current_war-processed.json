@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 2022,
         "participants": 41,
-        "crowns": 51,
+        "crowns": 52,
         "battles_remaining": null,
-        "battles_played": 37,
-        "wins": 23
+        "battles_played": 38,
+        "wins": 24
     },
     "participants": [
         {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9QLU0J80",
-            "name": "no1giantsfan76",
-            "cards_earned": 840,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -93,6 +84,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9QLU0J80",
+            "name": "no1giantsfan76",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -391,10 +391,10 @@
             "badge_id": 16000003,
             "clan_score": 2022,
             "participants": 41,
-            "crowns": 51,
-            "battles_remaining": 4,
-            "battles_played": 37,
-            "wins": 23
+            "crowns": 52,
+            "battles_remaining": 3,
+            "battles_played": 38,
+            "wins": 24
         },
         {
             "tag": "#YRYY08PP",
@@ -403,8 +403,8 @@
             "clan_score": 2621,
             "participants": 42,
             "crowns": 40,
-            "battles_remaining": 8,
-            "battles_played": 34,
+            "battles_remaining": 7,
+            "battles_played": 35,
             "wins": 18
         },
         {
@@ -424,10 +424,10 @@
             "badge_id": 16000000,
             "clan_score": 2500,
             "participants": 40,
-            "crowns": 29,
-            "battles_remaining": 11,
-            "battles_played": 29,
-            "wins": 15
+            "crowns": 30,
+            "battles_remaining": 10,
+            "battles_played": 30,
+            "wins": 16
         },
         {
             "tag": "#92J8LU0V",
@@ -444,5 +444,5 @@
     "cards": 52792,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "11 hours"
+    "end_label": "10 hours"
 }
