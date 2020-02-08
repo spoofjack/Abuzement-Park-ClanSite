@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2022,
         "participants": 41,
-        "crowns": 56,
+        "crowns": 58,
         "battles_remaining": null,
-        "battles_played": 41,
-        "wins": 27
+        "battles_played": 42,
+        "wins": 28
     },
     "participants": [
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#202U0V29",
             "name": "estebanito",
             "cards_earned": 1400,
@@ -391,10 +391,10 @@
             "badge_id": 16000003,
             "clan_score": 2022,
             "participants": 41,
-            "crowns": 56,
+            "crowns": 58,
             "battles_remaining": 0,
-            "battles_played": 41,
-            "wins": 27
+            "battles_played": 42,
+            "wins": 28
         },
         {
             "tag": "#92J8LU0V",
@@ -405,6 +405,17 @@
             "crowns": 41,
             "battles_remaining": 5,
             "battles_played": 37,
+            "wins": 22
+        },
+        {
+            "tag": "#YURJGVR8",
+            "name": "Olimpia",
+            "badge_id": 16000109,
+            "clan_score": 2549,
+            "participants": 40,
+            "crowns": 38,
+            "battles_remaining": 7,
+            "battles_played": 33,
             "wins": 22
         },
         {
@@ -428,21 +439,10 @@
             "battles_remaining": 3,
             "battles_played": 37,
             "wins": 21
-        },
-        {
-            "tag": "#YURJGVR8",
-            "name": "Olimpia",
-            "badge_id": 16000109,
-            "clan_score": 2549,
-            "participants": 40,
-            "crowns": 37,
-            "battles_remaining": 8,
-            "battles_played": 32,
-            "wins": 21
         }
     ],
     "cards": 52792,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "2 hours"
+    "end_label": "1 hours"
 }
