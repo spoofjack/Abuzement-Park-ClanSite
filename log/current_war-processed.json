@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 2022,
         "participants": 41,
-        "crowns": 52,
+        "crowns": 53,
         "battles_remaining": null,
-        "battles_played": 38,
-        "wins": 24
+        "battles_played": 39,
+        "wins": 25
     },
     "participants": [
         {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#P2YYY2VU",
-            "name": "nailon",
-            "cards_earned": 1680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -156,6 +147,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#P2YYY2VU",
+            "name": "nailon",
+            "cards_earned": 1680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -391,10 +391,10 @@
             "badge_id": 16000003,
             "clan_score": 2022,
             "participants": 41,
-            "crowns": 52,
-            "battles_remaining": 3,
-            "battles_played": 38,
-            "wins": 24
+            "crowns": 53,
+            "battles_remaining": 2,
+            "battles_played": 39,
+            "wins": 25
         },
         {
             "tag": "#YRYY08PP",
@@ -408,6 +408,17 @@
             "wins": 19
         },
         {
+            "tag": "#2YLPYL2",
+            "name": "\u0411\u043e\u0435\u0446",
+            "badge_id": 16000000,
+            "clan_score": 2500,
+            "participants": 40,
+            "crowns": 33,
+            "battles_remaining": 9,
+            "battles_played": 31,
+            "wins": 17
+        },
+        {
             "tag": "#YURJGVR8",
             "name": "Olimpia",
             "badge_id": 16000109,
@@ -419,26 +430,15 @@
             "wins": 17
         },
         {
-            "tag": "#2YLPYL2",
-            "name": "\u0411\u043e\u0435\u0446",
-            "badge_id": 16000000,
-            "clan_score": 2500,
-            "participants": 40,
-            "crowns": 30,
-            "battles_remaining": 10,
-            "battles_played": 30,
-            "wins": 16
-        },
-        {
             "tag": "#92J8LU0V",
             "name": "Espartanos 3.0",
             "badge_id": 16000172,
             "clan_score": 2951,
             "participants": 42,
-            "crowns": 22,
-            "battles_remaining": 23,
-            "battles_played": 19,
-            "wins": 11
+            "crowns": 23,
+            "battles_remaining": 22,
+            "battles_played": 20,
+            "wins": 12
         }
     ],
     "cards": 52792,
