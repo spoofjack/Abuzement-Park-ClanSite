@@ -10,7 +10,7 @@
         "participants": 41,
         "crowns": 41,
         "battles_remaining": null,
-        "battles_played": 31,
+        "battles_played": 33,
         "wins": 19
     },
     "participants": [
@@ -42,15 +42,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#P2YYY2VU",
             "name": "nailon",
             "cards_earned": 1680,
@@ -63,15 +54,6 @@
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#RVJ9L8RV",
-            "name": "hgghdf",
-            "cards_earned": 1575,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -195,9 +177,27 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#CJUU8U2",
             "name": "supersized",
             "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#RVJ9L8RV",
+            "name": "hgghdf",
+            "cards_earned": 1575,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -414,8 +414,8 @@
             "clan_score": 2022,
             "participants": 41,
             "crowns": 41,
-            "battles_remaining": 10,
-            "battles_played": 31,
+            "battles_remaining": 8,
+            "battles_played": 33,
             "wins": 19
         },
         {
