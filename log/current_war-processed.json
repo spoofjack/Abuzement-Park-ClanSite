@@ -10,7 +10,7 @@
         "participants": 44,
         "crowns": 23,
         "battles_remaining": null,
-        "battles_played": 15,
+        "battles_played": 16,
         "wins": 12
     },
     "participants": [
@@ -112,15 +112,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#2GRRCG8P",
@@ -339,6 +330,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
+        },
+        {
             "tag": "#90VLQC2GU",
             "name": "Rmin",
             "cards_earned": 1120,
@@ -413,14 +413,25 @@
     ],
     "clans": [
         {
+            "tag": "#PJ0GR0JJ",
+            "name": "Cantera Bomba",
+            "badge_id": 16000178,
+            "clan_score": 2951,
+            "participants": 48,
+            "crowns": 22,
+            "battles_remaining": 31,
+            "battles_played": 17,
+            "wins": 13
+        },
+        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 2150,
             "participants": 44,
             "crowns": 23,
-            "battles_remaining": 29,
-            "battles_played": 15,
+            "battles_remaining": 28,
+            "battles_played": 16,
             "wins": 12
         },
         {
@@ -429,10 +440,10 @@
             "badge_id": 16000000,
             "clan_score": 2475,
             "participants": 40,
-            "crowns": 16,
-            "battles_remaining": 25,
-            "battles_played": 15,
-            "wins": 11
+            "crowns": 17,
+            "battles_remaining": 24,
+            "battles_played": 16,
+            "wins": 12
         },
         {
             "tag": "#8V028YQJ",
@@ -440,21 +451,10 @@
             "badge_id": 16000031,
             "clan_score": 2569,
             "participants": 37,
-            "crowns": 21,
-            "battles_remaining": 20,
-            "battles_played": 17,
-            "wins": 10
-        },
-        {
-            "tag": "#PJ0GR0JJ",
-            "name": "Cantera Bomba",
-            "badge_id": 16000178,
-            "clan_score": 2951,
-            "participants": 48,
-            "crowns": 15,
-            "battles_remaining": 34,
-            "battles_played": 14,
-            "wins": 10
+            "crowns": 23,
+            "battles_remaining": 18,
+            "battles_played": 19,
+            "wins": 11
         },
         {
             "tag": "#98VJGRLJ",
@@ -463,13 +463,13 @@
             "clan_score": 2574,
             "participants": 36,
             "crowns": 15,
-            "battles_remaining": 16,
-            "battles_played": 20,
+            "battles_remaining": 15,
+            "battles_played": 21,
             "wins": 9
         }
     ],
     "cards": 57008,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "21 hours"
+    "end_label": "20 hours"
 }
