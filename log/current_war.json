@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2150,
         "participants": 44,
-        "crowns": 56,
+        "crowns": 57,
         "battles_remaining": null,
-        "battles_played": 47,
-        "wins": 31
+        "battles_played": 48,
+        "wins": 32
     },
     "participants": [
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
@@ -240,6 +231,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#202U0V29",
             "name": "estebanito",
             "cards_earned": 1120,
@@ -431,7 +431,7 @@
             "participants": 36,
             "crowns": 26,
             "battles_remaining": 0,
-            "battles_played": 40,
+            "battles_played": 41,
             "wins": 17
         },
         {
@@ -462,10 +462,10 @@
             "badge_id": 16000003,
             "clan_score": 2150,
             "participants": 44,
-            "crowns": 56,
+            "crowns": 57,
             "battles_remaining": 0,
-            "battles_played": 47,
-            "wins": 31
+            "battles_played": 48,
+            "wins": 32
         }
     ]
 }
