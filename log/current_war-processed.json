@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2150,
         "participants": 44,
-        "crowns": 45,
+        "crowns": 47,
         "battles_remaining": null,
-        "battles_played": 37,
-        "wins": 24
+        "battles_played": 38,
+        "wins": 25
     },
     "participants": [
         {
@@ -49,15 +49,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#2C8QPLUPG",
@@ -276,6 +267,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#202U0V29",
             "name": "estebanito",
             "cards_earned": 1120,
@@ -418,10 +418,10 @@
             "badge_id": 16000003,
             "clan_score": 2150,
             "participants": 44,
-            "crowns": 45,
-            "battles_remaining": 7,
-            "battles_played": 37,
-            "wins": 24
+            "crowns": 47,
+            "battles_remaining": 6,
+            "battles_played": 38,
+            "wins": 25
         },
         {
             "tag": "#PJ0GR0JJ",
@@ -440,10 +440,10 @@
             "badge_id": 16000000,
             "clan_score": 2475,
             "participants": 40,
-            "crowns": 26,
-            "battles_remaining": 15,
-            "battles_played": 25,
-            "wins": 17
+            "crowns": 27,
+            "battles_remaining": 14,
+            "battles_played": 26,
+            "wins": 18
         },
         {
             "tag": "#98VJGRLJ",
@@ -463,13 +463,13 @@
             "clan_score": 2569,
             "participants": 37,
             "crowns": 26,
-            "battles_remaining": 10,
-            "battles_played": 27,
+            "battles_remaining": 9,
+            "battles_played": 28,
             "wins": 13
         }
     ],
     "cards": 57008,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "15 hours"
+    "end_label": "14 hours"
 }
