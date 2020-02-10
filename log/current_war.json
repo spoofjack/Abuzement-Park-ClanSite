@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2150,
         "participants": 44,
-        "crowns": 49,
+        "crowns": 53,
         "battles_remaining": null,
-        "battles_played": 39,
-        "wins": 26
+        "battles_played": 41,
+        "wins": 28
     },
     "participants": [
         {
@@ -27,15 +27,6 @@
             "tag": "#2P9QGRRLC",
             "name": "IvoVich",
             "cards_earned": 1680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 1172,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -409,6 +400,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 1172,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -441,8 +441,8 @@
             "clan_score": 2475,
             "participants": 40,
             "crowns": 38,
-            "battles_remaining": 6,
-            "battles_played": 34,
+            "battles_remaining": 5,
+            "battles_played": 35,
             "wins": 25
         },
         {
@@ -462,10 +462,10 @@
             "badge_id": 16000003,
             "clan_score": 2150,
             "participants": 44,
-            "crowns": 49,
-            "battles_remaining": 5,
-            "battles_played": 39,
-            "wins": 26
+            "crowns": 53,
+            "battles_remaining": 3,
+            "battles_played": 41,
+            "wins": 28
         }
     ]
 }
