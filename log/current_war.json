@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2232,
-        "participants": 9,
+        "participants": 10,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 21,
-        "wins": 7
+        "battles_played": 25,
+        "wins": 9
     },
     "participants": [
         {
@@ -51,11 +51,20 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#YJPYL02JC",
+            "name": "john",
+            "cards_earned": 560,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
-            "cards_earned": 840,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
+            "cards_earned": 1120,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 3
         },
@@ -89,10 +98,10 @@
         {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
-            "cards_earned": 297,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 0,
+            "cards_earned": 1189,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 3
         }
     ],
