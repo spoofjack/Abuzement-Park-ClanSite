@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "inviteOnly",
-    "clan_score": 50095,
+    "clan_score": 50093,
     "required_trophies": 5000,
-    "donations_per_week": 1728,
+    "donations_per_week": 1760,
     "clan_war_trophies": 2150,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -136,7 +136,7 @@
             "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 18,
-            "donations_received": 16,
+            "donations_received": 32,
             "clan_chest_points": 0
         },
         {
@@ -149,10 +149,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200210T114721.000Z",
+            "last_seen": "20200210T130234.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 6,
-            "donations": 10,
+            "donations": 26,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -336,10 +336,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200210T095553.000Z",
+            "last_seen": "20200210T130542.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 19,
-            "donations": 56,
+            "donations": 72,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -378,23 +378,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9RURV22L0",
-            "name": "PapaGucci69",
-            "exp_level": 11,
-            "trophies": 4855,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200210T125659.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 22,
-            "donations": 16,
-            "donations_received": 24,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8YGPPGRY",
             "name": "slaight",
             "exp_level": 11,
@@ -405,7 +388,7 @@
             },
             "role": "member",
             "last_seen": "20200210T044240.000Z",
-            "clan_rank": 23,
+            "clan_rank": 22,
             "previous_clan_rank": 24,
             "donations": 30,
             "donations_received": 40,
@@ -422,10 +405,27 @@
             },
             "role": "member",
             "last_seen": "20200210T013734.000Z",
-            "clan_rank": 24,
+            "clan_rank": 23,
             "previous_clan_rank": 25,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9RURV22L0",
+            "name": "PapaGucci69",
+            "exp_level": 11,
+            "trophies": 4835,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200210T125659.000Z",
+            "clan_rank": 24,
+            "previous_clan_rank": 22,
+            "donations": 16,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
