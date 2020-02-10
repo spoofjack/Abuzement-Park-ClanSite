@@ -10,7 +10,7 @@
         "participants": 44,
         "crowns": 41,
         "battles_remaining": null,
-        "battles_played": 31,
+        "battles_played": 32,
         "wins": 23
     },
     "participants": [
@@ -267,15 +267,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 1487,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#2GRRCG8P",
             "name": "Dashie",
             "cards_earned": 1120,
@@ -409,6 +400,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 1487,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -419,8 +419,8 @@
             "clan_score": 2150,
             "participants": 44,
             "crowns": 41,
-            "battles_remaining": 13,
-            "battles_played": 31,
+            "battles_remaining": 12,
+            "battles_played": 32,
             "wins": 23
         },
         {
@@ -471,5 +471,5 @@
     "cards": 57008,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "17 hours"
+    "end_label": "16 hours"
 }
