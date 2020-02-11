@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2232,
         "participants": 41,
-        "crowns": 10,
+        "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 7,
-        "wins": 5
+        "battles_played": 8,
+        "wins": 6
     },
     "participants": [
-        {
-            "tag": "#9RURV22L0",
-            "name": "PapaGucci69",
-            "cards_earned": 840,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#8YGPPGRY",
             "name": "slaight",
@@ -330,6 +321,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9RURV22L0",
+            "name": "PapaGucci69",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "cards_earned": 840,
@@ -391,10 +391,10 @@
             "badge_id": 16000003,
             "clan_score": 2232,
             "participants": 41,
-            "crowns": 10,
-            "battles_remaining": 34,
-            "battles_played": 7,
-            "wins": 5
+            "crowns": 11,
+            "battles_remaining": 33,
+            "battles_played": 8,
+            "wins": 6
         },
         {
             "tag": "#2Q9R0YVC",
@@ -402,10 +402,10 @@
             "badge_id": 16000077,
             "clan_score": 2949,
             "participants": 39,
-            "crowns": 7,
-            "battles_remaining": 33,
-            "battles_played": 6,
-            "wins": 3
+            "crowns": 9,
+            "battles_remaining": 31,
+            "battles_played": 8,
+            "wins": 5
         },
         {
             "tag": "#PGLYUCGQ",
@@ -413,10 +413,10 @@
             "badge_id": 16000012,
             "clan_score": 2150,
             "participants": 36,
-            "crowns": 4,
-            "battles_remaining": 32,
-            "battles_played": 4,
-            "wins": 3
+            "crowns": 6,
+            "battles_remaining": 30,
+            "battles_played": 6,
+            "wins": 4
         },
         {
             "tag": "#2YLPYL2",
@@ -444,5 +444,5 @@
     "cards": 50812,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
