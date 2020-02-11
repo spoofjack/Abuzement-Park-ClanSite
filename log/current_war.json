@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2232,
         "participants": 41,
-        "crowns": 16,
+        "crowns": 19,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 8
+        "battles_played": 12,
+        "wins": 9
     },
     "participants": [
         {
@@ -54,15 +54,6 @@
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8JGUU092",
-            "name": "Disfatt Bidge",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -321,6 +312,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8JGUU092",
+            "name": "Disfatt Bidge",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "cards_earned": 1487,
@@ -402,10 +402,10 @@
             "badge_id": 16000077,
             "clan_score": 2949,
             "participants": 39,
-            "crowns": 11,
-            "battles_remaining": 29,
-            "battles_played": 10,
-            "wins": 6
+            "crowns": 14,
+            "battles_remaining": 27,
+            "battles_played": 12,
+            "wins": 7
         },
         {
             "tag": "#2YLPYL2",
@@ -413,10 +413,10 @@
             "badge_id": 16000000,
             "clan_score": 2482,
             "participants": 43,
-            "crowns": 3,
-            "battles_remaining": 39,
-            "battles_played": 4,
-            "wins": 3
+            "crowns": 4,
+            "battles_remaining": 38,
+            "battles_played": 5,
+            "wins": 4
         },
         {
             "tag": "#PGLYUCGQ",
@@ -435,10 +435,10 @@
             "badge_id": 16000003,
             "clan_score": 2232,
             "participants": 41,
-            "crowns": 16,
-            "battles_remaining": 30,
-            "battles_played": 11,
-            "wins": 8
+            "crowns": 19,
+            "battles_remaining": 29,
+            "battles_played": 12,
+            "wins": 9
         }
     ]
 }
