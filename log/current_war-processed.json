@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2232,
         "participants": 41,
-        "crowns": 27,
+        "crowns": 28,
         "battles_remaining": null,
-        "battles_played": 19,
-        "wins": 16
+        "battles_played": 20,
+        "wins": 17
     },
     "participants": [
         {
@@ -195,15 +195,6 @@
             "number_of_battles": 2
         },
         {
-            "tag": "#9L2VYLJYP",
-            "name": "antluc5248",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#YGQG9VUVL",
             "name": "Burkelbear",
             "cards_earned": 1120,
@@ -375,6 +366,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9L2VYLJYP",
+            "name": "antluc5248",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
             "cards_earned": 1487,
@@ -391,10 +391,10 @@
             "badge_id": 16000003,
             "clan_score": 2232,
             "participants": 41,
-            "crowns": 27,
-            "battles_remaining": 22,
-            "battles_played": 19,
-            "wins": 16
+            "crowns": 28,
+            "battles_remaining": 21,
+            "battles_played": 20,
+            "wins": 17
         },
         {
             "tag": "#2Q9R0YVC",
@@ -444,5 +444,5 @@
     "cards": 50812,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "20 hours"
+    "end_label": "19 hours"
 }
