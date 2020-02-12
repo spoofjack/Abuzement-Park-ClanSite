@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2232,
         "participants": 41,
-        "crowns": 30,
+        "crowns": 31,
         "battles_remaining": null,
-        "battles_played": 23,
-        "wins": 18
+        "battles_played": 25,
+        "wins": 19
     },
     "participants": [
         {
@@ -132,15 +132,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1785,
@@ -166,15 +157,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#YGQG9VUVL",
-            "name": "Burkelbear",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#J28UPQ0P",
@@ -339,6 +321,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2J8GVPY8U",
             "name": "Portsmouth",
             "cards_earned": 840,
@@ -382,6 +373,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#YGQG9VUVL",
+            "name": "Burkelbear",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -402,10 +402,10 @@
             "badge_id": 16000077,
             "clan_score": 2949,
             "participants": 39,
-            "crowns": 24,
-            "battles_remaining": 18,
-            "battles_played": 21,
-            "wins": 12
+            "crowns": 26,
+            "battles_remaining": 17,
+            "battles_played": 22,
+            "wins": 13
         },
         {
             "tag": "#2YLPYL2",
@@ -425,8 +425,8 @@
             "clan_score": 2150,
             "participants": 36,
             "crowns": 20,
-            "battles_remaining": 19,
-            "battles_played": 17,
+            "battles_remaining": 18,
+            "battles_played": 18,
             "wins": 11
         },
         {
@@ -435,10 +435,10 @@
             "badge_id": 16000003,
             "clan_score": 2232,
             "participants": 41,
-            "crowns": 30,
-            "battles_remaining": 18,
-            "battles_played": 23,
-            "wins": 18
+            "crowns": 31,
+            "battles_remaining": 16,
+            "battles_played": 25,
+            "wins": 19
         }
     ]
 }
