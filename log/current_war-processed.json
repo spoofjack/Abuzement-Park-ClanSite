@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2232,
         "participants": 41,
-        "crowns": 49,
+        "crowns": 52,
         "battles_remaining": null,
-        "battles_played": 40,
-        "wins": 26
+        "battles_played": 41,
+        "wins": 27
     },
     "participants": [
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#9C9YGP8CV",
             "name": "boi",
@@ -240,6 +231,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#202U0V29",
             "name": "estebanito",
             "cards_earned": 840,
@@ -386,6 +386,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2232,
+            "participants": 41,
+            "crowns": 52,
+            "battles_remaining": 0,
+            "battles_played": 41,
+            "wins": 27
+        },
+        {
             "tag": "#2YLPYL2",
             "name": "\u0411\u043e\u0435\u0446",
             "badge_id": 16000000,
@@ -397,25 +408,14 @@
             "wins": 26
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2232,
-            "participants": 41,
-            "crowns": 49,
-            "battles_remaining": 1,
-            "battles_played": 40,
-            "wins": 26
-        },
-        {
             "tag": "#2Q9R0YVC",
             "name": "$WarVariator$",
             "badge_id": 16000077,
             "clan_score": 2949,
             "participants": 39,
-            "crowns": 45,
+            "crowns": 46,
             "battles_remaining": 0,
-            "battles_played": 39,
+            "battles_played": 40,
             "wins": 26
         },
         {
@@ -444,5 +444,5 @@
     "cards": 50812,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "1 hours"
+    "end_label": "0 hours"
 }
