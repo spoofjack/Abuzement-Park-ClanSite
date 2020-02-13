@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2359,
         "participants": 44,
-        "crowns": 27,
+        "crowns": 29,
         "battles_remaining": null,
-        "battles_played": 23,
-        "wins": 15
+        "battles_played": 25,
+        "wins": 16
     },
     "participants": [
         {
@@ -134,24 +134,6 @@
         {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "cards_earned": 1680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2GGYGCRR0",
-            "name": "Ok Girl",
             "cards_earned": 1400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -366,6 +348,24 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "cards_earned": 1680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2GGYGCRR0",
+            "name": "Ok Girl",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#20LGGP900",
             "name": "blackdog",
             "cards_earned": 1400,
@@ -413,14 +413,25 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2359,
+            "participants": 44,
+            "crowns": 29,
+            "battles_remaining": 19,
+            "battles_played": 25,
+            "wins": 16
+        },
+        {
             "tag": "#928YJJQQ",
             "name": "legends bax",
             "badge_id": 16000028,
             "clan_score": 2925,
             "participants": 35,
             "crowns": 23,
-            "battles_remaining": 10,
-            "battles_played": 25,
+            "battles_remaining": 8,
+            "battles_played": 27,
             "wins": 16
         },
         {
@@ -429,20 +440,9 @@
             "badge_id": 16000107,
             "clan_score": 2967,
             "participants": 34,
-            "crowns": 32,
-            "battles_remaining": 5,
-            "battles_played": 29,
-            "wins": 15
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2359,
-            "participants": 44,
-            "crowns": 27,
-            "battles_remaining": 21,
-            "battles_played": 23,
+            "crowns": 33,
+            "battles_remaining": 4,
+            "battles_played": 30,
             "wins": 15
         },
         {
@@ -451,9 +451,9 @@
             "badge_id": 16000040,
             "clan_score": 1523,
             "participants": 35,
-            "crowns": 24,
-            "battles_remaining": 18,
-            "battles_played": 17,
+            "crowns": 25,
+            "battles_remaining": 17,
+            "battles_played": 18,
             "wins": 10
         },
         {
@@ -463,13 +463,13 @@
             "clan_score": 2712,
             "participants": 35,
             "crowns": 11,
-            "battles_remaining": 22,
-            "battles_played": 13,
+            "battles_remaining": 21,
+            "battles_played": 14,
             "wins": 7
         }
     ],
     "cards": 54119,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "20 hours"
+    "end_label": "19 hours"
 }
