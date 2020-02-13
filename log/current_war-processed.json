@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2359,
         "participants": 44,
-        "crowns": 2,
+        "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 1,
-        "wins": 1
+        "battles_played": 3,
+        "wins": 2
     },
     "participants": [
         {
@@ -285,15 +285,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2J9CP02VU",
-            "name": "Zeus",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#PL990R0YG",
             "name": "JayWizz",
             "cards_earned": 1680,
@@ -357,15 +348,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9C9YGP8CV",
-            "name": "boi",
-            "cards_earned": 840,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "cards_earned": 891,
@@ -409,6 +391,24 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#2J9CP02VU",
+            "name": "Zeus",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9C9YGP8CV",
+            "name": "boi",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -418,10 +418,10 @@
             "badge_id": 16000107,
             "clan_score": 2967,
             "participants": 34,
-            "crowns": 4,
-            "battles_remaining": 31,
-            "battles_played": 3,
-            "wins": 2
+            "crowns": 8,
+            "battles_remaining": 27,
+            "battles_played": 7,
+            "wins": 4
         },
         {
             "tag": "#989UP288",
@@ -429,9 +429,20 @@
             "badge_id": 16000142,
             "clan_score": 2712,
             "participants": 35,
-            "crowns": 2,
-            "battles_remaining": 33,
-            "battles_played": 2,
+            "crowns": 4,
+            "battles_remaining": 29,
+            "battles_played": 6,
+            "wins": 4
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2359,
+            "participants": 44,
+            "crowns": 3,
+            "battles_remaining": 41,
+            "battles_played": 3,
             "wins": 2
         },
         {
@@ -440,20 +451,9 @@
             "badge_id": 16000040,
             "clan_score": 1523,
             "participants": 35,
-            "crowns": 3,
-            "battles_remaining": 34,
-            "battles_played": 1,
-            "wins": 1
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2359,
-            "participants": 44,
-            "crowns": 2,
-            "battles_remaining": 43,
-            "battles_played": 1,
+            "crowns": 4,
+            "battles_remaining": 32,
+            "battles_played": 3,
             "wins": 1
         },
         {
@@ -462,10 +462,10 @@
             "badge_id": 16000028,
             "clan_score": 2925,
             "participants": 35,
-            "crowns": 0,
-            "battles_remaining": 35,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 1,
+            "battles_remaining": 33,
+            "battles_played": 2,
+            "wins": 1
         }
     ],
     "cards": 54119,
