@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2359,
         "participants": 44,
-        "crowns": 9,
+        "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 10,
-        "wins": 7
+        "battles_played": 11,
+        "wins": 8
     },
     "participants": [
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#9RURV22L0",
             "name": "PapaGucci69",
@@ -321,6 +312,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8YGPPGRY",
             "name": "slaight",
             "cards_earned": 1120,
@@ -413,6 +413,28 @@
     ],
     "clans": [
         {
+            "tag": "#928YJJQQ",
+            "name": "legends bax",
+            "badge_id": 16000028,
+            "clan_score": 2925,
+            "participants": 35,
+            "crowns": 13,
+            "battles_remaining": 23,
+            "battles_played": 12,
+            "wins": 8
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2359,
+            "participants": 44,
+            "crowns": 12,
+            "battles_remaining": 33,
+            "battles_played": 11,
+            "wins": 8
+        },
+        {
             "tag": "#PYVV8LV2",
             "name": "EFES Cru2",
             "badge_id": 16000107,
@@ -424,26 +446,15 @@
             "wins": 7
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2359,
-            "participants": 44,
-            "crowns": 9,
-            "battles_remaining": 34,
-            "battles_played": 10,
-            "wins": 7
-        },
-        {
-            "tag": "#928YJJQQ",
-            "name": "legends bax",
-            "badge_id": 16000028,
-            "clan_score": 2925,
+            "tag": "#PUJL08QL",
+            "name": "GMS eSports",
+            "badge_id": 16000040,
+            "clan_score": 1523,
             "participants": 35,
-            "crowns": 9,
-            "battles_remaining": 27,
-            "battles_played": 8,
-            "wins": 6
+            "crowns": 10,
+            "battles_remaining": 26,
+            "battles_played": 9,
+            "wins": 4
         },
         {
             "tag": "#989UP288",
@@ -455,21 +466,10 @@
             "battles_remaining": 28,
             "battles_played": 7,
             "wins": 4
-        },
-        {
-            "tag": "#PUJL08QL",
-            "name": "GMS eSports",
-            "badge_id": 16000040,
-            "clan_score": 1523,
-            "participants": 35,
-            "crowns": 8,
-            "battles_remaining": 28,
-            "battles_played": 7,
-            "wins": 3
         }
     ],
     "cards": 54119,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
