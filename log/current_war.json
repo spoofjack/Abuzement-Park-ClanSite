@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2359,
         "participants": 44,
-        "crowns": 45,
+        "crowns": 48,
         "battles_remaining": null,
-        "battles_played": 38,
-        "wins": 24
+        "battles_played": 40,
+        "wins": 25
     },
     "participants": [
-        {
-            "tag": "#Y22V9PQ2",
-            "name": "Jacob",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#P2YYY2VU",
             "name": "nailon",
@@ -35,15 +26,6 @@
         {
             "tag": "#2GRRCG8P",
             "name": "Dashie",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2P9QGRRLC",
-            "name": "IvoVich",
             "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -168,6 +150,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#Y22V9PQ2",
+            "name": "Jacob",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "cards_earned": 1400,
@@ -242,6 +233,15 @@
         {
             "tag": "#LUVYCYUQ",
             "name": "KiLL3rC0W8OY03",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2P9QGRRLC",
+            "name": "IvoVich",
             "cards_earned": 1120,
             "battles_played": 1,
             "collection_day_battles_played": 3,
@@ -462,10 +462,10 @@
             "badge_id": 16000003,
             "clan_score": 2359,
             "participants": 44,
-            "crowns": 45,
-            "battles_remaining": 6,
-            "battles_played": 38,
-            "wins": 24
+            "crowns": 48,
+            "battles_remaining": 4,
+            "battles_played": 40,
+            "wins": 25
         }
     ]
 }
