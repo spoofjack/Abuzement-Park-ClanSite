@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2486,
         "participants": 41,
-        "crowns": 25,
+        "crowns": 26,
         "battles_remaining": null,
-        "battles_played": 20,
+        "battles_played": 21,
         "wins": 14
     },
     "participants": [
@@ -180,15 +180,6 @@
             "tag": "#9L2VYLJYP",
             "name": "antluc5248",
             "cards_earned": 1680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "cards_earned": 1785,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -382,6 +373,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -392,8 +392,8 @@
             "clan_score": 2356,
             "participants": 35,
             "crowns": 18,
-            "battles_remaining": 21,
-            "battles_played": 14,
+            "battles_remaining": 20,
+            "battles_played": 15,
             "wins": 8
         },
         {
@@ -413,10 +413,10 @@
             "badge_id": 16000043,
             "clan_score": 2329,
             "participants": 38,
-            "crowns": 19,
-            "battles_remaining": 21,
-            "battles_played": 17,
-            "wins": 10
+            "crowns": 23,
+            "battles_remaining": 19,
+            "battles_played": 19,
+            "wins": 12
         },
         {
             "tag": "#YL0PYLUJ",
@@ -424,10 +424,10 @@
             "badge_id": 16000139,
             "clan_score": 2137,
             "participants": 37,
-            "crowns": 14,
-            "battles_remaining": 26,
-            "battles_played": 11,
-            "wins": 5
+            "crowns": 15,
+            "battles_remaining": 24,
+            "battles_played": 13,
+            "wins": 6
         },
         {
             "tag": "#LP98YUCV",
@@ -435,9 +435,9 @@
             "badge_id": 16000003,
             "clan_score": 2486,
             "participants": 41,
-            "crowns": 25,
-            "battles_remaining": 21,
-            "battles_played": 20,
+            "crowns": 26,
+            "battles_remaining": 20,
+            "battles_played": 21,
             "wins": 14
         }
     ]
