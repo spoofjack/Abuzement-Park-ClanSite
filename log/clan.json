@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "inviteOnly",
-    "clan_score": 51551,
+    "clan_score": 51524,
     "required_trophies": 5000,
-    "donations_per_week": 18592,
+    "donations_per_week": 18602,
     "clan_war_trophies": 2486,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,10 +30,10 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20200216T041613.000Z",
+            "last_seen": "20200216T043334.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 1629,
+            "donations": 1639,
             "donations_received": 710,
             "clan_chest_points": 0
         },
@@ -92,13 +92,13 @@
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "exp_level": 13,
-            "trophies": 5384,
+            "trophies": 5334,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200216T023721.000Z",
+            "last_seen": "20200216T043744.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 7,
             "donations": 330,
@@ -293,23 +293,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8JGUU092",
-            "name": "Disfatt Bidge",
-            "exp_level": 13,
-            "trophies": 5073,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200216T041016.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 35,
-            "donations": 420,
-            "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2092V2QU8",
             "name": "JustBuildLol",
             "exp_level": 12,
@@ -320,7 +303,7 @@
             },
             "role": "member",
             "last_seen": "20200215T181451.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 17,
             "donations": 352,
             "donations_received": 240,
@@ -337,10 +320,44 @@
             },
             "role": "member",
             "last_seen": "20200216T001134.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 19,
             "donations": 300,
             "donations_received": 550,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JGUU092",
+            "name": "Disfatt Bidge",
+            "exp_level": 13,
+            "trophies": 5051,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200216T041016.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 35,
+            "donations": 420,
+            "donations_received": 520,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8YGPPGRY",
+            "name": "slaight",
+            "exp_level": 11,
+            "trophies": 5046,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200216T043833.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 34,
+            "donations": 602,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -354,7 +371,7 @@
             },
             "role": "member",
             "last_seen": "20200215T114539.000Z",
-            "clan_rank": 20,
+            "clan_rank": 21,
             "previous_clan_rank": 16,
             "donations": 58,
             "donations_received": 200,
@@ -371,7 +388,7 @@
             },
             "role": "member",
             "last_seen": "20200215T204527.000Z",
-            "clan_rank": 21,
+            "clan_rank": 22,
             "previous_clan_rank": 23,
             "donations": 278,
             "donations_received": 40,
@@ -388,7 +405,7 @@
             },
             "role": "member",
             "last_seen": "20200215T221430.000Z",
-            "clan_rank": 22,
+            "clan_rank": 23,
             "previous_clan_rank": 18,
             "donations": 387,
             "donations_received": 480,
@@ -405,27 +422,10 @@
             },
             "role": "elder",
             "last_seen": "20200216T034539.000Z",
-            "clan_rank": 23,
+            "clan_rank": 24,
             "previous_clan_rank": 21,
             "donations": 679,
             "donations_received": 560,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8YGPPGRY",
-            "name": "slaight",
-            "exp_level": 11,
-            "trophies": 5017,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200216T033221.000Z",
-            "clan_rank": 24,
-            "previous_clan_rank": 34,
-            "donations": 602,
-            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -455,7 +455,7 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200216T042516.000Z",
+            "last_seen": "20200216T043005.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 29,
             "donations": 620,
@@ -833,7 +833,7 @@
             "clan_rank": 48,
             "previous_clan_rank": 49,
             "donations": 30,
-            "donations_received": 70,
+            "donations_received": 80,
             "clan_chest_points": 0
         }
     ]
