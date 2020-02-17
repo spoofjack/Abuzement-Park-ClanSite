@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2611,
         "participants": 44,
-        "crowns": 5,
+        "crowns": 10,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 3
+        "battles_played": 6,
+        "wins": 5
     },
     "participants": [
         {
@@ -53,15 +53,6 @@
         {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
-            "cards_earned": 1680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y2YPJRJ09",
-            "name": "ThoughtSlayer69",
             "cards_earned": 1680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -162,15 +153,6 @@
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -375,12 +357,21 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#YGQG9VUVL",
-            "name": "Burkelbear",
-            "cards_earned": 1400,
-            "battles_played": 0,
+            "tag": "#Y2YPJRJ09",
+            "name": "ThoughtSlayer69",
+            "cards_earned": 1680,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 0,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -409,6 +400,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#YGQG9VUVL",
+            "name": "Burkelbear",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -418,9 +418,20 @@
             "badge_id": 16000003,
             "clan_score": 2611,
             "participants": 44,
-            "crowns": 5,
-            "battles_remaining": 41,
-            "battles_played": 3,
+            "crowns": 10,
+            "battles_remaining": 38,
+            "battles_played": 6,
+            "wins": 5
+        },
+        {
+            "tag": "#82G9YP8",
+            "name": "One punch",
+            "badge_id": 16000078,
+            "clan_score": 2708,
+            "participants": 36,
+            "crowns": 7,
+            "battles_remaining": 31,
+            "battles_played": 5,
             "wins": 3
         },
         {
@@ -429,21 +440,10 @@
             "badge_id": 16000043,
             "clan_score": 2984,
             "participants": 42,
-            "crowns": 4,
-            "battles_remaining": 40,
-            "battles_played": 2,
-            "wins": 2
-        },
-        {
-            "tag": "#82G9YP8",
-            "name": "One punch",
-            "badge_id": 16000078,
-            "clan_score": 2708,
-            "participants": 36,
             "crowns": 5,
-            "battles_remaining": 33,
-            "battles_played": 3,
-            "wins": 1
+            "battles_remaining": 38,
+            "battles_played": 4,
+            "wins": 3
         },
         {
             "tag": "#YL9QRCPP",
@@ -451,10 +451,10 @@
             "badge_id": 16000026,
             "clan_score": 2939,
             "participants": 41,
-            "crowns": 2,
-            "battles_remaining": 40,
-            "battles_played": 1,
-            "wins": 1
+            "crowns": 3,
+            "battles_remaining": 39,
+            "battles_played": 2,
+            "wins": 2
         },
         {
             "tag": "#PQ802V0P",
@@ -463,8 +463,8 @@
             "clan_score": 2683,
             "participants": 41,
             "crowns": 1,
-            "battles_remaining": 40,
-            "battles_played": 1,
+            "battles_remaining": 38,
+            "battles_played": 3,
             "wins": 1
         }
     ],
