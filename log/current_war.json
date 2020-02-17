@@ -10,7 +10,7 @@
         "participants": 44,
         "crowns": 13,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 11,
         "wins": 6
     },
     "participants": [
@@ -231,15 +231,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2J9CP02VU",
             "name": "Zeus",
             "cards_earned": 1400,
@@ -366,6 +357,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PL990R0YG",
             "name": "JayWizz",
             "cards_earned": 840,
@@ -418,10 +418,10 @@
             "badge_id": 16000078,
             "clan_score": 2708,
             "participants": 36,
-            "crowns": 8,
-            "battles_remaining": 28,
-            "battles_played": 8,
-            "wins": 3
+            "crowns": 12,
+            "battles_remaining": 26,
+            "battles_played": 10,
+            "wins": 5
         },
         {
             "tag": "#P8URGPVQ",
@@ -429,10 +429,10 @@
             "badge_id": 16000043,
             "clan_score": 2984,
             "participants": 42,
-            "crowns": 8,
-            "battles_remaining": 36,
-            "battles_played": 6,
-            "wins": 5
+            "crowns": 12,
+            "battles_remaining": 32,
+            "battles_played": 10,
+            "wins": 7
         },
         {
             "tag": "#LP98YUCV",
@@ -441,8 +441,8 @@
             "clan_score": 2611,
             "participants": 44,
             "crowns": 13,
-            "battles_remaining": 34,
-            "battles_played": 10,
+            "battles_remaining": 33,
+            "battles_played": 11,
             "wins": 6
         },
         {
@@ -451,10 +451,10 @@
             "badge_id": 16000072,
             "clan_score": 2683,
             "participants": 41,
-            "crowns": 9,
-            "battles_remaining": 33,
-            "battles_played": 8,
-            "wins": 6
+            "crowns": 10,
+            "battles_remaining": 29,
+            "battles_played": 12,
+            "wins": 7
         },
         {
             "tag": "#YL9QRCPP",
@@ -462,10 +462,10 @@
             "badge_id": 16000026,
             "clan_score": 2939,
             "participants": 41,
-            "crowns": 14,
-            "battles_remaining": 34,
-            "battles_played": 7,
-            "wins": 6
+            "crowns": 20,
+            "battles_remaining": 32,
+            "battles_played": 9,
+            "wins": 8
         }
     ]
 }
