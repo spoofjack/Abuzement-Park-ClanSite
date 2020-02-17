@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "inviteOnly",
-    "clan_score": 51472,
+    "clan_score": 51468,
     "required_trophies": 5000,
-    "donations_per_week": 780,
+    "donations_per_week": 800,
     "clan_war_trophies": 2611,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 20,
-            "donations_received": 20,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -194,7 +194,7 @@
             "tag": "#Y22V9PQ2",
             "name": "Jacob",
             "exp_level": 12,
-            "trophies": 5173,
+            "trophies": 5182,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -255,24 +255,7 @@
             "clan_rank": 14,
             "previous_clan_rank": 13,
             "donations": 30,
-            "donations_received": 30,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "exp_level": 13,
-            "trophies": 5105,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200217T014821.000Z",
-            "clan_rank": 15,
-            "previous_clan_rank": 19,
-            "donations": 0,
-            "donations_received": 0,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -286,10 +269,27 @@
             },
             "role": "member",
             "last_seen": "20200217T100934.000Z",
-            "clan_rank": 16,
+            "clan_rank": 15,
             "previous_clan_rank": 15,
             "donations": 8,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "exp_level": 13,
+            "trophies": 5083,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200217T110019.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 19,
+            "donations": 20,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
