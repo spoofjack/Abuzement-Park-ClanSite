@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2584,
         "participants": 42,
-        "crowns": 14,
+        "crowns": 16,
         "battles_remaining": null,
-        "battles_played": 10,
-        "wins": 8
+        "battles_played": 12,
+        "wins": 10
     },
     "participants": [
         {
@@ -240,27 +240,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2092V2QU8",
-            "name": "JustBuildLol",
-            "cards_earned": 891,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9C9YGP8CV",
-            "name": "boi",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -391,9 +373,38 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#2092V2QU8",
+            "name": "JustBuildLol",
+            "cards_earned": 891,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9C9YGP8CV",
+            "name": "boi",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#PCQC0RJV",
+            "name": "Mafia Argentina",
+            "badge_id": 16000013,
+            "clan_score": 1582,
+            "participants": 41,
+            "crowns": 20,
+            "battles_remaining": 24,
+            "battles_played": 17,
+            "wins": 12
+        },
         {
             "tag": "#P2L8CRC2",
             "name": "MEXICANOS",
@@ -406,6 +417,17 @@
             "wins": 10
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2584,
+            "participants": 42,
+            "crowns": 16,
+            "battles_remaining": 30,
+            "battles_played": 12,
+            "wins": 10
+        },
+        {
             "tag": "#8P29VUJU",
             "name": "Egypt best \u270c\ufe0f",
             "badge_id": 16000024,
@@ -415,28 +437,6 @@
             "battles_remaining": 28,
             "battles_played": 13,
             "wins": 9
-        },
-        {
-            "tag": "#PCQC0RJV",
-            "name": "Mafia Argentina",
-            "badge_id": 16000013,
-            "clan_score": 1582,
-            "participants": 41,
-            "crowns": 17,
-            "battles_remaining": 27,
-            "battles_played": 14,
-            "wins": 9
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2584,
-            "participants": 42,
-            "crowns": 14,
-            "battles_remaining": 32,
-            "battles_played": 10,
-            "wins": 8
         },
         {
             "tag": "#98YY88LG",
