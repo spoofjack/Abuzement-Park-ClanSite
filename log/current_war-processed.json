@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2584,
         "participants": 42,
-        "crowns": 7,
+        "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 5,
-        "wins": 3
+        "battles_played": 8,
+        "wins": 6
     },
     "participants": [
         {
@@ -72,24 +72,6 @@
             "tag": "#CPYC92RU",
             "name": "Pecesitp",
             "cards_earned": 840,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -216,15 +198,6 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -366,11 +339,29 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8JGUU092",
             "name": "Disfatt Bidge",
             "cards_earned": 1190,
             "battles_played": 1,
             "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
         },
@@ -391,30 +382,50 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
-        {
-            "tag": "#P2L8CRC2",
-            "name": "MEXICANOS",
-            "badge_id": 16000081,
-            "clan_score": 2772,
-            "participants": 40,
-            "crowns": 14,
-            "battles_remaining": 30,
-            "battles_played": 10,
-            "wins": 6
-        },
         {
             "tag": "#8P29VUJU",
             "name": "Egypt best \u270c\ufe0f",
             "badge_id": 16000024,
             "clan_score": 2965,
             "participants": 41,
-            "crowns": 13,
-            "battles_remaining": 33,
+            "crowns": 18,
+            "battles_remaining": 31,
+            "battles_played": 10,
+            "wins": 7
+        },
+        {
+            "tag": "#P2L8CRC2",
+            "name": "MEXICANOS",
+            "badge_id": 16000081,
+            "clan_score": 2772,
+            "participants": 40,
+            "crowns": 15,
+            "battles_remaining": 29,
+            "battles_played": 11,
+            "wins": 7
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2584,
+            "participants": 42,
+            "crowns": 12,
+            "battles_remaining": 34,
             "battles_played": 8,
-            "wins": 5
+            "wins": 6
         },
         {
             "tag": "#PCQC0RJV",
@@ -423,8 +434,8 @@
             "clan_score": 1582,
             "participants": 41,
             "crowns": 7,
-            "battles_remaining": 34,
-            "battles_played": 7,
+            "battles_remaining": 33,
+            "battles_played": 8,
             "wins": 4
         },
         {
@@ -437,21 +448,10 @@
             "battles_remaining": 32,
             "battles_played": 9,
             "wins": 3
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2584,
-            "participants": 42,
-            "crowns": 7,
-            "battles_remaining": 37,
-            "battles_played": 5,
-            "wins": 3
         }
     ],
     "cards": 52905,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
