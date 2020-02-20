@@ -395,6 +395,17 @@
     ],
     "clans": [
         {
+            "tag": "#P2L8CRC2",
+            "name": "MEXICANOS",
+            "badge_id": 16000081,
+            "clan_score": 2772,
+            "participants": 40,
+            "crowns": 44,
+            "battles_remaining": 12,
+            "battles_played": 28,
+            "wins": 19
+        },
+        {
             "tag": "#8P29VUJU",
             "name": "Egypt best \u270c\ufe0f",
             "badge_id": 16000024,
@@ -404,17 +415,6 @@
             "battles_remaining": 15,
             "battles_played": 26,
             "wins": 19
-        },
-        {
-            "tag": "#P2L8CRC2",
-            "name": "MEXICANOS",
-            "badge_id": 16000081,
-            "clan_score": 2772,
-            "participants": 40,
-            "crowns": 41,
-            "battles_remaining": 13,
-            "battles_played": 27,
-            "wins": 18
         },
         {
             "tag": "#LP98YUCV",
@@ -453,5 +453,5 @@
     "cards": 52905,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "16 hours"
+    "end_label": "15 hours"
 }
