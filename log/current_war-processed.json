@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2584,
         "participants": 42,
-        "crowns": 41,
+        "crowns": 43,
         "battles_remaining": null,
-        "battles_played": 38,
-        "wins": 23
+        "battles_played": 39,
+        "wins": 24
     },
     "participants": [
         {
@@ -27,15 +27,6 @@
             "tag": "#2GRRCG8P",
             "name": "Dashie",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#202U0V29",
             "name": "estebanito",
             "cards_earned": 1120,
@@ -400,10 +400,10 @@
             "badge_id": 16000024,
             "clan_score": 2965,
             "participants": 41,
-            "crowns": 48,
-            "battles_remaining": 4,
-            "battles_played": 37,
-            "wins": 24
+            "crowns": 50,
+            "battles_remaining": 3,
+            "battles_played": 38,
+            "wins": 25
         },
         {
             "tag": "#LP98YUCV",
@@ -411,10 +411,10 @@
             "badge_id": 16000003,
             "clan_score": 2584,
             "participants": 42,
-            "crowns": 41,
-            "battles_remaining": 4,
-            "battles_played": 38,
-            "wins": 23
+            "crowns": 43,
+            "battles_remaining": 3,
+            "battles_played": 39,
+            "wins": 24
         },
         {
             "tag": "#PCQC0RJV",
@@ -453,5 +453,5 @@
     "cards": 52905,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "4 hours"
+    "end_label": "3 hours"
 }
