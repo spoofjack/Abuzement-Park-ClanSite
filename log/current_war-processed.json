@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2583,
         "participants": 39,
-        "crowns": 11,
+        "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 6,
+        "battles_played": 7,
         "wins": 3
     },
     "participants": [
@@ -258,15 +258,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2092V2QU8",
             "name": "JustBuildLol",
             "cards_earned": 891,
@@ -348,6 +339,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "cards_earned": 1189,
@@ -368,26 +368,37 @@
     ],
     "clans": [
         {
-            "tag": "#P2L8CRC2",
-            "name": "MEXICANOS",
-            "badge_id": 16000081,
-            "clan_score": 2693,
-            "participants": 37,
-            "crowns": 13,
-            "battles_remaining": 28,
-            "battles_played": 9,
-            "wins": 6
-        },
-        {
             "tag": "#98YY88LG",
             "name": "romanian clash",
             "badge_id": 16000028,
             "clan_score": 2931,
             "participants": 38,
-            "crowns": 10,
-            "battles_remaining": 28,
+            "crowns": 16,
+            "battles_remaining": 25,
+            "battles_played": 13,
+            "wins": 8
+        },
+        {
+            "tag": "#P2L8CRC2",
+            "name": "MEXICANOS",
+            "badge_id": 16000081,
+            "clan_score": 2693,
+            "participants": 37,
+            "crowns": 16,
+            "battles_remaining": 26,
+            "battles_played": 11,
+            "wins": 8
+        },
+        {
+            "tag": "#CLRVRLY",
+            "name": "Armata Rossa",
+            "badge_id": 16000022,
+            "clan_score": 2925,
+            "participants": 37,
+            "crowns": 8,
+            "battles_remaining": 27,
             "battles_played": 10,
-            "wins": 6
+            "wins": 5
         },
         {
             "tag": "#PRLCL0UC",
@@ -396,8 +407,8 @@
             "clan_score": 2634,
             "participants": 40,
             "crowns": 8,
-            "battles_remaining": 29,
-            "battles_played": 11,
+            "battles_remaining": 28,
+            "battles_played": 12,
             "wins": 4
         },
         {
@@ -406,20 +417,9 @@
             "badge_id": 16000003,
             "clan_score": 2583,
             "participants": 39,
-            "crowns": 11,
-            "battles_remaining": 33,
-            "battles_played": 6,
-            "wins": 3
-        },
-        {
-            "tag": "#CLRVRLY",
-            "name": "Armata Rossa",
-            "badge_id": 16000022,
-            "clan_score": 2925,
-            "participants": 37,
-            "crowns": 6,
-            "battles_remaining": 29,
-            "battles_played": 8,
+            "crowns": 12,
+            "battles_remaining": 32,
+            "battles_played": 7,
             "wins": 3
         }
     ],
