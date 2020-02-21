@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2583,
         "participants": 39,
-        "crowns": 20,
+        "crowns": 21,
         "battles_remaining": null,
-        "battles_played": 14,
-        "wins": 7
+        "battles_played": 16,
+        "wins": 8
     },
     "participants": [
-        {
-            "tag": "#9RURV22L0",
-            "name": "PapaGucci69",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#Y2YPJRJ09",
             "name": "ThoughtSlayer69",
@@ -83,15 +74,6 @@
             "cards_earned": 524,
             "battles_played": 0,
             "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -258,6 +240,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9RURV22L0",
+            "name": "PapaGucci69",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8YGPPGRY",
             "name": "slaight",
             "cards_earned": 1189,
@@ -282,6 +273,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -373,10 +373,10 @@
             "badge_id": 16000028,
             "clan_score": 2931,
             "participants": 38,
-            "crowns": 23,
-            "battles_remaining": 19,
-            "battles_played": 19,
-            "wins": 13
+            "crowns": 24,
+            "battles_remaining": 18,
+            "battles_played": 20,
+            "wins": 14
         },
         {
             "tag": "#P2L8CRC2",
@@ -384,9 +384,9 @@
             "badge_id": 16000081,
             "clan_score": 2693,
             "participants": 37,
-            "crowns": 17,
-            "battles_remaining": 23,
-            "battles_played": 14,
+            "crowns": 18,
+            "battles_remaining": 21,
+            "battles_played": 16,
             "wins": 8
         },
         {
@@ -406,10 +406,10 @@
             "badge_id": 16000003,
             "clan_score": 2583,
             "participants": 39,
-            "crowns": 20,
-            "battles_remaining": 25,
-            "battles_played": 14,
-            "wins": 7
+            "crowns": 21,
+            "battles_remaining": 23,
+            "battles_played": 16,
+            "wins": 8
         },
         {
             "tag": "#PRLCL0UC",
@@ -417,10 +417,10 @@
             "badge_id": 16000004,
             "clan_score": 2634,
             "participants": 40,
-            "crowns": 11,
-            "battles_remaining": 25,
-            "battles_played": 15,
-            "wins": 6
+            "crowns": 12,
+            "battles_remaining": 24,
+            "battles_played": 16,
+            "wins": 7
         }
     ]
 }
