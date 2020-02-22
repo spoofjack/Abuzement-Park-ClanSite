@@ -368,6 +368,17 @@
     ],
     "clans": [
         {
+            "tag": "#P2L8CRC2",
+            "name": "MEXICANOS",
+            "badge_id": 16000081,
+            "clan_score": 2693,
+            "participants": 37,
+            "crowns": 31,
+            "battles_remaining": 7,
+            "battles_played": 30,
+            "wins": 14
+        },
+        {
             "tag": "#98YY88LG",
             "name": "romanian clash",
             "badge_id": 16000028,
@@ -377,17 +388,6 @@
             "battles_remaining": 18,
             "battles_played": 20,
             "wins": 14
-        },
-        {
-            "tag": "#P2L8CRC2",
-            "name": "MEXICANOS",
-            "badge_id": 16000081,
-            "clan_score": 2693,
-            "participants": 37,
-            "crowns": 29,
-            "battles_remaining": 8,
-            "battles_played": 29,
-            "wins": 13
         },
         {
             "tag": "#CLRVRLY",
@@ -426,5 +426,5 @@
     "cards": 46580,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "16 hours"
+    "end_label": "15 hours"
 }
