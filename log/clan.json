@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "inviteOnly",
-    "clan_score": 52924,
+    "clan_score": 52923,
     "required_trophies": 5000,
-    "donations_per_week": 14720,
+    "donations_per_week": 14740,
     "clan_war_trophies": 2583,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 4,
             "donations": 1731,
-            "donations_received": 570,
+            "donations_received": 580,
             "clan_chest_points": 0
         },
         {
@@ -51,7 +51,7 @@
             "clan_rank": 2,
             "previous_clan_rank": 3,
             "donations": 748,
-            "donations_received": 640,
+            "donations_received": 650,
             "clan_chest_points": 0
         },
         {
@@ -701,23 +701,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2J8GVPY8U",
-            "name": "Portsmouth",
-            "exp_level": 11,
-            "trophies": 4881,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200222T043015.000Z",
-            "clan_rank": 41,
-            "previous_clan_rank": 39,
-            "donations": 232,
-            "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2J9CP02VU",
             "name": "Zeus",
             "exp_level": 11,
@@ -728,10 +711,27 @@
             },
             "role": "elder",
             "last_seen": "20200222T104816.000Z",
-            "clan_rank": 42,
+            "clan_rank": 41,
             "previous_clan_rank": 40,
             "donations": 504,
             "donations_received": 600,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2J8GVPY8U",
+            "name": "Portsmouth",
+            "exp_level": 11,
+            "trophies": 4860,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200222T113423.000Z",
+            "clan_rank": 42,
+            "previous_clan_rank": 39,
+            "donations": 252,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
