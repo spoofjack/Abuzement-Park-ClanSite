@@ -10,7 +10,7 @@
         "participants": 39,
         "crowns": 16,
         "battles_remaining": null,
-        "battles_played": 9,
+        "battles_played": 10,
         "wins": 6
     },
     "participants": [
@@ -117,15 +117,6 @@
             "tag": "#90VLQC2GU",
             "name": "Rmin",
             "cards_earned": 891,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "cards_earned": 1785,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -339,6 +330,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#202U0V29",
             "name": "estebanito",
             "cards_earned": 1189,
@@ -385,8 +385,8 @@
             "clan_score": 2550,
             "participants": 39,
             "crowns": 16,
-            "battles_remaining": 30,
-            "battles_played": 9,
+            "battles_remaining": 29,
+            "battles_played": 10,
             "wins": 6
         },
         {
@@ -395,10 +395,21 @@
             "badge_id": 16000168,
             "clan_score": 2972,
             "participants": 38,
-            "crowns": 10,
-            "battles_remaining": 30,
+            "crowns": 14,
+            "battles_remaining": 28,
+            "battles_played": 10,
+            "wins": 6
+        },
+        {
+            "tag": "#8R29L99R",
+            "name": "Plus achtzehn",
+            "badge_id": 16000024,
+            "clan_score": 2845,
+            "participants": 40,
+            "crowns": 8,
+            "battles_remaining": 32,
             "battles_played": 8,
-            "wins": 5
+            "wins": 4
         },
         {
             "tag": "#20L0GYV",
@@ -410,17 +421,6 @@
             "battles_remaining": 29,
             "battles_played": 7,
             "wins": 4
-        },
-        {
-            "tag": "#8R29L99R",
-            "name": "Plus achtzehn",
-            "badge_id": 16000024,
-            "clan_score": 2845,
-            "participants": 40,
-            "crowns": 6,
-            "battles_remaining": 33,
-            "battles_played": 7,
-            "wins": 3
         }
     ],
     "cards": 46551,
