@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2550,
         "participants": 39,
-        "crowns": 17,
+        "crowns": 18,
         "battles_remaining": null,
-        "battles_played": 12,
-        "wins": 7
+        "battles_played": 14,
+        "wins": 8
     },
     "participants": [
         {
@@ -195,15 +195,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "cards_earned": 1785,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2J8GVPY8U",
             "name": "Portsmouth",
             "cards_earned": 1400,
@@ -225,15 +216,6 @@
             "tag": "#CLL8Q09",
             "name": "Wub",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -339,6 +321,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2092V2QU8",
             "name": "JustBuildLol",
             "cards_earned": 1189,
@@ -351,6 +342,15 @@
             "tag": "#9C9YGP8CV",
             "name": "boi",
             "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "cards_earned": 1487,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -374,9 +374,20 @@
             "clan_score": 2362,
             "participants": 41,
             "crowns": 17,
-            "battles_remaining": 29,
-            "battles_played": 12,
+            "battles_remaining": 28,
+            "battles_played": 13,
             "wins": 9
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2550,
+            "participants": 39,
+            "crowns": 18,
+            "battles_remaining": 25,
+            "battles_played": 14,
+            "wins": 8
         },
         {
             "tag": "#8LCQRY9J",
@@ -390,15 +401,15 @@
             "wins": 7
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2550,
-            "participants": 39,
-            "crowns": 17,
-            "battles_remaining": 27,
-            "battles_played": 12,
-            "wins": 7
+            "tag": "#20L0GYV",
+            "name": "Dwido's",
+            "badge_id": 16000029,
+            "clan_score": 2847,
+            "participants": 36,
+            "crowns": 6,
+            "battles_remaining": 28,
+            "battles_played": 8,
+            "wins": 5
         },
         {
             "tag": "#8R29L99R",
@@ -407,19 +418,8 @@
             "clan_score": 2845,
             "participants": 40,
             "crowns": 8,
-            "battles_remaining": 30,
-            "battles_played": 10,
-            "wins": 4
-        },
-        {
-            "tag": "#20L0GYV",
-            "name": "Dwido's",
-            "badge_id": 16000029,
-            "clan_score": 2847,
-            "participants": 36,
-            "crowns": 5,
-            "battles_remaining": 29,
-            "battles_played": 7,
+            "battles_remaining": 28,
+            "battles_played": 12,
             "wins": 4
         }
     ],
