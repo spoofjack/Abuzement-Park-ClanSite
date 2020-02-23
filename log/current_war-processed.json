@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2550,
         "participants": 39,
-        "crowns": 0,
+        "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 2,
+        "wins": 2
     },
     "participants": [
         {
@@ -90,15 +90,6 @@
             "tag": "#P2YYY2VU",
             "name": "nailon",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -231,15 +222,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#202U0V29",
-            "name": "estebanito",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "cards_earned": 891,
@@ -364,19 +346,37 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#202U0V29",
+            "name": "estebanito",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
         {
-            "tag": "#8LCQRY9J",
-            "name": "ARGENTINA",
-            "badge_id": 16000168,
-            "clan_score": 2972,
-            "participants": 38,
-            "crowns": 0,
-            "battles_remaining": 38,
-            "battles_played": 0,
-            "wins": 0
+            "tag": "#9JLJR8P",
+            "name": "Espa\u00f1a Dream",
+            "badge_id": 16000172,
+            "clan_score": 2362,
+            "participants": 41,
+            "crowns": 5,
+            "battles_remaining": 36,
+            "battles_played": 5,
+            "wins": 3
         },
         {
             "tag": "#20L0GYV",
@@ -384,21 +384,32 @@
             "badge_id": 16000029,
             "clan_score": 2847,
             "participants": 36,
-            "crowns": 0,
-            "battles_remaining": 36,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 4,
+            "battles_remaining": 32,
+            "battles_played": 4,
+            "wins": 3
         },
         {
-            "tag": "#9JLJR8P",
-            "name": "Espa\u00f1a Dream",
-            "badge_id": 16000172,
-            "clan_score": 2362,
-            "participants": 41,
-            "crowns": 0,
-            "battles_remaining": 40,
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2550,
+            "participants": 39,
+            "crowns": 5,
+            "battles_remaining": 37,
+            "battles_played": 2,
+            "wins": 2
+        },
+        {
+            "tag": "#8LCQRY9J",
+            "name": "ARGENTINA",
+            "badge_id": 16000168,
+            "clan_score": 2972,
+            "participants": 38,
+            "crowns": 2,
+            "battles_remaining": 37,
             "battles_played": 1,
-            "wins": 0
+            "wins": 1
         },
         {
             "tag": "#8R29L99R",
@@ -407,19 +418,8 @@
             "clan_score": 2845,
             "participants": 40,
             "crowns": 0,
-            "battles_remaining": 39,
-            "battles_played": 1,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2550,
-            "participants": 39,
-            "crowns": 0,
-            "battles_remaining": 39,
-            "battles_played": 0,
+            "battles_remaining": 38,
+            "battles_played": 2,
             "wins": 0
         }
     ],
