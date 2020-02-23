@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 2550,
         "participants": 39,
-        "crowns": 16,
+        "crowns": 17,
         "battles_remaining": null,
-        "battles_played": 10,
-        "wins": 6
+        "battles_played": 12,
+        "wins": 7
     },
     "participants": [
         {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "cards_earned": 1785,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9RURV22L0",
-            "name": "PapaGucci69",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -240,15 +231,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9C9YGP8CV",
-            "name": "boi",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "cards_earned": 1487,
@@ -291,6 +273,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9RURV22L0",
+            "name": "PapaGucci69",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -357,6 +348,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9C9YGP8CV",
+            "name": "boi",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 1189,
@@ -379,26 +379,26 @@
             "wins": 9
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2550,
-            "participants": 39,
-            "crowns": 16,
-            "battles_remaining": 29,
-            "battles_played": 10,
-            "wins": 6
-        },
-        {
             "tag": "#8LCQRY9J",
             "name": "ARGENTINA",
             "badge_id": 16000168,
             "clan_score": 2972,
             "participants": 38,
-            "crowns": 15,
+            "crowns": 17,
+            "battles_remaining": 26,
+            "battles_played": 12,
+            "wins": 7
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2550,
+            "participants": 39,
+            "crowns": 17,
             "battles_remaining": 27,
-            "battles_played": 11,
-            "wins": 6
+            "battles_played": 12,
+            "wins": 7
         },
         {
             "tag": "#8R29L99R",
@@ -426,5 +426,5 @@
     "cards": 46551,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "22 hours"
+    "end_label": "21 hours"
 }
