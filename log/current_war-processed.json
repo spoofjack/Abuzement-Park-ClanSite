@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2550,
-        "participants": 22,
+        "participants": 23,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 61,
-        "wins": 33
+        "battles_played": 64,
+        "wins": 34
     },
     "participants": [
         {
@@ -65,6 +65,15 @@
             "cards_earned": 840,
             "battles_played": 2,
             "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
+            "cards_earned": 1189,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 3
         },
@@ -214,7 +223,7 @@
         }
     ],
     "clans": null,
-    "cards": 27240,
+    "cards": 28429,
     "state_label": "Collection Day",
     "collection_end_time_label": "8 hours",
     "end_label": "1 day, 8 hours"
