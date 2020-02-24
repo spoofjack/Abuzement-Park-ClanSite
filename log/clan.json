@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "inviteOnly",
-    "clan_score": 53290,
+    "clan_score": 53251,
     "required_trophies": 5000,
-    "donations_per_week": 1080,
+    "donations_per_week": 1090,
     "clan_war_trophies": 2550,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,10 +30,10 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200224T095606.000Z",
+            "last_seen": "20200224T120431.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 48,
+            "donations": 58,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -55,23 +55,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5632,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200224T115751.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 3,
-            "donations": 86,
-            "donations_received": 50,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "exp_level": 13,
@@ -82,10 +65,27 @@
             },
             "role": "coLeader",
             "last_seen": "20200223T214400.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 7,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5554,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "coLeader",
+            "last_seen": "20200224T121153.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 3,
+            "donations": 86,
+            "donations_received": 50,
             "clan_chest_points": 0
         },
         {
@@ -98,7 +98,7 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200224T101406.000Z",
+            "last_seen": "20200224T121122.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 48,
@@ -595,7 +595,7 @@
             "clan_rank": 34,
             "previous_clan_rank": 30,
             "donations": 28,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
