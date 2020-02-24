@@ -10,7 +10,7 @@
         "participants": 39,
         "crowns": 33,
         "battles_remaining": null,
-        "battles_played": 31,
+        "battles_played": 32,
         "wins": 15
     },
     "participants": [
@@ -26,15 +26,6 @@
         {
             "tag": "#CPYC92RU",
             "name": "Pecesitp",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#P2YYY2VU",
-            "name": "nailon",
             "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -144,6 +135,15 @@
             "tag": "#PV02PGVQ",
             "name": "someone",
             "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#P2YYY2VU",
+            "name": "nailon",
+            "cards_earned": 1120,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -384,10 +384,10 @@
             "badge_id": 16000029,
             "clan_score": 2847,
             "participants": 36,
-            "crowns": 26,
-            "battles_remaining": 14,
-            "battles_played": 22,
-            "wins": 16
+            "crowns": 29,
+            "battles_remaining": 12,
+            "battles_played": 24,
+            "wins": 17
         },
         {
             "tag": "#9JLJR8P",
@@ -396,8 +396,8 @@
             "clan_score": 2362,
             "participants": 41,
             "crowns": 39,
-            "battles_remaining": 10,
-            "battles_played": 31,
+            "battles_remaining": 9,
+            "battles_played": 32,
             "wins": 24
         },
         {
@@ -418,8 +418,8 @@
             "clan_score": 2550,
             "participants": 39,
             "crowns": 33,
-            "battles_remaining": 8,
-            "battles_played": 31,
+            "battles_remaining": 7,
+            "battles_played": 32,
             "wins": 15
         }
     ]
