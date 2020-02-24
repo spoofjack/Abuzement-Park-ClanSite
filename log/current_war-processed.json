@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2550,
         "participants": 39,
-        "crowns": 31,
+        "crowns": 32,
         "battles_remaining": null,
-        "battles_played": 29,
-        "wins": 14
+        "battles_played": 30,
+        "wins": 15
     },
     "participants": [
         {
@@ -90,15 +90,6 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2J9CP02VU",
-            "name": "Zeus",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -258,6 +249,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2J9CP02VU",
+            "name": "Zeus",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PL990R0YG",
             "name": "JayWizz",
             "cards_earned": 840,
@@ -373,9 +373,9 @@
             "badge_id": 16000172,
             "clan_score": 2362,
             "participants": 41,
-            "crowns": 37,
-            "battles_remaining": 13,
-            "battles_played": 28,
+            "crowns": 38,
+            "battles_remaining": 12,
+            "battles_played": 29,
             "wins": 23
         },
         {
@@ -395,10 +395,10 @@
             "badge_id": 16000003,
             "clan_score": 2550,
             "participants": 39,
-            "crowns": 31,
-            "battles_remaining": 10,
-            "battles_played": 29,
-            "wins": 14
+            "crowns": 32,
+            "battles_remaining": 9,
+            "battles_played": 30,
+            "wins": 15
         },
         {
             "tag": "#20L0GYV",
@@ -406,10 +406,10 @@
             "badge_id": 16000029,
             "clan_score": 2847,
             "participants": 36,
-            "crowns": 17,
-            "battles_remaining": 19,
-            "battles_played": 17,
-            "wins": 11
+            "crowns": 19,
+            "battles_remaining": 17,
+            "battles_played": 19,
+            "wins": 13
         },
         {
             "tag": "#8R29L99R",
@@ -426,5 +426,5 @@
     "cards": 46551,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "14 hours"
+    "end_label": "13 hours"
 }
