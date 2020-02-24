@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "inviteOnly",
-    "clan_score": 53208,
+    "clan_score": 53196,
     "required_trophies": 5000,
     "donations_per_week": 720,
     "clan_war_trophies": 2550,
@@ -106,23 +106,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "exp_level": 13,
-            "trophies": 5516,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200224T085052.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 6,
-            "donations": 10,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "exp_level": 13,
@@ -133,10 +116,27 @@
             },
             "role": "coLeader",
             "last_seen": "20200224T014911.000Z",
-            "clan_rank": 7,
+            "clan_rank": 6,
             "previous_clan_rank": 8,
             "donations": 0,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "exp_level": 13,
+            "trophies": 5491,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200224T085052.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 6,
+            "donations": 10,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -500,7 +500,7 @@
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "exp_level": 11,
-            "trophies": 5085,
+            "trophies": 5092,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
