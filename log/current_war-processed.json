@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2518,
         "participants": 38,
-        "crowns": 1,
+        "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 2,
-        "wins": 1
+        "battles_played": 5,
+        "wins": 3
     },
     "participants": [
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
@@ -72,15 +63,6 @@
             "tag": "#CPYC92RU",
             "name": "Pecesitp",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -161,15 +143,6 @@
         {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
             "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -339,12 +312,39 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 1189,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -359,15 +359,26 @@
     ],
     "clans": [
         {
+            "tag": "#2CQ2CCPQ",
+            "name": "Les Zouaves",
+            "badge_id": 16000078,
+            "clan_score": 1818,
+            "participants": 38,
+            "crowns": 6,
+            "battles_remaining": 34,
+            "battles_played": 4,
+            "wins": 3
+        },
+        {
             "tag": "#Y22R029C",
             "name": "A CASA CAIU",
             "badge_id": 16000057,
             "clan_score": 2944,
             "participants": 36,
-            "crowns": 4,
-            "battles_remaining": 34,
-            "battles_played": 2,
-            "wins": 2
+            "crowns": 5,
+            "battles_remaining": 33,
+            "battles_played": 3,
+            "wins": 3
         },
         {
             "tag": "#LP98YUCV",
@@ -375,20 +386,20 @@
             "badge_id": 16000003,
             "clan_score": 2518,
             "participants": 38,
-            "crowns": 1,
-            "battles_remaining": 36,
-            "battles_played": 2,
-            "wins": 1
+            "crowns": 3,
+            "battles_remaining": 33,
+            "battles_played": 5,
+            "wins": 3
         },
         {
-            "tag": "#2CQ2CCPQ",
-            "name": "Les Zouaves",
-            "badge_id": 16000078,
-            "clan_score": 1818,
-            "participants": 38,
-            "crowns": 0,
-            "battles_remaining": 38,
-            "battles_played": 0,
+            "tag": "#L0RLPP09",
+            "name": "A TODA MADRE",
+            "badge_id": 16000028,
+            "clan_score": 2631,
+            "participants": 35,
+            "crowns": 1,
+            "battles_remaining": 34,
+            "battles_played": 1,
             "wins": 0
         },
         {
@@ -399,17 +410,6 @@
             "participants": 36,
             "crowns": 0,
             "battles_remaining": 36,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#L0RLPP09",
-            "name": "A TODA MADRE",
-            "badge_id": 16000028,
-            "clan_score": 2631,
-            "participants": 35,
-            "crowns": 0,
-            "battles_remaining": 35,
             "battles_played": 0,
             "wins": 0
         }
