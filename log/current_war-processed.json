@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2518,
         "participants": 38,
-        "crowns": 7,
+        "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 11,
         "wins": 5
     },
     "participants": [
@@ -161,15 +161,6 @@
         {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#202U0V29",
-            "name": "estebanito",
             "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -348,6 +339,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#202U0V29",
+            "name": "estebanito",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 891,
@@ -370,6 +370,17 @@
             "wins": 10
         },
         {
+            "tag": "#8R29L99R",
+            "name": "Plus achtzehn",
+            "badge_id": 16000024,
+            "clan_score": 2762,
+            "participants": 36,
+            "crowns": 15,
+            "battles_remaining": 24,
+            "battles_played": 12,
+            "wins": 9
+        },
+        {
             "tag": "#2CQ2CCPQ",
             "name": "Les Zouaves",
             "badge_id": 16000078,
@@ -381,26 +392,15 @@
             "wins": 7
         },
         {
-            "tag": "#8R29L99R",
-            "name": "Plus achtzehn",
-            "badge_id": 16000024,
-            "clan_score": 2762,
-            "participants": 36,
-            "crowns": 11,
-            "battles_remaining": 26,
-            "battles_played": 10,
-            "wins": 7
-        },
-        {
             "tag": "#L0RLPP09",
             "name": "A TODA MADRE",
             "badge_id": 16000028,
             "clan_score": 2631,
             "participants": 35,
-            "crowns": 14,
-            "battles_remaining": 27,
-            "battles_played": 8,
-            "wins": 5
+            "crowns": 17,
+            "battles_remaining": 25,
+            "battles_played": 10,
+            "wins": 6
         },
         {
             "tag": "#LP98YUCV",
@@ -408,14 +408,14 @@
             "badge_id": 16000003,
             "clan_score": 2518,
             "participants": 38,
-            "crowns": 7,
-            "battles_remaining": 28,
-            "battles_played": 10,
+            "crowns": 8,
+            "battles_remaining": 27,
+            "battles_played": 11,
             "wins": 5
         }
     ],
     "cards": 47016,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "22 hours"
+    "end_label": "21 hours"
 }
