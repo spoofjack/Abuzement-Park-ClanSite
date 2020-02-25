@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "inviteOnly",
-    "clan_score": 53562,
+    "clan_score": 53605,
     "required_trophies": 5000,
-    "donations_per_week": 4587,
+    "donations_per_week": 4623,
     "clan_war_trophies": 2518,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5849,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "leader",
+            "last_seen": "20200225T180105.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 2,
+            "donations": 256,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -31,7 +48,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200224T130616.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 68,
             "donations_received": 40,
@@ -41,34 +58,17 @@
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
-            "trophies": 5794,
+            "trophies": 5821,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200225T175508.000Z",
-            "clan_rank": 2,
+            "last_seen": "20200225T180125.000Z",
+            "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 574,
             "donations_received": 170,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5790,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "leader",
-            "last_seen": "20200225T175625.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 2,
-            "donations": 246,
-            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -279,7 +279,7 @@
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 11,
-            "trophies": 5254,
+            "trophies": 5229,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -288,8 +288,8 @@
             "last_seen": "20200225T175900.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 14,
-            "donations": 44,
-            "donations_received": 80,
+            "donations": 52,
+            "donations_received": 100,
             "clan_chest_points": 0
         },
         {
@@ -310,6 +310,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2092V2QU8",
+            "name": "JustBuildLol",
+            "exp_level": 12,
+            "trophies": 5193,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200225T180624.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 23,
+            "donations": 120,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2P9QGRRLC",
             "name": "IvoVich",
             "exp_level": 12,
@@ -320,7 +337,7 @@
             },
             "role": "member",
             "last_seen": "20200225T080029.000Z",
-            "clan_rank": 18,
+            "clan_rank": 19,
             "previous_clan_rank": 20,
             "donations": 50,
             "donations_received": 120,
@@ -337,7 +354,7 @@
             },
             "role": "elder",
             "last_seen": "20200222T230202.000Z",
-            "clan_rank": 19,
+            "clan_rank": 20,
             "previous_clan_rank": 21,
             "donations": 0,
             "donations_received": 0,
@@ -354,27 +371,10 @@
             },
             "role": "elder",
             "last_seen": "20200225T051738.000Z",
-            "clan_rank": 20,
+            "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 124,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2092V2QU8",
-            "name": "JustBuildLol",
-            "exp_level": 12,
-            "trophies": 5163,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200225T124049.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 23,
-            "donations": 102,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -659,11 +659,11 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200225T175418.000Z",
+            "last_seen": "20200225T180432.000Z",
             "clan_rank": 38,
             "previous_clan_rank": 38,
             "donations": 8,
-            "donations_received": 177,
+            "donations_received": 193,
             "clan_chest_points": 0
         },
         {
