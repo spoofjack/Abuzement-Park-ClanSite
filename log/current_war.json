@@ -10,7 +10,7 @@
         "participants": 38,
         "crowns": 31,
         "battles_remaining": null,
-        "battles_played": 34,
+        "battles_played": 35,
         "wins": 18
     },
     "participants": [
@@ -38,15 +38,6 @@
             "cards_earned": 297,
             "battles_played": 0,
             "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -249,6 +240,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#202U0V29",
             "name": "estebanito",
             "cards_earned": 1487,
@@ -398,8 +398,8 @@
             "clan_score": 2518,
             "participants": 38,
             "crowns": 31,
-            "battles_remaining": 4,
-            "battles_played": 34,
+            "battles_remaining": 3,
+            "battles_played": 35,
             "wins": 18
         },
         {
