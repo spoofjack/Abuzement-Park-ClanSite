@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2513,
         "participants": 38,
-        "crowns": 7,
+        "crowns": 9,
         "battles_remaining": null,
-        "battles_played": 6,
-        "wins": 4
+        "battles_played": 9,
+        "wins": 5
     },
     "participants": [
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
@@ -195,15 +186,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 1785,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 1189,
@@ -294,12 +276,12 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "cards_earned": 594,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -330,6 +312,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#202U0V29",
             "name": "estebanito",
             "cards_earned": 594,
@@ -355,6 +346,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "cards_earned": 594,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -364,10 +364,10 @@
             "badge_id": 16000095,
             "clan_score": 2991,
             "participants": 37,
-            "crowns": 10,
-            "battles_remaining": 29,
-            "battles_played": 8,
-            "wins": 6
+            "crowns": 11,
+            "battles_remaining": 28,
+            "battles_played": 9,
+            "wins": 7
         },
         {
             "tag": "#LP98YUCV",
@@ -375,10 +375,10 @@
             "badge_id": 16000003,
             "clan_score": 2513,
             "participants": 38,
-            "crowns": 7,
-            "battles_remaining": 32,
-            "battles_played": 6,
-            "wins": 4
+            "crowns": 9,
+            "battles_remaining": 29,
+            "battles_played": 9,
+            "wins": 5
         },
         {
             "tag": "#8R0GUPV0",
@@ -386,10 +386,10 @@
             "badge_id": 16000002,
             "clan_score": 2133,
             "participants": 32,
-            "crowns": 7,
-            "battles_remaining": 25,
-            "battles_played": 7,
-            "wins": 3
+            "crowns": 10,
+            "battles_remaining": 23,
+            "battles_played": 9,
+            "wins": 4
         },
         {
             "tag": "#8G8U92CC",
@@ -397,10 +397,10 @@
             "badge_id": 16000044,
             "clan_score": 2955,
             "participants": 32,
-            "crowns": 4,
-            "battles_remaining": 27,
-            "battles_played": 5,
-            "wins": 2
+            "crowns": 8,
+            "battles_remaining": 25,
+            "battles_played": 7,
+            "wins": 4
         },
         {
             "tag": "#LL28RLCQ",
@@ -408,14 +408,14 @@
             "badge_id": 16000163,
             "clan_score": 1527,
             "participants": 33,
-            "crowns": 0,
-            "battles_remaining": 32,
-            "battles_played": 1,
-            "wins": 0
+            "crowns": 6,
+            "battles_remaining": 30,
+            "battles_played": 3,
+            "wins": 2
         }
     ],
     "cards": 47279,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
