@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2513,
-        "participants": 22,
+        "participants": 23,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 55,
-        "wins": 26
+        "battles_played": 57,
+        "wins": 27
     },
     "participants": [
         {
@@ -30,6 +30,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 297,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
             "number_of_battles": 3
         },
         {
@@ -197,10 +206,10 @@
         {
             "tag": "#9C9YGP8CV",
             "name": "boi",
-            "cards_earned": 595,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 1,
+            "cards_earned": 1190,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 2,
             "number_of_battles": 3
         },
         {
@@ -214,8 +223,8 @@
         }
     ],
     "clans": null,
-    "cards": 23877,
+    "cards": 24769,
     "state_label": "Collection Day",
-    "collection_end_time_label": "18 hours",
-    "end_label": "1 day, 18 hours"
+    "collection_end_time_label": "17 hours",
+    "end_label": "1 day, 17 hours"
 }
