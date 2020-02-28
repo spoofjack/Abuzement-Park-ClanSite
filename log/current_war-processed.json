@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2513,
         "participants": 38,
-        "crowns": 16,
+        "crowns": 21,
         "battles_remaining": null,
-        "battles_played": 17,
-        "wins": 7
+        "battles_played": 19,
+        "wins": 9
     },
     "participants": [
-        {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#8YGPPGRY",
             "name": "slaight",
@@ -72,15 +63,6 @@
             "tag": "#CPYC92RU",
             "name": "Pecesitp",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8JGUU092",
-            "name": "Disfatt Bidge",
-            "cards_earned": 891,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -213,12 +195,30 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 1189,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8JGUU092",
+            "name": "Disfatt Bidge",
+            "cards_earned": 891,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -364,9 +364,9 @@
             "badge_id": 16000163,
             "clan_score": 1527,
             "participants": 33,
-            "crowns": 38,
-            "battles_remaining": 11,
-            "battles_played": 22,
+            "crowns": 39,
+            "battles_remaining": 10,
+            "battles_played": 23,
             "wins": 17
         },
         {
@@ -381,6 +381,17 @@
             "wins": 15
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2513,
+            "participants": 38,
+            "crowns": 21,
+            "battles_remaining": 19,
+            "battles_played": 19,
+            "wins": 9
+        },
+        {
             "tag": "#8G8U92CC",
             "name": "300 SPARTANACA",
             "badge_id": 16000044,
@@ -390,17 +401,6 @@
             "battles_remaining": 17,
             "battles_played": 15,
             "wins": 8
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2513,
-            "participants": 38,
-            "crowns": 16,
-            "battles_remaining": 21,
-            "battles_played": 17,
-            "wins": 7
         },
         {
             "tag": "#8R0GUPV0",
@@ -417,5 +417,5 @@
     "cards": 47279,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "19 hours"
+    "end_label": "18 hours"
 }
