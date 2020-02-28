@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "inviteOnly",
-    "clan_score": 53888,
+    "clan_score": 53896,
     "required_trophies": 5000,
-    "donations_per_week": 10800,
+    "donations_per_week": 10830,
     "clan_war_trophies": 2513,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -68,7 +68,24 @@
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 278,
-            "donations_received": 310,
+            "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5794,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "leader",
+            "last_seen": "20200228T023931.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 1,
+            "donations": 701,
+            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -82,27 +99,10 @@
             },
             "role": "elder",
             "last_seen": "20200228T021329.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 6,
             "donations": 342,
             "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5765,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "leader",
-            "last_seen": "20200228T012245.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 1,
-            "donations": 691,
-            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -268,10 +268,10 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200228T021258.000Z",
+            "last_seen": "20200228T024249.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 13,
-            "donations": 428,
+            "donations": 438,
             "donations_received": 440,
             "clan_chest_points": 0
         },
@@ -347,13 +347,13 @@
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "exp_level": 13,
-            "trophies": 5238,
+            "trophies": 5216,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200227T201453.000Z",
+            "last_seen": "20200228T024102.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 22,
             "donations": 337,
@@ -455,10 +455,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200228T020705.000Z",
+            "last_seen": "20200228T023230.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 26,
-            "donations": 182,
+            "donations": 192,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -480,23 +480,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#202U0V29",
-            "name": "estebanito",
-            "exp_level": 11,
-            "trophies": 5112,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200227T211053.000Z",
-            "clan_rank": 28,
-            "previous_clan_rank": 34,
-            "donations": 234,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2C8QPLUPG",
             "name": "grimm reaper",
             "exp_level": 12,
@@ -507,7 +490,7 @@
             },
             "role": "member",
             "last_seen": "20200217T141124.000Z",
-            "clan_rank": 29,
+            "clan_rank": 28,
             "previous_clan_rank": 28,
             "donations": 0,
             "donations_received": 0,
@@ -524,7 +507,7 @@
             },
             "role": "member",
             "last_seen": "20200228T011125.000Z",
-            "clan_rank": 30,
+            "clan_rank": 29,
             "previous_clan_rank": 30,
             "donations": 198,
             "donations_received": 200,
@@ -541,10 +524,27 @@
             },
             "role": "member",
             "last_seen": "20200228T002021.000Z",
-            "clan_rank": 31,
+            "clan_rank": 30,
             "previous_clan_rank": 32,
             "donations": 478,
             "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#202U0V29",
+            "name": "estebanito",
+            "exp_level": 11,
+            "trophies": 5097,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200228T023202.000Z",
+            "clan_rank": 31,
+            "previous_clan_rank": 34,
+            "donations": 234,
+            "donations_received": 340,
             "clan_chest_points": 0
         },
         {
@@ -591,7 +591,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200227T143702.000Z",
+            "last_seen": "20200228T024229.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 29,
             "donations": 18,
@@ -676,7 +676,7 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200228T015631.000Z",
+            "last_seen": "20200228T024323.000Z",
             "clan_rank": 39,
             "previous_clan_rank": 38,
             "donations": 428,
