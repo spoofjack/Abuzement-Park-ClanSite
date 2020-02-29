@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2507,
         "participants": 34,
-        "crowns": 0,
+        "crowns": 1,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 1,
+        "wins": 1
     },
     "participants": [
         {
@@ -231,15 +231,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2J9CP02VU",
-            "name": "Zeus",
-            "cards_earned": 891,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#PL990R0YG",
             "name": "JayWizz",
             "cards_earned": 1487,
@@ -319,6 +310,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#2J9CP02VU",
+            "name": "Zeus",
+            "cards_earned": 891,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -328,32 +328,10 @@
             "badge_id": 16000012,
             "clan_score": 2143,
             "participants": 34,
-            "crowns": 3,
-            "battles_remaining": 32,
-            "battles_played": 2,
-            "wins": 1
-        },
-        {
-            "tag": "#Y8RJYQCU",
-            "name": "#Carp_Esports",
-            "badge_id": 16000080,
-            "clan_score": 1808,
-            "participants": 33,
-            "crowns": 0,
-            "battles_remaining": 33,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#82YQ9UV9",
-            "name": "Italiani sorani",
-            "badge_id": 16000029,
-            "clan_score": 2749,
-            "participants": 34,
-            "crowns": 0,
-            "battles_remaining": 33,
-            "battles_played": 1,
-            "wins": 0
+            "crowns": 6,
+            "battles_remaining": 29,
+            "battles_played": 5,
+            "wins": 3
         },
         {
             "tag": "#YQRUYUGU",
@@ -361,10 +339,32 @@
             "badge_id": 16000171,
             "clan_score": 2113,
             "participants": 33,
-            "crowns": 0,
-            "battles_remaining": 33,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 3,
+            "battles_remaining": 30,
+            "battles_played": 3,
+            "wins": 3
+        },
+        {
+            "tag": "#Y8RJYQCU",
+            "name": "#Carp_Esports",
+            "badge_id": 16000080,
+            "clan_score": 1808,
+            "participants": 33,
+            "crowns": 3,
+            "battles_remaining": 32,
+            "battles_played": 1,
+            "wins": 1
+        },
+        {
+            "tag": "#82YQ9UV9",
+            "name": "Italiani sorani",
+            "badge_id": 16000029,
+            "clan_score": 2749,
+            "participants": 34,
+            "crowns": 1,
+            "battles_remaining": 32,
+            "battles_played": 2,
+            "wins": 1
         },
         {
             "tag": "#LP98YUCV",
@@ -372,10 +372,10 @@
             "badge_id": 16000003,
             "clan_score": 2507,
             "participants": 34,
-            "crowns": 0,
-            "battles_remaining": 34,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 1,
+            "battles_remaining": 33,
+            "battles_played": 1,
+            "wins": 1
         }
     ],
     "cards": 45634,
