@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2507,
         "participants": 34,
-        "crowns": 6,
+        "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 7,
-        "wins": 4
+        "battles_played": 10,
+        "wins": 5
     },
     "participants": [
         {
@@ -89,24 +89,6 @@
         {
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
             "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -249,15 +231,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9L2VYLJYP",
-            "name": "antluc5248",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "cards_earned": 1487,
@@ -303,12 +276,39 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2J9CP02VU",
             "name": "Zeus",
             "cards_earned": 891,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9L2VYLJYP",
+            "name": "antluc5248",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -356,6 +356,17 @@
             "wins": 5
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2507,
+            "participants": 34,
+            "crowns": 8,
+            "battles_remaining": 24,
+            "battles_played": 10,
+            "wins": 5
+        },
+        {
             "tag": "#YQRUYUGU",
             "name": "Dads OF Clash 2",
             "badge_id": 16000171,
@@ -365,17 +376,6 @@
             "battles_remaining": 23,
             "battles_played": 10,
             "wins": 5
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2507,
-            "participants": 34,
-            "crowns": 6,
-            "battles_remaining": 27,
-            "battles_played": 7,
-            "wins": 4
         }
     ],
     "cards": 45634,
