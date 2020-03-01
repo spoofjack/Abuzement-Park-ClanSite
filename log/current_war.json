@@ -10,7 +10,7 @@
         "participants": 34,
         "crowns": 29,
         "battles_remaining": null,
-        "battles_played": 30,
+        "battles_played": 31,
         "wins": 15
     },
     "participants": [
@@ -27,15 +27,6 @@
             "tag": "#YJPYL02JC",
             "name": "john",
             "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y0VP098",
-            "name": "melissasboatboy",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -189,6 +180,15 @@
             "tag": "#2P9QGRRLC",
             "name": "IvoVich",
             "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#Y0VP098",
+            "name": "melissasboatboy",
+            "cards_earned": 1189,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -362,8 +362,8 @@
             "clan_score": 2113,
             "participants": 33,
             "crowns": 31,
-            "battles_remaining": 4,
-            "battles_played": 29,
+            "battles_remaining": 3,
+            "battles_played": 30,
             "wins": 16
         },
         {
@@ -373,8 +373,8 @@
             "clan_score": 2507,
             "participants": 34,
             "crowns": 29,
-            "battles_remaining": 4,
-            "battles_played": 30,
+            "battles_remaining": 3,
+            "battles_played": 31,
             "wins": 15
         }
     ]
