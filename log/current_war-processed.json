@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2507,
         "participants": 34,
-        "crowns": 14,
+        "crowns": 15,
         "battles_remaining": null,
-        "battles_played": 14,
-        "wins": 7
+        "battles_played": 15,
+        "wins": 8
     },
     "participants": [
         {
@@ -159,15 +159,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2J8GVPY8U",
             "name": "Portsmouth",
             "cards_earned": 1189,
@@ -294,6 +285,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2092V2QU8",
             "name": "JustBuildLol",
             "cards_earned": 891,
@@ -345,6 +345,17 @@
             "wins": 8
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2507,
+            "participants": 34,
+            "crowns": 15,
+            "battles_remaining": 19,
+            "battles_played": 15,
+            "wins": 8
+        },
+        {
             "tag": "#YQRUYUGU",
             "name": "Dads OF Clash 2",
             "badge_id": 16000171,
@@ -354,17 +365,6 @@
             "battles_remaining": 18,
             "battles_played": 15,
             "wins": 8
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2507,
-            "participants": 34,
-            "crowns": 14,
-            "battles_remaining": 20,
-            "battles_played": 14,
-            "wins": 7
         },
         {
             "tag": "#82YQ9UV9",
@@ -381,5 +381,5 @@
     "cards": 45634,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "20 hours"
+    "end_label": "19 hours"
 }
