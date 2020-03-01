@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54149,
+    "clan_score": 54160,
     "required_trophies": 5000,
-    "donations_per_week": 15280,
+    "donations_per_week": 15334,
     "clan_war_trophies": 2507,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -208,6 +208,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 11,
+            "trophies": 5459,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200301T005937.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 13,
+            "donations": 732,
+            "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 11,
@@ -218,27 +235,10 @@
             },
             "role": "member",
             "last_seen": "20200229T233714.000Z",
-            "clan_rank": 12,
+            "clan_rank": 13,
             "previous_clan_rank": 10,
             "donations": 288,
             "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 11,
-            "trophies": 5447,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200301T001010.000Z",
-            "clan_rank": 13,
-            "previous_clan_rank": 13,
-            "donations": 724,
-            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -279,7 +279,7 @@
             "tag": "#9C9YGP8CV",
             "name": "boi",
             "exp_level": 11,
-            "trophies": 5321,
+            "trophies": 5350,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
@@ -288,7 +288,7 @@
             "last_seen": "20200301T004445.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 15,
-            "donations": 276,
+            "donations": 286,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -353,11 +353,11 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200229T151419.000Z",
+            "last_seen": "20200301T005714.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 18,
-            "donations": 132,
-            "donations_received": 200,
+            "donations": 142,
+            "donations_received": 224,
             "clan_chest_points": 0
         },
         {
@@ -412,23 +412,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8P88JQC8",
-            "name": "lastman174",
-            "exp_level": 11,
-            "trophies": 5180,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200301T003228.000Z",
-            "clan_rank": 24,
-            "previous_clan_rank": 0,
-            "donations": 20,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 12,
@@ -439,7 +422,7 @@
             },
             "role": "elder",
             "last_seen": "20200229T212616.000Z",
-            "clan_rank": 25,
+            "clan_rank": 24,
             "previous_clan_rank": 27,
             "donations": 506,
             "donations_received": 400,
@@ -456,7 +439,7 @@
             },
             "role": "member",
             "last_seen": "20200228T164025.000Z",
-            "clan_rank": 26,
+            "clan_rank": 25,
             "previous_clan_rank": 23,
             "donations": 263,
             "donations_received": 240,
@@ -473,10 +456,27 @@
             },
             "role": "elder",
             "last_seen": "20200229T052929.000Z",
-            "clan_rank": 27,
+            "clan_rank": 26,
             "previous_clan_rank": 29,
             "donations": 412,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#202U0V29",
+            "name": "estebanito",
+            "exp_level": 11,
+            "trophies": 5167,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200301T004817.000Z",
+            "clan_rank": 27,
+            "previous_clan_rank": 34,
+            "donations": 405,
+            "donations_received": 510,
             "clan_chest_points": 0
         },
         {
@@ -514,6 +514,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8P88JQC8",
+            "name": "lastman174",
+            "exp_level": 11,
+            "trophies": 5157,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200301T003228.000Z",
+            "clan_rank": 30,
+            "previous_clan_rank": 0,
+            "donations": 38,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9QLU0J80",
             "name": "no1giantsfan76",
             "exp_level": 12,
@@ -524,27 +541,10 @@
             },
             "role": "member",
             "last_seen": "20200229T093844.000Z",
-            "clan_rank": 30,
+            "clan_rank": 31,
             "previous_clan_rank": 28,
             "donations": 68,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#202U0V29",
-            "name": "estebanito",
-            "exp_level": 11,
-            "trophies": 5137,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200229T163945.000Z",
-            "clan_rank": 31,
-            "previous_clan_rank": 34,
-            "donations": 397,
-            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
