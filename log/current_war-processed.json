@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2472,
         "participants": 33,
-        "crowns": 4,
+        "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 4,
+        "battles_played": 6,
         "wins": 3
     },
     "participants": [
@@ -49,15 +49,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#9QLU0J80",
-            "name": "no1giantsfan76",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#2Y02UG8C8",
@@ -267,15 +258,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9L2VYLJYP",
-            "name": "antluc5248",
-            "cards_earned": 560,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
             "cards_earned": 1487,
@@ -294,12 +276,30 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9QLU0J80",
+            "name": "no1giantsfan76",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "cards_earned": 1189,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9L2VYLJYP",
+            "name": "antluc5248",
+            "cards_earned": 560,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -342,8 +342,8 @@
             "clan_score": 2121,
             "participants": 36,
             "crowns": 9,
-            "battles_remaining": 30,
-            "battles_played": 6,
+            "battles_remaining": 28,
+            "battles_played": 8,
             "wins": 4
         },
         {
@@ -353,8 +353,8 @@
             "clan_score": 2968,
             "participants": 41,
             "crowns": 7,
-            "battles_remaining": 34,
-            "battles_played": 7,
+            "battles_remaining": 33,
+            "battles_played": 8,
             "wins": 4
         },
         {
@@ -363,14 +363,14 @@
             "badge_id": 16000003,
             "clan_score": 2472,
             "participants": 33,
-            "crowns": 4,
-            "battles_remaining": 29,
-            "battles_played": 4,
+            "crowns": 5,
+            "battles_remaining": 27,
+            "battles_played": 6,
             "wins": 3
         }
     ],
     "cards": 42087,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "22 hours"
+    "end_label": "21 hours"
 }
