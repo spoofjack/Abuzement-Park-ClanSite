@@ -1,5 +1,5 @@
 {
-    "last_update": 1583179209.613801,
+    "last_update": 1583180109.494662,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
@@ -34,7 +34,7 @@
         "#UVGUUVC0": {
             "name": "ok guy",
             "join_date": 1574406000,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583179209.613801,
             "role": "coLeader",
             "status": "present",
@@ -66,7 +66,7 @@
             "join_date": 1574406000,
             "last_activity_date": 1582874101.681574,
             "last_donation_date": 1582874101.681574,
-            "role": "coLeader",
+            "role": "elder",
             "status": "present",
             "donations": 0,
             "donations_last_week": 78,
@@ -76,6 +76,12 @@
                     "type": "new",
                     "role": "coLeader",
                     "date": 1574406000
+                },
+                {
+                    "event": "role change",
+                    "type": "demotion",
+                    "role": "elder",
+                    "date": 1583180109.494662
                 }
             ]
         },
@@ -84,7 +90,7 @@
             "join_date": 1574406000,
             "last_activity_date": 1583135102.088747,
             "last_donation_date": 1583135102.088747,
-            "role": "coLeader",
+            "role": "elder",
             "status": "present",
             "donations": 10,
             "donations_last_week": 445,
@@ -94,13 +100,19 @@
                     "type": "new",
                     "role": "coLeader",
                     "date": 1574406000
+                },
+                {
+                    "event": "role change",
+                    "type": "demotion",
+                    "role": "elder",
+                    "date": 1583180109.494662
                 }
             ]
         },
         "#J8CGQRJY": {
             "name": "a##hole",
             "join_date": 1574406000,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583178305.933859,
             "role": "elder",
             "status": "present",
@@ -118,7 +130,7 @@
         "#GL0VQ8YV": {
             "name": "njwalt",
             "join_date": 1574451682.42911,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583178305.933859,
             "role": "elder",
             "status": "present",
@@ -136,11 +148,11 @@
         "#2Y02UG8C8": {
             "name": "Rascal09",
             "join_date": 1574406000,
-            "last_activity_date": 1583175603.488772,
-            "last_donation_date": 1583175603.488772,
+            "last_activity_date": 1583180109.494662,
+            "last_donation_date": 1583180109.494662,
             "role": "leader",
             "status": "present",
-            "donations": 26,
+            "donations": 46,
             "donations_last_week": 162,
             "events": [
                 {
@@ -222,7 +234,7 @@
             "join_date": 1574816400,
             "last_activity_date": 1583179209.613801,
             "last_donation_date": 1583150402.16697,
-            "role": "member",
+            "role": "elder",
             "status": "present",
             "donations": 108,
             "donations_last_week": 608,
@@ -238,13 +250,19 @@
                     "type": "demotion",
                     "role": "member",
                     "date": 1580511601.836969
+                },
+                {
+                    "event": "role change",
+                    "type": "promotion",
+                    "role": "elder",
+                    "date": 1583180109.494662
                 }
             ]
         },
         "#9CCL2G0G": {
             "name": "Patrick",
             "join_date": 1574710200,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583171102.365677,
             "role": "elder",
             "status": "present",
@@ -388,7 +406,7 @@
         "#YLGUQRVVQ": {
             "name": "Granteli",
             "join_date": 1578169292.169115,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583169302.508119,
             "role": "elder",
             "status": "present",
@@ -438,7 +456,7 @@
             "join_date": 1578766305.522233,
             "last_activity_date": 1583178305.933859,
             "last_donation_date": 1583178305.933859,
-            "role": "member",
+            "role": "elder",
             "status": "present",
             "donations": 46,
             "donations_last_week": 479,
@@ -448,6 +466,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1578766305.522233
+                },
+                {
+                    "event": "role change",
+                    "type": "promotion",
+                    "role": "elder",
+                    "date": 1583180109.494662
                 }
             ]
         },
@@ -514,7 +538,7 @@
         "#202U0V29": {
             "name": "estebanito",
             "join_date": 1578918509.251174,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583121601.928434,
             "role": "elder",
             "status": "present",
@@ -541,7 +565,7 @@
             "last_activity_date": 1582941603.07754,
             "last_donation_date": 1582762501.87836,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 70,
             "events": [
@@ -550,6 +574,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1578918509.251174
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1583180109.494662
                 }
             ]
         },
@@ -580,7 +610,7 @@
         "#20LGGP900": {
             "name": "blackdog",
             "join_date": 1578169292.169115,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583170203.957756,
             "role": "elder",
             "status": "present",
@@ -604,7 +634,7 @@
         "#9CR2C0VVR": {
             "name": "ShaddBills",
             "join_date": 1575894022.878476,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583143202.121025,
             "role": "elder",
             "status": "present",
@@ -628,7 +658,7 @@
         "#PL990R0YG": {
             "name": "JayWizz",
             "join_date": 1575894022.878476,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583173805.524665,
             "role": "member",
             "status": "present",
@@ -712,7 +742,7 @@
         "#PV02PGVQ": {
             "name": "someone",
             "join_date": 1578187102.560657,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583152202.207132,
             "role": "member",
             "status": "present",
@@ -730,7 +760,7 @@
         "#YGQG9VUVL": {
             "name": "Burkelbear",
             "join_date": 1578169292.169115,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1582864202.666366,
             "role": "member",
             "status": "present",
@@ -937,7 +967,7 @@
             "last_activity_date": 1582768801.972645,
             "last_donation_date": 1582263902.500629,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 8,
             "events": [
@@ -946,6 +976,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1574905624.409018
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1583180109.494662
                 }
             ]
         },
@@ -1000,7 +1036,7 @@
         "#Y22V9PQ2": {
             "name": "Jacob",
             "join_date": 1579491001.753676,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583134202.035026,
             "role": "elder",
             "status": "present",
@@ -1756,7 +1792,7 @@
         "#8YGPPGRY": {
             "name": "slaight",
             "join_date": 1579719602.216832,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583138702.056568,
             "role": "member",
             "status": "present",
@@ -1846,7 +1882,7 @@
         "#2J9CP02VU": {
             "name": "Zeus",
             "join_date": 1580120101.673258,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583174702.568802,
             "role": "elder",
             "status": "present",
@@ -1870,7 +1906,7 @@
         "#P2YYY2VU": {
             "name": "nailon",
             "join_date": 1580122801.676588,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583178305.933859,
             "role": "member",
             "status": "present",
@@ -1888,7 +1924,7 @@
         "#9QLU0J80": {
             "name": "no1giantsfan76",
             "join_date": 1580141701.667798,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583154002.219118,
             "role": "member",
             "status": "present",
@@ -2134,7 +2170,7 @@
         "#CPYC92RU": {
             "name": "Pecesitp",
             "join_date": 1580623202.373625,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1582959602.579447,
             "role": "member",
             "status": "present",
@@ -2152,7 +2188,7 @@
         "#Y2YPJRJ09": {
             "name": "ThoughtSlayer69",
             "join_date": 1580693402.14205,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583104501.824519,
             "role": "member",
             "status": "present",
@@ -2170,7 +2206,7 @@
         "#9C9YGP8CV": {
             "name": "boi",
             "join_date": 1580724902.258802,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583135102.088747,
             "role": "member",
             "status": "present",
@@ -2238,7 +2274,7 @@
             "join_date": 1581038102.141217,
             "last_activity_date": 1583179209.613801,
             "last_donation_date": 1583174702.568802,
-            "role": "member",
+            "role": "elder",
             "status": "present",
             "donations": 30,
             "donations_last_week": 455,
@@ -2248,13 +2284,19 @@
                     "type": "new",
                     "role": "member",
                     "date": 1581038102.141217
+                },
+                {
+                    "event": "role change",
+                    "type": "promotion",
+                    "role": "elder",
+                    "date": 1583180109.494662
                 }
             ]
         },
         "#29JUGVLP2": {
             "name": "\u70ab\u6d6a",
             "join_date": 1581171302.229997,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583163002.354543,
             "role": "member",
             "status": "present",
@@ -2272,7 +2314,7 @@
         "#2VQUL0UUG": {
             "name": "Master Zakuri",
             "join_date": 1581748203.403428,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583174702.568802,
             "role": "member",
             "status": "present",
@@ -2290,7 +2332,7 @@
         "#JRJJ89V0": {
             "name": "Reagan & Bush",
             "join_date": 1582241402.411584,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583146802.117259,
             "role": "member",
             "status": "present",
@@ -2326,7 +2368,7 @@
         "#9992GG0CQ": {
             "name": "freighttrain",
             "join_date": 1583008201.920516,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583173805.524665,
             "role": "member",
             "status": "present",
@@ -2344,7 +2386,7 @@
         "#8P88JQC8": {
             "name": "lastman174",
             "join_date": 1583040602.212959,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583124301.877172,
             "role": "member",
             "status": "present",
@@ -2362,7 +2404,7 @@
         "#Y8JYYPQVJ": {
             "name": "GS Oasis",
             "join_date": 1583068502.408986,
-            "last_activity_date": 1583179209.613801,
+            "last_activity_date": 1583180109.494662,
             "last_donation_date": 1583176503.492651,
             "role": "member",
             "status": "present",
