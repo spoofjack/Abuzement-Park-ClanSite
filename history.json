@@ -1,5 +1,5 @@
 {
-    "last_update": 1583290802.475449,
+    "last_update": 1583291702.504386,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
@@ -214,11 +214,11 @@
         "#8CLQGRJL0": {
             "name": "klawler",
             "join_date": 1574446249.46422,
-            "last_activity_date": 1583289002.449203,
-            "last_donation_date": 1583289002.449203,
+            "last_activity_date": 1583291702.504386,
+            "last_donation_date": 1583291702.504386,
             "role": "elder",
             "status": "present",
-            "donations": 86,
+            "donations": 94,
             "donations_last_week": 606,
             "events": [
                 {
@@ -412,11 +412,11 @@
         "#YLGUQRVVQ": {
             "name": "Granteli",
             "join_date": 1578169292.169115,
-            "last_activity_date": 1583290802.475449,
-            "last_donation_date": 1583290802.475449,
+            "last_activity_date": 1583291702.504386,
+            "last_donation_date": 1583291702.504386,
             "role": "elder",
             "status": "present",
-            "donations": 192,
+            "donations": 200,
             "donations_last_week": 886,
             "events": [
                 {
@@ -1936,7 +1936,7 @@
         "#9QLU0J80": {
             "name": "no1giantsfan76",
             "join_date": 1580141701.667798,
-            "last_activity_date": 1583290802.475449,
+            "last_activity_date": 1583291702.504386,
             "last_donation_date": 1583154002.219118,
             "role": "member",
             "status": "present",
@@ -2515,7 +2515,7 @@
             "last_activity_date": 1583290802.475449,
             "last_donation_date": 1583290802.475449,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 0,
             "events": [
@@ -2524,6 +2524,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1583290802.475449
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1583291702.504386
                 }
             ]
         }
