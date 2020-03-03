@@ -10,7 +10,7 @@
         "participants": 33,
         "crowns": 23,
         "battles_remaining": null,
-        "battles_played": 25,
+        "battles_played": 27,
         "wins": 15
     },
     "participants": [
@@ -35,24 +35,6 @@
         {
             "tag": "#8P88JQC8",
             "name": "lastman174",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
             "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -204,12 +186,30 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
+        },
+        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "cards_earned": 1189,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -364,8 +364,8 @@
             "clan_score": 2472,
             "participants": 33,
             "crowns": 23,
-            "battles_remaining": 8,
-            "battles_played": 25,
+            "battles_remaining": 6,
+            "battles_played": 27,
             "wins": 15
         }
     ]
