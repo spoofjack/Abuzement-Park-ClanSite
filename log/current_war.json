@@ -10,7 +10,7 @@
         "participants": 33,
         "crowns": 23,
         "battles_remaining": null,
-        "battles_played": 24,
+        "battles_played": 25,
         "wins": 15
     },
     "participants": [
@@ -36,15 +36,6 @@
             "tag": "#8P88JQC8",
             "name": "lastman174",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y22V9PQ2",
-            "name": "Jacob",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -180,6 +171,15 @@
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#Y22V9PQ2",
+            "name": "Jacob",
+            "cards_earned": 1189,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -364,8 +364,8 @@
             "clan_score": 2472,
             "participants": 33,
             "crowns": 23,
-            "battles_remaining": 9,
-            "battles_played": 24,
+            "battles_remaining": 8,
+            "battles_played": 25,
             "wins": 15
         }
     ]
