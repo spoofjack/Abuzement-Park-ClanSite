@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2546,
         "participants": 38,
-        "crowns": 3,
+        "crowns": 6,
         "battles_remaining": null,
-        "battles_played": 4,
-        "wins": 1
+        "battles_played": 6,
+        "wins": 2
     },
     "participants": [
         {
@@ -249,15 +249,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#2J9CP02VU",
             "name": "Zeus",
             "cards_earned": 1400,
@@ -355,6 +346,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "cards_earned": 1120,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -376,8 +376,8 @@
             "clan_score": 2910,
             "participants": 43,
             "crowns": 0,
-            "battles_remaining": 43,
-            "battles_played": 0,
+            "battles_remaining": 42,
+            "battles_played": 1,
             "wins": 0
         },
         {
@@ -408,10 +408,10 @@
             "badge_id": 16000003,
             "clan_score": 2546,
             "participants": 38,
-            "crowns": 3,
-            "battles_remaining": 34,
-            "battles_played": 4,
-            "wins": 1
+            "crowns": 6,
+            "battles_remaining": 32,
+            "battles_played": 6,
+            "wins": 2
         }
     ]
 }
