@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2546,
         "participants": 38,
-        "crowns": 18,
+        "crowns": 19,
         "battles_remaining": null,
-        "battles_played": 17,
-        "wins": 10
+        "battles_played": 18,
+        "wins": 11
     },
     "participants": [
         {
@@ -195,15 +195,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2092V2QU8",
             "name": "JustBuildLol",
             "cards_earned": 1487,
@@ -294,6 +285,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2J8GVPY8U",
             "name": "Portsmouth",
             "cards_earned": 1120,
@@ -376,8 +376,8 @@
             "clan_score": 2910,
             "participants": 43,
             "crowns": 5,
-            "battles_remaining": 35,
-            "battles_played": 8,
+            "battles_remaining": 34,
+            "battles_played": 9,
             "wins": 3
         },
         {
@@ -386,10 +386,10 @@
             "badge_id": 16000014,
             "clan_score": 2976,
             "participants": 39,
-            "crowns": 19,
-            "battles_remaining": 21,
-            "battles_played": 18,
-            "wins": 12
+            "crowns": 21,
+            "battles_remaining": 18,
+            "battles_played": 21,
+            "wins": 13
         },
         {
             "tag": "#P0CYUQ9U",
@@ -408,10 +408,10 @@
             "badge_id": 16000003,
             "clan_score": 2546,
             "participants": 38,
-            "crowns": 18,
-            "battles_remaining": 21,
-            "battles_played": 17,
-            "wins": 10
+            "crowns": 19,
+            "battles_remaining": 20,
+            "battles_played": 18,
+            "wins": 11
         }
     ]
 }
