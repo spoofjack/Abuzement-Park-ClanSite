@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2546,
         "participants": 38,
-        "crowns": 20,
+        "crowns": 21,
         "battles_remaining": null,
-        "battles_played": 21,
+        "battles_played": 23,
         "wins": 12
     },
     "participants": [
-        {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#9992GG0CQ",
             "name": "freighttrain",
@@ -38,15 +29,6 @@
             "cards_earned": 560,
             "battles_played": 0,
             "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y2YPJRJ09",
-            "name": "ThoughtSlayer69",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -186,11 +168,29 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "cards_earned": 560,
             "battles_played": 1,
             "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#Y2YPJRJ09",
+            "name": "ThoughtSlayer69",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -364,9 +364,9 @@
             "badge_id": 16000014,
             "clan_score": 2976,
             "participants": 39,
-            "crowns": 22,
-            "battles_remaining": 15,
-            "battles_played": 24,
+            "crowns": 23,
+            "battles_remaining": 14,
+            "battles_played": 25,
             "wins": 14
         },
         {
@@ -386,9 +386,9 @@
             "badge_id": 16000003,
             "clan_score": 2546,
             "participants": 38,
-            "crowns": 20,
-            "battles_remaining": 17,
-            "battles_played": 21,
+            "crowns": 21,
+            "battles_remaining": 15,
+            "battles_played": 23,
             "wins": 12
         },
         {
@@ -408,14 +408,14 @@
             "badge_id": 16000170,
             "clan_score": 2910,
             "participants": 43,
-            "crowns": 6,
-            "battles_remaining": 30,
-            "battles_played": 13,
+            "crowns": 7,
+            "battles_remaining": 28,
+            "battles_played": 15,
             "wins": 4
         }
     ],
     "cards": 45786,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "20 hours"
+    "end_label": "19 hours"
 }
