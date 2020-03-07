@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2516,
         "participants": 38,
-        "crowns": 28,
+        "crowns": 30,
         "battles_remaining": null,
-        "battles_played": 26,
-        "wins": 13
+        "battles_played": 27,
+        "wins": 14
     },
     "participants": [
         {
@@ -294,15 +294,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2J9CP02VU",
-            "name": "Zeus",
-            "cards_earned": 1189,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#20LGGP900",
             "name": "blackdog",
             "cards_earned": 1400,
@@ -355,9 +346,29 @@
             "collection_day_battles_played": 3,
             "wins": 2,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#2J9CP02VU",
+            "name": "Zeus",
+            "cards_earned": 1189,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 2
         }
     ],
     "clans": [
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2516,
+            "participants": 38,
+            "crowns": 30,
+            "battles_remaining": 11,
+            "battles_played": 27,
+            "wins": 14
+        },
         {
             "tag": "#CQVGVU9",
             "name": "V@RG@S ROY@L\u00a3",
@@ -368,17 +379,6 @@
             "battles_remaining": 12,
             "battles_played": 24,
             "wins": 14
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2516,
-            "participants": 38,
-            "crowns": 28,
-            "battles_remaining": 12,
-            "battles_played": 26,
-            "wins": 13
         },
         {
             "tag": "#9UC2VYU0",
