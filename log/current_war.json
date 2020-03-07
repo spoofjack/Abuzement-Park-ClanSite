@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2516,
         "participants": 38,
-        "crowns": 42,
+        "crowns": 43,
         "battles_remaining": null,
-        "battles_played": 36,
+        "battles_played": 37,
         "wins": 18
     },
     "participants": [
-        {
-            "tag": "#9992GG0CQ",
-            "name": "freighttrain",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#Y22V9PQ2",
             "name": "Jacob",
@@ -66,6 +57,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9992GG0CQ",
+            "name": "freighttrain",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -397,9 +397,9 @@
             "badge_id": 16000003,
             "clan_score": 2516,
             "participants": 38,
-            "crowns": 42,
-            "battles_remaining": 2,
-            "battles_played": 36,
+            "crowns": 43,
+            "battles_remaining": 1,
+            "battles_played": 37,
             "wins": 18
         },
         {
