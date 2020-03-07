@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2516,
         "participants": 38,
-        "crowns": 11,
+        "crowns": 14,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 7
+        "battles_played": 12,
+        "wins": 8
     },
     "participants": [
         {
@@ -92,15 +92,6 @@
             "cards_earned": 280,
             "battles_played": 0,
             "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#JRJJ89V0",
-            "name": "Reagan & Bush",
-            "cards_earned": 891,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -321,6 +312,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#JRJJ89V0",
+            "name": "Reagan & Bush",
+            "cards_earned": 891,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "cards_earned": 1487,
@@ -359,6 +359,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2516,
+            "participants": 38,
+            "crowns": 14,
+            "battles_remaining": 26,
+            "battles_played": 12,
+            "wins": 8
+        },
+        {
             "tag": "#CQVGVU9",
             "name": "V@RG@S ROY@L\u00a3",
             "badge_id": 16000136,
@@ -381,15 +392,15 @@
             "wins": 7
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2516,
-            "participants": 38,
-            "crowns": 11,
-            "battles_remaining": 27,
+            "tag": "#8ULQGR0",
+            "name": "DAWs",
+            "badge_id": 16000149,
+            "clan_score": 2506,
+            "participants": 36,
+            "crowns": 13,
+            "battles_remaining": 25,
             "battles_played": 11,
-            "wins": 7
+            "wins": 5
         },
         {
             "tag": "#PPYYG8P2",
@@ -398,20 +409,9 @@
             "clan_score": 2850,
             "participants": 35,
             "crowns": 8,
-            "battles_remaining": 20,
-            "battles_played": 15,
+            "battles_remaining": 19,
+            "battles_played": 16,
             "wins": 4
-        },
-        {
-            "tag": "#8ULQGR0",
-            "name": "DAWs",
-            "badge_id": 16000149,
-            "clan_score": 2506,
-            "participants": 36,
-            "crowns": 8,
-            "battles_remaining": 28,
-            "battles_played": 8,
-            "wins": 2
         }
     ],
     "cards": 45588,
