@@ -10,7 +10,7 @@
         "participants": 37,
         "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 1,
+        "battles_played": 2,
         "wins": 1
     },
     "participants": [
@@ -303,15 +303,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#YPCGLCV9R",
-            "name": "Rylan",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9L2VYLJYP",
             "name": "antluc5248",
             "cards_earned": 1189,
@@ -346,9 +337,40 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#YPCGLCV9R",
+            "name": "Rylan",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#2GR282QL",
+            "name": "\u3055\u306c\u304d\u3046\u3069\u3093",
+            "badge_id": 16000054,
+            "clan_score": 2787,
+            "participants": 44,
+            "crowns": 3,
+            "battles_remaining": 43,
+            "battles_played": 1,
+            "wins": 1
+        },
+        {
+            "tag": "#2UCPP8YU",
+            "name": "Slovak Masters",
+            "badge_id": 16000164,
+            "clan_score": 2632,
+            "participants": 41,
+            "crowns": 3,
+            "battles_remaining": 40,
+            "battles_played": 1,
+            "wins": 1
+        },
         {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
@@ -356,8 +378,8 @@
             "clan_score": 2485,
             "participants": 37,
             "crowns": 3,
-            "battles_remaining": 36,
-            "battles_played": 1,
+            "battles_remaining": 35,
+            "battles_played": 2,
             "wins": 1
         },
         {
@@ -366,21 +388,10 @@
             "badge_id": 16000058,
             "clan_score": 2875,
             "participants": 34,
-            "crowns": 1,
-            "battles_remaining": 33,
-            "battles_played": 1,
+            "crowns": 2,
+            "battles_remaining": 32,
+            "battles_played": 2,
             "wins": 1
-        },
-        {
-            "tag": "#2GR282QL",
-            "name": "\u3055\u306c\u304d\u3046\u3069\u3093",
-            "badge_id": 16000054,
-            "clan_score": 2787,
-            "participants": 44,
-            "crowns": 0,
-            "battles_remaining": 44,
-            "battles_played": 0,
-            "wins": 0
         },
         {
             "tag": "#2PC00J",
@@ -390,17 +401,6 @@
             "participants": 37,
             "crowns": 0,
             "battles_remaining": 37,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#2UCPP8YU",
-            "name": "Slovak Masters",
-            "badge_id": 16000164,
-            "clan_score": 2632,
-            "participants": 41,
-            "crowns": 0,
-            "battles_remaining": 41,
             "battles_played": 0,
             "wins": 0
         }
