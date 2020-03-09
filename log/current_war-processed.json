@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2485,
         "participants": 37,
-        "crowns": 21,
+        "crowns": 22,
         "battles_remaining": null,
-        "battles_played": 22,
+        "battles_played": 23,
         "wins": 10
     },
     "participants": [
@@ -18,15 +18,6 @@
             "tag": "#9992GG0CQ",
             "name": "freighttrain",
             "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -171,6 +162,15 @@
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 1487,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -367,20 +367,9 @@
             "clan_score": 2787,
             "participants": 44,
             "crowns": 18,
-            "battles_remaining": 22,
-            "battles_played": 22,
+            "battles_remaining": 21,
+            "battles_played": 23,
             "wins": 13
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2485,
-            "participants": 37,
-            "crowns": 21,
-            "battles_remaining": 15,
-            "battles_played": 22,
-            "wins": 10
         },
         {
             "tag": "#2PC00J",
@@ -388,9 +377,20 @@
             "badge_id": 16000153,
             "clan_score": 2761,
             "participants": 37,
-            "crowns": 15,
-            "battles_remaining": 17,
-            "battles_played": 20,
+            "crowns": 18,
+            "battles_remaining": 16,
+            "battles_played": 21,
+            "wins": 11
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2485,
+            "participants": 37,
+            "crowns": 22,
+            "battles_remaining": 14,
+            "battles_played": 23,
             "wins": 10
         },
         {
@@ -399,10 +399,10 @@
             "badge_id": 16000164,
             "clan_score": 2632,
             "participants": 41,
-            "crowns": 5,
-            "battles_remaining": 37,
-            "battles_played": 4,
-            "wins": 2
+            "crowns": 13,
+            "battles_remaining": 34,
+            "battles_played": 7,
+            "wins": 5
         }
     ],
     "cards": 46650,
