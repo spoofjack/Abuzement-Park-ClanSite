@@ -10,7 +10,7 @@
         "participants": 37,
         "crowns": 19,
         "battles_remaining": null,
-        "battles_played": 18,
+        "battles_played": 19,
         "wins": 8
     },
     "participants": [
@@ -76,15 +76,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#8VLL2QL8P",
@@ -228,6 +219,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -378,8 +378,8 @@
             "clan_score": 2761,
             "participants": 37,
             "crowns": 13,
-            "battles_remaining": 24,
-            "battles_played": 13,
+            "battles_remaining": 22,
+            "battles_played": 15,
             "wins": 8
         },
         {
@@ -400,8 +400,8 @@
             "clan_score": 2485,
             "participants": 37,
             "crowns": 19,
-            "battles_remaining": 19,
-            "battles_played": 18,
+            "battles_remaining": 18,
+            "battles_played": 19,
             "wins": 8
         }
     ]
