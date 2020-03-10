@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2456,
-        "participants": 12,
+        "participants": 13,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 28,
-        "wins": 18
+        "battles_played": 29,
+        "wins": 19
     },
     "participants": [
         {
@@ -105,6 +105,15 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "cards_earned": 560,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#2J8GVPY8U",
             "name": "Portsmouth",
             "cards_earned": 1400,
@@ -124,7 +133,7 @@
         }
     ],
     "clans": null,
-    "cards": 13453,
+    "cards": 14013,
     "state_label": "Collection Day",
     "collection_end_time_label": "20 hours",
     "end_label": "1 day, 20 hours"
