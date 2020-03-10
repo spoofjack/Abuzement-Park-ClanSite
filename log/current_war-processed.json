@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2456,
         "participants": 37,
-        "crowns": 1,
+        "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 2,
+        "battles_played": 3,
         "wins": 1
     },
     "participants": [
@@ -153,15 +153,6 @@
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -330,6 +321,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PL990R0YG",
             "name": "JayWizz",
             "cards_earned": 1680,
@@ -355,19 +355,19 @@
             "badge_id": 16000036,
             "clan_score": 2996,
             "participants": 39,
-            "crowns": 5,
-            "battles_remaining": 35,
-            "battles_played": 4,
-            "wins": 2
+            "crowns": 8,
+            "battles_remaining": 33,
+            "battles_played": 6,
+            "wins": 3
         },
         {
-            "tag": "#URV2UJ9",
-            "name": "ITALIAN LEGEND",
-            "badge_id": 16000081,
-            "clan_score": 2902,
-            "participants": 35,
-            "crowns": 1,
-            "battles_remaining": 33,
+            "tag": "#R2UPQR",
+            "name": "Les spartiates",
+            "badge_id": 16000149,
+            "clan_score": 2930,
+            "participants": 37,
+            "crowns": 4,
+            "battles_remaining": 35,
             "battles_played": 2,
             "wins": 1
         },
@@ -377,21 +377,10 @@
             "badge_id": 16000003,
             "clan_score": 2456,
             "participants": 37,
-            "crowns": 1,
-            "battles_remaining": 35,
-            "battles_played": 2,
+            "crowns": 2,
+            "battles_remaining": 34,
+            "battles_played": 3,
             "wins": 1
-        },
-        {
-            "tag": "#R2UPQR",
-            "name": "Les spartiates",
-            "badge_id": 16000149,
-            "clan_score": 2930,
-            "participants": 37,
-            "crowns": 0,
-            "battles_remaining": 37,
-            "battles_played": 0,
-            "wins": 0
         },
         {
             "tag": "#2PC00J",
@@ -399,10 +388,21 @@
             "badge_id": 16000153,
             "clan_score": 2679,
             "participants": 38,
-            "crowns": 0,
-            "battles_remaining": 38,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 1,
+            "battles_remaining": 37,
+            "battles_played": 1,
+            "wins": 1
+        },
+        {
+            "tag": "#URV2UJ9",
+            "name": "ITALIAN LEGEND",
+            "badge_id": 16000081,
+            "clan_score": 2902,
+            "participants": 35,
+            "crowns": 1,
+            "battles_remaining": 32,
+            "battles_played": 3,
+            "wins": 1
         }
     ],
     "cards": 46831,
