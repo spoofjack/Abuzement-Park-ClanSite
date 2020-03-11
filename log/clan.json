@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52805,
+    "clan_score": 52802,
     "required_trophies": 5000,
     "donations_per_week": 5972,
     "clan_war_trophies": 2456,
@@ -616,23 +616,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 10,
-            "trophies": 5010,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200311T045903.000Z",
-            "clan_rank": 36,
-            "previous_clan_rank": 0,
-            "donations": 20,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y22V9PQ2",
             "name": "Jacob",
             "exp_level": 12,
@@ -643,10 +626,27 @@
             },
             "role": "member",
             "last_seen": "20200306T081449.000Z",
-            "clan_rank": 37,
+            "clan_rank": 36,
             "previous_clan_rank": 36,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 10,
+            "trophies": 4988,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200311T060524.000Z",
+            "clan_rank": 37,
+            "previous_clan_rank": 0,
+            "donations": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
