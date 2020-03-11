@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2456,
         "participants": 37,
-        "crowns": 35,
+        "crowns": 36,
         "battles_remaining": null,
-        "battles_played": 29,
-        "wins": 20
+        "battles_played": 30,
+        "wins": 21
     },
     "participants": [
         {
@@ -47,15 +47,6 @@
             "cards_earned": 1785,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#JRJJ89V0",
-            "name": "Reagan & Bush",
-            "cards_earned": 280,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -191,6 +182,15 @@
             "cards_earned": 560,
             "battles_played": 1,
             "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#JRJJ89V0",
+            "name": "Reagan & Bush",
+            "cards_earned": 280,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
             "wins": 1,
             "number_of_battles": 1
         },
@@ -350,6 +350,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2456,
+            "participants": 37,
+            "crowns": 36,
+            "battles_remaining": 7,
+            "battles_played": 30,
+            "wins": 21
+        },
+        {
             "tag": "#GQULLU",
             "name": "Offensive Squad",
             "badge_id": 16000036,
@@ -358,17 +369,6 @@
             "crowns": 40,
             "battles_remaining": 3,
             "battles_played": 36,
-            "wins": 20
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2456,
-            "participants": 37,
-            "crowns": 35,
-            "battles_remaining": 8,
-            "battles_played": 29,
             "wins": 20
         },
         {
@@ -388,10 +388,10 @@
             "badge_id": 16000153,
             "clan_score": 2679,
             "participants": 38,
-            "crowns": 20,
-            "battles_remaining": 6,
-            "battles_played": 32,
-            "wins": 13
+            "crowns": 21,
+            "battles_remaining": 5,
+            "battles_played": 33,
+            "wins": 14
         },
         {
             "tag": "#URV2UJ9",
@@ -400,8 +400,8 @@
             "clan_score": 2902,
             "participants": 35,
             "crowns": 18,
-            "battles_remaining": 7,
-            "battles_played": 28,
+            "battles_remaining": 6,
+            "battles_played": 29,
             "wins": 12
         }
     ],
