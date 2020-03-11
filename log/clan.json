@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52747,
+    "clan_score": 52805,
     "required_trophies": 5000,
     "donations_per_week": 5972,
     "clan_war_trophies": 2456,
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5379,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200311T035028.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 9,
+            "donations": 164,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "exp_level": 13,
@@ -167,27 +184,10 @@
             },
             "role": "leader",
             "last_seen": "20200311T020239.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 12,
             "donations": 290,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5258,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200311T035028.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 9,
-            "donations": 164,
-            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -531,23 +531,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 10,
-            "trophies": 5032,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200311T045903.000Z",
-            "clan_rank": 31,
-            "previous_clan_rank": 0,
-            "donations": 20,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y2YPJRJ09",
             "name": "ThoughtSlayer69",
             "exp_level": 10,
@@ -558,7 +541,7 @@
             },
             "role": "member",
             "last_seen": "20200311T005045.000Z",
-            "clan_rank": 32,
+            "clan_rank": 31,
             "previous_clan_rank": 29,
             "donations": 28,
             "donations_received": 160,
@@ -575,7 +558,7 @@
             },
             "role": "elder",
             "last_seen": "20200309T151440.000Z",
-            "clan_rank": 33,
+            "clan_rank": 32,
             "previous_clan_rank": 32,
             "donations": 8,
             "donations_received": 40,
@@ -592,7 +575,7 @@
             },
             "role": "member",
             "last_seen": "20200311T015704.000Z",
-            "clan_rank": 34,
+            "clan_rank": 33,
             "previous_clan_rank": 40,
             "donations": 130,
             "donations_received": 0,
@@ -609,7 +592,7 @@
             },
             "role": "member",
             "last_seen": "20200308T181043.000Z",
-            "clan_rank": 35,
+            "clan_rank": 34,
             "previous_clan_rank": 34,
             "donations": 0,
             "donations_received": 0,
@@ -626,10 +609,27 @@
             },
             "role": "elder",
             "last_seen": "20200311T024856.000Z",
-            "clan_rank": 36,
+            "clan_rank": 35,
             "previous_clan_rank": 39,
             "donations": 162,
             "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 10,
+            "trophies": 5010,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200311T045903.000Z",
+            "clan_rank": 36,
+            "previous_clan_rank": 0,
+            "donations": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
