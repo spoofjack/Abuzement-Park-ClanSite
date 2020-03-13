@@ -10,7 +10,7 @@
         "participants": 42,
         "crowns": 16,
         "battles_remaining": null,
-        "battles_played": 9,
+        "battles_played": 10,
         "wins": 7
     },
     "participants": [
@@ -126,15 +126,6 @@
             "tag": "#P2YYY2VU",
             "name": "nailon",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -348,6 +339,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "cards_earned": 891,
@@ -395,25 +395,36 @@
     ],
     "clans": [
         {
+            "tag": "#2RU2PLQ",
+            "name": "\uc9c8\ud48d",
+            "badge_id": 16000002,
+            "clan_score": 2907,
+            "participants": 38,
+            "crowns": 18,
+            "battles_remaining": 25,
+            "battles_played": 13,
+            "wins": 9
+        },
+        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 2580,
             "participants": 42,
             "crowns": 16,
-            "battles_remaining": 33,
-            "battles_played": 9,
+            "battles_remaining": 32,
+            "battles_played": 10,
             "wins": 7
         },
         {
-            "tag": "#2RU2PLQ",
-            "name": "\uc9c8\ud48d",
-            "badge_id": 16000002,
-            "clan_score": 2907,
+            "tag": "#P2Y2QQ09",
+            "name": "ALL ALLIED!",
+            "badge_id": 16000003,
+            "clan_score": 2981,
             "participants": 38,
-            "crowns": 13,
-            "battles_remaining": 27,
-            "battles_played": 11,
+            "crowns": 12,
+            "battles_remaining": 28,
+            "battles_played": 10,
             "wins": 7
         },
         {
@@ -425,17 +436,6 @@
             "crowns": 13,
             "battles_remaining": 32,
             "battles_played": 10,
-            "wins": 6
-        },
-        {
-            "tag": "#P2Y2QQ09",
-            "name": "ALL ALLIED!",
-            "badge_id": 16000003,
-            "clan_score": 2981,
-            "participants": 38,
-            "crowns": 11,
-            "battles_remaining": 31,
-            "battles_played": 7,
             "wins": 6
         },
         {
@@ -453,5 +453,5 @@
     "cards": 56082,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "22 hours"
+    "end_label": "21 hours"
 }
