@@ -319,7 +319,7 @@ select {
     margin: 0;
     text-transform: none;
     height: 34px;
-    border: 1px solid #ccc;
+    border: 1px solid #8d8f95;
 }
 
 /* Grid
@@ -463,8 +463,8 @@ body > header h1 em {
     border-bottom: none;
 }
 #war-stats table tr.this-clan {
-    background-color: #F1EAF4;
-    border-color: #BB89CC;
+    background-color: #8d8f95;
+    border-color: #000;
     font-weight: bold;
 }
 
@@ -517,7 +517,7 @@ table td.rank.rank-1 span {
     background-color: rgb(255, 212, 42);
 }
 table td.rank.rank-2 span {
-    background-color: #ccc;
+    background-color: #8d8f95;
 }
 table td.rank.rank-3 span {
     background-color: rgb(218, 165, 32);
@@ -761,7 +761,7 @@ table tr[data-blacklist=true] td {
 }
 
 #info table .not-in-clan {
-    background-color: #EEE;
+    background-color: #8d8f95;
     color: #999;
     font-weight: normal;
 }
@@ -924,7 +924,7 @@ strong.na {
 #suggestions .info {
     flex: 0;
     padding-top: 15px;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid #8d8f95;
 }
 .rules {
     width: 100%;
@@ -973,7 +973,7 @@ footer ul li:last-child::after {
 }
 footer .version {
     float: right;
-    color: #ccc;
+    color: #8d8f95;
     font-weight: normal;
 }
 
@@ -987,7 +987,7 @@ footer .disclaimer, footer .disclaimer a {
     max-width: 800px;
     margin: 44px 0 22px 0;
     line-height: 1.3em;
-    color: #ccc;
+    color: #8d8f95;
 }
 
 /* Tooltips
