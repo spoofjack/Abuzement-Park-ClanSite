@@ -104,7 +104,7 @@ small {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
     border: none;
-    border-top: 1px solid #E1E1E1;
+    border-top: 1px solid #000;
     -moz-box-sizing: content-box;
     box-sizing: content-box;
     height: 0;
@@ -741,7 +741,7 @@ table tr[data-blacklist=true] td,
 
 #member-table tr[data-activity=bad] td,
 table tr[data-blacklist=true] td {
-    background-color: #000;
+    background-color: #c13525;
     color: #222;
 }
 
@@ -754,7 +754,7 @@ table tr[data-blacklist=true] td {
 #member-table tr[data-new="true"] td.donations.ok {
     background-color: #222;
     border-left: none;
-    border-bottom: 1px solid #E1E1E1;
+    border-bottom: 1px solid #000;
 }
 
 #info table#member-table tr td.na {
@@ -880,7 +880,7 @@ article.member-info > p {
 /* Score colors
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .bad {
-    background-color: #000;
+    background-color: #c13525;
     color: #222;
 }
 .ok,
