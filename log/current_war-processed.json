@@ -10,7 +10,7 @@
         "participants": 42,
         "crowns": 14,
         "battles_remaining": null,
-        "battles_played": 7,
+        "battles_played": 8,
         "wins": 6
     },
     "participants": [
@@ -249,15 +249,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#20LGGP900",
             "name": "blackdog",
             "cards_earned": 1400,
@@ -384,6 +375,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YPCGLCV9R",
             "name": "Rylan",
             "cards_earned": 1189,
@@ -401,8 +401,19 @@
             "clan_score": 2580,
             "participants": 42,
             "crowns": 14,
-            "battles_remaining": 35,
-            "battles_played": 7,
+            "battles_remaining": 34,
+            "battles_played": 8,
+            "wins": 6
+        },
+        {
+            "tag": "#2RU2PLQ",
+            "name": "\uc9c8\ud48d",
+            "badge_id": 16000002,
+            "clan_score": 2907,
+            "participants": 38,
+            "crowns": 11,
+            "battles_remaining": 28,
+            "battles_played": 10,
             "wins": 6
         },
         {
@@ -417,26 +428,15 @@
             "wins": 5
         },
         {
-            "tag": "#2RU2PLQ",
-            "name": "\uc9c8\ud48d",
-            "badge_id": 16000002,
-            "clan_score": 2907,
-            "participants": 38,
-            "crowns": 8,
-            "battles_remaining": 30,
-            "battles_played": 8,
-            "wins": 5
-        },
-        {
             "tag": "#P2Y2QQ09",
             "name": "ALL ALLIED!",
             "badge_id": 16000003,
             "clan_score": 2981,
             "participants": 38,
-            "crowns": 7,
-            "battles_remaining": 33,
-            "battles_played": 5,
-            "wins": 4
+            "crowns": 10,
+            "battles_remaining": 32,
+            "battles_played": 6,
+            "wins": 5
         },
         {
             "tag": "#28JVUY29",
