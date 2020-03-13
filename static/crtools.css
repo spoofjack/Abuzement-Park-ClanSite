@@ -11,7 +11,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  color: #a0a0a0;
+  color: #0a56a1;
 }
 html, body {
     background-color: #000;
@@ -409,7 +409,9 @@ body > header h1 em {
     background-color: #222;
     margin: 1px;
     padding: 7px;
-    border-right: 1px solid #E1E1E1;
+    border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+	border-top: 1px solid #000;
 }
 
 #current-war dl > *:last-child {
@@ -561,7 +563,7 @@ table td.rank span {
 #info article {
     position: relative;
     background-color: #222;
-    box-shadow: 0 1px 2px 0 rgb(9, 81, 152);
+    box-shadow: 0 1px 2px 0 rgb(0, 0, 0);
     padding: 15px;
     margin-top: 44px;
     margin-bottom: 22px;
@@ -761,8 +763,8 @@ table tr[data-blacklist=true] td {
 }
 
 #info table .not-in-clan {
-    background-color: #03468d;
-    color: #999;
+    background-color: #8d8f95;
+    color: #0a56a1;;
     font-weight: normal;
 }
 
