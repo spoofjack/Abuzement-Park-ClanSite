@@ -11,7 +11,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  color: #222;
+  color: #03468d;
 }
 html, body {
     background-color: #000;
@@ -21,7 +21,7 @@ html, body {
 }
 
 main, main > section {
-    background-color: #f2f2f2;
+    background-color: #222;
 }
 
 main > section, header > .inner, footer > .inner {
@@ -726,15 +726,15 @@ table tr[data-blacklist="true"] td.name:after {
 #info table .good,
 #info table .ok,
 #info table .bad {
-    border-left: 1px solid #f2f2f2;
-    border-bottom: 1px solid #f2f2f2;
+    border-left: 1px solid #222;
+    border-bottom: 1px solid #222;
 }
 
 #member-table tr[data-activity=bad] td,
 table tr[data-blacklist=true] td,
 #member-table tr[data-activity=ok] td:not(.bad) {
-    border-left: 1px solid #f2f2f2;
-    border-bottom: 1px solid #f2f2f2;
+    border-left: 1px solid #222;
+    border-bottom: 1px solid #222;
 }
 
 #member-table tr[data-activity=bad] td,
@@ -745,7 +745,7 @@ table tr[data-blacklist=true] td {
 
 #member-table tr[data-activity=ok] td:not(.bad) {
     background-color: #ffbb43;
-    color: #222;
+    color: #03468d;
 }
 
 #member-table tr[data-new="true"] td.score.ok,
@@ -779,12 +779,12 @@ table tr[data-blacklist=true] td {
 #member-table td.war.current.normal {
     border: 3px dashed #BB89CC;
     background-color: #F1EAF4;
-    color: #222;
+    color: #03468d;
 }
 #member-table td.war.current.incomplete.ok {
     border: 3px dashed #ffbb43;
     background-color: #FFF6E6;
-    color: #222;
+    color: #03468d;
 }
 
 
@@ -895,7 +895,7 @@ article.member-info > p {
 
 #info table .inactivity.na {
     background-color: transparent;
-    color: #222;
+    color: #03468d;
 }
 
 
@@ -1009,8 +1009,8 @@ footer .disclaimer, footer .disclaimer a {
     min-width: 90px;
 
     background: #ddd;
-    color: #222;
-    border: 1px solid #222;
+    color: #03468d;
+    border: 1px solid #03468d;
     border-radius: 3px;
     box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
 }
@@ -1024,8 +1024,8 @@ footer .disclaimer, footer .disclaimer a {
     bottom: -4px;
     right: 50%;
     margin-right: -3px;
-    border-bottom: 1px solid #222;
-    border-right: 1px solid #222;
+    border-bottom: 1px solid #03468d;
+    border-right: 1px solid #03468d;
     transform: rotate(45deg);
 }
 .b-tooltip dl {
