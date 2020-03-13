@@ -126,15 +126,15 @@ a:hover {
 }
 
 .button {
-    text-shadow: -1px -1px 0px #003366,
-                 0px -1px 0px #003366,
-                 1px -1px 0px #003366,
-                 1px 0px 0px #003366,
-                 -1px 0px 0px #003366,
-                 -1px 1px 0px #003366,
-                 1px 1px 0px #003366,
-                 1px 2px 0px #003366,
-                 -1px 2px 0px #003366;
+    text-shadow: -1px -1px 0px #888686,
+                 0px -1px 0px #888686,
+                 1px -1px 0px #888686,
+                 1px 0px 0px #888686,
+                 -1px 0px 0px #888686,
+                 -1px 1px 0px #888686,
+                 1px 1px 0px #888686,
+                 1px 2px 0px #888686,
+                 -1px 2px 0px #888686;
     display: inline-block;
     line-height: 18px;
     text-align: center;
