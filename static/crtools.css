@@ -11,7 +11,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  color: #03468d;
+  color: #a0a0a0;
 }
 html, body {
     background-color: #000;
@@ -254,7 +254,7 @@ table {
 th, td {
     padding: 8px 14px;
     text-align: left;
-    border-bottom: 1px solid #E1E1E1;
+    border-bottom: 1px solid #000;
 }
 
 @media (max-width: 700px) {
@@ -756,12 +756,12 @@ table tr[data-blacklist=true] td {
 }
 
 #info table#member-table tr td.na {
-    color: #999;
-    font-weight: normal;
+    color: #c13525;;
+    font-weight: bold;
 }
 
 #info table .not-in-clan {
-    background-color: #8d8f95;
+    background-color: #03468d;
     color: #999;
     font-weight: normal;
 }
