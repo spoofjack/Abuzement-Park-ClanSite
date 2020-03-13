@@ -741,7 +741,7 @@ table tr[data-blacklist=true] td,
 
 #member-table tr[data-activity=bad] td,
 table tr[data-blacklist=true] td {
-    background-color: #c13525;
+    background-color: #000;
     color: #222;
 }
 
@@ -758,7 +758,7 @@ table tr[data-blacklist=true] td {
 }
 
 #info table#member-table tr td.na {
-    color: #c13525;;
+    color: #c13525;
     font-weight: bold;
 }
 
@@ -880,7 +880,7 @@ article.member-info > p {
 /* Score colors
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .bad {
-    background-color: #c13525;
+    background-color: #000;
     color: #222;
 }
 .ok,
