@@ -139,7 +139,7 @@ a:hover {
     line-height: 18px;
     text-align: center;
     font-size: 18px;
-    color: #fff;
+    color: #222;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     font-weight: bold;
     text-decoration: none;
@@ -194,7 +194,7 @@ a:hover {
 }
 
 .button:hover {
-    color: #fff;
+    color: #222;
 }
 
 /* Lists
@@ -354,7 +354,7 @@ select {
 /* Page Header
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body > header {
-    background-color: #fff;
+    background-color: #222;
 }
 
 body > header h1 {
@@ -406,7 +406,7 @@ body > header h1 em {
 #current-war dl > * {
     flex: 1;
     min-width: 100px;
-    background-color: #fff;
+    background-color: #222;
     margin: 1px;
     padding: 7px;
     border-right: 1px solid #E1E1E1;
@@ -560,8 +560,8 @@ table td.rank span {
 
 #info article {
     position: relative;
-    background-color: #fff;
-    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    background-color: #222;
+    box-shadow: 0 1px 2px 0 rgb(9, 81, 152);
     padding: 15px;
     margin-top: 44px;
     margin-bottom: 22px;
@@ -601,7 +601,7 @@ table td.rank span {
 }
 
 #member-info .table-scroll, #member-info table, #member-info tr {
-    background-color: #fff;
+    background-color: #222;
 }
 
 #member-table th:first-child, #member-table td:first-child {
@@ -678,7 +678,7 @@ table tr[data-blacklist="true"] td.name:after {
     font-size: 1.5rem;
     margin-bottom: 0;
 
-    color: #fff;
+    color: #222;
     text-shadow: -1px -1px 0px #000000, 0px -1px 0px #000000, 1px -1px 0px #000000, 1px 0px 0px #000000, -1px 0px 0px #000000, -1px 1px 0px #000000, 1px 1px 0px #000000, 1px 2px 0px #000000, -1px 2px 0px #000000, -1px 3px 0px #000000, 0px 3px 0px #000000, 1px 3px 0px #000000;
 }
 
@@ -740,7 +740,7 @@ table tr[data-blacklist=true] td,
 #member-table tr[data-activity=bad] td,
 table tr[data-blacklist=true] td {
     background-color: #c13525;
-    color: #fff;
+    color: #222;
 }
 
 #member-table tr[data-activity=ok] td:not(.bad) {
@@ -750,7 +750,7 @@ table tr[data-blacklist=true] td {
 
 #member-table tr[data-new="true"] td.score.ok,
 #member-table tr[data-new="true"] td.donations.ok {
-    background-color: #fff;
+    background-color: #222;
     border-left: none;
     border-bottom: 1px solid #E1E1E1;
 }
@@ -783,7 +783,7 @@ table tr[data-blacklist=true] td {
 }
 #member-table td.war.current.incomplete.ok {
     border: 3px dashed #ffbb43;
-    background-color: #FFF6E6;
+    background-color: #2226E6;
     color: #03468d;
 }
 
@@ -822,8 +822,8 @@ table tr[data-blacklist=true] td {
 #info table tr[data-vacation="True"] td:not(.bad) {
     background-color: #ddd;
     color: #999;
-    border-left: 1px solid #fff;
-    border-bottom: 1px solid #fff;
+    border-left: 1px solid #222;
+    border-bottom: 1px solid #222;
 }
 #info table tr[data-vacation="True"] td:first-child {
     border-left: none;
@@ -879,7 +879,7 @@ article.member-info > p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .bad {
     background-color: #c13525;
-    color: #fff;
+    color: #222;
 }
 .ok,
 .inactivity.normal {
@@ -939,7 +939,7 @@ strong.na {
 /* Page footer
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 footer {
-    color: #fff;
+    color: #222;
     background-color: #000;
 }
 
@@ -952,7 +952,7 @@ footer ul li {
 }
 
 footer a {
-    color: #fff;
+    color: #222;
     text-decoration: none;
     font-weight: bold;
 }
@@ -1091,7 +1091,7 @@ footer .disclaimer, footer .disclaimer a {
     content: "Fork me on GitHub";
 
     line-height: 21px;
-    color: #fff;
+    color: #222;
     text-shadow: 0 -1px rgba(0, 0, 0, 0.5);
     text-align: center;
     text-indent: 0;
