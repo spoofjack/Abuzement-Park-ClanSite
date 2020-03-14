@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53402,
+    "clan_score": 53462,
     "required_trophies": 5000,
-    "donations_per_week": 15096,
+    "donations_per_week": 15152,
     "clan_war_trophies": 2580,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -68,24 +68,41 @@
             "clan_rank": 3,
             "previous_clan_rank": 4,
             "donations": 420,
-            "donations_received": 376,
+            "donations_received": 392,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 12,
+            "trophies": 5515,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200314T123003.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 11,
+            "donations": 419,
+            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
-            "trophies": 5503,
+            "trophies": 5506,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "coLeader",
             "last_seen": "20200314T122144.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 1165,
-            "donations_received": 480,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -98,10 +115,10 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200314T105635.000Z",
-            "clan_rank": 5,
+            "last_seen": "20200314T124233.000Z",
+            "clan_rank": 6,
             "previous_clan_rank": 2,
-            "donations": 331,
+            "donations": 341,
             "donations_received": 400,
             "clan_chest_points": 0
         },
@@ -115,8 +132,8 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200314T114144.000Z",
-            "clan_rank": 6,
+            "last_seen": "20200314T124305.000Z",
+            "clan_rank": 7,
             "previous_clan_rank": 3,
             "donations": 526,
             "donations_received": 480,
@@ -133,26 +150,9 @@
             },
             "role": "elder",
             "last_seen": "20200314T120632.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 328,
-            "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 12,
-            "trophies": 5430,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200314T123003.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 11,
-            "donations": 401,
             "donations_received": 440,
             "clan_chest_points": 0
         },
@@ -174,6 +174,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "exp_level": 13,
+            "trophies": 5390,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20200314T123036.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 8,
+            "donations": 709,
+            "donations_received": 520,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -184,7 +201,7 @@
             },
             "role": "elder",
             "last_seen": "20200311T121322.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 9,
             "donations": 8,
             "donations_received": 0,
@@ -201,27 +218,10 @@
             },
             "role": "member",
             "last_seen": "20200314T073615.000Z",
-            "clan_rank": 11,
+            "clan_rank": 12,
             "previous_clan_rank": 13,
             "donations": 222,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "exp_level": 13,
-            "trophies": 5361,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20200314T105759.000Z",
-            "clan_rank": 12,
-            "previous_clan_rank": 8,
-            "donations": 691,
-            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -259,6 +259,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#Q9LUQUJQ",
+            "name": "Zezr",
+            "exp_level": 11,
+            "trophies": 5292,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200314T123803.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 16,
+            "donations": 307,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2CV2CPQP",
             "name": "RedWall Sane",
             "exp_level": 13,
@@ -269,7 +286,7 @@
             },
             "role": "member",
             "last_seen": "20200314T040016.000Z",
-            "clan_rank": 15,
+            "clan_rank": 16,
             "previous_clan_rank": 19,
             "donations": 379,
             "donations_received": 160,
@@ -286,27 +303,10 @@
             },
             "role": "member",
             "last_seen": "20200314T045100.000Z",
-            "clan_rank": 16,
+            "clan_rank": 17,
             "previous_clan_rank": 14,
             "donations": 461,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#Q9LUQUJQ",
-            "name": "Zezr",
-            "exp_level": 11,
-            "trophies": 5262,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200314T112121.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 16,
-            "donations": 297,
-            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -319,7 +319,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200313T230959.000Z",
+            "last_seen": "20200314T123402.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 18,
             "donations": 225,
