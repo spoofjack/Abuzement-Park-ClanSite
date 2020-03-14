@@ -758,7 +758,7 @@ table tr[data-blacklist=true] td {
 }
 
 #info table#member-table tr td.na {
-    color: #c13525;
+    color: #b5b7bd;
     font-weight: bold;
 }
 
@@ -784,9 +784,9 @@ table tr[data-blacklist=true] td {
     color: #03468d;
 }
 #member-table td.war.current.incomplete.ok {
-    border: 3px dashed #ffbb43;
-    background-color: #2226E6;
-    color: #03468d;
+    border: 3px dashed #8d8f95;
+    background-color: #970000;
+    color: #c0c3cc;
 }
 
 
