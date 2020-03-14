@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53414,
+    "clan_score": 53405,
     "required_trophies": 5000,
-    "donations_per_week": 14032,
+    "donations_per_week": 14072,
     "clan_war_trophies": 2580,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -106,23 +106,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 12,
-            "trophies": 5486,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200314T002233.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 15,
-            "donations": 335,
-            "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "exp_level": 13,
@@ -132,10 +115,27 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200313T165905.000Z",
-            "clan_rank": 7,
+            "last_seen": "20200314T003515.000Z",
+            "clan_rank": 6,
             "previous_clan_rank": 4,
             "donations": 510,
+            "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 12,
+            "trophies": 5470,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200314T003404.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 15,
+            "donations": 343,
             "donations_received": 440,
             "clan_chest_points": 0
         },
@@ -262,7 +262,7 @@
             "tag": "#2CV2CPQP",
             "name": "RedWall Sane",
             "exp_level": 13,
-            "trophies": 5261,
+            "trophies": 5291,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -271,7 +271,7 @@
             "last_seen": "20200314T002858.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 19,
-            "donations": 345,
+            "donations": 353,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -279,16 +279,16 @@
             "tag": "#9C9YGP8CV",
             "name": "boi",
             "exp_level": 11,
-            "trophies": 5256,
+            "trophies": 5260,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200314T002748.000Z",
+            "last_seen": "20200314T004318.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 14,
-            "donations": 408,
+            "donations": 415,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -395,23 +395,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8JGUU092",
-            "name": "Disfatt Bidge",
-            "exp_level": 13,
-            "trophies": 5168,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200313T234836.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 17,
-            "donations": 150,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 12,
@@ -422,7 +405,7 @@
             },
             "role": "elder",
             "last_seen": "20200313T235043.000Z",
-            "clan_rank": 24,
+            "clan_rank": 23,
             "previous_clan_rank": 30,
             "donations": 833,
             "donations_received": 480,
@@ -439,7 +422,7 @@
             },
             "role": "member",
             "last_seen": "20200313T215323.000Z",
-            "clan_rank": 25,
+            "clan_rank": 24,
             "previous_clan_rank": 24,
             "donations": 132,
             "donations_received": 240,
@@ -456,7 +439,7 @@
             },
             "role": "member",
             "last_seen": "20200313T230809.000Z",
-            "clan_rank": 26,
+            "clan_rank": 25,
             "previous_clan_rank": 26,
             "donations": 196,
             "donations_received": 160,
@@ -473,27 +456,10 @@
             },
             "role": "member",
             "last_seen": "20200313T161835.000Z",
-            "clan_rank": 27,
+            "clan_rank": 26,
             "previous_clan_rank": 22,
             "donations": 219,
             "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "exp_level": 11,
-            "trophies": 5145,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200313T215347.000Z",
-            "clan_rank": 28,
-            "previous_clan_rank": 27,
-            "donations": 427,
-            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -507,7 +473,7 @@
             },
             "role": "member",
             "last_seen": "20200313T225643.000Z",
-            "clan_rank": 29,
+            "clan_rank": 27,
             "previous_clan_rank": 33,
             "donations": 74,
             "donations_received": 360,
@@ -523,11 +489,45 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200313T203803.000Z",
-            "clan_rank": 30,
+            "last_seen": "20200314T003417.000Z",
+            "clan_rank": 28,
             "previous_clan_rank": 28,
             "donations": 56,
+            "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "exp_level": 11,
+            "trophies": 5124,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200314T003528.000Z",
+            "clan_rank": 29,
+            "previous_clan_rank": 27,
+            "donations": 435,
             "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JGUU092",
+            "name": "Disfatt Bidge",
+            "exp_level": 13,
+            "trophies": 5124,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200314T003121.000Z",
+            "clan_rank": 30,
+            "previous_clan_rank": 17,
+            "donations": 158,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -863,10 +863,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200312T233406.000Z",
+            "last_seen": "20200314T003627.000Z",
             "clan_rank": 50,
             "previous_clan_rank": 50,
-            "donations": 28,
+            "donations": 29,
             "donations_received": 200,
             "clan_chest_points": 0
         }
