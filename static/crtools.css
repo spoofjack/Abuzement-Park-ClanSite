@@ -742,7 +742,7 @@ table tr[data-blacklist=true] td,
 #member-table tr[data-activity=bad] td,
 table tr[data-blacklist=true] td {
     background-color: #970000;
-    color: #222;
+    color: #B0B7BC;
 }
 
 #member-table tr[data-activity=ok] td:not(.bad) {
