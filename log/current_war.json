@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2580,
         "participants": 37,
-        "crowns": 15,
+        "crowns": 16,
         "battles_remaining": null,
-        "battles_played": 21,
-        "wins": 8
+        "battles_played": 22,
+        "wins": 9
     },
     "participants": [
         {
@@ -117,15 +117,6 @@
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "cards_earned": 840,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -312,6 +303,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YPCGLCV9R",
             "name": "Rylan",
             "cards_earned": 1189,
@@ -388,10 +388,10 @@
             "badge_id": 16000169,
             "clan_score": 2212,
             "participants": 37,
-            "crowns": 24,
-            "battles_remaining": 21,
-            "battles_played": 16,
-            "wins": 12
+            "crowns": 26,
+            "battles_remaining": 20,
+            "battles_played": 17,
+            "wins": 13
         },
         {
             "tag": "#LP98YUCV",
@@ -399,10 +399,10 @@
             "badge_id": 16000003,
             "clan_score": 2580,
             "participants": 37,
-            "crowns": 15,
-            "battles_remaining": 16,
-            "battles_played": 21,
-            "wins": 8
+            "crowns": 16,
+            "battles_remaining": 15,
+            "battles_played": 22,
+            "wins": 9
         }
     ]
 }
