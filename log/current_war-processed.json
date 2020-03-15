@@ -10,7 +10,7 @@
         "participants": 37,
         "crowns": 15,
         "battles_remaining": null,
-        "battles_played": 19,
+        "battles_played": 20,
         "wins": 8
     },
     "participants": [
@@ -285,15 +285,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 1189,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#8RQYURC",
             "name": "Tranosaurus",
             "cards_earned": 1487,
@@ -337,6 +328,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 1189,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 2
         },
         {
             "tag": "#9C9YGP8CV",
@@ -400,13 +400,13 @@
             "clan_score": 2580,
             "participants": 37,
             "crowns": 15,
-            "battles_remaining": 18,
-            "battles_played": 19,
+            "battles_remaining": 17,
+            "battles_played": 20,
             "wins": 8
         }
     ],
     "cards": 45110,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "16 hours"
+    "end_label": "15 hours"
 }
