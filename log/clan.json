@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54065,
+    "clan_score": 54075,
     "required_trophies": 5000,
     "donations_per_week": 3090,
     "clan_war_trophies": 2497,
@@ -41,7 +41,7 @@
             "tag": "#YLVPPVC",
             "name": "Alpha",
             "exp_level": 12,
-            "trophies": 5678,
+            "trophies": 5656,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
@@ -293,6 +293,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8V2QYGVL",
+            "name": "ashwin",
+            "exp_level": 12,
+            "trophies": 5365,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20200317T034735.000Z",
+            "clan_rank": 17,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#Q9LUQUJQ",
             "name": "Zezr",
             "exp_level": 11,
@@ -302,8 +319,8 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200317T032333.000Z",
-            "clan_rank": 17,
+            "last_seen": "20200317T035833.000Z",
+            "clan_rank": 18,
             "previous_clan_rank": 18,
             "donations": 146,
             "donations_received": 80,
@@ -320,27 +337,10 @@
             },
             "role": "member",
             "last_seen": "20200316T094753.000Z",
-            "clan_rank": 18,
+            "clan_rank": 19,
             "previous_clan_rank": 17,
             "donations": 40,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8V2QYGVL",
-            "name": "ashwin",
-            "exp_level": 12,
-            "trophies": 5276,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200317T025318.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -353,7 +353,7 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200317T030241.000Z",
+            "last_seen": "20200317T035308.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 10,
@@ -599,23 +599,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 10,
-            "trophies": 5067,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200317T034443.000Z",
-            "clan_rank": 35,
-            "previous_clan_rank": 41,
-            "donations": 60,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "exp_level": 11,
@@ -626,9 +609,26 @@
             },
             "role": "member",
             "last_seen": "20200316T220354.000Z",
-            "clan_rank": 36,
+            "clan_rank": 35,
             "previous_clan_rank": 34,
             "donations": 64,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 10,
+            "trophies": 5052,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200317T034830.000Z",
+            "clan_rank": 36,
+            "previous_clan_rank": 41,
+            "donations": 60,
             "donations_received": 80,
             "clan_chest_points": 0
         },
