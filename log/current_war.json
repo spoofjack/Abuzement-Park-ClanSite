@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2497,
         "participants": 38,
-        "crowns": 43,
+        "crowns": 44,
         "battles_remaining": null,
-        "battles_played": 36,
-        "wins": 22
+        "battles_played": 37,
+        "wins": 23
     },
     "participants": [
         {
@@ -26,15 +26,6 @@
         {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
             "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -117,6 +108,15 @@
             "tag": "#9QLU0J80",
             "name": "no1giantsfan76",
             "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "cards_earned": 1487,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -397,10 +397,10 @@
             "badge_id": 16000003,
             "clan_score": 2497,
             "participants": 38,
-            "crowns": 43,
-            "battles_remaining": 2,
-            "battles_played": 36,
-            "wins": 22
+            "crowns": 44,
+            "battles_remaining": 1,
+            "battles_played": 37,
+            "wins": 23
         },
         {
             "tag": "#8QGPYC98",
@@ -408,9 +408,9 @@
             "badge_id": 16000000,
             "clan_score": 2964,
             "participants": 42,
-            "crowns": 40,
-            "battles_remaining": 7,
-            "battles_played": 35,
+            "crowns": 41,
+            "battles_remaining": 5,
+            "battles_played": 37,
             "wins": 20
         }
     ]
