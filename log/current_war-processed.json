@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2497,
         "participants": 38,
-        "crowns": 35,
+        "crowns": 38,
         "battles_remaining": null,
-        "battles_played": 29,
-        "wins": 18
+        "battles_played": 30,
+        "wins": 19
     },
     "participants": [
         {
@@ -99,15 +99,6 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#29JUGVLP2",
             "name": "\u70ab\u6d6a",
             "cards_earned": 1680,
@@ -381,6 +381,17 @@
             "wins": 19
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2497,
+            "participants": 38,
+            "crowns": 38,
+            "battles_remaining": 8,
+            "battles_played": 30,
+            "wins": 19
+        },
+        {
             "tag": "#9Q92LGVP",
             "name": "#1 Belarus",
             "badge_id": 16000133,
@@ -392,26 +403,15 @@
             "wins": 19
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2497,
-            "participants": 38,
-            "crowns": 35,
-            "battles_remaining": 9,
-            "battles_played": 29,
-            "wins": 18
-        },
-        {
             "tag": "#2RGUCLG",
             "name": "Pinoy All Stars",
             "badge_id": 16000145,
             "clan_score": 2596,
             "participants": 42,
-            "crowns": 23,
-            "battles_remaining": 20,
-            "battles_played": 22,
-            "wins": 11
+            "crowns": 24,
+            "battles_remaining": 19,
+            "battles_played": 23,
+            "wins": 12
         }
     ],
     "cards": 51695,
