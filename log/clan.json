@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54236,
+    "clan_score": 54223,
     "required_trophies": 5000,
-    "donations_per_week": 4620,
+    "donations_per_week": 4640,
     "clan_war_trophies": 2497,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -140,23 +140,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5536,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "coLeader",
-            "last_seen": "20200317T162054.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 9,
-            "donations": 396,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 12,
@@ -167,9 +150,26 @@
             },
             "role": "elder",
             "last_seen": "20200317T145940.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 208,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5512,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "coLeader",
+            "last_seen": "20200317T163414.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 9,
+            "donations": 406,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -361,6 +361,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8YGPPGRY",
+            "name": "slaight",
+            "exp_level": 11,
+            "trophies": 5263,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200317T163634.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 27,
+            "donations": 106,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "exp_level": 12,
@@ -371,27 +388,10 @@
             },
             "role": "elder",
             "last_seen": "20200317T161755.000Z",
-            "clan_rank": 21,
+            "clan_rank": 22,
             "previous_clan_rank": 21,
             "donations": 128,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8YGPPGRY",
-            "name": "slaight",
-            "exp_level": 11,
-            "trophies": 5255,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200317T161157.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 27,
-            "donations": 96,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -442,7 +442,7 @@
             "clan_rank": 25,
             "previous_clan_rank": 29,
             "donations": 144,
-            "donations_received": 120,
+            "donations_received": 140,
             "clan_chest_points": 0
         },
         {
@@ -585,7 +585,7 @@
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 12,
-            "trophies": 5088,
+            "trophies": 5066,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
