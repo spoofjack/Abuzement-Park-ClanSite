@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2497,
         "participants": 38,
-        "crowns": 26,
+        "crowns": 29,
         "battles_remaining": null,
-        "battles_played": 22,
-        "wins": 13
+        "battles_played": 23,
+        "wins": 14
     },
     "participants": [
         {
@@ -162,15 +162,6 @@
             "tag": "#9C9YGP8CV",
             "name": "boi",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YPCGLCV9R",
-            "name": "Rylan",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -330,6 +321,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YPCGLCV9R",
+            "name": "Rylan",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 1189,
@@ -375,9 +375,9 @@
             "badge_id": 16000133,
             "clan_score": 2794,
             "participants": 40,
-            "crowns": 28,
-            "battles_remaining": 9,
-            "battles_played": 31,
+            "crowns": 29,
+            "battles_remaining": 8,
+            "battles_played": 32,
             "wins": 18
         },
         {
@@ -397,10 +397,10 @@
             "badge_id": 16000003,
             "clan_score": 2497,
             "participants": 38,
-            "crowns": 26,
-            "battles_remaining": 16,
-            "battles_played": 22,
-            "wins": 13
+            "crowns": 29,
+            "battles_remaining": 15,
+            "battles_played": 23,
+            "wins": 14
         },
         {
             "tag": "#2RGUCLG",
@@ -417,5 +417,5 @@
     "cards": 51695,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "17 hours"
+    "end_label": "16 hours"
 }
