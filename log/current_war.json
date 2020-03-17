@@ -10,7 +10,7 @@
         "participants": 38,
         "crowns": 43,
         "battles_remaining": null,
-        "battles_played": 35,
+        "battles_played": 36,
         "wins": 22
     },
     "participants": [
@@ -36,15 +36,6 @@
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9J9CRPP8G",
-            "name": "fr8trnsollady",
-            "cards_earned": 840,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -129,6 +120,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9J9CRPP8G",
+            "name": "fr8trnsollady",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -398,8 +398,8 @@
             "clan_score": 2497,
             "participants": 38,
             "crowns": 43,
-            "battles_remaining": 3,
-            "battles_played": 35,
+            "battles_remaining": 2,
+            "battles_played": 36,
             "wins": 22
         },
         {
@@ -408,10 +408,10 @@
             "badge_id": 16000000,
             "clan_score": 2964,
             "participants": 42,
-            "crowns": 39,
-            "battles_remaining": 8,
-            "battles_played": 34,
-            "wins": 19
+            "crowns": 40,
+            "battles_remaining": 7,
+            "battles_played": 35,
+            "wins": 20
         }
     ]
 }
