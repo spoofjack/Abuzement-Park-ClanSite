@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2497,
         "participants": 38,
-        "crowns": 40,
+        "crowns": 42,
         "battles_remaining": null,
-        "battles_played": 32,
-        "wins": 20
+        "battles_played": 33,
+        "wins": 21
     },
     "participants": [
         {
@@ -49,15 +49,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#P2YYY2VU",
-            "name": "nailon",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#8VLL2QL8P",
@@ -184,6 +175,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#P2YYY2VU",
+            "name": "nailon",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 2
         },
         {
             "tag": "#2YRJV2VQ",
@@ -359,6 +359,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2497,
+            "participants": 38,
+            "crowns": 42,
+            "battles_remaining": 5,
+            "battles_played": 33,
+            "wins": 21
+        },
+        {
             "tag": "#8YJ8G20",
             "name": "S.A.C",
             "badge_id": 16000044,
@@ -368,17 +379,6 @@
             "battles_remaining": 1,
             "battles_played": 32,
             "wins": 21
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2497,
-            "participants": 38,
-            "crowns": 40,
-            "battles_remaining": 6,
-            "battles_played": 32,
-            "wins": 20
         },
         {
             "tag": "#9Q92LGVP",
@@ -417,5 +417,5 @@
     "cards": 51695,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "12 hours"
+    "end_label": "11 hours"
 }
