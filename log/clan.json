@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54341,
+    "clan_score": 54351,
     "required_trophies": 5000,
     "donations_per_week": 5940,
     "clan_war_trophies": 2497,
@@ -140,6 +140,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 12,
+            "trophies": 5547,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200318T020904.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 8,
+            "donations": 255,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -150,7 +167,7 @@
             },
             "role": "member",
             "last_seen": "20200317T230735.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 11,
             "donations": 220,
             "donations_received": 160,
@@ -166,28 +183,11 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200318T015743.000Z",
-            "clan_rank": 9,
+            "last_seen": "20200318T021936.000Z",
+            "clan_rank": 10,
             "previous_clan_rank": 5,
             "donations": 177,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 12,
-            "trophies": 5516,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200318T020904.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 8,
-            "donations": 255,
-            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -336,7 +336,7 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200318T015115.000Z",
+            "last_seen": "20200318T022506.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 19,
             "donations": 130,
@@ -364,10 +364,10 @@
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "exp_level": 12,
-            "trophies": 5321,
+            "trophies": 5280,
             "arena": {
-                "id": 54000016,
-                "name": "Master II"
+                "id": 54000015,
+                "name": "Master I"
             },
             "role": "elder",
             "last_seen": "20200318T021332.000Z",
@@ -778,7 +778,7 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200318T020129.000Z",
+            "last_seen": "20200318T022356.000Z",
             "clan_rank": 45,
             "previous_clan_rank": 44,
             "donations": 102,
