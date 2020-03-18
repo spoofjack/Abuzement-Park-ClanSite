@@ -781,7 +781,7 @@ table tr[data-blacklist=true] td {
 #member-table td.war.current.normal {
     border: 3px dashed #BB89CC;
     background-color: #F1EAF4;
-    color: #03468d;
+    color: #222;
 }
 #member-table td.war.current.incomplete.ok {
     border: 3px dashed #8d8f95;
@@ -881,7 +881,7 @@ article.member-info > p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .bad {
     background-color: #970000;
-    color: #222;
+    color: #b5b7bd;
 }
 .ok,
 .inactivity.normal {
