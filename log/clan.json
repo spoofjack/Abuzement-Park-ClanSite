@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54609,
+    "clan_score": 54676,
     "required_trophies": 5000,
-    "donations_per_week": 7539,
+    "donations_per_week": 7570,
     "clan_war_trophies": 2623,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -68,7 +68,24 @@
             "clan_rank": 3,
             "previous_clan_rank": 6,
             "donations": 696,
-            "donations_received": 200,
+            "donations_received": 230,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLVPPVC",
+            "name": "Alpha",
+            "exp_level": 12,
+            "trophies": 5741,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "member",
+            "last_seen": "20200318T173359.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 4,
+            "donations": 8,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -82,27 +99,10 @@
             },
             "role": "member",
             "last_seen": "20200318T162247.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 3,
             "donations": 221,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLVPPVC",
-            "name": "Alpha",
-            "exp_level": 12,
-            "trophies": 5623,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "member",
-            "last_seen": "20200318T173359.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 4,
-            "donations": 8,
-            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -115,10 +115,10 @@
                 "name": "Master III"
             },
             "role": "leader",
-            "last_seen": "20200318T153350.000Z",
+            "last_seen": "20200318T180316.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 5,
-            "donations": 370,
+            "donations": 380,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -276,6 +276,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5395,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200318T181258.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 19,
+            "donations": 184,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -286,7 +303,7 @@
             },
             "role": "elder",
             "last_seen": "20200311T121322.000Z",
-            "clan_rank": 16,
+            "clan_rank": 17,
             "previous_clan_rank": 16,
             "donations": 0,
             "donations_received": 0,
@@ -303,7 +320,7 @@
             },
             "role": "elder",
             "last_seen": "20200317T221351.000Z",
-            "clan_rank": 17,
+            "clan_rank": 18,
             "previous_clan_rank": 17,
             "donations": 166,
             "donations_received": 200,
@@ -320,27 +337,10 @@
             },
             "role": "member",
             "last_seen": "20200318T081840.000Z",
-            "clan_rank": 18,
+            "clan_rank": 19,
             "previous_clan_rank": 18,
             "donations": 386,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5365,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200318T175350.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 19,
-            "donations": 184,
-            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -353,10 +353,10 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200317T220858.000Z",
+            "last_seen": "20200318T181239.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 20,
-            "donations": 48,
+            "donations": 58,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -455,10 +455,10 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200318T162718.000Z",
+            "last_seen": "20200318T181141.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 27,
-            "donations": 260,
+            "donations": 271,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -466,7 +466,7 @@
             "tag": "#2YRJV2VQ",
             "name": "AmericanZay00",
             "exp_level": 12,
-            "trophies": 5196,
+            "trophies": 5202,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -578,7 +578,7 @@
             "clan_rank": 33,
             "previous_clan_rank": 37,
             "donations": 156,
-            "donations_received": 159,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -625,7 +625,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200318T060441.000Z",
+            "last_seen": "20200318T181300.000Z",
             "clan_rank": 36,
             "previous_clan_rank": 35,
             "donations": 228,
