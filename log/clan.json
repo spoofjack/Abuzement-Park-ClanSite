@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54761,
+    "clan_score": 54729,
     "required_trophies": 5000,
     "donations_per_week": 8860,
     "clan_war_trophies": 2623,
@@ -126,13 +126,13 @@
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 12,
-            "trophies": 5626,
+            "trophies": 5575,
             "arena": {
-                "id": 54000017,
-                "name": "Master III"
+                "id": 54000016,
+                "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200318T234104.000Z",
+            "last_seen": "20200319T023825.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 8,
             "donations": 359,
@@ -268,7 +268,7 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200318T033233.000Z",
+            "last_seen": "20200319T023210.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 14,
             "donations": 0,
@@ -310,23 +310,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8JGUU092",
-            "name": "Disfatt Bidge",
-            "exp_level": 13,
-            "trophies": 5377,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200319T022932.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 17,
-            "donations": 260,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Q9LUQUJQ",
             "name": "Zezr",
             "exp_level": 11,
@@ -337,9 +320,26 @@
             },
             "role": "member",
             "last_seen": "20200319T020806.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 18,
             "donations": 450,
+            "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JGUU092",
+            "name": "Disfatt Bidge",
+            "exp_level": 13,
+            "trophies": 5354,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200319T022932.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 17,
+            "donations": 260,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -523,7 +523,7 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200319T021732.000Z",
+            "last_seen": "20200319T023251.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 29,
             "donations": 598,
@@ -574,7 +574,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200319T000528.000Z",
+            "last_seen": "20200319T023445.000Z",
             "clan_rank": 33,
             "previous_clan_rank": 31,
             "donations": 56,
@@ -735,40 +735,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "exp_level": 11,
-            "trophies": 4998,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200319T022424.000Z",
-            "clan_rank": 43,
-            "previous_clan_rank": 48,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2J8GVPY8U",
-            "name": "Portsmouth",
-            "exp_level": 12,
-            "trophies": 4994,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200319T022627.000Z",
-            "clan_rank": 44,
-            "previous_clan_rank": 43,
-            "donations": 140,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#29JUGVLP2",
             "name": "\u70ab\u6d6a",
             "exp_level": 11,
@@ -779,7 +745,7 @@
             },
             "role": "member",
             "last_seen": "20200319T003223.000Z",
-            "clan_rank": 45,
+            "clan_rank": 43,
             "previous_clan_rank": 46,
             "donations": 116,
             "donations_received": 80,
@@ -796,10 +762,44 @@
             },
             "role": "coLeader",
             "last_seen": "20200319T021605.000Z",
-            "clan_rank": 46,
+            "clan_rank": 44,
             "previous_clan_rank": 45,
             "donations": 198,
             "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "exp_level": 11,
+            "trophies": 4976,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200319T022424.000Z",
+            "clan_rank": 45,
+            "previous_clan_rank": 48,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2J8GVPY8U",
+            "name": "Portsmouth",
+            "exp_level": 12,
+            "trophies": 4974,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200319T023444.000Z",
+            "clan_rank": 46,
+            "previous_clan_rank": 43,
+            "donations": 140,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
