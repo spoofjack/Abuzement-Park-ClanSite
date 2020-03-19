@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2623,
         "participants": 45,
-        "crowns": 8,
+        "crowns": 9,
         "battles_remaining": null,
-        "battles_played": 5,
+        "battles_played": 6,
         "wins": 4
     },
     "participants": [
@@ -170,15 +170,6 @@
         {
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
             "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -411,6 +402,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2J9CP02VU",
             "name": "Zeus",
             "cards_earned": 1189,
@@ -449,10 +449,10 @@
             "badge_id": 16000162,
             "clan_score": 2361,
             "participants": 44,
-            "crowns": 12,
-            "battles_remaining": 27,
-            "battles_played": 17,
-            "wins": 7
+            "crowns": 14,
+            "battles_remaining": 26,
+            "battles_played": 18,
+            "wins": 8
         },
         {
             "tag": "#PVJPURLG",
@@ -461,8 +461,8 @@
             "clan_score": 1830,
             "participants": 40,
             "crowns": 21,
-            "battles_remaining": 22,
-            "battles_played": 18,
+            "battles_remaining": 20,
+            "battles_played": 20,
             "wins": 12
         },
         {
@@ -471,9 +471,9 @@
             "badge_id": 16000003,
             "clan_score": 2623,
             "participants": 45,
-            "crowns": 8,
-            "battles_remaining": 40,
-            "battles_played": 5,
+            "crowns": 9,
+            "battles_remaining": 39,
+            "battles_played": 6,
             "wins": 4
         }
     ]
