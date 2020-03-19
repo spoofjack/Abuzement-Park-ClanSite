@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2623,
         "participants": 45,
-        "crowns": 13,
+        "crowns": 16,
         "battles_remaining": null,
-        "battles_played": 9,
-        "wins": 6
+        "battles_played": 11,
+        "wins": 7
     },
     "participants": [
         {
@@ -213,15 +213,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "a##hole",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 1189,
@@ -261,15 +252,6 @@
             "tag": "#29JUGVLP2",
             "name": "\u70ab\u6d6a",
             "cards_earned": 1680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -393,6 +375,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J8CGQRJY",
+            "name": "a##hole",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "cards_earned": 1189,
@@ -411,6 +402,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1189,
@@ -421,6 +421,17 @@
         }
     ],
     "clans": [
+        {
+            "tag": "#8Q2PQU02",
+            "name": "Guerreiros br",
+            "badge_id": 16000058,
+            "clan_score": 2180,
+            "participants": 36,
+            "crowns": 23,
+            "battles_remaining": 19,
+            "battles_played": 17,
+            "wins": 14
+        },
         {
             "tag": "#PVJPURLG",
             "name": "CORVIDALS",
@@ -433,25 +444,14 @@
             "wins": 12
         },
         {
-            "tag": "#8Q2PQU02",
-            "name": "Guerreiros br",
-            "badge_id": 16000058,
-            "clan_score": 2180,
-            "participants": 36,
-            "crowns": 19,
-            "battles_remaining": 21,
-            "battles_played": 15,
-            "wins": 12
-        },
-        {
             "tag": "#PG88QYQ8",
             "name": "Le Groin Royal",
             "badge_id": 16000162,
             "clan_score": 2361,
             "participants": 44,
-            "crowns": 16,
-            "battles_remaining": 23,
-            "battles_played": 21,
+            "crowns": 17,
+            "battles_remaining": 22,
+            "battles_played": 22,
             "wins": 9
         },
         {
@@ -460,10 +460,10 @@
             "badge_id": 16000003,
             "clan_score": 2623,
             "participants": 45,
-            "crowns": 13,
-            "battles_remaining": 36,
-            "battles_played": 9,
-            "wins": 6
+            "crowns": 16,
+            "battles_remaining": 34,
+            "battles_played": 11,
+            "wins": 7
         },
         {
             "tag": "#PQCQLJP8",
@@ -471,14 +471,14 @@
             "badge_id": 16000162,
             "clan_score": 2364,
             "participants": 39,
-            "crowns": 10,
-            "battles_remaining": 27,
-            "battles_played": 12,
-            "wins": 6
+            "crowns": 14,
+            "battles_remaining": 25,
+            "battles_played": 14,
+            "wins": 7
         }
     ],
     "cards": 58339,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "21 hours"
+    "end_label": "20 hours"
 }
