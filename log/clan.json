@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54646,
+    "clan_score": 54669,
     "required_trophies": 5000,
-    "donations_per_week": 9856,
+    "donations_per_week": 9892,
     "clan_war_trophies": 2623,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,11 +30,28 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200319T145850.000Z",
+            "last_seen": "20200319T151438.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 520,
+            "donations": 528,
             "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLVPPVC",
+            "name": "Alpha",
+            "exp_level": 12,
+            "trophies": 5757,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "member",
+            "last_seen": "20200319T143715.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 3,
+            "donations": 34,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -48,27 +65,10 @@
             },
             "role": "elder",
             "last_seen": "20200319T131831.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 2,
             "donations": 274,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLVPPVC",
-            "name": "Alpha",
-            "exp_level": 12,
-            "trophies": 5719,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "member",
-            "last_seen": "20200319T143715.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 3,
-            "donations": 34,
-            "donations_received": 140,
             "clan_chest_points": 0
         },
         {
@@ -132,10 +132,10 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20200319T142717.000Z",
+            "last_seen": "20200319T150954.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 6,
-            "donations": 852,
+            "donations": 862,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -251,10 +251,10 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200319T114558.000Z",
+            "last_seen": "20200319T151008.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 13,
-            "donations": 283,
+            "donations": 291,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -466,7 +466,7 @@
             "tag": "#CPYC92RU",
             "name": "Pecesitp",
             "exp_level": 11,
-            "trophies": 5233,
+            "trophies": 5239,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -476,7 +476,24 @@
             "clan_rank": 27,
             "previous_clan_rank": 29,
             "donations": 64,
-            "donations_received": 176,
+            "donations_received": 192,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "exp_level": 13,
+            "trophies": 5239,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200319T145203.000Z",
+            "clan_rank": 28,
+            "previous_clan_rank": 26,
+            "donations": 326,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -490,27 +507,10 @@
             },
             "role": "member",
             "last_seen": "20200319T135810.000Z",
-            "clan_rank": 28,
+            "clan_rank": 29,
             "previous_clan_rank": 27,
             "donations": 8,
             "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "exp_level": 13,
-            "trophies": 5209,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200319T145203.000Z",
-            "clan_rank": 29,
-            "previous_clan_rank": 26,
-            "donations": 316,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -642,7 +642,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200319T144719.000Z",
+            "last_seen": "20200319T151503.000Z",
             "clan_rank": 37,
             "previous_clan_rank": 37,
             "donations": 282,
