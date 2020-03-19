@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2623,
         "participants": 45,
-        "crowns": 28,
+        "crowns": 29,
         "battles_remaining": null,
-        "battles_played": 20,
-        "wins": 12
+        "battles_played": 21,
+        "wins": 13
     },
     "participants": [
         {
@@ -72,15 +72,6 @@
             "tag": "#8JGUU092",
             "name": "Disfatt Bidge",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Q9LUQUJQ",
-            "name": "Zezr",
-            "cards_earned": 1785,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -285,6 +276,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#Q9LUQUJQ",
+            "name": "Zezr",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "cards_earned": 1487,
@@ -449,10 +449,10 @@
             "badge_id": 16000162,
             "clan_score": 2361,
             "participants": 44,
-            "crowns": 22,
-            "battles_remaining": 13,
-            "battles_played": 31,
-            "wins": 12
+            "crowns": 24,
+            "battles_remaining": 11,
+            "battles_played": 33,
+            "wins": 13
         },
         {
             "tag": "#PVJPURLG",
@@ -471,10 +471,10 @@
             "badge_id": 16000003,
             "clan_score": 2623,
             "participants": 45,
-            "crowns": 28,
-            "battles_remaining": 25,
-            "battles_played": 20,
-            "wins": 12
+            "crowns": 29,
+            "battles_remaining": 24,
+            "battles_played": 21,
+            "wins": 13
         }
     ]
 }
