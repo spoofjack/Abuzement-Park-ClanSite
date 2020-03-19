@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2623,
         "participants": 45,
-        "crowns": 30,
+        "crowns": 31,
         "battles_remaining": null,
-        "battles_played": 24,
-        "wins": 13
+        "battles_played": 25,
+        "wins": 14
     },
     "participants": [
         {
@@ -27,15 +27,6 @@
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y2YPJRJ09",
-            "name": "ThoughtSlayer69",
-            "cards_earned": 891,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -228,6 +219,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#Y2YPJRJ09",
+            "name": "ThoughtSlayer69",
+            "cards_earned": 891,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -460,10 +460,10 @@
             "badge_id": 16000003,
             "clan_score": 2623,
             "participants": 45,
-            "crowns": 30,
-            "battles_remaining": 21,
-            "battles_played": 24,
-            "wins": 13
+            "crowns": 31,
+            "battles_remaining": 20,
+            "battles_played": 25,
+            "wins": 14
         },
         {
             "tag": "#PG88QYQ8",
@@ -471,14 +471,14 @@
             "badge_id": 16000162,
             "clan_score": 2361,
             "participants": 44,
-            "crowns": 26,
-            "battles_remaining": 10,
-            "battles_played": 34,
-            "wins": 13
+            "crowns": 27,
+            "battles_remaining": 9,
+            "battles_played": 35,
+            "wins": 14
         }
     ],
     "cards": 58339,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "15 hours"
+    "end_label": "14 hours"
 }
