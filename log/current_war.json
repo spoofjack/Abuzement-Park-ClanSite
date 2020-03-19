@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2623,
         "participants": 45,
-        "crowns": 29,
+        "crowns": 30,
         "battles_remaining": null,
-        "battles_played": 23,
+        "battles_played": 24,
         "wins": 13
     },
     "participants": [
@@ -144,15 +144,6 @@
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "cards_earned": 1785,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -348,6 +339,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "cards_earned": 1189,
@@ -427,10 +427,10 @@
             "badge_id": 16000162,
             "clan_score": 2364,
             "participants": 39,
-            "crowns": 33,
-            "battles_remaining": 10,
-            "battles_played": 29,
-            "wins": 18
+            "crowns": 35,
+            "battles_remaining": 9,
+            "battles_played": 30,
+            "wins": 19
         },
         {
             "tag": "#8Q2PQU02",
@@ -471,9 +471,9 @@
             "badge_id": 16000003,
             "clan_score": 2623,
             "participants": 45,
-            "crowns": 29,
-            "battles_remaining": 22,
-            "battles_played": 23,
+            "crowns": 30,
+            "battles_remaining": 21,
+            "battles_played": 24,
             "wins": 13
         }
     ]
