@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2623,
         "participants": 45,
-        "crowns": 0,
+        "crowns": 1,
         "battles_remaining": null,
-        "battles_played": 0,
+        "battles_played": 1,
         "wins": 0
     },
     "participants": [
@@ -36,15 +36,6 @@
             "tag": "#YLVPPVC",
             "name": "Alpha",
             "cards_earned": 1785,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9992GG0CQ",
-            "name": "freighttrain",
-            "cards_earned": 1400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -418,6 +409,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#9992GG0CQ",
+            "name": "freighttrain",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -427,10 +427,10 @@
             "badge_id": 16000162,
             "clan_score": 2364,
             "participants": 39,
-            "crowns": 1,
-            "battles_remaining": 38,
-            "battles_played": 1,
-            "wins": 1
+            "crowns": 4,
+            "battles_remaining": 34,
+            "battles_played": 5,
+            "wins": 3
         },
         {
             "tag": "#8Q2PQU02",
@@ -438,10 +438,10 @@
             "badge_id": 16000058,
             "clan_score": 2180,
             "participants": 36,
-            "crowns": 3,
-            "battles_remaining": 33,
-            "battles_played": 3,
-            "wins": 2
+            "crowns": 4,
+            "battles_remaining": 32,
+            "battles_played": 4,
+            "wins": 3
         },
         {
             "tag": "#PG88QYQ8",
@@ -449,10 +449,10 @@
             "badge_id": 16000162,
             "clan_score": 2361,
             "participants": 44,
-            "crowns": 1,
-            "battles_remaining": 43,
-            "battles_played": 1,
-            "wins": 1
+            "crowns": 6,
+            "battles_remaining": 39,
+            "battles_played": 5,
+            "wins": 5
         },
         {
             "tag": "#PVJPURLG",
@@ -460,10 +460,10 @@
             "badge_id": 16000000,
             "clan_score": 1830,
             "participants": 40,
-            "crowns": 1,
-            "battles_remaining": 38,
-            "battles_played": 2,
-            "wins": 1
+            "crowns": 8,
+            "battles_remaining": 34,
+            "battles_played": 6,
+            "wins": 4
         },
         {
             "tag": "#LP98YUCV",
@@ -471,9 +471,9 @@
             "badge_id": 16000003,
             "clan_score": 2623,
             "participants": 45,
-            "crowns": 0,
-            "battles_remaining": 45,
-            "battles_played": 0,
+            "crowns": 1,
+            "battles_remaining": 44,
+            "battles_played": 1,
             "wins": 0
         }
     ]
