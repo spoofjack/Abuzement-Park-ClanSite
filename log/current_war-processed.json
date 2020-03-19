@@ -422,6 +422,17 @@
     ],
     "clans": [
         {
+            "tag": "#8Q2PQU02",
+            "name": "Guerreiros br",
+            "badge_id": 16000058,
+            "clan_score": 2180,
+            "participants": 36,
+            "crowns": 37,
+            "battles_remaining": 6,
+            "battles_played": 30,
+            "wins": 21
+        },
+        {
             "tag": "#PVJPURLG",
             "name": "CORVIDALS",
             "badge_id": 16000000,
@@ -430,17 +441,6 @@
             "crowns": 39,
             "battles_remaining": 5,
             "battles_played": 35,
-            "wins": 20
-        },
-        {
-            "tag": "#8Q2PQU02",
-            "name": "Guerreiros br",
-            "badge_id": 16000058,
-            "clan_score": 2180,
-            "participants": 36,
-            "crowns": 34,
-            "battles_remaining": 7,
-            "battles_played": 29,
             "wins": 20
         },
         {
@@ -480,5 +480,5 @@
     "cards": 58339,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "12 hours"
+    "end_label": "11 hours"
 }
