@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54762,
+    "clan_score": 54771,
     "required_trophies": 5000,
-    "donations_per_week": 11099,
+    "donations_per_week": 11125,
     "clan_war_trophies": 2623,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5549,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200320T004923.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 13,
+            "donations": 301,
+            "donations_received": 296,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -167,7 +184,7 @@
             },
             "role": "member",
             "last_seen": "20200319T225947.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 10,
             "donations": 428,
             "donations_received": 320,
@@ -184,27 +201,10 @@
             },
             "role": "member",
             "last_seen": "20200319T051753.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 15,
             "donations": 0,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5519,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200320T004923.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 13,
-            "donations": 301,
-            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -344,23 +344,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8JGUU092",
-            "name": "Disfatt Bidge",
-            "exp_level": 13,
-            "trophies": 5318,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200320T003853.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 19,
-            "donations": 304,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Q9LUQUJQ",
             "name": "Zezr",
             "exp_level": 11,
@@ -371,7 +354,7 @@
             },
             "role": "member",
             "last_seen": "20200319T184818.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 18,
             "donations": 486,
             "donations_received": 320,
@@ -388,10 +371,27 @@
             },
             "role": "member",
             "last_seen": "20200319T173020.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 90,
             "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JGUU092",
+            "name": "Disfatt Bidge",
+            "exp_level": 13,
+            "trophies": 5294,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200320T010307.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 19,
+            "donations": 322,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -506,11 +506,11 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200319T231212.000Z",
+            "last_seen": "20200320T011203.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 30,
-            "donations": 770,
-            "donations_received": 440,
+            "donations": 778,
+            "donations_received": 450,
             "clan_chest_points": 0
         },
         {
@@ -557,7 +557,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200319T235339.000Z",
+            "last_seen": "20200320T010753.000Z",
             "clan_rank": 32,
             "previous_clan_rank": 33,
             "donations": 56,
