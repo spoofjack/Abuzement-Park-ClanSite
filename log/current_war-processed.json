@@ -422,6 +422,17 @@
     ],
     "clans": [
         {
+            "tag": "#8Q2PQU02",
+            "name": "Guerreiros br",
+            "badge_id": 16000058,
+            "clan_score": 2180,
+            "participants": 36,
+            "crowns": 46,
+            "battles_remaining": 0,
+            "battles_played": 37,
+            "wins": 26
+        },
+        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
@@ -430,17 +441,6 @@
             "crowns": 50,
             "battles_remaining": 4,
             "battles_played": 41,
-            "wins": 25
-        },
-        {
-            "tag": "#8Q2PQU02",
-            "name": "Guerreiros br",
-            "badge_id": 16000058,
-            "clan_score": 2180,
-            "participants": 36,
-            "crowns": 45,
-            "battles_remaining": 0,
-            "battles_played": 36,
             "wins": 25
         },
         {
@@ -480,5 +480,5 @@
     "cards": 58339,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "6 hours"
+    "end_label": "5 hours"
 }
