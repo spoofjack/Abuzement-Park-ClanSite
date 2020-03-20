@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54829,
+    "clan_score": 54826,
     "required_trophies": 5000,
     "donations_per_week": 11627,
     "clan_war_trophies": 2623,
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5395,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200320T053953.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 19,
-            "donations": 306,
-            "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 12,
@@ -269,7 +252,7 @@
             },
             "role": "elder",
             "last_seen": "20200319T230658.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 15,
             "donations": 248,
             "donations_received": 320,
@@ -286,10 +269,27 @@
             },
             "role": "elder",
             "last_seen": "20200311T121322.000Z",
-            "clan_rank": 16,
+            "clan_rank": 15,
             "previous_clan_rank": 17,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5383,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200320T053953.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 19,
+            "donations": 306,
+            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -642,7 +642,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200320T055648.000Z",
+            "last_seen": "20200320T060608.000Z",
             "clan_rank": 37,
             "previous_clan_rank": 37,
             "donations": 368,
