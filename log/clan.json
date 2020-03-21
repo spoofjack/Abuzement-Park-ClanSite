@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54560,
+    "clan_score": 54587,
     "required_trophies": 5000,
-    "donations_per_week": 15789,
+    "donations_per_week": 15819,
     "clan_war_trophies": 2750,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -123,6 +123,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "exp_level": 13,
+            "trophies": 5606,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "leader",
+            "last_seen": "20200321T233439.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 4,
+            "donations": 942,
+            "donations_received": 640,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YLVPPVC",
             "name": "Alpha",
             "exp_level": 12,
@@ -133,7 +150,7 @@
             },
             "role": "member",
             "last_seen": "20200321T004045.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 9,
             "donations": 34,
             "donations_received": 240,
@@ -150,7 +167,7 @@
             },
             "role": "member",
             "last_seen": "20200321T214621.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 7,
             "donations": 120,
             "donations_received": 280,
@@ -167,27 +184,10 @@
             },
             "role": "member",
             "last_seen": "20200321T230728.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 10,
             "donations": 10,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
-            "exp_level": 13,
-            "trophies": 5546,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "leader",
-            "last_seen": "20200321T224632.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 4,
-            "donations": 922,
-            "donations_received": 640,
             "clan_chest_points": 0
         },
         {
@@ -404,11 +404,11 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200321T231419.000Z",
+            "last_seen": "20200321T233522.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 24,
             "donations": 220,
-            "donations_received": 210,
+            "donations_received": 230,
             "clan_chest_points": 0
         },
         {
@@ -540,7 +540,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200321T221404.000Z",
+            "last_seen": "20200321T234023.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 30,
             "donations": 136,
@@ -667,23 +667,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2J8GVPY8U",
-            "name": "Portsmouth",
-            "exp_level": 12,
-            "trophies": 5071,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200321T204407.000Z",
-            "clan_rank": 39,
-            "previous_clan_rank": 42,
-            "donations": 200,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "exp_level": 11,
@@ -694,10 +677,27 @@
             },
             "role": "member",
             "last_seen": "20200321T212706.000Z",
-            "clan_rank": 40,
+            "clan_rank": 39,
             "previous_clan_rank": 38,
             "donations": 40,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2J8GVPY8U",
+            "name": "Portsmouth",
+            "exp_level": 12,
+            "trophies": 5049,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200321T233651.000Z",
+            "clan_rank": 40,
+            "previous_clan_rank": 42,
+            "donations": 210,
+            "donations_received": 330,
             "clan_chest_points": 0
         },
         {
