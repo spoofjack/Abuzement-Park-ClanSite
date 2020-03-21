@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2750,
-        "participants": 31,
+        "participants": 32,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 80,
-        "wins": 39
+        "battles_played": 84,
+        "wins": 42
     },
     "participants": [
         {
@@ -29,6 +29,15 @@
             "cards_earned": 1487,
             "battles_played": 3,
             "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#YLVPPVC",
+            "name": "Alpha",
+            "cards_earned": 1190,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
             "wins": 2,
             "number_of_battles": 3
         },
@@ -53,10 +62,10 @@
         {
             "tag": "#CPYC92RU",
             "name": "Pecesitp",
-            "cards_earned": 892,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
-            "wins": 1,
+            "cards_earned": 1487,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
             "number_of_battles": 3
         },
         {
@@ -233,9 +242,9 @@
         {
             "tag": "#20LGGP900",
             "name": "blackdog",
-            "cards_earned": 1190,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
+            "cards_earned": 1487,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
             "wins": 2,
             "number_of_battles": 3
         },
@@ -295,7 +304,7 @@
         }
     ],
     "clans": null,
-    "cards": 35052,
+    "cards": 37134,
     "state_label": "Collection Day",
     "collection_end_time_label": "9 hours",
     "end_label": "1 day, 9 hours"
