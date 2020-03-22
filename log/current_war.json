@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2750,
         "participants": 36,
-        "crowns": 25,
+        "crowns": 26,
         "battles_remaining": null,
-        "battles_played": 25,
+        "battles_played": 26,
         "wins": 9
     },
     "participants": [
@@ -45,15 +45,6 @@
             "tag": "#CPYC92RU",
             "name": "Pecesitp",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "cards_earned": 1785,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -183,6 +174,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 1,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -390,9 +390,9 @@
             "badge_id": 16000003,
             "clan_score": 2750,
             "participants": 36,
-            "crowns": 25,
-            "battles_remaining": 11,
-            "battles_played": 25,
+            "crowns": 26,
+            "battles_remaining": 10,
+            "battles_played": 26,
             "wins": 9
         }
     ]
