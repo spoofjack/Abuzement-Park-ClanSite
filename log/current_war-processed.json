@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2711,
         "participants": 33,
-        "crowns": 2,
+        "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 2,
-        "wins": 1
+        "battles_played": 3,
+        "wins": 2
     },
     "participants": [
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 1785,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
@@ -294,6 +285,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 1487,
@@ -319,9 +319,20 @@
             "badge_id": 16000024,
             "clan_score": 2611,
             "participants": 33,
+            "crowns": 5,
+            "battles_remaining": 28,
+            "battles_played": 5,
+            "wins": 2
+        },
+        {
+            "tag": "#P8U00P0J",
+            "name": "*\u041b.\u0435.\u0433.\u0435.\u043d.\u0434.\u0430*",
+            "badge_id": 16000072,
+            "clan_score": 2660,
+            "participants": 31,
             "crowns": 4,
-            "battles_remaining": 30,
-            "battles_played": 3,
+            "battles_remaining": 29,
+            "battles_played": 2,
             "wins": 2
         },
         {
@@ -330,9 +341,9 @@
             "badge_id": 16000125,
             "clan_score": 2160,
             "participants": 32,
-            "crowns": 2,
-            "battles_remaining": 29,
-            "battles_played": 3,
+            "crowns": 3,
+            "battles_remaining": 26,
+            "battles_played": 6,
             "wins": 2
         },
         {
@@ -341,10 +352,10 @@
             "badge_id": 16000003,
             "clan_score": 2711,
             "participants": 33,
-            "crowns": 2,
-            "battles_remaining": 31,
-            "battles_played": 2,
-            "wins": 1
+            "crowns": 3,
+            "battles_remaining": 30,
+            "battles_played": 3,
+            "wins": 2
         },
         {
             "tag": "#2J2C02P",
@@ -356,17 +367,6 @@
             "battles_remaining": 30,
             "battles_played": 1,
             "wins": 1
-        },
-        {
-            "tag": "#P8U00P0J",
-            "name": "*\u041b.\u0435.\u0433.\u0435.\u043d.\u0434.\u0430*",
-            "badge_id": 16000072,
-            "clan_score": 2660,
-            "participants": 31,
-            "crowns": 0,
-            "battles_remaining": 31,
-            "battles_played": 0,
-            "wins": 0
         }
     ],
     "cards": 41611,
