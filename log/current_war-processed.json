@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2711,
         "participants": 33,
-        "crowns": 17,
+        "crowns": 18,
         "battles_remaining": null,
-        "battles_played": 16,
-        "wins": 9
+        "battles_played": 17,
+        "wins": 10
     },
     "participants": [
         {
@@ -54,15 +54,6 @@
             "tag": "#Y2C2RQG9R",
             "name": "kr21__",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -213,6 +204,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "cards_earned": 840,
@@ -325,6 +325,17 @@
             "wins": 17
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2711,
+            "participants": 33,
+            "crowns": 18,
+            "battles_remaining": 16,
+            "battles_played": 17,
+            "wins": 10
+        },
+        {
             "tag": "#2RG8L8LC",
             "name": "\u0627\u0635\u0641\u0647\u0627\u0646",
             "badge_id": 16000024,
@@ -334,17 +345,6 @@
             "battles_remaining": 12,
             "battles_played": 21,
             "wins": 10
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2711,
-            "participants": 33,
-            "crowns": 17,
-            "battles_remaining": 17,
-            "battles_played": 16,
-            "wins": 9
         },
         {
             "tag": "#2J2C02P",
@@ -372,5 +372,5 @@
     "cards": 41611,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "16 hours"
+    "end_label": "15 hours"
 }
