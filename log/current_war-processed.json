@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2711,
         "participants": 33,
-        "crowns": 10,
+        "crowns": 13,
         "battles_remaining": null,
-        "battles_played": 12,
-        "wins": 7
+        "battles_played": 13,
+        "wins": 8
     },
     "participants": [
         {
@@ -143,15 +143,6 @@
         {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
             "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -294,6 +285,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#20LGGP900",
             "name": "blackdog",
             "cards_earned": 891,
@@ -336,26 +336,26 @@
             "wins": 8
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2711,
+            "participants": 33,
+            "crowns": 13,
+            "battles_remaining": 20,
+            "battles_played": 13,
+            "wins": 8
+        },
+        {
             "tag": "#2J2C02P",
             "name": "\u4e09\u52c7\u805a\u4e49",
             "badge_id": 16000147,
             "clan_score": 2399,
             "participants": 31,
             "crowns": 12,
-            "battles_remaining": 17,
-            "battles_played": 14,
+            "battles_remaining": 16,
+            "battles_played": 15,
             "wins": 8
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2711,
-            "participants": 33,
-            "crowns": 10,
-            "battles_remaining": 21,
-            "battles_played": 12,
-            "wins": 7
         },
         {
             "tag": "#28CJCVY",
@@ -372,5 +372,5 @@
     "cards": 41611,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "18 hours"
+    "end_label": "17 hours"
 }
