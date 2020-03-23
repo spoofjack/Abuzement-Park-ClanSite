@@ -10,7 +10,7 @@
         "participants": 33,
         "crowns": 14,
         "battles_remaining": null,
-        "battles_played": 14,
+        "battles_played": 15,
         "wins": 8
     },
     "participants": [
@@ -92,15 +92,6 @@
             "cards_earned": 297,
             "battles_played": 0,
             "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YJPYL02JC",
-            "name": "john",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YJPYL02JC",
+            "name": "john",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2J9CP02VU",
             "name": "Zeus",
             "cards_earned": 1487,
@@ -342,8 +342,8 @@
             "clan_score": 2711,
             "participants": 33,
             "crowns": 14,
-            "battles_remaining": 19,
-            "battles_played": 14,
+            "battles_remaining": 18,
+            "battles_played": 15,
             "wins": 8
         },
         {
@@ -372,5 +372,5 @@
     "cards": 41611,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "17 hours"
+    "end_label": "16 hours"
 }
