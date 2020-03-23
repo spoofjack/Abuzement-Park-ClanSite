@@ -10,7 +10,7 @@
         "participants": 33,
         "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 5,
+        "battles_played": 6,
         "wins": 3
     },
     "participants": [
@@ -126,15 +126,6 @@
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2P9QGRRLC",
-            "name": "IvoVich",
-            "cards_earned": 1785,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -303,6 +294,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2P9QGRRLC",
+            "name": "IvoVich",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YGQG9VUVL",
             "name": "Burkelbear",
             "cards_earned": 840,
@@ -353,8 +353,8 @@
             "clan_score": 2611,
             "participants": 33,
             "crowns": 8,
-            "battles_remaining": 23,
-            "battles_played": 10,
+            "battles_remaining": 22,
+            "battles_played": 11,
             "wins": 4
         },
         {
@@ -364,13 +364,13 @@
             "clan_score": 2711,
             "participants": 33,
             "crowns": 5,
-            "battles_remaining": 28,
-            "battles_played": 5,
+            "battles_remaining": 27,
+            "battles_played": 6,
             "wins": 3
         }
     ],
     "cards": 41611,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "22 hours"
+    "end_label": "21 hours"
 }
