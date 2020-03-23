@@ -10,7 +10,7 @@
         "participants": 33,
         "crowns": 28,
         "battles_remaining": null,
-        "battles_played": 23,
+        "battles_played": 24,
         "wins": 15
     },
     "participants": [
@@ -90,15 +90,6 @@
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -285,6 +276,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9C9YGP8CV",
             "name": "boi",
             "cards_earned": 891,
@@ -331,8 +331,8 @@
             "clan_score": 2711,
             "participants": 33,
             "crowns": 28,
-            "battles_remaining": 10,
-            "battles_played": 23,
+            "battles_remaining": 9,
+            "battles_played": 24,
             "wins": 15
         },
         {
@@ -372,5 +372,5 @@
     "cards": 41611,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "12 hours"
+    "end_label": "11 hours"
 }
