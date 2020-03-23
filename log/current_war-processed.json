@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2711,
         "participants": 33,
-        "crowns": 3,
+        "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 4,
-        "wins": 2
+        "battles_played": 5,
+        "wins": 3
     },
     "participants": [
         {
@@ -107,15 +107,6 @@
         {
             "tag": "#CJUU8U2",
             "name": "supersized",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
             "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -303,6 +294,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YGQG9VUVL",
             "name": "Burkelbear",
             "cards_earned": 840,
@@ -325,26 +325,26 @@
             "wins": 6
         },
         {
+            "tag": "#28CJCVY",
+            "name": "Game's King",
+            "badge_id": 16000125,
+            "clan_score": 2160,
+            "participants": 32,
+            "crowns": 14,
+            "battles_remaining": 18,
+            "battles_played": 14,
+            "wins": 5
+        },
+        {
             "tag": "#2J2C02P",
             "name": "\u4e09\u52c7\u805a\u4e49",
             "badge_id": 16000147,
             "clan_score": 2399,
             "participants": 31,
             "crowns": 6,
-            "battles_remaining": 26,
-            "battles_played": 5,
+            "battles_remaining": 25,
+            "battles_played": 6,
             "wins": 5
-        },
-        {
-            "tag": "#28CJCVY",
-            "name": "Game's King",
-            "badge_id": 16000125,
-            "clan_score": 2160,
-            "participants": 32,
-            "crowns": 11,
-            "battles_remaining": 20,
-            "battles_played": 12,
-            "wins": 4
         },
         {
             "tag": "#2RG8L8LC",
@@ -363,10 +363,10 @@
             "badge_id": 16000003,
             "clan_score": 2711,
             "participants": 33,
-            "crowns": 3,
-            "battles_remaining": 29,
-            "battles_played": 4,
-            "wins": 2
+            "crowns": 5,
+            "battles_remaining": 28,
+            "battles_played": 5,
+            "wins": 3
         }
     ],
     "cards": 41611,
