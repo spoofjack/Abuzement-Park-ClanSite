@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 2711,
         "participants": 33,
-        "crowns": 30,
+        "crowns": 31,
         "battles_remaining": null,
-        "battles_played": 26,
-        "wins": 17
+        "battles_played": 27,
+        "wins": 18
     },
     "participants": [
         {
             "tag": "#8V2QYGVL",
             "name": "ashwin",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -102,6 +93,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -331,8 +331,8 @@
             "clan_score": 2399,
             "participants": 31,
             "crowns": 12,
-            "battles_remaining": 16,
-            "battles_played": 15,
+            "battles_remaining": 15,
+            "battles_played": 16,
             "wins": 8
         },
         {
@@ -363,10 +363,10 @@
             "badge_id": 16000003,
             "clan_score": 2711,
             "participants": 33,
-            "crowns": 30,
-            "battles_remaining": 7,
-            "battles_played": 26,
-            "wins": 17
+            "crowns": 31,
+            "battles_remaining": 6,
+            "battles_played": 27,
+            "wins": 18
         }
     ]
 }
