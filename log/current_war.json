@@ -10,19 +10,10 @@
         "participants": 33,
         "crowns": 32,
         "battles_remaining": null,
-        "battles_played": 28,
+        "battles_played": 29,
         "wins": 19
     },
     "participants": [
-        {
-            "tag": "#9J9CRPP8G",
-            "name": "fr8trnsollady",
-            "cards_earned": 1680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#CJUU8U2",
             "name": "supersized",
@@ -102,6 +93,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9J9CRPP8G",
+            "name": "fr8trnsollady",
+            "cards_earned": 1680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -331,8 +331,8 @@
             "clan_score": 2399,
             "participants": 31,
             "crowns": 12,
-            "battles_remaining": 14,
-            "battles_played": 17,
+            "battles_remaining": 12,
+            "battles_played": 19,
             "wins": 8
         },
         {
@@ -364,8 +364,8 @@
             "clan_score": 2711,
             "participants": 33,
             "crowns": 32,
-            "battles_remaining": 5,
-            "battles_played": 28,
+            "battles_remaining": 4,
+            "battles_played": 29,
             "wins": 19
         }
     ]
