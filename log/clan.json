@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54910,
+    "clan_score": 54908,
     "required_trophies": 5000,
     "donations_per_week": 2922,
     "clan_war_trophies": 2711,
@@ -514,23 +514,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2J9CP02VU",
-            "name": "Zeus",
-            "exp_level": 11,
-            "trophies": 5198,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200324T095644.000Z",
-            "clan_rank": 30,
-            "previous_clan_rank": 29,
-            "donations": 198,
-            "donations_received": 112,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#20LGGP900",
             "name": "blackdog",
             "exp_level": 12,
@@ -541,7 +524,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200324T034031.000Z",
-            "clan_rank": 31,
+            "clan_rank": 30,
             "previous_clan_rank": 30,
             "donations": 198,
             "donations_received": 120,
@@ -558,10 +541,27 @@
             },
             "role": "member",
             "last_seen": "20200324T082808.000Z",
-            "clan_rank": 32,
+            "clan_rank": 31,
             "previous_clan_rank": 31,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2J9CP02VU",
+            "name": "Zeus",
+            "exp_level": 11,
+            "trophies": 5175,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200324T095644.000Z",
+            "clan_rank": 32,
+            "previous_clan_rank": 29,
+            "donations": 198,
+            "donations_received": 112,
             "clan_chest_points": 0
         },
         {
