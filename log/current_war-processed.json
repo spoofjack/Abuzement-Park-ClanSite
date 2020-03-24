@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2711,
         "participants": 33,
-        "crowns": 31,
+        "crowns": 32,
         "battles_remaining": null,
-        "battles_played": 27,
-        "wins": 18
+        "battles_played": 28,
+        "wins": 19
     },
     "participants": [
-        {
-            "tag": "#8V2QYGVL",
-            "name": "ashwin",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#9J9CRPP8G",
             "name": "fr8trnsollady",
@@ -93,6 +84,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8V2QYGVL",
+            "name": "ashwin",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -314,6 +314,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2711,
+            "participants": 33,
+            "crowns": 32,
+            "battles_remaining": 5,
+            "battles_played": 28,
+            "wins": 19
+        },
+        {
             "tag": "#P8U00P0J",
             "name": "*\u041b.\u0435.\u0433.\u0435.\u043d.\u0434.\u0430*",
             "badge_id": 16000072,
@@ -322,17 +333,6 @@
             "crowns": 37,
             "battles_remaining": 5,
             "battles_played": 26,
-            "wins": 18
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2711,
-            "participants": 33,
-            "crowns": 31,
-            "battles_remaining": 6,
-            "battles_played": 27,
             "wins": 18
         },
         {
