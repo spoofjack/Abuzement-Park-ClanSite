@@ -260,6 +260,17 @@
     ],
     "clans": [
         {
+            "tag": "#PJP2UVGC",
+            "name": "AmericanWarHogz",
+            "badge_id": 16000038,
+            "clan_score": 2405,
+            "participants": 26,
+            "crowns": 35,
+            "battles_remaining": 5,
+            "battles_played": 21,
+            "wins": 14
+        },
+        {
             "tag": "#UQPRQ9",
             "name": "Go Blue",
             "badge_id": 16000095,
@@ -269,17 +280,6 @@
             "battles_remaining": 6,
             "battles_played": 20,
             "wins": 14
-        },
-        {
-            "tag": "#PJP2UVGC",
-            "name": "AmericanWarHogz",
-            "badge_id": 16000038,
-            "clan_score": 2405,
-            "participants": 26,
-            "crowns": 32,
-            "battles_remaining": 6,
-            "battles_played": 20,
-            "wins": 13
         },
         {
             "tag": "#PV2VLUCC",
@@ -318,5 +318,5 @@
     "cards": 33812,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "14 hours"
+    "end_label": "13 hours"
 }
