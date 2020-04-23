@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2883,
         "participants": 27,
-        "crowns": 11,
+        "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 19,
+        "battles_played": 20,
         "wins": 10
     },
     "participants": [
@@ -63,15 +63,6 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 891,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "cards_earned": 1680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -231,6 +222,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "cards_earned": 1680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2J8GVPY8U",
             "name": "Portsmouth",
             "cards_earned": 1487,
@@ -298,9 +298,9 @@
             "badge_id": 16000003,
             "clan_score": 2883,
             "participants": 27,
-            "crowns": 11,
-            "battles_remaining": 8,
-            "battles_played": 19,
+            "crowns": 12,
+            "battles_remaining": 7,
+            "battles_played": 20,
             "wins": 10
         },
         {
@@ -318,5 +318,5 @@
     "cards": 33812,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "11 hours"
+    "end_label": "10 hours"
 }
