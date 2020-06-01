@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47471,
+    "clan_score": 47465,
     "required_trophies": 4600,
-    "donations_per_week": 1968,
+    "donations_per_week": 1976,
     "clan_war_trophies": 3099,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,7 +47,7 @@
                 "name": "Master I"
             },
             "role": "leader",
-            "last_seen": "20200601T212225.000Z",
+            "last_seen": "20200601T214046.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 183,
@@ -293,23 +293,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 4711,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200601T212025.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 13,
-            "donations": 116,
-            "donations_received": 48,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
             "exp_level": 12,
@@ -320,7 +303,7 @@
             },
             "role": "member",
             "last_seen": "20200531T062542.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 15,
             "donations": 0,
             "donations_received": 0,
@@ -337,10 +320,27 @@
             },
             "role": "elder",
             "last_seen": "20200601T125251.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 18,
             "donations": 56,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 4686,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200601T212025.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 13,
+            "donations": 116,
+            "donations_received": 56,
             "clan_chest_points": 0
         },
         {
@@ -506,10 +506,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200531T015908.000Z",
+            "last_seen": "20200601T213901.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 27,
-            "donations": 0,
+            "donations": 8,
             "donations_received": 0,
             "clan_chest_points": 0
         },
