@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3099,
         "participants": 24,
-        "crowns": 3,
+        "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 1,
-        "wins": 1
+        "battles_played": 2,
+        "wins": 2
     },
     "participants": [
         {
@@ -132,15 +132,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#8RQYURC",
             "name": "Tranosaurus",
             "cards_earned": 2805,
@@ -229,6 +220,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -271,10 +271,10 @@
             "badge_id": 16000047,
             "clan_score": 4043,
             "participants": 27,
-            "crowns": 8,
-            "battles_remaining": 24,
-            "battles_played": 3,
-            "wins": 3
+            "crowns": 9,
+            "battles_remaining": 22,
+            "battles_played": 5,
+            "wins": 4
         },
         {
             "tag": "#LP98YUCV",
@@ -282,10 +282,10 @@
             "badge_id": 16000003,
             "clan_score": 3099,
             "participants": 24,
-            "crowns": 3,
-            "battles_remaining": 23,
-            "battles_played": 1,
-            "wins": 1
+            "crowns": 4,
+            "battles_remaining": 22,
+            "battles_played": 2,
+            "wins": 2
         }
     ]
 }
