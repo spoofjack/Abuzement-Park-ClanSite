@@ -10,7 +10,7 @@
         "participants": 24,
         "crowns": 15,
         "battles_remaining": null,
-        "battles_played": 20,
+        "battles_played": 21,
         "wins": 7
     },
     "participants": [
@@ -22,15 +22,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#22CUY2LV8",
-            "name": "tbj",
-            "cards_earned": 2200,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#Y0VP098",
@@ -139,6 +130,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#22CUY2LV8",
+            "name": "tbj",
+            "cards_earned": 2200,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
         },
         {
             "tag": "#YLGUQRVVQ",
@@ -283,8 +283,8 @@
             "clan_score": 3099,
             "participants": 24,
             "crowns": 15,
-            "battles_remaining": 4,
-            "battles_played": 20,
+            "battles_remaining": 3,
+            "battles_played": 21,
             "wins": 7
         }
     ]
