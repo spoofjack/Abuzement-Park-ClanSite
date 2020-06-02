@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47594,
+    "clan_score": 47592,
     "required_trophies": 4600,
     "donations_per_week": 2653,
     "clan_war_trophies": 3099,
@@ -361,23 +361,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 4686,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200602T074035.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 17,
-            "donations": 190,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 12,
@@ -388,9 +371,26 @@
             },
             "role": "elder",
             "last_seen": "20200601T235502.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 16,
             "donations": 102,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 4668,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200602T075728.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 17,
+            "donations": 190,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -608,7 +608,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200602T072001.000Z",
+            "last_seen": "20200602T080002.000Z",
             "clan_rank": 35,
             "previous_clan_rank": 24,
             "donations": 0,
