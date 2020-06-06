@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3066,
         "participants": 24,
-        "crowns": 2,
+        "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 1
+        "battles_played": 5,
+        "wins": 2
     },
     "participants": [
         {
@@ -36,15 +36,6 @@
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 2640,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y2C2RQG9R",
-            "name": "kr21__",
-            "cards_earned": 2200,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -107,15 +98,6 @@
         {
             "tag": "#J8CGQRJY",
             "name": "Hog Rider",
-            "cards_earned": 2200,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Q2JJ2JCY",
-            "name": "Armando Jr",
             "cards_earned": 2200,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -213,9 +195,27 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#Y2C2RQG9R",
+            "name": "kr21__",
+            "cards_earned": 2200,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 1842,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#Q2JJ2JCY",
+            "name": "Armando Jr",
+            "cards_earned": 2200,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -249,10 +249,10 @@
             "badge_id": 16000005,
             "clan_score": 17328,
             "participants": 25,
-            "crowns": 6,
-            "battles_remaining": 21,
-            "battles_played": 4,
-            "wins": 2
+            "crowns": 13,
+            "battles_remaining": 16,
+            "battles_played": 9,
+            "wins": 5
         },
         {
             "tag": "#PPG9LC8L",
@@ -261,8 +261,8 @@
             "clan_score": 9724,
             "participants": 25,
             "crowns": 0,
-            "battles_remaining": 25,
-            "battles_played": 0,
+            "battles_remaining": 23,
+            "battles_played": 2,
             "wins": 0
         },
         {
@@ -282,10 +282,10 @@
             "badge_id": 16000003,
             "clan_score": 3066,
             "participants": 24,
-            "crowns": 2,
-            "battles_remaining": 21,
-            "battles_played": 3,
-            "wins": 1
+            "crowns": 3,
+            "battles_remaining": 19,
+            "battles_played": 5,
+            "wins": 2
         }
     ]
 }
