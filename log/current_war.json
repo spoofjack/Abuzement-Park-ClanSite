@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3066,
         "participants": 24,
-        "crowns": 10,
+        "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 21,
-        "wins": 5
+        "battles_played": 22,
+        "wins": 6
     },
     "participants": [
         {
@@ -35,15 +35,6 @@
         {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
-            "cards_earned": 1760,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YVLRYQY8Q",
-            "name": "Jayy",
             "cards_earned": 1760,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -222,6 +213,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YVLRYQY8Q",
+            "name": "Jayy",
+            "cards_earned": 1760,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "cards_earned": 1760,
@@ -282,10 +282,10 @@
             "badge_id": 16000003,
             "clan_score": 3066,
             "participants": 24,
-            "crowns": 10,
-            "battles_remaining": 3,
-            "battles_played": 21,
-            "wins": 5
+            "crowns": 11,
+            "battles_remaining": 2,
+            "battles_played": 22,
+            "wins": 6
         }
     ]
 }
