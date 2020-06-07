@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 3049,
-        "participants": 19,
+        "participants": 20,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 55,
-        "wins": 26
+        "battles_played": 56,
+        "wins": 27
     },
     "participants": [
         {
@@ -57,6 +57,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 3,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "cards_earned": 880,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
             "number_of_battles": 3
         },
         {
@@ -187,7 +196,7 @@
         }
     ],
     "clans": null,
-    "cards": 35911,
+    "cards": 36791,
     "state_label": "Collection Day",
     "collection_end_time_label": "6 hours",
     "end_label": "1 day, 6 hours"
