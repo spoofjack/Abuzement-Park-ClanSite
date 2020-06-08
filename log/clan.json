@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49384,
+    "clan_score": 49361,
     "required_trophies": 5000,
-    "donations_per_week": 200,
+    "donations_per_week": 208,
     "clan_war_trophies": 3049,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -41,13 +41,13 @@
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
-            "trophies": 5241,
+            "trophies": 5194,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200608T010647.000Z",
+            "last_seen": "20200608T013816.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 20,
@@ -174,23 +174,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5001,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200608T005253.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 9,
-            "donations": 30,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 12,
@@ -201,7 +184,7 @@
             },
             "role": "elder",
             "last_seen": "20200608T005418.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 10,
             "donations": 10,
             "donations_received": 10,
@@ -211,16 +194,33 @@
             "tag": "#8RQYURC",
             "name": "Tranosaurus",
             "exp_level": 11,
-            "trophies": 4957,
+            "trophies": 4987,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200608T011407.000Z",
-            "clan_rank": 12,
+            "last_seen": "20200608T013918.000Z",
+            "clan_rank": 11,
             "previous_clan_rank": 13,
             "donations": 10,
+            "donations_received": 8,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 4980,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200608T014043.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 9,
+            "donations": 38,
             "donations_received": 0,
             "clan_chest_points": 0
         },
