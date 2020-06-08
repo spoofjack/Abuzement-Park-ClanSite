@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3049,
         "participants": 30,
-        "crowns": 1,
+        "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 1,
-        "wins": 1
+        "battles_played": 3,
+        "wins": 2
     },
     "participants": [
         {
@@ -128,24 +128,6 @@
             "cards_earned": 2640,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#22CUY2LV8",
-            "name": "tbj",
-            "cards_earned": 1320,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "cards_earned": 1760,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -283,6 +265,24 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#22CUY2LV8",
+            "name": "tbj",
+            "cards_earned": 1320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 1760,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -292,10 +292,10 @@
             "badge_id": 16000163,
             "clan_score": 3127,
             "participants": 29,
-            "crowns": 1,
-            "battles_remaining": 27,
-            "battles_played": 2,
-            "wins": 1
+            "crowns": 3,
+            "battles_remaining": 25,
+            "battles_played": 4,
+            "wins": 3
         },
         {
             "tag": "#9U2UVJ",
@@ -325,10 +325,10 @@
             "badge_id": 16000044,
             "clan_score": 24148,
             "participants": 31,
-            "crowns": 0,
-            "battles_remaining": 31,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 4,
+            "battles_remaining": 28,
+            "battles_played": 3,
+            "wins": 3
         },
         {
             "tag": "#LP98YUCV",
@@ -336,10 +336,10 @@
             "badge_id": 16000003,
             "clan_score": 3049,
             "participants": 30,
-            "crowns": 1,
-            "battles_remaining": 29,
-            "battles_played": 1,
-            "wins": 1
+            "crowns": 4,
+            "battles_remaining": 27,
+            "battles_played": 3,
+            "wins": 2
         }
     ]
 }
