@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 10,
         "battles_remaining": null,
-        "battles_played": 15,
+        "battles_played": 16,
         "wins": 7
     },
     "participants": [
@@ -99,15 +99,6 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 2200,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#899LR9Y80",
-            "name": "Warlord",
-            "cards_earned": 2640,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#899LR9Y80",
+            "name": "Warlord",
+            "cards_earned": 2640,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PY9QJCVYG",
             "name": "Carmine 1.1",
             "cards_earned": 2200,
@@ -315,8 +315,8 @@
             "clan_score": 3127,
             "participants": 29,
             "crowns": 15,
-            "battles_remaining": 11,
-            "battles_played": 18,
+            "battles_remaining": 10,
+            "battles_played": 19,
             "wins": 9
         },
         {
@@ -326,8 +326,8 @@
             "clan_score": 3049,
             "participants": 30,
             "crowns": 10,
-            "battles_remaining": 15,
-            "battles_played": 15,
+            "battles_remaining": 14,
+            "battles_played": 16,
             "wins": 7
         },
         {
@@ -337,13 +337,13 @@
             "clan_score": 3022,
             "participants": 30,
             "crowns": 12,
-            "battles_remaining": 23,
-            "battles_played": 7,
+            "battles_remaining": 22,
+            "battles_played": 8,
             "wins": 5
         }
     ],
     "cards": 55957,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "16 hours"
+    "end_label": "15 hours"
 }
