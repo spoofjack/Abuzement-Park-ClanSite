@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 6,
         "battles_remaining": null,
-        "battles_played": 7,
+        "battles_played": 8,
         "wins": 4
     },
     "participants": [
@@ -126,15 +126,6 @@
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 1401,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8J8PVVR2L",
-            "name": "Night Witch",
-            "cards_earned": 2200,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -276,6 +267,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8J8PVVR2L",
+            "name": "Night Witch",
+            "cards_earned": 2200,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2092V2QU8",
             "name": "JustBuildLol",
             "cards_earned": 1320,
@@ -293,8 +293,8 @@
             "clan_score": 3127,
             "participants": 29,
             "crowns": 12,
-            "battles_remaining": 17,
-            "battles_played": 12,
+            "battles_remaining": 16,
+            "battles_played": 13,
             "wins": 8
         },
         {
@@ -304,8 +304,8 @@
             "clan_score": 9915,
             "participants": 30,
             "crowns": 10,
-            "battles_remaining": 23,
-            "battles_played": 7,
+            "battles_remaining": 22,
+            "battles_played": 8,
             "wins": 5
         },
         {
@@ -337,8 +337,8 @@
             "clan_score": 3049,
             "participants": 30,
             "crowns": 6,
-            "battles_remaining": 23,
-            "battles_played": 7,
+            "battles_remaining": 22,
+            "battles_played": 8,
             "wins": 4
         }
     ]
