@@ -10,7 +10,7 @@
         "participants": 28,
         "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 11,
         "wins": 5
     },
     "participants": [
@@ -141,15 +141,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PL990R0YG",
-            "name": "JayWizz",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#PY9QJCVYG",
             "name": "Carmine 1.1",
             "cards_earned": 1680,
@@ -249,6 +240,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PL990R0YG",
+            "name": "JayWizz",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1487,
@@ -274,9 +274,9 @@
             "badge_id": 16000126,
             "clan_score": 2224,
             "participants": 27,
-            "crowns": 19,
-            "battles_remaining": 9,
-            "battles_played": 18,
+            "crowns": 21,
+            "battles_remaining": 7,
+            "battles_played": 20,
             "wins": 9
         },
         {
@@ -308,8 +308,8 @@
             "clan_score": 2976,
             "participants": 28,
             "crowns": 11,
-            "battles_remaining": 18,
-            "battles_played": 10,
+            "battles_remaining": 17,
+            "battles_played": 11,
             "wins": 5
         },
         {
@@ -318,10 +318,10 @@
             "badge_id": 16000008,
             "clan_score": 2957,
             "participants": 28,
-            "crowns": 1,
-            "battles_remaining": 24,
-            "battles_played": 4,
-            "wins": 1
+            "crowns": 3,
+            "battles_remaining": 22,
+            "battles_played": 6,
+            "wins": 3
         }
     ],
     "cards": 36198,
