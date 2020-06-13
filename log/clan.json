@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50896,
+    "clan_score": 50889,
     "required_trophies": 5000,
     "donations_per_week": 12532,
     "clan_war_trophies": 2964,
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 12,
-            "trophies": 5273,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200613T130746.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 6,
-            "donations": 221,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -184,7 +167,7 @@
             },
             "role": "elder",
             "last_seen": "20200613T104604.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 12,
             "donations": 345,
             "donations_received": 520,
@@ -201,10 +184,27 @@
             },
             "role": "member",
             "last_seen": "20200613T125158.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 8,
             "donations": 265,
             "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 12,
+            "trophies": 5256,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200613T130746.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 6,
+            "donations": 221,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -387,7 +387,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200613T113656.000Z",
+            "last_seen": "20200613T140726.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 19,
             "donations": 278,
