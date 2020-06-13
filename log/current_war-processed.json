@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2964,
-        "participants": 5,
+        "participants": 6,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 2
+        "battles_played": 14,
+        "wins": 4
     },
     "participants": [
         {
@@ -51,6 +51,15 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 1487,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#PY9QJCVYG",
             "name": "Carmine 1.1",
             "cards_earned": 1120,
@@ -61,7 +70,7 @@
         }
     ],
     "clans": null,
-    "cards": 3777,
+    "cards": 5264,
     "state_label": "Collection Day",
     "collection_end_time_label": "19 hours",
     "end_label": "1 day, 19 hours"
