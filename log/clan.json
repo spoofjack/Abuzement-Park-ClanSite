@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50934,
+    "clan_score": 50931,
     "required_trophies": 5000,
     "donations_per_week": 11916,
     "clan_war_trophies": 2976,
@@ -293,6 +293,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5035,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200613T065404.000Z",
+            "clan_rank": 17,
+            "previous_clan_rank": 16,
+            "donations": 334,
+            "donations_received": 520,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8RQYURC",
             "name": "Tranosaurus",
             "exp_level": 11,
@@ -303,27 +320,10 @@
             },
             "role": "member",
             "last_seen": "20200613T062608.000Z",
-            "clan_rank": 17,
+            "clan_rank": 18,
             "previous_clan_rank": 23,
             "donations": 295,
             "donations_received": 456,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5022,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200613T065404.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 16,
-            "donations": 334,
-            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -480,23 +480,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8J0J889GY",
-            "name": "progamer2008",
-            "exp_level": 11,
-            "trophies": 4840,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200613T065807.000Z",
-            "clan_rank": 28,
-            "previous_clan_rank": 27,
-            "donations": 224,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2V8QJYJ2V",
             "name": "ghostshadow",
             "exp_level": 12,
@@ -507,7 +490,7 @@
             },
             "role": "member",
             "last_seen": "20200613T034814.000Z",
-            "clan_rank": 29,
+            "clan_rank": 28,
             "previous_clan_rank": 34,
             "donations": 44,
             "donations_received": 80,
@@ -524,7 +507,7 @@
             },
             "role": "member",
             "last_seen": "20200612T200121.000Z",
-            "clan_rank": 30,
+            "clan_rank": 29,
             "previous_clan_rank": 31,
             "donations": 0,
             "donations_received": 0,
@@ -541,9 +524,26 @@
             },
             "role": "member",
             "last_seen": "20200612T190013.000Z",
-            "clan_rank": 31,
+            "clan_rank": 30,
             "previous_clan_rank": 29,
             "donations": 58,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8J0J889GY",
+            "name": "progamer2008",
+            "exp_level": 11,
+            "trophies": 4782,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200613T065807.000Z",
+            "clan_rank": 31,
+            "previous_clan_rank": 27,
+            "donations": 224,
             "donations_received": 40,
             "clan_chest_points": 0
         },
