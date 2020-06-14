@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2964,
         "participants": 27,
-        "crowns": 0,
+        "crowns": 1,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 1,
+        "wins": 1
     },
     "participants": [
         {
@@ -90,15 +90,6 @@
             "tag": "#QGLYUPYJ",
             "name": "VB2",
             "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -256,29 +247,49 @@
             "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
-        {
-            "tag": "#2JPPLLLY",
-            "name": "\uc544\uba54\ub9ac\uce74\ub178",
-            "badge_id": 16000127,
-            "clan_score": 2464,
-            "participants": 29,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 0,
-            "wins": 0
-        },
         {
             "tag": "#Y2228R02",
             "name": "FlyingLegends",
             "badge_id": 16000167,
             "clan_score": 2306,
             "participants": 28,
-            "crowns": 0,
-            "battles_remaining": 28,
-            "battles_played": 0,
+            "crowns": 4,
+            "battles_remaining": 25,
+            "battles_played": 3,
+            "wins": 2
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2964,
+            "participants": 27,
+            "crowns": 1,
+            "battles_remaining": 26,
+            "battles_played": 1,
+            "wins": 1
+        },
+        {
+            "tag": "#2JPPLLLY",
+            "name": "\uc544\uba54\ub9ac\uce74\ub178",
+            "badge_id": 16000127,
+            "clan_score": 2464,
+            "participants": 29,
+            "crowns": 1,
+            "battles_remaining": 27,
+            "battles_played": 2,
             "wins": 0
         },
         {
@@ -287,20 +298,9 @@
             "badge_id": 16000175,
             "clan_score": 1693,
             "participants": 27,
-            "crowns": 0,
-            "battles_remaining": 27,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2964,
-            "participants": 27,
-            "crowns": 0,
-            "battles_remaining": 27,
-            "battles_played": 0,
+            "crowns": 1,
+            "battles_remaining": 25,
+            "battles_played": 2,
             "wins": 0
         },
         {
@@ -310,8 +310,8 @@
             "clan_score": 2079,
             "participants": 27,
             "crowns": 0,
-            "battles_remaining": 27,
-            "battles_played": 0,
+            "battles_remaining": 25,
+            "battles_played": 2,
             "wins": 0
         }
     ],
