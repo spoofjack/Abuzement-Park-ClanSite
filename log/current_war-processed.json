@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2964,
         "participants": 27,
-        "crowns": 15,
+        "crowns": 18,
         "battles_remaining": null,
-        "battles_played": 16,
-        "wins": 8
+        "battles_played": 18,
+        "wins": 9
     },
     "participants": [
         {
@@ -112,15 +112,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#9L2VYLJYP",
-            "name": "antluc5248",
-            "cards_earned": 560,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#J28UPQ0P",
@@ -256,6 +247,15 @@
             "collection_day_battles_played": 3,
             "wins": 2,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#9L2VYLJYP",
+            "name": "antluc5248",
+            "cards_earned": 560,
+            "battles_played": 2,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -276,10 +276,10 @@
             "badge_id": 16000003,
             "clan_score": 2964,
             "participants": 27,
-            "crowns": 15,
-            "battles_remaining": 11,
-            "battles_played": 16,
-            "wins": 8
+            "crowns": 18,
+            "battles_remaining": 9,
+            "battles_played": 18,
+            "wins": 9
         },
         {
             "tag": "#2JPPLLLY",
@@ -298,9 +298,9 @@
             "badge_id": 16000175,
             "clan_score": 1693,
             "participants": 27,
-            "crowns": 16,
-            "battles_remaining": 10,
-            "battles_played": 17,
+            "crowns": 17,
+            "battles_remaining": 9,
+            "battles_played": 18,
             "wins": 5
         },
         {
@@ -318,5 +318,5 @@
     "cards": 31211,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "18 hours"
+    "end_label": "17 hours"
 }
