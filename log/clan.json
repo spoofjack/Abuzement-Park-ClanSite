@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50976,
+    "clan_score": 50988,
     "required_trophies": 5000,
-    "donations_per_week": 14208,
+    "donations_per_week": 14228,
     "clan_war_trophies": 2964,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -327,6 +327,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5022,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200614T063558.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 17,
+            "donations": 384,
+            "donations_received": 600,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#22CUY2LV8",
             "name": "tbj",
             "exp_level": 11,
@@ -337,7 +354,7 @@
             },
             "role": "member",
             "last_seen": "20200614T002348.000Z",
-            "clan_rank": 19,
+            "clan_rank": 20,
             "previous_clan_rank": 21,
             "donations": 84,
             "donations_received": 40,
@@ -354,7 +371,7 @@
             },
             "role": "member",
             "last_seen": "20200614T020103.000Z",
-            "clan_rank": 20,
+            "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 344,
             "donations_received": 160,
@@ -371,7 +388,7 @@
             },
             "role": "elder",
             "last_seen": "20200613T142630.000Z",
-            "clan_rank": 21,
+            "clan_rank": 22,
             "previous_clan_rank": 19,
             "donations": 340,
             "donations_received": 480,
@@ -388,27 +405,10 @@
             },
             "role": "elder",
             "last_seen": "20200614T050627.000Z",
-            "clan_rank": 22,
+            "clan_rank": 23,
             "previous_clan_rank": 24,
             "donations": 704,
             "donations_received": 560,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 4953,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200614T063558.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 17,
-            "donations": 374,
-            "donations_received": 600,
             "clan_chest_points": 0
         },
         {
@@ -697,7 +697,7 @@
             "clan_rank": 40,
             "previous_clan_rank": 40,
             "donations": 86,
-            "donations_received": 290,
+            "donations_received": 300,
             "clan_chest_points": 0
         },
         {
@@ -714,7 +714,7 @@
             "clan_rank": 41,
             "previous_clan_rank": 41,
             "donations": 189,
-            "donations_received": 330,
+            "donations_received": 340,
             "clan_chest_points": 0
         },
         {
@@ -727,10 +727,10 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200614T052645.000Z",
+            "last_seen": "20200614T065021.000Z",
             "clan_rank": 42,
             "previous_clan_rank": 43,
-            "donations": 264,
+            "donations": 274,
             "donations_received": 312,
             "clan_chest_points": 0
         },
