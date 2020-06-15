@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51750,
+    "clan_score": 51776,
     "required_trophies": 5000,
     "donations_per_week": 1536,
     "clan_war_trophies": 3028,
@@ -72,6 +72,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "exp_level": 13,
+            "trophies": 5374,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200615T185839.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 5,
+            "donations": 96,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -82,7 +99,7 @@
             },
             "role": "member",
             "last_seen": "20200615T140410.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 6,
             "donations": 20,
             "donations_received": 80,
@@ -99,7 +116,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200615T181219.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 7,
             "donations": 120,
             "donations_received": 80,
@@ -116,7 +133,7 @@
             },
             "role": "member",
             "last_seen": "20200615T183644.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 4,
             "donations": 8,
             "donations_received": 16,
@@ -133,27 +150,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200615T012929.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 18,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "exp_level": 13,
-            "trophies": 5317,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200615T185839.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 5,
-            "donations": 96,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -234,7 +234,7 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200615T183240.000Z",
+            "last_seen": "20200615T190028.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 19,
             "donations": 48,
@@ -319,7 +319,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200615T115935.000Z",
+            "last_seen": "20200615T190859.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 16,
             "donations": 86,
@@ -395,23 +395,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 5001,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200615T185906.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 17,
-            "donations": 20,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "exp_level": 13,
@@ -422,7 +405,7 @@
             },
             "role": "elder",
             "last_seen": "20200615T184839.000Z",
-            "clan_rank": 24,
+            "clan_rank": 23,
             "previous_clan_rank": 22,
             "donations": 46,
             "donations_received": 80,
@@ -439,9 +422,26 @@
             },
             "role": "elder",
             "last_seen": "20200615T152910.000Z",
-            "clan_rank": 25,
+            "clan_rank": 24,
             "previous_clan_rank": 23,
             "donations": 50,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 4980,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200615T185906.000Z",
+            "clan_rank": 25,
+            "previous_clan_rank": 17,
+            "donations": 20,
             "donations_received": 40,
             "clan_chest_points": 0
         },
