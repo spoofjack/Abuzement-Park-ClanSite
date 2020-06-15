@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51744,
+    "clan_score": 51750,
     "required_trophies": 5000,
-    "donations_per_week": 1528,
+    "donations_per_week": 1536,
     "clan_war_trophies": 3028,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -119,7 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 4,
             "donations": 8,
-            "donations_received": 8,
+            "donations_received": 16,
             "clan_chest_points": 0
         },
         {
@@ -149,7 +149,7 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200615T162142.000Z",
+            "last_seen": "20200615T185839.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 5,
             "donations": 96,
@@ -404,11 +404,28 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200615T182118.000Z",
+            "last_seen": "20200615T185906.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 17,
             "donations": 20,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "exp_level": 13,
+            "trophies": 4995,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200615T184839.000Z",
+            "clan_rank": 24,
+            "previous_clan_rank": 22,
+            "donations": 46,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -422,7 +439,7 @@
             },
             "role": "elder",
             "last_seen": "20200615T152910.000Z",
-            "clan_rank": 24,
+            "clan_rank": 25,
             "previous_clan_rank": 23,
             "donations": 50,
             "donations_received": 40,
@@ -439,27 +456,10 @@
             },
             "role": "member",
             "last_seen": "20200614T183156.000Z",
-            "clan_rank": 25,
+            "clan_rank": 26,
             "previous_clan_rank": 24,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "exp_level": 13,
-            "trophies": 4965,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200615T170021.000Z",
-            "clan_rank": 26,
-            "previous_clan_rank": 22,
-            "donations": 46,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -628,7 +628,7 @@
             "last_seen": "20200615T182659.000Z",
             "clan_rank": 36,
             "previous_clan_rank": 34,
-            "donations": 52,
+            "donations": 60,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -684,6 +684,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#899LR9Y80",
+            "name": "Warlord",
+            "exp_level": 10,
+            "trophies": 4627,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200615T185347.000Z",
+            "clan_rank": 40,
+            "previous_clan_rank": 41,
+            "donations": 16,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2J8GVPY8U",
             "name": "Portsmouth",
             "exp_level": 12,
@@ -694,7 +711,7 @@
             },
             "role": "member",
             "last_seen": "20200609T182200.000Z",
-            "clan_rank": 40,
+            "clan_rank": 41,
             "previous_clan_rank": 39,
             "donations": 0,
             "donations_received": 0,
@@ -711,26 +728,9 @@
             },
             "role": "member",
             "last_seen": "20200615T142951.000Z",
-            "clan_rank": 41,
+            "clan_rank": 42,
             "previous_clan_rank": 40,
             "donations": 0,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#899LR9Y80",
-            "name": "Warlord",
-            "exp_level": 10,
-            "trophies": 4598,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200615T181050.000Z",
-            "clan_rank": 42,
-            "previous_clan_rank": 41,
-            "donations": 16,
             "donations_received": 40,
             "clan_chest_points": 0
         },
