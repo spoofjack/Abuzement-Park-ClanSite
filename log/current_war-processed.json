@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3028,
         "participants": 30,
-        "crowns": 13,
+        "crowns": 16,
         "battles_remaining": null,
-        "battles_played": 16,
-        "wins": 6
+        "battles_played": 17,
+        "wins": 7
     },
     "participants": [
         {
@@ -117,15 +117,6 @@
             "tag": "#2092V2QU8",
             "name": "JustBuildLol",
             "cards_earned": 2200,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "cards_earned": 2337,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -283,6 +274,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "cards_earned": 2337,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -298,6 +298,17 @@
             "wins": 16
         },
         {
+            "tag": "#22V9YYQC",
+            "name": "Natal Clash",
+            "badge_id": 16000166,
+            "clan_score": 8537,
+            "participants": 28,
+            "crowns": 17,
+            "battles_remaining": 11,
+            "battles_played": 17,
+            "wins": 10
+        },
+        {
             "tag": "#209CJP",
             "name": "FaZe Gold",
             "badge_id": 16000152,
@@ -306,17 +317,6 @@
             "crowns": 16,
             "battles_remaining": 15,
             "battles_played": 14,
-            "wins": 9
-        },
-        {
-            "tag": "#22V9YYQC",
-            "name": "Natal Clash",
-            "badge_id": 16000166,
-            "clan_score": 8537,
-            "participants": 28,
-            "crowns": 14,
-            "battles_remaining": 12,
-            "battles_played": 16,
             "wins": 9
         },
         {
@@ -336,10 +336,10 @@
             "badge_id": 16000003,
             "clan_score": 3028,
             "participants": 30,
-            "crowns": 13,
-            "battles_remaining": 14,
-            "battles_played": 16,
-            "wins": 6
+            "crowns": 16,
+            "battles_remaining": 13,
+            "battles_played": 17,
+            "wins": 7
         }
     ],
     "cards": 52370,
