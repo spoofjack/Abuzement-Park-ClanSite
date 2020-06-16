@@ -298,6 +298,17 @@
             "wins": 15
         },
         {
+            "tag": "#209CJP",
+            "name": "FaZe Gold",
+            "badge_id": 16000152,
+            "clan_score": 23286,
+            "participants": 29,
+            "crowns": 16,
+            "battles_remaining": 15,
+            "battles_played": 14,
+            "wins": 9
+        },
+        {
             "tag": "#22V9YYQC",
             "name": "Natal Clash",
             "badge_id": 16000166,
@@ -309,25 +320,14 @@
             "wins": 9
         },
         {
-            "tag": "#209CJP",
-            "name": "FaZe Gold",
-            "badge_id": 16000152,
-            "clan_score": 23286,
-            "participants": 29,
-            "crowns": 15,
-            "battles_remaining": 16,
-            "battles_played": 13,
-            "wins": 8
-        },
-        {
             "tag": "#QRLQY9G",
             "name": "twonil2-0",
             "badge_id": 16000013,
             "clan_score": 4349,
             "participants": 29,
             "crowns": 15,
-            "battles_remaining": 10,
-            "battles_played": 19,
+            "battles_remaining": 9,
+            "battles_played": 20,
             "wins": 8
         },
         {
@@ -345,5 +345,5 @@
     "cards": 52370,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "17 hours"
+    "end_label": "16 hours"
 }
