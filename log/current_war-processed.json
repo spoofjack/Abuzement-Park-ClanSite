@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 3028,
         "participants": 30,
-        "crowns": 9,
+        "crowns": 10,
         "battles_remaining": null,
-        "battles_played": 11,
+        "battles_played": 12,
         "wins": 5
     },
     "participants": [
@@ -108,15 +108,6 @@
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "cards_earned": 2337,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -258,6 +249,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 2337,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#208V2RGL",
             "name": "NateDog",
             "cards_earned": 1320,
@@ -325,10 +325,10 @@
             "badge_id": 16000152,
             "clan_score": 23286,
             "participants": 29,
-            "crowns": 12,
-            "battles_remaining": 18,
-            "battles_played": 11,
-            "wins": 6
+            "crowns": 13,
+            "battles_remaining": 17,
+            "battles_played": 12,
+            "wins": 7
         },
         {
             "tag": "#LP98YUCV",
@@ -336,14 +336,14 @@
             "badge_id": 16000003,
             "clan_score": 3028,
             "participants": 30,
-            "crowns": 9,
-            "battles_remaining": 19,
-            "battles_played": 11,
+            "crowns": 10,
+            "battles_remaining": 18,
+            "battles_played": 12,
             "wins": 5
         }
     ],
     "cards": 52370,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "19 hours"
+    "end_label": "18 hours"
 }
