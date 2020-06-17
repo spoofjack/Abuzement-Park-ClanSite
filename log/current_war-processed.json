@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 3028,
         "participants": 30,
-        "crowns": 22,
+        "crowns": 23,
         "battles_remaining": null,
-        "battles_played": 25,
-        "wins": 10
+        "battles_played": 26,
+        "wins": 11
     },
     "participants": [
-        {
-            "tag": "#Y2C2RQG9R",
-            "name": "kr21__",
-            "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
@@ -120,6 +111,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#Y2C2RQG9R",
+            "name": "kr21__",
+            "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -320,6 +320,17 @@
             "wins": 15
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 3028,
+            "participants": 30,
+            "crowns": 23,
+            "battles_remaining": 4,
+            "battles_played": 26,
+            "wins": 11
+        },
+        {
             "tag": "#QRLQY9G",
             "name": "twonil2-0",
             "badge_id": 16000013,
@@ -329,21 +340,10 @@
             "battles_remaining": 3,
             "battles_played": 26,
             "wins": 11
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 3028,
-            "participants": 30,
-            "crowns": 22,
-            "battles_remaining": 5,
-            "battles_played": 25,
-            "wins": 10
         }
     ],
     "cards": 52370,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "4 hours"
+    "end_label": "3 hours"
 }
