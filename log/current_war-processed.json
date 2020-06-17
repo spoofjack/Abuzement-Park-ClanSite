@@ -7,10 +7,10 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2939,
-        "participants": 17,
+        "participants": 18,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 41,
+        "battles_played": 43,
         "wins": 15
     },
     "participants": [
@@ -21,6 +21,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "cards_earned": 594,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 0,
             "number_of_battles": 3
         },
         {
@@ -169,7 +178,7 @@
         }
     ],
     "clans": null,
-    "cards": 16356,
+    "cards": 16950,
     "state_label": "Collection Day",
     "collection_end_time_label": "14 hours",
     "end_label": "1 day, 14 hours"
