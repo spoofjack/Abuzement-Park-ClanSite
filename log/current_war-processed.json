@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 3028,
         "participants": 30,
-        "crowns": 18,
+        "crowns": 20,
         "battles_remaining": null,
-        "battles_played": 23,
-        "wins": 8
+        "battles_played": 24,
+        "wins": 9
     },
     "participants": [
-        {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
-            "cards_earned": 1401,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#Y2C2RQG9R",
             "name": "kr21__",
@@ -108,6 +99,15 @@
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "cards_earned": 1401,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -314,10 +314,21 @@
             "badge_id": 16000152,
             "clan_score": 23286,
             "participants": 29,
+            "crowns": 22,
+            "battles_remaining": 6,
+            "battles_played": 23,
+            "wins": 12
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 3028,
+            "participants": 30,
             "crowns": 20,
-            "battles_remaining": 7,
-            "battles_played": 22,
-            "wins": 11
+            "battles_remaining": 6,
+            "battles_played": 24,
+            "wins": 9
         },
         {
             "tag": "#QRLQY9G",
@@ -329,17 +340,6 @@
             "battles_remaining": 5,
             "battles_played": 24,
             "wins": 9
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 3028,
-            "participants": 30,
-            "crowns": 18,
-            "battles_remaining": 7,
-            "battles_played": 23,
-            "wins": 8
         }
     ],
     "cards": 52370,
