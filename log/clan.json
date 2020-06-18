@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52029,
+    "clan_score": 52028,
     "required_trophies": 5000,
     "donations_per_week": 7583,
     "clan_war_trophies": 2939,
@@ -276,23 +276,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5169,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200618T054306.000Z",
-            "clan_rank": 16,
-            "previous_clan_rank": 15,
-            "donations": 260,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "exp_level": 12,
@@ -303,9 +286,26 @@
             },
             "role": "elder",
             "last_seen": "20200618T005428.000Z",
-            "clan_rank": 17,
+            "clan_rank": 16,
             "previous_clan_rank": 19,
             "donations": 274,
+            "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5157,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200618T054306.000Z",
+            "clan_rank": 17,
+            "previous_clan_rank": 15,
+            "donations": 260,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -432,10 +432,10 @@
             "tag": "#PV02PGVQ",
             "name": "someone",
             "exp_level": 11,
-            "trophies": 4999,
+            "trophies": 5010,
             "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
+                "id": 54000015,
+                "name": "Master I"
             },
             "role": "elder",
             "last_seen": "20200618T060003.000Z",
