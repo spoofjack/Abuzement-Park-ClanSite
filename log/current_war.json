@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2939,
         "participants": 25,
-        "crowns": 16,
+        "crowns": 17,
         "battles_remaining": null,
-        "battles_played": 17,
+        "battles_played": 18,
         "wins": 6
     },
     "participants": [
-        {
-            "tag": "#QGLYUPYJ",
-            "name": "VB2",
-            "cards_earned": 560,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
@@ -150,6 +141,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#QGLYUPYJ",
+            "name": "VB2",
+            "cards_earned": 560,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "cards_earned": 840,
@@ -269,10 +269,10 @@
             "badge_id": 16000080,
             "clan_score": 2607,
             "participants": 25,
-            "crowns": 18,
-            "battles_remaining": 6,
-            "battles_played": 19,
-            "wins": 8
+            "crowns": 20,
+            "battles_remaining": 4,
+            "battles_played": 21,
+            "wins": 9
         },
         {
             "tag": "#LP98YUCV",
@@ -280,9 +280,9 @@
             "badge_id": 16000003,
             "clan_score": 2939,
             "participants": 25,
-            "crowns": 16,
-            "battles_remaining": 8,
-            "battles_played": 17,
+            "crowns": 17,
+            "battles_remaining": 7,
+            "battles_played": 18,
             "wins": 6
         },
         {
@@ -291,10 +291,10 @@
             "badge_id": 16000114,
             "clan_score": 2616,
             "participants": 26,
-            "crowns": 12,
-            "battles_remaining": 11,
-            "battles_played": 15,
-            "wins": 6
+            "crowns": 13,
+            "battles_remaining": 9,
+            "battles_played": 17,
+            "wins": 7
         }
     ]
 }
