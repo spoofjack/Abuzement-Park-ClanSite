@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52306,
+    "clan_score": 52322,
     "required_trophies": 5000,
-    "donations_per_week": 9947,
+    "donations_per_week": 10049,
     "clan_war_trophies": 2939,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5625,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "leader",
+            "last_seen": "20200619T102526.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 5,
+            "donations": 747,
+            "donations_received": 500,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
@@ -31,7 +48,7 @@
             },
             "role": "member",
             "last_seen": "20200619T072028.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 3,
             "donations": 314,
             "donations_received": 360,
@@ -48,27 +65,10 @@
             },
             "role": "elder",
             "last_seen": "20200619T014342.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 1,
             "donations": 212,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5593,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "leader",
-            "last_seen": "20200619T021520.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 5,
-            "donations": 711,
-            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -81,11 +81,11 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20200619T021305.000Z",
+            "last_seen": "20200619T101730.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 4,
-            "donations": 1034,
-            "donations_received": 371,
+            "donations": 1072,
+            "donations_received": 379,
             "clan_chest_points": 0
         },
         {
@@ -102,7 +102,7 @@
             "clan_rank": 5,
             "previous_clan_rank": 2,
             "donations": 312,
-            "donations_received": 300,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 273,
-            "donations_received": 290,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -251,7 +251,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200619T081856.000Z",
+            "last_seen": "20200619T102409.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 271,
@@ -306,7 +306,7 @@
             "clan_rank": 17,
             "previous_clan_rank": 17,
             "donations": 208,
-            "donations_received": 376,
+            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -795,10 +795,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200619T001141.000Z",
+            "last_seen": "20200619T102548.000Z",
             "clan_rank": 46,
             "previous_clan_rank": 46,
-            "donations": 104,
+            "donations": 132,
             "donations_received": 160,
             "clan_chest_points": 0
         },
