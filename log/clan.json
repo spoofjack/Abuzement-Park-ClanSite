@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52317,
+    "clan_score": 52328,
     "required_trophies": 5000,
     "donations_per_week": 9425,
     "clan_war_trophies": 2939,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5593,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "leader",
+            "last_seen": "20200619T001344.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 5,
+            "donations": 683,
+            "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
@@ -31,7 +48,7 @@
             },
             "role": "member",
             "last_seen": "20200618T175630.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 264,
             "donations_received": 320,
@@ -48,7 +65,7 @@
             },
             "role": "elder",
             "last_seen": "20200618T181439.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 304,
             "donations_received": 280,
@@ -65,27 +82,10 @@
             },
             "role": "elder",
             "last_seen": "20200618T195831.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 2,
             "donations": 158,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5566,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "leader",
-            "last_seen": "20200619T001344.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 5,
-            "donations": 683,
-            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -378,23 +378,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 5072,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200619T000055.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 17,
-            "donations": 240,
-            "donations_received": 312,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "exp_level": 11,
@@ -405,10 +388,27 @@
             },
             "role": "member",
             "last_seen": "20200618T144612.000Z",
-            "clan_rank": 23,
+            "clan_rank": 22,
             "previous_clan_rank": 24,
             "donations": 162,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 5050,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200619T000055.000Z",
+            "clan_rank": 23,
+            "previous_clan_rank": 17,
+            "donations": 240,
+            "donations_received": 312,
             "clan_chest_points": 0
         },
         {
