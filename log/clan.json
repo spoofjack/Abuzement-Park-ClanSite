@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52279,
+    "clan_score": 52304,
     "required_trophies": 5000,
-    "donations_per_week": 9481,
+    "donations_per_week": 9507,
     "clan_war_trophies": 2939,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#L9CQG8J",
+            "name": "Indeed",
+            "exp_level": 13,
+            "trophies": 5621,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "member",
+            "last_seen": "20200619T004727.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 1,
+            "donations": 274,
+            "donations_received": 336,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -31,44 +48,10 @@
             },
             "role": "leader",
             "last_seen": "20200619T003928.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 5,
             "donations": 683,
-            "donations_received": 470,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#L9CQG8J",
-            "name": "Indeed",
-            "exp_level": 13,
-            "trophies": 5592,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20200618T175630.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 1,
-            "donations": 264,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5584,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200619T003645.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 2,
-            "donations": 186,
-            "donations_received": 160,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -82,7 +65,7 @@
             },
             "role": "elder",
             "last_seen": "20200618T181439.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 304,
             "donations_received": 280,
@@ -99,10 +82,44 @@
             },
             "role": "coLeader",
             "last_seen": "20200618T204557.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 6,
             "donations": 1014,
             "donations_received": 361,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5564,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200619T003645.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 2,
+            "donations": 186,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "exp_level": 13,
+            "trophies": 5460,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200619T003156.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 4,
+            "donations": 232,
+            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -116,7 +133,7 @@
             },
             "role": "member",
             "last_seen": "20200619T001323.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 102,
             "donations_received": 156,
@@ -133,7 +150,7 @@
             },
             "role": "member",
             "last_seen": "20200618T183629.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 10,
             "donations": 312,
             "donations_received": 320,
@@ -150,27 +167,10 @@
             },
             "role": "member",
             "last_seen": "20200618T230625.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 263,
             "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "exp_level": 13,
-            "trophies": 5430,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200619T003156.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 4,
-            "donations": 232,
-            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -344,6 +344,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#22CUY2LV8",
+            "name": "tbj",
+            "exp_level": 11,
+            "trophies": 5123,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200619T003738.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 16,
+            "donations": 162,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "exp_level": 13,
@@ -354,27 +371,10 @@
             },
             "role": "elder",
             "last_seen": "20200618T190506.000Z",
-            "clan_rank": 20,
+            "clan_rank": 21,
             "previous_clan_rank": 23,
             "donations": 298,
             "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#22CUY2LV8",
-            "name": "tbj",
-            "exp_level": 11,
-            "trophies": 5094,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200619T003738.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 16,
-            "donations": 154,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -421,7 +421,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200619T004010.000Z",
+            "last_seen": "20200619T005649.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 17,
             "donations": 240,
@@ -506,10 +506,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200618T073124.000Z",
+            "last_seen": "20200619T005752.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 28,
-            "donations": 49,
+            "donations": 57,
             "donations_received": 0,
             "clan_chest_points": 0
         },
