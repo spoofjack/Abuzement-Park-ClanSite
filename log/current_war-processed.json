@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2939,
         "participants": 25,
-        "crowns": 18,
+        "crowns": 20,
         "battles_remaining": null,
-        "battles_played": 19,
-        "wins": 7
+        "battles_played": 20,
+        "wins": 8
     },
     "participants": [
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2P9QGRRLC",
             "name": "IvoVich",
@@ -177,6 +168,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "cards_earned": 1487,
@@ -264,6 +264,17 @@
             "wins": 10
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2939,
+            "participants": 25,
+            "crowns": 20,
+            "battles_remaining": 5,
+            "battles_played": 20,
+            "wins": 8
+        },
+        {
             "tag": "#28L9JU",
             "name": "\u6b22\u8fce\u5927\u5bb6",
             "badge_id": 16000114,
@@ -273,17 +284,6 @@
             "battles_remaining": 8,
             "battles_played": 18,
             "wins": 8
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2939,
-            "participants": 25,
-            "crowns": 18,
-            "battles_remaining": 6,
-            "battles_played": 19,
-            "wins": 7
         },
         {
             "tag": "#PY9YLQPQ",
