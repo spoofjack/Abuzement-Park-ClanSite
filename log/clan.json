@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52533,
+    "clan_score": 52535,
     "required_trophies": 5000,
-    "donations_per_week": 13693,
+    "donations_per_week": 13701,
     "clan_war_trophies": 2923,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5676,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20200620T205231.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 2,
+            "donations": 460,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
@@ -31,34 +48,17 @@
             },
             "role": "member",
             "last_seen": "20200620T051131.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 3,
             "donations": 362,
             "donations_received": 440,
             "clan_chest_points": 0
         },
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5647,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "elder",
-            "last_seen": "20200620T053336.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 452,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
-            "trophies": 5643,
+            "trophies": 5616,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
@@ -748,7 +748,7 @@
             "clan_rank": 43,
             "previous_clan_rank": 43,
             "donations": 182,
-            "donations_received": 384,
+            "donations_received": 392,
             "clan_chest_points": 0
         },
         {
