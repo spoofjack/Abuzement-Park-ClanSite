@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2923,
-        "participants": 19,
+        "participants": 20,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 47,
-        "wins": 25
+        "battles_played": 50,
+        "wins": 26
     },
     "participants": [
         {
@@ -83,6 +83,15 @@
             "cards_earned": 595,
             "battles_played": 1,
             "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#Y2C2RQG9R",
+            "name": "kr21__",
+            "cards_earned": 1189,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 3
         },
@@ -187,7 +196,7 @@
         }
     ],
     "clans": null,
-    "cards": 21149,
+    "cards": 22338,
     "state_label": "Collection Day",
     "collection_end_time_label": "8 hours",
     "end_label": "1 day, 8 hours"
