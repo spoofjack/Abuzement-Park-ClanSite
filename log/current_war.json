@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2923,
         "participants": 24,
-        "crowns": 14,
+        "crowns": 15,
         "battles_remaining": null,
-        "battles_played": 9,
+        "battles_played": 10,
         "wins": 7
     },
     "participants": [
@@ -123,15 +123,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#899LR9Y80",
             "name": "Warlord",
             "cards_earned": 280,
@@ -213,6 +204,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 891,
@@ -282,9 +282,9 @@
             "badge_id": 16000003,
             "clan_score": 2923,
             "participants": 24,
-            "crowns": 14,
-            "battles_remaining": 15,
-            "battles_played": 9,
+            "crowns": 15,
+            "battles_remaining": 14,
+            "battles_played": 10,
             "wins": 7
         }
     ]
