@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52651,
+    "clan_score": 52676,
     "required_trophies": 5000,
-    "donations_per_week": 15305,
+    "donations_per_week": 15325,
     "clan_war_trophies": 3035,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5684,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "leader",
+            "last_seen": "20200621T134013.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 1,
+            "donations": 1099,
+            "donations_received": 760,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "member",
             "last_seen": "20200621T072102.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 408,
             "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5653,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "leader",
-            "last_seen": "20200621T134013.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 1,
-            "donations": 1099,
-            "donations_received": 760,
             "clan_chest_points": 0
         },
         {
@@ -238,7 +238,7 @@
             "clan_rank": 13,
             "previous_clan_rank": 13,
             "donations": 296,
-            "donations_received": 500,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -259,6 +259,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "exp_level": 12,
+            "trophies": 5268,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200621T135806.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 17,
+            "donations": 648,
+            "donations_received": 600,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#Y2C2RQG9R",
             "name": "kr21__",
             "exp_level": 12,
@@ -269,27 +286,10 @@
             },
             "role": "member",
             "last_seen": "20200620T221828.000Z",
-            "clan_rank": 15,
+            "clan_rank": 16,
             "previous_clan_rank": 16,
             "donations": 335,
             "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "exp_level": 12,
-            "trophies": 5233,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200621T135806.000Z",
-            "clan_rank": 16,
-            "previous_clan_rank": 17,
-            "donations": 638,
-            "donations_received": 600,
             "clan_chest_points": 0
         },
         {
@@ -625,10 +625,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200620T175313.000Z",
+            "last_seen": "20200621T140523.000Z",
             "clan_rank": 36,
             "previous_clan_rank": 35,
-            "donations": 262,
+            "donations": 272,
             "donations_received": 200,
             "clan_chest_points": 0
         },
