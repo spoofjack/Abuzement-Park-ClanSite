@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 3035,
         "participants": 30,
-        "crowns": 3,
+        "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 2,
+        "battles_played": 3,
         "wins": 1
     },
     "participants": [
@@ -204,15 +204,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#899LR9Y80",
-            "name": "Warlord",
-            "cards_earned": 2200,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1401,
@@ -283,6 +274,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#899LR9Y80",
+            "name": "Warlord",
+            "cards_earned": 2200,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -298,36 +298,25 @@
             "wins": 2
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 3035,
-            "participants": 30,
-            "crowns": 3,
-            "battles_remaining": 28,
-            "battles_played": 2,
-            "wins": 1
-        },
-        {
             "tag": "#UPUL80",
             "name": "\u604b\u685c",
             "badge_id": 16000128,
             "clan_score": 8487,
             "participants": 30,
-            "crowns": 1,
-            "battles_remaining": 29,
-            "battles_played": 1,
-            "wins": 1
+            "crowns": 3,
+            "battles_remaining": 27,
+            "battles_played": 3,
+            "wins": 2
         },
         {
-            "tag": "#PCRJPJL0",
-            "name": "Show Time.",
-            "badge_id": 16000043,
-            "clan_score": 3118,
-            "participants": 31,
-            "crowns": 1,
-            "battles_remaining": 30,
-            "battles_played": 1,
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 3035,
+            "participants": 30,
+            "crowns": 4,
+            "battles_remaining": 27,
+            "battles_played": 3,
             "wins": 1
         },
         {
@@ -336,10 +325,21 @@
             "badge_id": 16000061,
             "clan_score": 4038,
             "participants": 31,
-            "crowns": 0,
-            "battles_remaining": 30,
-            "battles_played": 1,
-            "wins": 0
+            "crowns": 2,
+            "battles_remaining": 27,
+            "battles_played": 4,
+            "wins": 1
+        },
+        {
+            "tag": "#PCRJPJL0",
+            "name": "Show Time.",
+            "badge_id": 16000043,
+            "clan_score": 3118,
+            "participants": 31,
+            "crowns": 2,
+            "battles_remaining": 28,
+            "battles_played": 3,
+            "wins": 1
         }
     ],
     "cards": 55780,
