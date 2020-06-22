@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 4,
+        "battles_played": 5,
         "wins": 1
     },
     "participants": [
@@ -231,15 +231,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9L2VYLJYP",
             "name": "antluc5248",
             "cards_earned": 2200,
@@ -283,6 +274,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -304,9 +304,20 @@
             "clan_score": 8487,
             "participants": 30,
             "crowns": 5,
-            "battles_remaining": 25,
-            "battles_played": 5,
+            "battles_remaining": 24,
+            "battles_played": 6,
             "wins": 3
+        },
+        {
+            "tag": "#JJUQV9",
+            "name": "UK Adult",
+            "badge_id": 16000061,
+            "clan_score": 4038,
+            "participants": 31,
+            "crowns": 5,
+            "battles_remaining": 24,
+            "battles_played": 7,
+            "wins": 2
         },
         {
             "tag": "#PCRJPJL0",
@@ -314,9 +325,9 @@
             "badge_id": 16000043,
             "clan_score": 3118,
             "participants": 31,
-            "crowns": 4,
-            "battles_remaining": 26,
-            "battles_played": 5,
+            "crowns": 5,
+            "battles_remaining": 25,
+            "battles_played": 6,
             "wins": 2
         },
         {
@@ -326,18 +337,7 @@
             "clan_score": 3035,
             "participants": 30,
             "crowns": 4,
-            "battles_remaining": 26,
-            "battles_played": 4,
-            "wins": 1
-        },
-        {
-            "tag": "#JJUQV9",
-            "name": "UK Adult",
-            "badge_id": 16000061,
-            "clan_score": 4038,
-            "participants": 31,
-            "crowns": 3,
-            "battles_remaining": 26,
+            "battles_remaining": 25,
             "battles_played": 5,
             "wins": 1
         }
@@ -345,5 +345,5 @@
     "cards": 55780,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
