@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53633,
+    "clan_score": 53656,
     "required_trophies": 5000,
-    "donations_per_week": 2848,
+    "donations_per_week": 2858,
     "clan_war_trophies": 3035,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -55,6 +55,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 12,
+            "trophies": 5657,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20200623T022724.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 10,
+            "donations": 130,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
@@ -65,27 +82,10 @@
             },
             "role": "member",
             "last_seen": "20200622T225655.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 92,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 12,
-            "trophies": 5593,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200623T022724.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 10,
-            "donations": 130,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#GYQQ0PY",
-            "name": "SloppyJoe",
-            "exp_level": 13,
-            "trophies": 5524,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20200623T023811.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 7,
-            "donations": 46,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -184,10 +167,27 @@
             },
             "role": "elder",
             "last_seen": "20200622T230254.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 96,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
+            "exp_level": 13,
+            "trophies": 5500,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20200623T023811.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 7,
+            "donations": 46,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -268,7 +268,7 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200623T023056.000Z",
+            "last_seen": "20200623T030921.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 14,
             "donations": 46,
@@ -446,6 +446,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5147,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200623T031417.000Z",
+            "clan_rank": 26,
+            "previous_clan_rank": 20,
+            "donations": 40,
+            "donations_received": 60,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 12,
@@ -456,27 +473,10 @@
             },
             "role": "elder",
             "last_seen": "20200622T230023.000Z",
-            "clan_rank": 26,
+            "clan_rank": 27,
             "previous_clan_rank": 25,
             "donations": 46,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5117,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200623T024916.000Z",
-            "clan_rank": 27,
-            "previous_clan_rank": 20,
-            "donations": 40,
-            "donations_received": 50,
             "clan_chest_points": 0
         },
         {
@@ -506,7 +506,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200623T024434.000Z",
+            "last_seen": "20200623T030539.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 0,
             "donations": 0,
@@ -523,10 +523,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200623T024214.000Z",
+            "last_seen": "20200623T030221.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 27,
-            "donations": 110,
+            "donations": 120,
             "donations_received": 120,
             "clan_chest_points": 0
         },
