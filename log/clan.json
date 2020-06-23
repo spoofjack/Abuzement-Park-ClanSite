@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53770,
+    "clan_score": 53775,
     "required_trophies": 5000,
     "donations_per_week": 4523,
     "clan_war_trophies": 2943,
@@ -38,37 +38,37 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5722,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "leader",
-            "last_seen": "20200623T181045.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 390,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
-            "trophies": 5685,
+            "trophies": 5714,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
             "role": "member",
-            "last_seen": "20200623T180032.000Z",
-            "clan_rank": 3,
+            "last_seen": "20200623T181940.000Z",
+            "clan_rank": 2,
             "previous_clan_rank": 3,
             "donations": 148,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5695,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "leader",
+            "last_seen": "20200623T182456.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 2,
+            "donations": 390,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -115,7 +115,7 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200623T172201.000Z",
+            "last_seen": "20200623T182917.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 446,
@@ -174,6 +174,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "exp_level": 12,
+            "trophies": 5433,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200623T181710.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 15,
+            "donations": 59,
+            "donations_received": 130,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -184,7 +201,7 @@
             },
             "role": "elder",
             "last_seen": "20200623T164022.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 9,
             "donations": 160,
             "donations_received": 160,
@@ -201,27 +218,10 @@
             },
             "role": "member",
             "last_seen": "20200623T130732.000Z",
-            "clan_rank": 11,
+            "clan_rank": 12,
             "previous_clan_rank": 12,
             "donations": 118,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "exp_level": 12,
-            "trophies": 5404,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200623T181341.000Z",
-            "clan_rank": 12,
-            "previous_clan_rank": 15,
-            "donations": 59,
-            "donations_received": 130,
             "clan_chest_points": 0
         },
         {
@@ -531,40 +531,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "exp_level": 11,
-            "trophies": 5046,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200623T175325.000Z",
-            "clan_rank": 31,
-            "previous_clan_rank": 32,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#208V2RGL",
-            "name": "NateDog",
-            "exp_level": 11,
-            "trophies": 5043,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200623T054755.000Z",
-            "clan_rank": 32,
-            "previous_clan_rank": 33,
-            "donations": 28,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#28L0PC2VG",
             "name": "mp3",
             "exp_level": 12,
@@ -575,10 +541,44 @@
             },
             "role": "member",
             "last_seen": "20200623T170710.000Z",
-            "clan_rank": 33,
+            "clan_rank": 31,
             "previous_clan_rank": 0,
             "donations": 78,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "exp_level": 11,
+            "trophies": 5025,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200623T182526.000Z",
+            "clan_rank": 32,
+            "previous_clan_rank": 32,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#208V2RGL",
+            "name": "NateDog",
+            "exp_level": 11,
+            "trophies": 5022,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200623T182206.000Z",
+            "clan_rank": 33,
+            "previous_clan_rank": 33,
+            "donations": 28,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
