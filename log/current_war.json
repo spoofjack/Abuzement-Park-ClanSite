@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2943,
         "participants": 32,
-        "crowns": 11,
+        "crowns": 13,
         "battles_remaining": null,
-        "battles_played": 12,
-        "wins": 5
+        "battles_played": 14,
+        "wins": 7
     },
     "participants": [
         {
@@ -87,15 +87,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 891,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#22CUY2LV8",
             "name": "tbj",
             "cards_earned": 1189,
@@ -153,15 +144,6 @@
             "tag": "#899LR9Y80",
             "name": "Warlord",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -240,6 +222,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 891,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "cards_earned": 1189,
@@ -282,6 +273,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 1,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -344,8 +344,8 @@
             "clan_score": 2523,
             "participants": 30,
             "crowns": 21,
-            "battles_remaining": 11,
-            "battles_played": 19,
+            "battles_remaining": 10,
+            "battles_played": 20,
             "wins": 10
         },
         {
@@ -354,10 +354,10 @@
             "badge_id": 16000003,
             "clan_score": 2943,
             "participants": 32,
-            "crowns": 11,
-            "battles_remaining": 20,
-            "battles_played": 12,
-            "wins": 5
+            "crowns": 13,
+            "battles_remaining": 18,
+            "battles_played": 14,
+            "wins": 7
         }
     ]
 }
