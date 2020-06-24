@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2943,
         "participants": 32,
-        "crowns": 1,
+        "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 1,
+        "battles_played": 2,
         "wins": 1
     },
     "participants": [
@@ -90,15 +90,6 @@
             "tag": "#PV02PGVQ",
             "name": "someone",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#QGLYUPYJ",
-            "name": "VB2",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -301,6 +292,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#QGLYUPYJ",
+            "name": "VB2",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -310,10 +310,10 @@
             "badge_id": 16000000,
             "clan_score": 2991,
             "participants": 32,
-            "crowns": 17,
-            "battles_remaining": 20,
-            "battles_played": 12,
-            "wins": 9
+            "crowns": 20,
+            "battles_remaining": 18,
+            "battles_played": 14,
+            "wins": 10
         },
         {
             "tag": "#PJG2CCPC",
@@ -322,8 +322,8 @@
             "clan_score": 2523,
             "participants": 30,
             "crowns": 10,
-            "battles_remaining": 21,
-            "battles_played": 9,
+            "battles_remaining": 20,
+            "battles_played": 10,
             "wins": 6
         },
         {
@@ -333,9 +333,20 @@
             "clan_score": 2082,
             "participants": 32,
             "crowns": 4,
-            "battles_remaining": 25,
-            "battles_played": 7,
+            "battles_remaining": 23,
+            "battles_played": 9,
             "wins": 2
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2943,
+            "participants": 32,
+            "crowns": 2,
+            "battles_remaining": 30,
+            "battles_played": 2,
+            "wins": 1
         },
         {
             "tag": "#YGCU2VY",
@@ -346,17 +357,6 @@
             "crowns": 1,
             "battles_remaining": 29,
             "battles_played": 5,
-            "wins": 1
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2943,
-            "participants": 32,
-            "crowns": 1,
-            "battles_remaining": 31,
-            "battles_played": 1,
             "wins": 1
         }
     ],
