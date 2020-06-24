@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53872,
+    "clan_score": 53901,
     "required_trophies": 5000,
-    "donations_per_week": 6063,
+    "donations_per_week": 6081,
     "clan_war_trophies": 2943,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -85,7 +85,24 @@
             "clan_rank": 4,
             "previous_clan_rank": 3,
             "donations": 582,
-            "donations_received": 193,
+            "donations_received": 201,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 12,
+            "trophies": 5619,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20200624T113716.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 5,
+            "donations": 184,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -99,7 +116,7 @@
             },
             "role": "elder",
             "last_seen": "20200624T111249.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 292,
             "donations_received": 200,
@@ -116,7 +133,7 @@
             },
             "role": "elder",
             "last_seen": "20200624T095157.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 117,
             "donations_received": 280,
@@ -133,27 +150,10 @@
             },
             "role": "member",
             "last_seen": "20200624T105247.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 188,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 12,
-            "trophies": 5560,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200624T113716.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 5,
-            "donations": 166,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -476,7 +476,7 @@
             "clan_rank": 27,
             "previous_clan_rank": 26,
             "donations": 104,
-            "donations_received": 180,
+            "donations_received": 190,
             "clan_chest_points": 0
         },
         {
