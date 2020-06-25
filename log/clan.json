@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54047,
+    "clan_score": 54034,
     "required_trophies": 5000,
     "donations_per_week": 8821,
     "clan_war_trophies": 2943,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5775,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200625T125806.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 4,
-            "donations": 908,
-            "donations_received": 329,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
@@ -48,7 +31,7 @@
             },
             "role": "member",
             "last_seen": "20200625T072045.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 2,
             "donations": 318,
             "donations_received": 200,
@@ -65,10 +48,27 @@
             },
             "role": "elder",
             "last_seen": "20200625T000837.000Z",
-            "clan_rank": 3,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 262,
             "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5748,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200625T125806.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 4,
+            "donations": 908,
+            "donations_received": 329,
             "clan_chest_points": 0
         },
         {
@@ -268,7 +268,7 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200624T195544.000Z",
+            "last_seen": "20200625T131319.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 11,
             "donations": 109,
