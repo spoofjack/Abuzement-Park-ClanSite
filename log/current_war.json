@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2943,
         "participants": 32,
-        "crowns": 18,
+        "crowns": 21,
         "battles_remaining": null,
-        "battles_played": 23,
-        "wins": 10
+        "battles_played": 25,
+        "wins": 11
     },
     "participants": [
         {
@@ -60,27 +60,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "cards_earned": 891,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -231,9 +213,27 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#208V2RGL",
             "name": "NateDog",
             "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "cards_earned": 891,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -354,10 +354,10 @@
             "badge_id": 16000003,
             "clan_score": 2943,
             "participants": 32,
-            "crowns": 18,
-            "battles_remaining": 9,
-            "battles_played": 23,
-            "wins": 10
+            "crowns": 21,
+            "battles_remaining": 7,
+            "battles_played": 25,
+            "wins": 11
         }
     ]
 }
