@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 3008,
         "participants": 29,
-        "crowns": 0,
+        "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 2,
+        "wins": 1
     },
     "participants": [
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
@@ -195,15 +186,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "cards_earned": 1401,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#899LR9Y80",
             "name": "Warlord",
             "cards_earned": 1760,
@@ -274,9 +256,60 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "cards_earned": 1401,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#8GY8QVJG",
+            "name": "ANTIGUA ESPA\u00d1A",
+            "badge_id": 16000125,
+            "clan_score": 3056,
+            "participants": 29,
+            "crowns": 2,
+            "battles_remaining": 27,
+            "battles_played": 2,
+            "wins": 2
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 3008,
+            "participants": 29,
+            "crowns": 2,
+            "battles_remaining": 27,
+            "battles_played": 2,
+            "wins": 1
+        },
+        {
+            "tag": "#8GLLQGPY",
+            "name": "AYYILDIZ\u2122",
+            "badge_id": 16000030,
+            "clan_score": 3178,
+            "participants": 28,
+            "crowns": 1,
+            "battles_remaining": 25,
+            "battles_played": 3,
+            "wins": 1
+        },
         {
             "tag": "#PJQLR0RU",
             "name": "2 LST LEOPARDI",
@@ -289,47 +322,14 @@
             "wins": 0
         },
         {
-            "tag": "#8GLLQGPY",
-            "name": "AYYILDIZ\u2122",
-            "badge_id": 16000030,
-            "clan_score": 3178,
-            "participants": 28,
-            "crowns": 0,
-            "battles_remaining": 28,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
             "tag": "#QRLQY9G",
             "name": "twonil2-0",
             "badge_id": 16000013,
             "clan_score": 4368,
             "participants": 28,
             "crowns": 0,
-            "battles_remaining": 28,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#8GY8QVJG",
-            "name": "ANTIGUA ESPA\u00d1A",
-            "badge_id": 16000125,
-            "clan_score": 3056,
-            "participants": 29,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 3008,
-            "participants": 29,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 0,
+            "battles_remaining": 26,
+            "battles_played": 2,
             "wins": 0
         }
     ],
