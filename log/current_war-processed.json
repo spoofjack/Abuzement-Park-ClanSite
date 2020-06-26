@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 3008,
         "participants": 29,
-        "crowns": 2,
+        "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 2,
+        "battles_played": 3,
         "wins": 1
     },
     "participants": [
@@ -99,15 +99,6 @@
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 2337,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#22CUY2LV8",
-            "name": "tbj",
-            "cards_earned": 1869,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#22CUY2LV8",
+            "name": "tbj",
+            "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "cards_earned": 1401,
@@ -284,8 +284,8 @@
             "clan_score": 3178,
             "participants": 28,
             "crowns": 6,
-            "battles_remaining": 21,
-            "battles_played": 7,
+            "battles_remaining": 19,
+            "battles_played": 9,
             "wins": 5
         },
         {
@@ -305,9 +305,9 @@
             "badge_id": 16000013,
             "clan_score": 4368,
             "participants": 28,
-            "crowns": 5,
-            "battles_remaining": 21,
-            "battles_played": 7,
+            "crowns": 6,
+            "battles_remaining": 20,
+            "battles_played": 8,
             "wins": 2
         },
         {
@@ -316,9 +316,9 @@
             "badge_id": 16000003,
             "clan_score": 3008,
             "participants": 29,
-            "crowns": 2,
-            "battles_remaining": 27,
-            "battles_played": 2,
+            "crowns": 3,
+            "battles_remaining": 26,
+            "battles_played": 3,
             "wins": 1
         },
         {
@@ -327,14 +327,14 @@
             "badge_id": 16000081,
             "clan_score": 3069,
             "participants": 30,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 1,
-            "wins": 0
+            "crowns": 1,
+            "battles_remaining": 28,
+            "battles_played": 2,
+            "wins": 1
         }
     ],
     "cards": 55095,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
