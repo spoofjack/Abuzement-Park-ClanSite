@@ -10,22 +10,13 @@
         "participants": 29,
         "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 16,
+        "battles_played": 18,
         "wins": 4
     },
     "participants": [
         {
             "tag": "#9992GG0CQ",
             "name": "freighttrain",
-            "cards_earned": 2200,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9J9CRPP8G",
-            "name": "fr8trnsollady",
             "cards_earned": 2200,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -150,6 +141,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9J9CRPP8G",
+            "name": "fr8trnsollady",
+            "cards_earned": 2200,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 1402,
@@ -213,15 +213,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "cards_earned": 1869,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#8RQYURC",
             "name": "Tranosaurus",
             "cards_earned": 2805,
@@ -274,6 +265,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "cards_earned": 1869,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -328,8 +328,8 @@
             "clan_score": 3008,
             "participants": 29,
             "crowns": 7,
-            "battles_remaining": 13,
-            "battles_played": 16,
+            "battles_remaining": 11,
+            "battles_played": 18,
             "wins": 4
         }
     ]
