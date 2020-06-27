@@ -10,7 +10,7 @@
         "participants": 29,
         "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 24,
+        "battles_played": 25,
         "wins": 6
     },
     "participants": [
@@ -36,15 +36,6 @@
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "cards_earned": 934,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2V8QJYJ2V",
-            "name": "ghostshadow",
-            "cards_earned": 1402,
             "battles_played": 0,
             "collection_day_battles_played": 2,
             "wins": 0,
@@ -164,6 +155,15 @@
             "cards_earned": 1320,
             "battles_played": 1,
             "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2V8QJYJ2V",
+            "name": "ghostshadow",
+            "cards_earned": 1402,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -328,8 +328,8 @@
             "clan_score": 3008,
             "participants": 29,
             "crowns": 12,
-            "battles_remaining": 5,
-            "battles_played": 24,
+            "battles_remaining": 4,
+            "battles_played": 25,
             "wins": 6
         }
     ]
