@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 3,
+        "battles_played": 4,
         "wins": 2
     },
     "participants": [
@@ -186,15 +186,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 891,
@@ -276,6 +267,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "cards_earned": 1189,
@@ -292,10 +292,21 @@
             "badge_id": 16000121,
             "clan_score": 2346,
             "participants": 29,
-            "crowns": 16,
-            "battles_remaining": 20,
-            "battles_played": 9,
-            "wins": 6
+            "crowns": 18,
+            "battles_remaining": 19,
+            "battles_played": 10,
+            "wins": 7
+        },
+        {
+            "tag": "#P9Y2VGLJ",
+            "name": "#Kartoffelbrei",
+            "badge_id": 16000044,
+            "clan_score": 2454,
+            "participants": 31,
+            "crowns": 7,
+            "battles_remaining": 24,
+            "battles_played": 7,
+            "wins": 5
         },
         {
             "tag": "#80V8GR22",
@@ -306,17 +317,6 @@
             "crowns": 8,
             "battles_remaining": 21,
             "battles_played": 8,
-            "wins": 4
-        },
-        {
-            "tag": "#P9Y2VGLJ",
-            "name": "#Kartoffelbrei",
-            "badge_id": 16000044,
-            "clan_score": 2454,
-            "participants": 31,
-            "crowns": 6,
-            "battles_remaining": 25,
-            "battles_played": 6,
             "wins": 4
         },
         {
@@ -337,8 +337,8 @@
             "clan_score": 2914,
             "participants": 30,
             "crowns": 2,
-            "battles_remaining": 27,
-            "battles_played": 3,
+            "battles_remaining": 26,
+            "battles_played": 4,
             "wins": 2
         }
     ],
