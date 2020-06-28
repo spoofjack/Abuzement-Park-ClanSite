@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2914,
         "participants": 30,
-        "crowns": 5,
+        "crowns": 6,
         "battles_remaining": null,
-        "battles_played": 12,
+        "battles_played": 13,
         "wins": 4
     },
     "participants": [
@@ -94,15 +94,6 @@
             "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#22CUY2LV8",
@@ -206,6 +197,15 @@
         {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
             "cards_earned": 1189,
             "battles_played": 1,
             "collection_day_battles_played": 3,
@@ -325,10 +325,10 @@
             "badge_id": 16000072,
             "clan_score": 2157,
             "participants": 29,
-            "crowns": 15,
-            "battles_remaining": 13,
-            "battles_played": 16,
-            "wins": 7
+            "crowns": 18,
+            "battles_remaining": 12,
+            "battles_played": 17,
+            "wins": 8
         },
         {
             "tag": "#LP98YUCV",
@@ -336,14 +336,14 @@
             "badge_id": 16000003,
             "clan_score": 2914,
             "participants": 30,
-            "crowns": 5,
-            "battles_remaining": 18,
-            "battles_played": 12,
+            "crowns": 6,
+            "battles_remaining": 17,
+            "battles_played": 13,
             "wins": 4
         }
     ],
     "cards": 33512,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "18 hours"
+    "end_label": "17 hours"
 }
