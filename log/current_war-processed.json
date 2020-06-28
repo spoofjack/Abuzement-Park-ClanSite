@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2914,
         "participants": 30,
-        "crowns": 0,
+        "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 1,
-        "wins": 0
+        "battles_played": 3,
+        "wins": 2
     },
     "participants": [
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 892,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
@@ -267,12 +258,12 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 892,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -283,6 +274,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -292,10 +292,10 @@
             "badge_id": 16000121,
             "clan_score": 2346,
             "participants": 29,
-            "crowns": 8,
-            "battles_remaining": 26,
-            "battles_played": 3,
-            "wins": 3
+            "crowns": 10,
+            "battles_remaining": 25,
+            "battles_played": 4,
+            "wins": 4
         },
         {
             "tag": "#Y89V828",
@@ -304,8 +304,19 @@
             "clan_score": 2157,
             "participants": 29,
             "crowns": 6,
-            "battles_remaining": 25,
-            "battles_played": 4,
+            "battles_remaining": 24,
+            "battles_played": 5,
+            "wins": 3
+        },
+        {
+            "tag": "#80V8GR22",
+            "name": "Globombasticos",
+            "badge_id": 16000178,
+            "clan_score": 2885,
+            "participants": 29,
+            "crowns": 6,
+            "battles_remaining": 24,
+            "battles_played": 5,
             "wins": 3
         },
         {
@@ -320,26 +331,15 @@
             "wins": 3
         },
         {
-            "tag": "#80V8GR22",
-            "name": "Globombasticos",
-            "badge_id": 16000178,
-            "clan_score": 2885,
-            "participants": 29,
-            "crowns": 2,
-            "battles_remaining": 26,
-            "battles_played": 3,
-            "wins": 1
-        },
-        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 2914,
             "participants": 30,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 1,
-            "wins": 0
+            "crowns": 2,
+            "battles_remaining": 27,
+            "battles_played": 3,
+            "wins": 2
         }
     ],
     "cards": 33512,
