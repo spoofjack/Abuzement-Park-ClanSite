@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2914,
         "participants": 30,
-        "crowns": 17,
+        "crowns": 18,
         "battles_remaining": null,
-        "battles_played": 21,
-        "wins": 9
+        "battles_played": 22,
+        "wins": 10
     },
     "participants": [
         {
@@ -45,15 +45,6 @@
             "tag": "#YR9Y09P9Q",
             "name": "christofer",
             "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#QJLC89LC",
-            "name": "spy0000",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -138,6 +129,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#QJLC89LC",
+            "name": "spy0000",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -336,10 +336,10 @@
             "badge_id": 16000003,
             "clan_score": 2914,
             "participants": 30,
-            "crowns": 17,
-            "battles_remaining": 9,
-            "battles_played": 21,
-            "wins": 9
+            "crowns": 18,
+            "battles_remaining": 8,
+            "battles_played": 22,
+            "wins": 10
         }
     ],
     "cards": 33512,
