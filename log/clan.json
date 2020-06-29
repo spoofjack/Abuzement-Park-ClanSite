@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54734,
+    "clan_score": 54740,
     "required_trophies": 5000,
-    "donations_per_week": 296,
+    "donations_per_week": 304,
     "clan_war_trophies": 2914,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5572,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200629T024737.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 10,
+            "donations": 18,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "exp_level": 13,
@@ -167,7 +184,7 @@
             },
             "role": "member",
             "last_seen": "20200628T203609.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 12,
             "donations": 0,
             "donations_received": 0,
@@ -184,27 +201,10 @@
             },
             "role": "elder",
             "last_seen": "20200629T010339.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 8,
             "donations": 46,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5542,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200629T013535.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 10,
-            "donations": 10,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -296,7 +296,7 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
-            "trophies": 5374,
+            "trophies": 5354,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
@@ -442,20 +442,20 @@
             "clan_rank": 25,
             "previous_clan_rank": 27,
             "donations": 18,
-            "donations_received": 0,
+            "donations_received": 8,
             "clan_chest_points": 0
         },
         {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "exp_level": 12,
-            "trophies": 5222,
+            "trophies": 5206,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200629T024153.000Z",
+            "last_seen": "20200629T025147.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 24,
             "donations": 20,
@@ -582,23 +582,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "exp_level": 11,
-            "trophies": 4993,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200629T024402.000Z",
-            "clan_rank": 34,
-            "previous_clan_rank": 34,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#QGLYUPYJ",
             "name": "VB2",
             "exp_level": 11,
@@ -609,8 +592,25 @@
             },
             "role": "member",
             "last_seen": "20200628T210130.000Z",
-            "clan_rank": 35,
+            "clan_rank": 34,
             "previous_clan_rank": 35,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "exp_level": 11,
+            "trophies": 4971,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200629T024402.000Z",
+            "clan_rank": 35,
+            "previous_clan_rank": 34,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
