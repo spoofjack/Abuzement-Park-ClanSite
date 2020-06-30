@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2878,
         "participants": 28,
-        "crowns": 1,
+        "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 4,
-        "wins": 1
+        "battles_played": 5,
+        "wins": 2
     },
     "participants": [
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
@@ -231,6 +222,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "cards_earned": 1189,
@@ -291,6 +291,17 @@
             "wins": 3
         },
         {
+            "tag": "#820GLQVG",
+            "name": "Black hawk\u2606",
+            "badge_id": 16000024,
+            "clan_score": 2104,
+            "participants": 28,
+            "crowns": 5,
+            "battles_remaining": 24,
+            "battles_played": 4,
+            "wins": 3
+        },
+        {
             "tag": "#9R9PGPCG",
             "name": "Champions SvK !",
             "badge_id": 16000095,
@@ -302,26 +313,15 @@
             "wins": 2
         },
         {
-            "tag": "#820GLQVG",
-            "name": "Black hawk\u2606",
-            "badge_id": 16000024,
-            "clan_score": 2104,
-            "participants": 28,
-            "crowns": 3,
-            "battles_remaining": 26,
-            "battles_played": 2,
-            "wins": 1
-        },
-        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 2878,
             "participants": 28,
-            "crowns": 1,
-            "battles_remaining": 24,
-            "battles_played": 4,
-            "wins": 1
+            "crowns": 3,
+            "battles_remaining": 23,
+            "battles_played": 5,
+            "wins": 2
         }
     ],
     "cards": 36859,
