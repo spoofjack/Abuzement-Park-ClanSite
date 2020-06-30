@@ -10,7 +10,7 @@
         "participants": 28,
         "crowns": 19,
         "battles_remaining": null,
-        "battles_played": 16,
+        "battles_played": 17,
         "wins": 9
     },
     "participants": [
@@ -249,15 +249,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#YVLRYQY8Q",
-            "name": "Jayy",
-            "cards_earned": 1400,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "cards_earned": 1260,
@@ -265,6 +256,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#YVLRYQY8Q",
+            "name": "Jayy",
+            "cards_earned": 1400,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -319,8 +319,8 @@
             "clan_score": 2878,
             "participants": 28,
             "crowns": 19,
-            "battles_remaining": 12,
-            "battles_played": 16,
+            "battles_remaining": 11,
+            "battles_played": 17,
             "wins": 9
         }
     ]
