@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2878,
         "participants": 28,
-        "crowns": 11,
+        "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 6
+        "battles_played": 12,
+        "wins": 7
     },
     "participants": [
         {
@@ -56,15 +56,6 @@
             "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "cards_earned": 1190,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -195,6 +186,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "cards_earned": 1190,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 1487,
@@ -285,9 +285,9 @@
             "badge_id": 16000002,
             "clan_score": 2810,
             "participants": 28,
-            "crowns": 14,
-            "battles_remaining": 16,
-            "battles_played": 12,
+            "crowns": 15,
+            "battles_remaining": 15,
+            "battles_played": 13,
             "wins": 7
         },
         {
@@ -307,9 +307,9 @@
             "badge_id": 16000035,
             "clan_score": 2251,
             "participants": 29,
-            "crowns": 12,
-            "battles_remaining": 17,
-            "battles_played": 12,
+            "crowns": 13,
+            "battles_remaining": 16,
+            "battles_played": 13,
             "wins": 5
         },
         {
@@ -318,10 +318,10 @@
             "badge_id": 16000003,
             "clan_score": 2878,
             "participants": 28,
-            "crowns": 11,
-            "battles_remaining": 17,
-            "battles_played": 11,
-            "wins": 6
+            "crowns": 12,
+            "battles_remaining": 16,
+            "battles_played": 12,
+            "wins": 7
         }
     ]
 }
