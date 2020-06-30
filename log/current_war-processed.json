@@ -10,7 +10,7 @@
         "participants": 28,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 0,
+        "battles_played": 2,
         "wins": 0
     },
     "participants": [
@@ -204,27 +204,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#899LR9Y80",
-            "name": "Warlord",
-            "cards_earned": 1680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#28L0PC2VG",
             "name": "mp3",
             "cards_earned": 1785,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -265,29 +247,58 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#899LR9Y80",
+            "name": "Warlord",
+            "cards_earned": 1680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
-        {
-            "tag": "#9R9PGPCG",
-            "name": "Champions SvK !",
-            "badge_id": 16000095,
-            "clan_score": 1656,
-            "participants": 29,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 0,
-            "wins": 0
-        },
         {
             "tag": "#Q8QQGQ",
             "name": "AZ Division",
             "badge_id": 16000002,
             "clan_score": 2810,
             "participants": 28,
-            "crowns": 0,
+            "crowns": 3,
+            "battles_remaining": 27,
+            "battles_played": 1,
+            "wins": 1
+        },
+        {
+            "tag": "#9R9PGPCG",
+            "name": "Champions SvK !",
+            "badge_id": 16000095,
+            "clan_score": 1656,
+            "participants": 29,
+            "crowns": 2,
             "battles_remaining": 28,
-            "battles_played": 0,
+            "battles_played": 1,
+            "wins": 1
+        },
+        {
+            "tag": "#YC2LYQV8",
+            "name": "SUHE SMREKE",
+            "badge_id": 16000035,
+            "clan_score": 2251,
+            "participants": 29,
+            "crowns": 1,
+            "battles_remaining": 27,
+            "battles_played": 2,
             "wins": 0
         },
         {
@@ -302,25 +313,14 @@
             "wins": 0
         },
         {
-            "tag": "#YC2LYQV8",
-            "name": "SUHE SMREKE",
-            "badge_id": 16000035,
-            "clan_score": 2251,
-            "participants": 29,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 2878,
             "participants": 28,
             "crowns": 0,
-            "battles_remaining": 28,
-            "battles_played": 0,
+            "battles_remaining": 26,
+            "battles_played": 2,
             "wins": 0
         }
     ],
