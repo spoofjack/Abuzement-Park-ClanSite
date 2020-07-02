@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 55150,
+    "clan_score": 55136,
     "required_trophies": 5000,
-    "donations_per_week": 7870,
+    "donations_per_week": 7880,
     "clan_war_trophies": 2941,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5942,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "elder",
-            "last_seen": "20200702T152634.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 1,
-            "donations": 281,
-            "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "exp_level": 13,
@@ -48,10 +31,27 @@
             },
             "role": "member",
             "last_seen": "20200702T095744.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 2,
             "donations": 170,
             "donations_received": 199,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5915,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20200702T152634.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 1,
+            "donations": 281,
+            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -98,7 +98,7 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200702T150501.000Z",
+            "last_seen": "20200702T154931.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 10,
             "donations": 956,
@@ -319,10 +319,10 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200702T150028.000Z",
+            "last_seen": "20200702T154900.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 18,
-            "donations": 192,
+            "donations": 202,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -353,7 +353,7 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200702T154246.000Z",
+            "last_seen": "20200702T155755.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 22,
             "donations": 160,
@@ -510,7 +510,7 @@
             "clan_rank": 29,
             "previous_clan_rank": 30,
             "donations": 127,
-            "donations_received": 230,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
