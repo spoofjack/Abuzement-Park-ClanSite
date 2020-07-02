@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2941,
         "participants": 20,
-        "crowns": 10,
+        "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 11,
+        "battles_played": 12,
         "wins": 6
     },
     "participants": [
@@ -26,15 +26,6 @@
         {
             "tag": "#208V2RGL",
             "name": "NateDog",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
             "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -91,6 +82,15 @@
             "name": "Patrick",
             "cards_earned": 1487,
             "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 1487,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
@@ -224,9 +224,9 @@
             "badge_id": 16000003,
             "clan_score": 2941,
             "participants": 20,
-            "crowns": 10,
-            "battles_remaining": 9,
-            "battles_played": 11,
+            "crowns": 11,
+            "battles_remaining": 8,
+            "battles_played": 12,
             "wins": 6
         },
         {
