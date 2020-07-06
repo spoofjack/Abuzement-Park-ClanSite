@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47333,
+    "clan_score": 47330,
     "required_trophies": 4600,
     "donations_per_week": 1369,
     "clan_war_trophies": 2960,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5021,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "leader",
+            "last_seen": "20200706T163854.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 1,
+            "donations": 130,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -31,26 +48,9 @@
             },
             "role": "elder",
             "last_seen": "20200706T162410.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 3,
             "donations": 20,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 4992,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "leader",
-            "last_seen": "20200706T163854.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 1,
-            "donations": 130,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -140,23 +140,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#L9CQG8J",
-            "name": "Indeed",
-            "exp_level": 13,
-            "trophies": 4890,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200706T163917.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 4,
-            "donations": 30,
-            "donations_received": 30,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 12,
@@ -167,7 +150,7 @@
             },
             "role": "elder",
             "last_seen": "20200706T133038.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 12,
             "donations": 49,
             "donations_received": 70,
@@ -184,10 +167,27 @@
             },
             "role": "member",
             "last_seen": "20200706T114230.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 11,
             "donations": 86,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#L9CQG8J",
+            "name": "Indeed",
+            "exp_level": 13,
+            "trophies": 4851,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200706T164544.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 4,
+            "donations": 30,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -251,7 +251,7 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20200706T161211.000Z",
+            "last_seen": "20200706T164855.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 24,
             "donations": 20,
@@ -534,7 +534,7 @@
             "tag": "#899LR9Y80",
             "name": "Warlord",
             "exp_level": 10,
-            "trophies": 4433,
+            "trophies": 4463,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
