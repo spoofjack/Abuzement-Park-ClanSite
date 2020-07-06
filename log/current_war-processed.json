@@ -10,7 +10,7 @@
         "participants": 22,
         "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 3,
+        "battles_played": 4,
         "wins": 3
     },
     "participants": [
@@ -132,15 +132,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#899LR9Y80",
-            "name": "Warlord",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "cards_earned": 1487,
@@ -204,6 +195,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#899LR9Y80",
+            "name": "Warlord",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1487,
@@ -221,8 +221,8 @@
             "clan_score": 2960,
             "participants": 22,
             "crowns": 5,
-            "battles_remaining": 19,
-            "battles_played": 3,
+            "battles_remaining": 18,
+            "battles_played": 4,
             "wins": 3
         },
         {
@@ -237,6 +237,17 @@
             "wins": 2
         },
         {
+            "tag": "#2PPJGPU0",
+            "name": "los pollos",
+            "badge_id": 16000020,
+            "clan_score": 1830,
+            "participants": 22,
+            "crowns": 3,
+            "battles_remaining": 19,
+            "battles_played": 3,
+            "wins": 2
+        },
+        {
             "tag": "#88R0CQQY",
             "name": "HAKHAMANESH",
             "badge_id": 16000101,
@@ -248,25 +259,14 @@
             "wins": 1
         },
         {
-            "tag": "#2PPJGPU0",
-            "name": "los pollos",
-            "badge_id": 16000020,
-            "clan_score": 1830,
-            "participants": 22,
-            "crowns": 1,
-            "battles_remaining": 21,
-            "battles_played": 1,
-            "wins": 1
-        },
-        {
             "tag": "#2Q8LG8QY",
             "name": "COLOMBIA WAR",
             "badge_id": 16000073,
             "clan_score": 2620,
             "participants": 23,
             "crowns": 0,
-            "battles_remaining": 23,
-            "battles_played": 0,
+            "battles_remaining": 22,
+            "battles_played": 1,
             "wins": 0
         }
     ],
