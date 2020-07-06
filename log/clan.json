@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 55542,
+    "clan_score": 55572,
     "required_trophies": 5000,
-    "donations_per_week": 89,
+    "donations_per_week": 109,
     "clan_war_trophies": 2960,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -38,6 +38,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5942,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "leader",
+            "last_seen": "20200706T002719.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 4,
+            "donations": 28,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
@@ -48,26 +65,26 @@
             },
             "role": "coLeader",
             "last_seen": "20200705T144730.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 2,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
             "exp_level": 13,
-            "trophies": 5913,
+            "trophies": 5835,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
-            "role": "leader",
-            "last_seen": "20200706T002719.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 4,
-            "donations": 28,
+            "role": "elder",
+            "last_seen": "20200706T003930.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 6,
+            "donations": 10,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -82,25 +99,8 @@
             },
             "role": "member",
             "last_seen": "20200705T225100.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 7,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5805,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "elder",
-            "last_seen": "20200705T224619.000Z",
             "clan_rank": 5,
-            "previous_clan_rank": 6,
+            "previous_clan_rank": 7,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -149,11 +149,11 @@
                 "name": "Master III"
             },
             "role": "elder",
-            "last_seen": "20200702T135208.000Z",
+            "last_seen": "20200706T003253.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 8,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 10,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
@@ -323,7 +323,7 @@
             "clan_rank": 18,
             "previous_clan_rank": 17,
             "donations": 0,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
