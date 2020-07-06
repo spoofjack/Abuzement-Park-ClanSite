@@ -10,7 +10,7 @@
         "participants": 22,
         "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 4,
+        "battles_played": 5,
         "wins": 3
     },
     "participants": [
@@ -132,15 +132,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2092V2QU8",
             "name": "JustBuildLol",
             "cards_earned": 1680,
@@ -204,6 +195,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1487,
@@ -215,25 +215,25 @@
     ],
     "clans": [
         {
+            "tag": "#2PPJGPU0",
+            "name": "los pollos",
+            "badge_id": 16000020,
+            "clan_score": 1830,
+            "participants": 22,
+            "crowns": 5,
+            "battles_remaining": 17,
+            "battles_played": 5,
+            "wins": 3
+        },
+        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 2960,
             "participants": 22,
             "crowns": 5,
-            "battles_remaining": 18,
-            "battles_played": 4,
-            "wins": 3
-        },
-        {
-            "tag": "#2PPJGPU0",
-            "name": "los pollos",
-            "badge_id": 16000020,
-            "clan_score": 1830,
-            "participants": 22,
-            "crowns": 4,
-            "battles_remaining": 18,
-            "battles_played": 4,
+            "battles_remaining": 17,
+            "battles_played": 5,
             "wins": 3
         },
         {
@@ -265,8 +265,8 @@
             "clan_score": 2620,
             "participants": 23,
             "crowns": 1,
-            "battles_remaining": 21,
-            "battles_played": 2,
+            "battles_remaining": 20,
+            "battles_played": 3,
             "wins": 0
         }
     ],
