@@ -10,7 +10,7 @@
         "participants": 22,
         "crowns": 16,
         "battles_remaining": null,
-        "battles_played": 14,
+        "battles_played": 15,
         "wins": 11
     },
     "participants": [
@@ -47,15 +47,6 @@
             "cards_earned": 875,
             "battles_played": 0,
             "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "cards_earned": 891,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -147,6 +138,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 1,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "cards_earned": 891,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -254,8 +254,8 @@
             "clan_score": 1830,
             "participants": 22,
             "crowns": 12,
-            "battles_remaining": 8,
-            "battles_played": 14,
+            "battles_remaining": 7,
+            "battles_played": 15,
             "wins": 6
         },
         {
@@ -265,8 +265,8 @@
             "clan_score": 2960,
             "participants": 22,
             "crowns": 16,
-            "battles_remaining": 8,
-            "battles_played": 14,
+            "battles_remaining": 7,
+            "battles_played": 15,
             "wins": 11
         }
     ]
