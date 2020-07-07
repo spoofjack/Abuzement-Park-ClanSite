@@ -10,7 +10,7 @@
         "participants": 22,
         "crowns": 17,
         "battles_remaining": null,
-        "battles_played": 17,
+        "battles_played": 18,
         "wins": 12
     },
     "participants": [
@@ -29,15 +29,6 @@
             "cards_earned": 891,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "cards_earned": 875,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -120,6 +111,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 875,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -221,8 +221,8 @@
             "clan_score": 2960,
             "participants": 22,
             "crowns": 17,
-            "battles_remaining": 5,
-            "battles_played": 17,
+            "battles_remaining": 4,
+            "battles_played": 18,
             "wins": 12
         },
         {
@@ -265,8 +265,8 @@
             "clan_score": 2620,
             "participants": 23,
             "crowns": 6,
-            "battles_remaining": 10,
-            "battles_played": 13,
+            "battles_remaining": 9,
+            "battles_played": 14,
             "wins": 3
         }
     ],
