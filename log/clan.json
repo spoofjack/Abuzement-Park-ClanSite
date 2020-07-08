@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48950,
+    "clan_score": 48945,
     "required_trophies": 4600,
     "donations_per_week": 7040,
     "clan_war_trophies": 3072,
@@ -208,23 +208,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9CVRP000",
-            "name": "Lil Pump",
-            "exp_level": 11,
-            "trophies": 4883,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200708T184308.000Z",
-            "clan_rank": 12,
-            "previous_clan_rank": 13,
-            "donations": 67,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -235,7 +218,7 @@
             },
             "role": "member",
             "last_seen": "20200708T182212.000Z",
-            "clan_rank": 13,
+            "clan_rank": 12,
             "previous_clan_rank": 11,
             "donations": 120,
             "donations_received": 160,
@@ -252,7 +235,7 @@
             },
             "role": "elder",
             "last_seen": "20200708T113035.000Z",
-            "clan_rank": 14,
+            "clan_rank": 13,
             "previous_clan_rank": 15,
             "donations": 140,
             "donations_received": 80,
@@ -269,7 +252,7 @@
             },
             "role": "member",
             "last_seen": "20200708T175908.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 150,
             "donations_received": 160,
@@ -286,10 +269,27 @@
             },
             "role": "elder",
             "last_seen": "20200708T131454.000Z",
-            "clan_rank": 16,
+            "clan_rank": 15,
             "previous_clan_rank": 21,
             "donations": 162,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CVRP000",
+            "name": "Lil Pump",
+            "exp_level": 11,
+            "trophies": 4863,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200708T184308.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 13,
+            "donations": 67,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -523,7 +523,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200708T183736.000Z",
+            "last_seen": "20200708T184904.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 28,
             "donations": 170,
