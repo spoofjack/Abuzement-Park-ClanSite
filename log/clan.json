@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48694,
+    "clan_score": 48715,
     "required_trophies": 4600,
-    "donations_per_week": 5594,
+    "donations_per_week": 5602,
     "clan_war_trophies": 3072,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -55,19 +55,36 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#L9CQG8J",
-            "name": "Indeed",
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
             "exp_level": 13,
-            "trophies": 5096,
+            "trophies": 5089,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200707T234611.000Z",
+            "last_seen": "20200708T034836.000Z",
             "clan_rank": 3,
+            "previous_clan_rank": 3,
+            "donations": 129,
+            "donations_received": 158,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#L9CQG8J",
+            "name": "Indeed",
+            "exp_level": 13,
+            "trophies": 5075,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200708T035555.000Z",
+            "clan_rank": 4,
             "previous_clan_rank": 4,
-            "donations": 128,
+            "donations": 136,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -82,7 +99,7 @@
             },
             "role": "elder",
             "last_seen": "20200707T174400.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 116,
             "donations_received": 160,
@@ -99,27 +116,10 @@
             },
             "role": "elder",
             "last_seen": "20200708T030056.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 8,
             "donations": 229,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#GYQQ0PY",
-            "name": "SloppyJoe",
-            "exp_level": 13,
-            "trophies": 5031,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200708T022354.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 3,
-            "donations": 129,
-            "donations_received": 150,
             "clan_chest_points": 0
         },
         {
@@ -619,10 +619,10 @@
             "tag": "#PPJ00U98",
             "name": "kingbreezy",
             "exp_level": 11,
-            "trophies": 4574,
+            "trophies": 4601,
             "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "member",
             "last_seen": "20200708T034052.000Z",
