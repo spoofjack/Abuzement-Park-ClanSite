@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49001,
+    "clan_score": 49023,
     "required_trophies": 4600,
-    "donations_per_week": 7981,
+    "donations_per_week": 8049,
     "clan_war_trophies": 3072,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,24 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 568,
-            "donations_received": 300,
+            "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
+            "exp_level": 13,
+            "trophies": 5152,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200709T031356.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 3,
+            "donations": 196,
+            "donations_received": 205,
             "clan_chest_points": 0
         },
         {
@@ -48,7 +65,7 @@
             },
             "role": "elder",
             "last_seen": "20200708T181539.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 4,
             "donations": 186,
             "donations_received": 240,
@@ -65,7 +82,7 @@
             },
             "role": "leader",
             "last_seen": "20200709T005000.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 2,
             "donations": 648,
             "donations_received": 320,
@@ -82,27 +99,10 @@
             },
             "role": "elder",
             "last_seen": "20200709T023109.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 6,
             "donations": 327,
             "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#L9CQG8J",
-            "name": "Indeed",
-            "exp_level": 13,
-            "trophies": 5083,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200708T155945.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 5,
-            "donations": 146,
-            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -123,20 +123,20 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#GYQQ0PY",
-            "name": "SloppyJoe",
+            "tag": "#L9CQG8J",
+            "name": "Indeed",
             "exp_level": 13,
-            "trophies": 5065,
+            "trophies": 5039,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200709T025354.000Z",
+            "last_seen": "20200709T030657.000Z",
             "clan_rank": 7,
-            "previous_clan_rank": 3,
-            "donations": 176,
-            "donations_received": 197,
+            "previous_clan_rank": 5,
+            "donations": 156,
+            "donations_received": 170,
             "clan_chest_points": 0
         },
         {
@@ -336,10 +336,10 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20200709T000234.000Z",
+            "last_seen": "20200709T030408.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 19,
-            "donations": 183,
+            "donations": 211,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -353,7 +353,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200709T013933.000Z",
+            "last_seen": "20200709T031025.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 26,
             "donations": 150,
@@ -475,8 +475,8 @@
             "last_seen": "20200709T025340.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 22,
-            "donations": 102,
-            "donations_received": 80,
+            "donations": 112,
+            "donations_received": 110,
             "clan_chest_points": 0
         },
         {
