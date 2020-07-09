@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 3072,
         "participants": 30,
-        "crowns": 19,
+        "crowns": 21,
         "battles_remaining": null,
-        "battles_played": 27,
-        "wins": 11
+        "battles_played": 28,
+        "wins": 12
     },
     "participants": [
-        {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "cards_earned": 1760,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
@@ -48,6 +39,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "cards_earned": 1760,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -320,6 +320,17 @@
             "wins": 17
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 3072,
+            "participants": 30,
+            "crowns": 21,
+            "battles_remaining": 2,
+            "battles_played": 28,
+            "wins": 12
+        },
+        {
             "tag": "#8QVCYPUU",
             "name": "Met\u00e1stasis T",
             "badge_id": 16000077,
@@ -327,17 +338,6 @@
             "participants": 27,
             "crowns": 20,
             "battles_remaining": 0,
-            "battles_played": 27,
-            "wins": 11
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 3072,
-            "participants": 30,
-            "crowns": 19,
-            "battles_remaining": 3,
             "battles_played": 27,
             "wins": 11
         }
