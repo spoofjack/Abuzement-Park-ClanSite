@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 3034,
-        "participants": 17,
+        "participants": 18,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 42,
-        "wins": 20
+        "battles_played": 46,
+        "wins": 24
     },
     "participants": [
         {
@@ -51,12 +51,21 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "cards_earned": 1760,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 2,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#9CVRP000",
             "name": "Lil Pump",
-            "cards_earned": 880,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 1,
+            "cards_earned": 2640,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 3,
             "number_of_battles": 3
         },
         {
@@ -169,8 +178,8 @@
         }
     ],
     "clans": null,
-    "cards": 27826,
+    "cards": 31346,
     "state_label": "Collection Day",
-    "collection_end_time_label": "16 hours",
-    "end_label": "1 day, 16 hours"
+    "collection_end_time_label": "15 hours",
+    "end_label": "1 day, 15 hours"
 }
