@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 7,
+        "battles_played": 8,
         "wins": 2
     },
     "participants": [
@@ -44,15 +44,6 @@
         {
             "tag": "#Y2C2RQG9R",
             "name": "kr21__",
-            "cards_earned": 1320,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
             "cards_earned": 1320,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -240,6 +231,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "cards_earned": 1320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2V8QJYJ2V",
             "name": "ghostshadow",
             "cards_earned": 1347,
@@ -292,10 +292,10 @@
             "badge_id": 16000162,
             "clan_score": 39681,
             "participants": 30,
-            "crowns": 12,
-            "battles_remaining": 21,
-            "battles_played": 9,
-            "wins": 7
+            "crowns": 15,
+            "battles_remaining": 19,
+            "battles_played": 11,
+            "wins": 9
         },
         {
             "tag": "#2PU8RRUC",
@@ -303,10 +303,10 @@
             "badge_id": 16000101,
             "clan_score": 9358,
             "participants": 28,
-            "crowns": 10,
-            "battles_remaining": 17,
-            "battles_played": 11,
-            "wins": 7
+            "crowns": 12,
+            "battles_remaining": 15,
+            "battles_played": 13,
+            "wins": 8
         },
         {
             "tag": "#LPCC98Y",
@@ -315,8 +315,8 @@
             "clan_score": 10739,
             "participants": 30,
             "crowns": 8,
-            "battles_remaining": 22,
-            "battles_played": 8,
+            "battles_remaining": 21,
+            "battles_played": 9,
             "wins": 3
         },
         {
@@ -326,8 +326,8 @@
             "clan_score": 3034,
             "participants": 30,
             "crowns": 3,
-            "battles_remaining": 23,
-            "battles_played": 7,
+            "battles_remaining": 22,
+            "battles_played": 8,
             "wins": 2
         },
         {
@@ -345,5 +345,5 @@
     "cards": 53151,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
