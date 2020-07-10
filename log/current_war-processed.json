@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 2,
+        "battles_played": 3,
         "wins": 2
     },
     "participants": [
@@ -44,15 +44,6 @@
         {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
-            "cards_earned": 1760,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
             "cards_earned": 1760,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 1760,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2V8QJYJ2V",
             "name": "ghostshadow",
             "cards_earned": 1347,
@@ -287,15 +287,37 @@
     ],
     "clans": [
         {
+            "tag": "#9P9Y8VPL",
+            "name": "TeamExigence",
+            "badge_id": 16000162,
+            "clan_score": 39681,
+            "participants": 30,
+            "crowns": 9,
+            "battles_remaining": 25,
+            "battles_played": 5,
+            "wins": 4
+        },
+        {
+            "tag": "#2PU8RRUC",
+            "name": "Z-Fighters",
+            "badge_id": 16000101,
+            "clan_score": 9358,
+            "participants": 28,
+            "crowns": 6,
+            "battles_remaining": 22,
+            "battles_played": 6,
+            "wins": 4
+        },
+        {
             "tag": "#LPCC98Y",
             "name": "hero royal",
             "badge_id": 16000024,
             "clan_score": 10739,
             "participants": 30,
-            "crowns": 5,
-            "battles_remaining": 27,
-            "battles_played": 3,
-            "wins": 2
+            "crowns": 8,
+            "battles_remaining": 24,
+            "battles_played": 6,
+            "wins": 3
         },
         {
             "tag": "#LP98YUCV",
@@ -304,31 +326,9 @@
             "clan_score": 3034,
             "participants": 30,
             "crowns": 3,
-            "battles_remaining": 28,
-            "battles_played": 2,
-            "wins": 2
-        },
-        {
-            "tag": "#9P9Y8VPL",
-            "name": "TeamExigence",
-            "badge_id": 16000162,
-            "clan_score": 39681,
-            "participants": 30,
-            "crowns": 3,
-            "battles_remaining": 28,
-            "battles_played": 2,
-            "wins": 1
-        },
-        {
-            "tag": "#2PU8RRUC",
-            "name": "Z-Fighters",
-            "badge_id": 16000101,
-            "clan_score": 9358,
-            "participants": 28,
-            "crowns": 1,
-            "battles_remaining": 25,
+            "battles_remaining": 27,
             "battles_played": 3,
-            "wins": 1
+            "wins": 2
         },
         {
             "tag": "#22Y2PV99",
@@ -336,9 +336,9 @@
             "badge_id": 16000001,
             "clan_score": 3121,
             "participants": 30,
-            "crowns": 1,
-            "battles_remaining": 29,
-            "battles_played": 1,
+            "crowns": 2,
+            "battles_remaining": 28,
+            "battles_played": 2,
             "wins": 1
         }
     ],
