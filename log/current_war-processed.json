@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 18,
+        "battles_played": 19,
         "wins": 3
     },
     "participants": [
@@ -83,15 +83,6 @@
             "cards_earned": 1870,
             "battles_played": 0,
             "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 2337,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -231,6 +222,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 2337,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8RQYURC",
             "name": "Tranosaurus",
             "cards_earned": 1320,
@@ -304,8 +304,8 @@
             "clan_score": 9358,
             "participants": 28,
             "crowns": 17,
-            "battles_remaining": 10,
-            "battles_played": 18,
+            "battles_remaining": 9,
+            "battles_played": 19,
             "wins": 13
         },
         {
@@ -326,8 +326,8 @@
             "clan_score": 3034,
             "participants": 30,
             "crowns": 7,
-            "battles_remaining": 12,
-            "battles_played": 18,
+            "battles_remaining": 11,
+            "battles_played": 19,
             "wins": 3
         },
         {
@@ -336,10 +336,10 @@
             "badge_id": 16000001,
             "clan_score": 3121,
             "participants": 30,
-            "crowns": 6,
-            "battles_remaining": 18,
-            "battles_played": 12,
-            "wins": 2
+            "crowns": 7,
+            "battles_remaining": 17,
+            "battles_played": 13,
+            "wins": 3
         }
     ],
     "cards": 53151,
