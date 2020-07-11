@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3034,
         "participants": 30,
-        "crowns": 10,
+        "crowns": 13,
         "battles_remaining": null,
-        "battles_played": 25,
-        "wins": 5
+        "battles_played": 26,
+        "wins": 6
     },
     "participants": [
         {
@@ -47,15 +47,6 @@
             "cards_earned": 880,
             "battles_played": 0,
             "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "cards_earned": 1760,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -231,6 +222,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "cards_earned": 1760,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#899LR9Y80",
             "name": "Warlord",
             "cards_earned": 2200,
@@ -336,14 +336,14 @@
             "badge_id": 16000003,
             "clan_score": 3034,
             "participants": 30,
-            "crowns": 10,
-            "battles_remaining": 5,
-            "battles_played": 25,
-            "wins": 5
+            "crowns": 13,
+            "battles_remaining": 4,
+            "battles_played": 26,
+            "wins": 6
         }
     ],
     "cards": 53151,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "5 hours"
+    "end_label": "4 hours"
 }
