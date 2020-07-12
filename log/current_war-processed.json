@@ -231,9 +231,9 @@
             "badge_id": 16000019,
             "clan_score": 1775,
             "participants": 22,
-            "crowns": 8,
-            "battles_remaining": 15,
-            "battles_played": 7,
+            "crowns": 9,
+            "battles_remaining": 14,
+            "battles_played": 8,
             "wins": 4
         },
         {
@@ -248,6 +248,17 @@
             "wins": 4
         },
         {
+            "tag": "#CCQPR",
+            "name": "sieger",
+            "badge_id": 16000145,
+            "clan_score": 2255,
+            "participants": 22,
+            "crowns": 7,
+            "battles_remaining": 16,
+            "battles_played": 6,
+            "wins": 3
+        },
+        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
@@ -257,21 +268,10 @@
             "battles_remaining": 14,
             "battles_played": 8,
             "wins": 2
-        },
-        {
-            "tag": "#CCQPR",
-            "name": "sieger",
-            "badge_id": 16000145,
-            "clan_score": 2255,
-            "participants": 22,
-            "crowns": 4,
-            "battles_remaining": 17,
-            "battles_played": 5,
-            "wins": 2
         }
     ],
     "cards": 22638,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "21 hours"
+    "end_label": "20 hours"
 }
