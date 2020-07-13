@@ -215,6 +215,17 @@
     ],
     "clans": [
         {
+            "tag": "#2GP22PYR",
+            "name": "Saltiyork",
+            "badge_id": 16000112,
+            "clan_score": 2566,
+            "participants": 23,
+            "crowns": 19,
+            "battles_remaining": 8,
+            "battles_played": 15,
+            "wins": 9
+        },
+        {
             "tag": "#2VQ89Y2J",
             "name": "Megaclash",
             "badge_id": 16000019,
@@ -235,17 +246,6 @@
             "battles_remaining": 10,
             "battles_played": 12,
             "wins": 8
-        },
-        {
-            "tag": "#2GP22PYR",
-            "name": "Saltiyork",
-            "badge_id": 16000112,
-            "clan_score": 2566,
-            "participants": 23,
-            "crowns": 14,
-            "battles_remaining": 10,
-            "battles_played": 13,
-            "wins": 7
         },
         {
             "tag": "#U0GGJYL",
@@ -273,5 +273,5 @@
     "cards": 22638,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "17 hours"
+    "end_label": "16 hours"
 }
