@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50145,
+    "clan_score": 50140,
     "required_trophies": 4600,
-    "donations_per_week": 1200,
+    "donations_per_week": 1210,
     "clan_war_trophies": 2940,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,10 +47,10 @@
                 "name": "Master I"
             },
             "role": "leader",
-            "last_seen": "20200713T131025.000Z",
+            "last_seen": "20200713T152715.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 3,
-            "donations": 34,
+            "donations": 44,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -327,23 +327,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 4910,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200713T071823.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 12,
-            "donations": 18,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CVRP000",
             "name": "Lil Pump",
             "exp_level": 11,
@@ -354,10 +337,27 @@
             },
             "role": "member",
             "last_seen": "20200713T124712.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 19,
             "donations": 73,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 4890,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200713T151844.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 12,
+            "donations": 18,
+            "donations_received": 50,
             "clan_chest_points": 0
         },
         {
