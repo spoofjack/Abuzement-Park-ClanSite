@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50270,
+    "clan_score": 50291,
     "required_trophies": 4600,
-    "donations_per_week": 3170,
+    "donations_per_week": 3240,
     "clan_war_trophies": 2847,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -123,6 +123,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 12,
+            "trophies": 5159,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200714T113904.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 11,
+            "donations": 64,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "exp_level": 13,
@@ -133,7 +150,7 @@
             },
             "role": "member",
             "last_seen": "20200714T023110.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 10,
             "donations": 10,
             "donations_received": 80,
@@ -150,7 +167,7 @@
             },
             "role": "member",
             "last_seen": "20200714T104606.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 152,
             "donations_received": 120,
@@ -167,27 +184,10 @@
             },
             "role": "elder",
             "last_seen": "20200714T101011.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 4,
             "donations": 96,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 12,
-            "trophies": 5100,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200714T113904.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 11,
-            "donations": 44,
-            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -251,10 +251,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200714T005733.000Z",
+            "last_seen": "20200714T115559.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 13,
-            "donations": 58,
+            "donations": 68,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -272,7 +272,7 @@
             "clan_rank": 15,
             "previous_clan_rank": 16,
             "donations": 73,
-            "donations_received": 80,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -302,28 +302,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200713T110848.000Z",
+            "last_seen": "20200714T114819.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 17,
-            "donations": 44,
+            "donations": 64,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "exp_level": 12,
-            "trophies": 4925,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200714T102927.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 15,
-            "donations": 139,
-            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -337,7 +320,7 @@
             },
             "role": "elder",
             "last_seen": "20200714T065505.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 20,
             "donations": 76,
             "donations_received": 160,
@@ -354,7 +337,7 @@
             },
             "role": "elder",
             "last_seen": "20200714T053622.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 26,
             "donations": 114,
             "donations_received": 120,
@@ -371,9 +354,26 @@
             },
             "role": "member",
             "last_seen": "20200714T051930.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 119,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "exp_level": 12,
+            "trophies": 4884,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200714T114534.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 15,
+            "donations": 159,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -561,7 +561,7 @@
             "clan_rank": 32,
             "previous_clan_rank": 32,
             "donations": 20,
-            "donations_received": 50,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -591,7 +591,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200714T111041.000Z",
+            "last_seen": "20200714T115909.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 35,
             "donations": 20,
