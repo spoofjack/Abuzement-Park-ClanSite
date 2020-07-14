@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2847,
         "participants": 24,
-        "crowns": 10,
+        "crowns": 13,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 3
+        "battles_played": 12,
+        "wins": 4
     },
     "participants": [
         {
@@ -29,15 +29,6 @@
             "cards_earned": 1400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "cards_earned": 560,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -141,6 +132,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 560,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9CVRP000",
             "name": "Lil Pump",
             "cards_earned": 1400,
@@ -233,6 +233,17 @@
     ],
     "clans": [
         {
+            "tag": "#8GCL298J",
+            "name": "SANGRE X SANGRE",
+            "badge_id": 16000143,
+            "clan_score": 2488,
+            "participants": 23,
+            "crowns": 18,
+            "battles_remaining": 13,
+            "battles_played": 10,
+            "wins": 7
+        },
+        {
             "tag": "#29U8Y9P",
             "name": "Atomic",
             "badge_id": 16000002,
@@ -242,17 +253,6 @@
             "battles_remaining": 12,
             "battles_played": 11,
             "wins": 7
-        },
-        {
-            "tag": "#8GCL298J",
-            "name": "SANGRE X SANGRE",
-            "badge_id": 16000143,
-            "clan_score": 2488,
-            "participants": 23,
-            "crowns": 15,
-            "battles_remaining": 14,
-            "battles_played": 9,
-            "wins": 6
         },
         {
             "tag": "#820RV22G",
@@ -271,10 +271,10 @@
             "badge_id": 16000003,
             "clan_score": 2847,
             "participants": 24,
-            "crowns": 10,
-            "battles_remaining": 13,
-            "battles_played": 11,
-            "wins": 3
+            "crowns": 13,
+            "battles_remaining": 12,
+            "battles_played": 12,
+            "wins": 4
         },
         {
             "tag": "#Y022L2R2",
@@ -283,8 +283,8 @@
             "clan_score": 1909,
             "participants": 23,
             "crowns": 8,
-            "battles_remaining": 15,
-            "battles_played": 8,
+            "battles_remaining": 14,
+            "battles_played": 9,
             "wins": 3
         }
     ],
