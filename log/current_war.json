@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2847,
         "participants": 24,
-        "crowns": 8,
+        "crowns": 10,
         "battles_remaining": null,
-        "battles_played": 10,
-        "wins": 2
+        "battles_played": 11,
+        "wins": 3
     },
     "participants": [
         {
@@ -90,15 +90,6 @@
             "tag": "#2V8QJYJ2V",
             "name": "ghostshadow",
             "cards_earned": 1785,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PPJ00U98",
-            "name": "kingbreezy",
-            "cards_earned": 1400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -186,6 +177,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PPJ00U98",
+            "name": "kingbreezy",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 1189,
@@ -260,10 +260,10 @@
             "badge_id": 16000002,
             "clan_score": 2476,
             "participants": 23,
-            "crowns": 13,
-            "battles_remaining": 13,
-            "battles_played": 10,
-            "wins": 6
+            "crowns": 14,
+            "battles_remaining": 12,
+            "battles_played": 11,
+            "wins": 7
         },
         {
             "tag": "#8GCL298J",
@@ -272,8 +272,8 @@
             "clan_score": 2488,
             "participants": 23,
             "crowns": 15,
-            "battles_remaining": 15,
-            "battles_played": 8,
+            "battles_remaining": 14,
+            "battles_played": 9,
             "wins": 6
         },
         {
@@ -282,10 +282,10 @@
             "badge_id": 16000003,
             "clan_score": 2847,
             "participants": 24,
-            "crowns": 8,
-            "battles_remaining": 14,
-            "battles_played": 10,
-            "wins": 2
+            "crowns": 10,
+            "battles_remaining": 13,
+            "battles_played": 11,
+            "wins": 3
         }
     ]
 }
