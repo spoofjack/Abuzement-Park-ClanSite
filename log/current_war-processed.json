@@ -7,10 +7,10 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2831,
-        "participants": 10,
+        "participants": 11,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 26,
+        "battles_played": 29,
         "wins": 11
     },
     "participants": [
@@ -60,6 +60,15 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#208V2RGL",
+            "name": "NateDog",
+            "cards_earned": 840,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "cards_earned": 1400,
@@ -106,8 +115,8 @@
         }
     ],
     "clans": null,
-    "cards": 10758,
+    "cards": 11598,
     "state_label": "Collection Day",
-    "collection_end_time_label": "21 hours",
-    "end_label": "1 day, 21 hours"
+    "collection_end_time_label": "20 hours",
+    "end_label": "1 day, 20 hours"
 }
