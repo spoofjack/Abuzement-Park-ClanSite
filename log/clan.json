@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49633,
+    "clan_score": 49622,
     "required_trophies": 5000,
     "donations_per_week": 6640,
     "clan_war_trophies": 2831,
@@ -55,23 +55,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5363,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "leader",
-            "last_seen": "20200715T213342.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 3,
-            "donations": 536,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -82,9 +65,26 @@
             },
             "role": "elder",
             "last_seen": "20200715T201819.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 5,
             "donations": 244,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5340,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "leader",
+            "last_seen": "20200715T222402.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 3,
+            "donations": 536,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -332,11 +332,11 @@
             "exp_level": 11,
             "trophies": 4993,
             "arena": {
-                "id": 54000015,
-                "name": "Master I"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200715T213207.000Z",
+            "last_seen": "20200715T222026.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 15,
             "donations": 205,
