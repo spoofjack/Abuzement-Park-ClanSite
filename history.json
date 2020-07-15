@@ -1,14 +1,14 @@
 {
-    "last_update": 1594857601.181351,
+    "last_update": 1594858501.192903,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
             "join_date": 1574406000,
-            "last_activity_date": 1594853101.005303,
-            "last_donation_date": 1594851300.947968,
+            "last_activity_date": 1594858501.192903,
+            "last_donation_date": 1594858501.192903,
             "role": "coLeader",
             "status": "present",
-            "donations": 692,
+            "donations": 732,
             "donations_last_week": 1215,
             "events": [
                 {
@@ -70,7 +70,7 @@
         "#8C099Q9J8": {
             "name": "Bow To Chase",
             "join_date": 1574406000,
-            "last_activity_date": 1594857601.181351,
+            "last_activity_date": 1594858501.192903,
             "last_donation_date": 1594792800.353518,
             "role": "coLeader",
             "status": "present",
@@ -670,7 +670,7 @@
         "#20LGGP900": {
             "name": "blackdog",
             "join_date": 1578169292.169115,
-            "last_activity_date": 1594857601.181351,
+            "last_activity_date": 1594858501.192903,
             "last_donation_date": 1594795500.400116,
             "role": "coLeader",
             "status": "present",
@@ -3814,7 +3814,7 @@
         "#QGLYUPYJ": {
             "name": "VB2",
             "join_date": 1591672501.298281,
-            "last_activity_date": 1594857601.181351,
+            "last_activity_date": 1594858501.192903,
             "last_donation_date": 1594854901.023437,
             "role": "member",
             "status": "present",
@@ -3898,11 +3898,11 @@
         "#L9CQG8J": {
             "name": "Indeed",
             "join_date": 1591990201.401123,
-            "last_activity_date": 1594849500.960817,
-            "last_donation_date": 1594849500.960817,
+            "last_activity_date": 1594858501.192903,
+            "last_donation_date": 1594858501.192903,
             "role": "member",
             "status": "present",
-            "donations": 202,
+            "donations": 222,
             "donations_last_week": 399,
             "events": [
                 {
@@ -4087,7 +4087,7 @@
             "last_activity_date": 1594853101.005303,
             "last_donation_date": 1594844100.972525,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 175,
             "donations_last_week": 340,
             "events": [
@@ -4096,6 +4096,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1594054801.25672
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1594858501.192903
                 }
             ]
         },
