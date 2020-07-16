@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49135,
+    "clan_score": 49150,
     "required_trophies": 4600,
-    "donations_per_week": 7864,
+    "donations_per_week": 7900,
     "clan_war_trophies": 2831,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -115,11 +115,28 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200716T111439.000Z",
+            "last_seen": "20200716T134959.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 3,
-            "donations": 856,
+            "donations": 874,
             "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "exp_level": 13,
+            "trophies": 5210,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200716T134119.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 7,
+            "donations": 256,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -133,7 +150,7 @@
             },
             "role": "member",
             "last_seen": "20200716T091611.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 10,
             "donations": 264,
             "donations_received": 280,
@@ -150,7 +167,7 @@
             },
             "role": "member",
             "last_seen": "20200716T082545.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 86,
             "donations_received": 240,
@@ -167,27 +184,10 @@
             },
             "role": "elder",
             "last_seen": "20200716T032749.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 8,
             "donations": 82,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "exp_level": 13,
-            "trophies": 5180,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200716T134119.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 7,
-            "donations": 246,
-            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -543,8 +543,8 @@
             "last_seen": "20200716T134455.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 32,
-            "donations": 82,
-            "donations_received": 160,
+            "donations": 90,
+            "donations_received": 180,
             "clan_chest_points": 0
         },
         {
@@ -612,7 +612,7 @@
             "clan_rank": 35,
             "previous_clan_rank": 37,
             "donations": 207,
-            "donations_received": 264,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
