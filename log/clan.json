@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49187,
+    "clan_score": 49175,
     "required_trophies": 4600,
-    "donations_per_week": 8140,
+    "donations_per_week": 8180,
     "clan_war_trophies": 2831,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -58,17 +58,17 @@
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
-            "trophies": 5414,
+            "trophies": 5376,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200716T154316.000Z",
+            "last_seen": "20200716T155010.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 2,
             "donations": 280,
-            "donations_received": 280,
+            "donations_received": 310,
             "clan_chest_points": 0
         },
         {
@@ -191,6 +191,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5148,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200716T155756.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 11,
+            "donations": 160,
+            "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "exp_level": 13,
@@ -201,43 +218,26 @@
             },
             "role": "elder",
             "last_seen": "20200716T152159.000Z",
-            "clan_rank": 11,
+            "clan_rank": 12,
             "previous_clan_rank": 15,
             "donations": 273,
             "donations_received": 320,
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5141,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200716T152242.000Z",
-            "clan_rank": 12,
-            "previous_clan_rank": 11,
-            "donations": 150,
-            "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
-            "trophies": 5068,
+            "trophies": 5098,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200716T152818.000Z",
+            "last_seen": "20200716T155256.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 19,
-            "donations": 210,
+            "donations": 230,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -472,7 +472,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200716T122916.000Z",
+            "last_seen": "20200716T155422.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 27,
             "donations": 208,
@@ -582,23 +582,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#QGLYUPYJ",
-            "name": "VB2",
-            "exp_level": 11,
-            "trophies": 4676,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200716T153825.000Z",
-            "clan_rank": 34,
-            "previous_clan_rank": 36,
-            "donations": 106,
-            "donations_received": 20,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#82UQ80Q8",
             "name": "PhantomX",
             "exp_level": 12,
@@ -609,10 +592,27 @@
             },
             "role": "member",
             "last_seen": "20200716T132153.000Z",
-            "clan_rank": 35,
+            "clan_rank": 34,
             "previous_clan_rank": 37,
             "donations": 207,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#QGLYUPYJ",
+            "name": "VB2",
+            "exp_level": 11,
+            "trophies": 4659,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200716T153825.000Z",
+            "clan_rank": 35,
+            "previous_clan_rank": 36,
+            "donations": 116,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
