@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49098,
+    "clan_score": 49114,
     "required_trophies": 4600,
-    "donations_per_week": 7720,
+    "donations_per_week": 7730,
     "clan_war_trophies": 2831,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "exp_level": 13,
+            "trophies": 5482,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200716T123913.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 2,
+            "donations": 262,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -31,26 +48,9 @@
             },
             "role": "coLeader",
             "last_seen": "20200716T020505.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 390,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "exp_level": 13,
-            "trophies": 5451,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200716T095100.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 252,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -204,7 +204,7 @@
             "clan_rank": 11,
             "previous_clan_rank": 15,
             "donations": 245,
-            "donations_received": 280,
+            "donations_received": 290,
             "clan_chest_points": 0
         },
         {
