@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49092,
+    "clan_score": 49081,
     "required_trophies": 4600,
     "donations_per_week": 7202,
     "clan_war_trophies": 2831,
@@ -191,23 +191,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5146,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200716T050030.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 11,
-            "donations": 122,
-            "donations_received": 288,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "exp_level": 13,
@@ -218,10 +201,27 @@
             },
             "role": "elder",
             "last_seen": "20200716T023614.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 15,
             "donations": 203,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5101,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200716T050030.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 11,
+            "donations": 122,
+            "donations_received": 288,
             "clan_chest_points": 0
         },
         {
@@ -302,7 +302,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200716T052055.000Z",
+            "last_seen": "20200716T055159.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 21,
             "donations": 114,
