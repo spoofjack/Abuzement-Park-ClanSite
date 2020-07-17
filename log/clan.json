@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49296,
+    "clan_score": 49291,
     "required_trophies": 4600,
     "donations_per_week": 10320,
     "clan_war_trophies": 2831,
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "exp_level": 12,
-            "trophies": 5074,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200716T215217.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 14,
-            "donations": 86,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -269,7 +252,7 @@
             },
             "role": "member",
             "last_seen": "20200717T142938.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 12,
             "donations": 274,
             "donations_received": 320,
@@ -286,10 +269,27 @@
             },
             "role": "elder",
             "last_seen": "20200717T140249.000Z",
-            "clan_rank": 16,
+            "clan_rank": 15,
             "previous_clan_rank": 13,
             "donations": 218,
             "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "exp_level": 12,
+            "trophies": 5053,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200717T145122.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 14,
+            "donations": 86,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -364,13 +364,13 @@
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "exp_level": 11,
-            "trophies": 5001,
+            "trophies": 4980,
             "arena": {
-                "id": 54000015,
-                "name": "Master I"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200717T023323.000Z",
+            "last_seen": "20200717T145401.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 315,
@@ -585,7 +585,7 @@
             "tag": "#QGLYUPYJ",
             "name": "VB2",
             "exp_level": 11,
-            "trophies": 4741,
+            "trophies": 4771,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
