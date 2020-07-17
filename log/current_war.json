@@ -1,8 +1,28 @@
 {
-    "state": "notInWar",
+    "state": "collectionDay",
     "war_end_time": null,
-    "collection_end_time": null,
-    "clan": null,
-    "participants": null,
+    "collection_end_time": "20200718T194546.399Z",
+    "clan": {
+        "tag": "#LP98YUCV",
+        "name": "Abuzement Park",
+        "badge_id": 16000003,
+        "clan_score": 2947,
+        "participants": 1,
+        "crowns": 0,
+        "battles_remaining": null,
+        "battles_played": 1,
+        "wins": 1
+    },
+    "participants": [
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 560,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 3
+        }
+    ],
     "clans": null
 }
