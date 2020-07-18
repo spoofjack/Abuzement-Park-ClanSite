@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50413,
+    "clan_score": 50408,
     "required_trophies": 4600,
     "donations_per_week": 11720,
     "clan_war_trophies": 2947,
@@ -276,23 +276,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 5116,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200718T042534.000Z",
-            "clan_rank": 16,
-            "previous_clan_rank": 16,
-            "donations": 364,
-            "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "exp_level": 13,
@@ -303,9 +286,26 @@
             },
             "role": "elder",
             "last_seen": "20200718T013152.000Z",
-            "clan_rank": 17,
+            "clan_rank": 16,
             "previous_clan_rank": 11,
             "donations": 406,
+            "donations_received": 480,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 5097,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200718T052729.000Z",
+            "clan_rank": 17,
+            "previous_clan_rank": 16,
+            "donations": 364,
             "donations_received": 480,
             "clan_chest_points": 0
         },
