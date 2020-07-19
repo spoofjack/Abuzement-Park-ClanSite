@@ -10,7 +10,7 @@
         "participants": 27,
         "crowns": 22,
         "battles_remaining": null,
-        "battles_played": 18,
+        "battles_played": 19,
         "wins": 12
     },
     "participants": [
@@ -27,15 +27,6 @@
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9J9CRPP8G",
-            "name": "fr8trnsollady",
-            "cards_earned": 840,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -126,6 +117,15 @@
             "tag": "#9992GG0CQ",
             "name": "freighttrain",
             "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9J9CRPP8G",
+            "name": "fr8trnsollady",
+            "cards_earned": 840,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -310,8 +310,8 @@
             "clan_score": 2947,
             "participants": 27,
             "crowns": 22,
-            "battles_remaining": 9,
-            "battles_played": 18,
+            "battles_remaining": 8,
+            "battles_played": 19,
             "wins": 12
         }
     ]
