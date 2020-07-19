@@ -10,7 +10,7 @@
         "participants": 27,
         "crowns": 15,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 11,
         "wins": 9
     },
     "participants": [
@@ -80,15 +80,6 @@
         {
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8J0J889GY",
-            "name": "progamer2008",
             "cards_earned": 1400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -204,6 +195,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8J0J889GY",
+            "name": "progamer2008",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 1487,
@@ -266,8 +266,8 @@
             "clan_score": 2947,
             "participants": 27,
             "crowns": 15,
-            "battles_remaining": 17,
-            "battles_played": 10,
+            "battles_remaining": 16,
+            "battles_played": 11,
             "wins": 9
         },
         {
@@ -276,10 +276,10 @@
             "badge_id": 16000081,
             "clan_score": 2567,
             "participants": 29,
-            "crowns": 21,
-            "battles_remaining": 12,
-            "battles_played": 17,
-            "wins": 6
+            "crowns": 22,
+            "battles_remaining": 11,
+            "battles_played": 18,
+            "wins": 7
         },
         {
             "tag": "#8U0JGCYV",
@@ -293,6 +293,17 @@
             "wins": 6
         },
         {
+            "tag": "#90QP8G0",
+            "name": "Slovakia",
+            "badge_id": 16000072,
+            "clan_score": 1859,
+            "participants": 28,
+            "crowns": 7,
+            "battles_remaining": 24,
+            "battles_played": 4,
+            "wins": 3
+        },
+        {
             "tag": "#9Y9JLL9J",
             "name": "Slovakia\u2122\ufe0f",
             "badge_id": 16000004,
@@ -302,21 +313,10 @@
             "battles_remaining": 18,
             "battles_played": 9,
             "wins": 3
-        },
-        {
-            "tag": "#90QP8G0",
-            "name": "Slovakia",
-            "badge_id": 16000072,
-            "clan_score": 1859,
-            "participants": 28,
-            "crowns": 4,
-            "battles_remaining": 25,
-            "battles_played": 3,
-            "wins": 2
         }
     ],
     "cards": 33080,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "19 hours"
+    "end_label": "18 hours"
 }
