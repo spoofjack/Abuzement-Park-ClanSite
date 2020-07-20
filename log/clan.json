@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52338,
+    "clan_score": 52333,
     "required_trophies": 4600,
-    "donations_per_week": 1164,
+    "donations_per_week": 1210,
     "clan_war_trophies": 3064,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -174,23 +174,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "exp_level": 13,
-            "trophies": 5267,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200720T140401.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 8,
-            "donations": 34,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 12,
@@ -201,10 +184,27 @@
             },
             "role": "elder",
             "last_seen": "20200720T091319.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 9,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "exp_level": 13,
+            "trophies": 5250,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200720T140401.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 8,
+            "donations": 34,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -425,7 +425,7 @@
             "clan_rank": 24,
             "previous_clan_rank": 23,
             "donations": 62,
-            "donations_received": 50,
+            "donations_received": 60,
             "clan_chest_points": 0
         },
         {
@@ -472,10 +472,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200720T125045.000Z",
+            "last_seen": "20200720T142607.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 30,
-            "donations": 52,
+            "donations": 60,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -540,11 +540,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200720T134019.000Z",
+            "last_seen": "20200720T142732.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 27,
-            "donations": 54,
-            "donations_received": 64,
+            "donations": 64,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -752,23 +752,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#Y99PV0829",
-            "name": "Julpof",
-            "exp_level": 10,
-            "trophies": 4757,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200720T125303.000Z",
-            "clan_rank": 44,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2LJU92JR",
             "name": "Zero",
             "exp_level": 12,
@@ -779,10 +762,27 @@
             },
             "role": "member",
             "last_seen": "20200720T103606.000Z",
-            "clan_rank": 45,
+            "clan_rank": 44,
             "previous_clan_rank": 0,
             "donations": 10,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#Y99PV0829",
+            "name": "Julpof",
+            "exp_level": 10,
+            "trophies": 4738,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200720T142405.000Z",
+            "clan_rank": 45,
+            "previous_clan_rank": 0,
+            "donations": 28,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
