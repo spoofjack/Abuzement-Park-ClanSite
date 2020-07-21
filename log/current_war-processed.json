@@ -260,6 +260,17 @@
     ],
     "clans": [
         {
+            "tag": "#8GG0G2JR",
+            "name": "forever JDMA",
+            "badge_id": 16000144,
+            "clan_score": 9856,
+            "participants": 26,
+            "crowns": 25,
+            "battles_remaining": 0,
+            "battles_played": 26,
+            "wins": 18
+        },
+        {
             "tag": "#8JQ9Y8P2",
             "name": "Papaclash",
             "badge_id": 16000146,
@@ -271,25 +282,14 @@
             "wins": 18
         },
         {
-            "tag": "#8GG0G2JR",
-            "name": "forever JDMA",
-            "badge_id": 16000144,
-            "clan_score": 9856,
-            "participants": 26,
-            "crowns": 24,
-            "battles_remaining": 2,
-            "battles_played": 24,
-            "wins": 18
-        },
-        {
             "tag": "#8VGCGVP",
             "name": "00:00 PM",
             "badge_id": 16000032,
             "clan_score": 3014,
             "participants": 27,
             "crowns": 37,
-            "battles_remaining": 2,
-            "battles_played": 25,
+            "battles_remaining": 1,
+            "battles_played": 26,
             "wins": 17
         },
         {
@@ -318,5 +318,5 @@
     "cards": 45609,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "1 hours"
+    "end_label": "0 hours"
 }
