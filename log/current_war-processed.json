@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 3064,
         "participants": 27,
-        "crowns": 24,
+        "crowns": 25,
         "battles_remaining": null,
-        "battles_played": 24,
+        "battles_played": 25,
         "wins": 10
     },
     "participants": [
@@ -20,15 +20,6 @@
             "cards_earned": 1401,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#QGLYUPYJ",
-            "name": "VB2",
-            "cards_earned": 1320,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -92,6 +83,15 @@
             "cards_earned": 1401,
             "battles_played": 1,
             "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#QGLYUPYJ",
+            "name": "VB2",
+            "cards_earned": 1320,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -277,8 +277,8 @@
             "clan_score": 33778,
             "participants": 28,
             "crowns": 23,
-            "battles_remaining": 2,
-            "battles_played": 26,
+            "battles_remaining": 1,
+            "battles_played": 27,
             "wins": 17
         },
         {
@@ -287,9 +287,9 @@
             "badge_id": 16000032,
             "clan_score": 3014,
             "participants": 27,
-            "crowns": 32,
-            "battles_remaining": 6,
-            "battles_played": 21,
+            "crowns": 33,
+            "battles_remaining": 5,
+            "battles_played": 22,
             "wins": 15
         },
         {
@@ -298,9 +298,9 @@
             "badge_id": 16000003,
             "clan_score": 3064,
             "participants": 27,
-            "crowns": 24,
-            "battles_remaining": 3,
-            "battles_played": 24,
+            "crowns": 25,
+            "battles_remaining": 2,
+            "battles_played": 25,
             "wins": 10
         },
         {
@@ -318,5 +318,5 @@
     "cards": 45609,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "8 hours"
+    "end_label": "7 hours"
 }
