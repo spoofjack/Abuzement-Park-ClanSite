@@ -10,7 +10,7 @@
         "participants": 31,
         "crowns": 20,
         "battles_remaining": null,
-        "battles_played": 18,
+        "battles_played": 19,
         "wins": 9
     },
     "participants": [
@@ -62,15 +62,6 @@
         {
             "tag": "#CV29GC9",
             "name": "Srgt_Atrex",
-            "cards_earned": 2805,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
             "cards_earned": 2805,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -240,6 +231,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 2805,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 2337,
@@ -329,25 +329,25 @@
             "wins": 10
         },
         {
+            "tag": "#99Q98G0V",
+            "name": "$ YADAV $",
+            "badge_id": 16000121,
+            "clan_score": 3120,
+            "participants": 31,
+            "crowns": 17,
+            "battles_remaining": 17,
+            "battles_played": 14,
+            "wins": 10
+        },
+        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 3025,
             "participants": 31,
             "crowns": 20,
-            "battles_remaining": 13,
-            "battles_played": 18,
-            "wins": 9
-        },
-        {
-            "tag": "#99Q98G0V",
-            "name": "$ YADAV $",
-            "badge_id": 16000121,
-            "clan_score": 3120,
-            "participants": 31,
-            "crowns": 15,
-            "battles_remaining": 19,
-            "battles_played": 12,
+            "battles_remaining": 12,
+            "battles_played": 19,
             "wins": 9
         }
     ],
