@@ -10,7 +10,7 @@
         "participants": 31,
         "crowns": 24,
         "battles_remaining": null,
-        "battles_played": 25,
+        "battles_played": 26,
         "wins": 11
     },
     "participants": [
@@ -72,15 +72,6 @@
             "tag": "#Y99PV0829",
             "name": "Julpof",
             "cards_earned": 1760,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y99CRCGUC",
-            "name": "toxos",
-            "cards_earned": 2805,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -258,6 +249,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#Y99CRCGUC",
+            "name": "toxos",
+            "cards_earned": 2805,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1401,
@@ -335,8 +335,8 @@
             "clan_score": 3025,
             "participants": 31,
             "crowns": 24,
-            "battles_remaining": 6,
-            "battles_played": 25,
+            "battles_remaining": 5,
+            "battles_played": 26,
             "wins": 11
         },
         {
@@ -354,5 +354,5 @@
     "cards": 63676,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "11 hours"
+    "end_label": "10 hours"
 }
