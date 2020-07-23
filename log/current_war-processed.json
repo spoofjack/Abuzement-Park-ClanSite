@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3025,
         "participants": 31,
-        "crowns": 18,
+        "crowns": 20,
         "battles_remaining": null,
-        "battles_played": 17,
-        "wins": 8
+        "battles_played": 18,
+        "wins": 9
     },
     "participants": [
         {
@@ -56,15 +56,6 @@
             "cards_earned": 880,
             "battles_played": 0,
             "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#GYQQ0PY",
-            "name": "SloppyJoe",
-            "cards_earned": 2805,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -231,6 +222,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
+            "cards_earned": 2805,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "cards_earned": 1869,
@@ -334,10 +334,10 @@
             "badge_id": 16000003,
             "clan_score": 3025,
             "participants": 31,
-            "crowns": 18,
-            "battles_remaining": 14,
-            "battles_played": 17,
-            "wins": 8
+            "crowns": 20,
+            "battles_remaining": 13,
+            "battles_played": 18,
+            "wins": 9
         },
         {
             "tag": "#99Q98G0V",
@@ -345,10 +345,10 @@
             "badge_id": 16000121,
             "clan_score": 3120,
             "participants": 31,
-            "crowns": 9,
-            "battles_remaining": 22,
-            "battles_played": 9,
-            "wins": 6
+            "crowns": 12,
+            "battles_remaining": 21,
+            "battles_played": 10,
+            "wins": 7
         }
     ],
     "cards": 63676,
