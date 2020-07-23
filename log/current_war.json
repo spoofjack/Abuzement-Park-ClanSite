@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3025,
         "participants": 31,
-        "crowns": 12,
+        "crowns": 15,
         "battles_remaining": null,
-        "battles_played": 12,
-        "wins": 5
+        "battles_played": 14,
+        "wins": 7
     },
     "participants": [
         {
@@ -85,15 +85,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 1401,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#GYQQ0PY",
@@ -292,6 +283,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 1401,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -323,10 +323,10 @@
             "badge_id": 16000028,
             "clan_score": 3241,
             "participants": 34,
-            "crowns": 25,
-            "battles_remaining": 15,
-            "battles_played": 19,
-            "wins": 10
+            "crowns": 26,
+            "battles_remaining": 13,
+            "battles_played": 21,
+            "wins": 11
         },
         {
             "tag": "#99Q98G0V",
@@ -345,10 +345,10 @@
             "badge_id": 16000003,
             "clan_score": 3025,
             "participants": 31,
-            "crowns": 12,
-            "battles_remaining": 19,
-            "battles_played": 12,
-            "wins": 5
+            "crowns": 15,
+            "battles_remaining": 17,
+            "battles_played": 14,
+            "wins": 7
         }
     ]
 }
