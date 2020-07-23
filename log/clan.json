@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52812,
+    "clan_score": 52802,
     "required_trophies": 4600,
     "donations_per_week": 9110,
     "clan_war_trophies": 3025,
@@ -72,23 +72,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "exp_level": 12,
-            "trophies": 5500,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200723T170502.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 8,
-            "donations": 64,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -99,10 +82,27 @@
             },
             "role": "leader",
             "last_seen": "20200723T162830.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 3,
             "donations": 579,
             "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "exp_level": 12,
+            "trophies": 5476,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200723T172339.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 8,
+            "donations": 64,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -378,6 +378,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "exp_level": 12,
+            "trophies": 5075,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200723T170603.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 24,
+            "donations": 102,
+            "donations_received": 100,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "exp_level": 13,
@@ -388,7 +405,7 @@
             },
             "role": "elder",
             "last_seen": "20200723T151556.000Z",
-            "clan_rank": 22,
+            "clan_rank": 23,
             "previous_clan_rank": 20,
             "donations": 198,
             "donations_received": 240,
@@ -405,7 +422,7 @@
             },
             "role": "member",
             "last_seen": "20200723T143336.000Z",
-            "clan_rank": 23,
+            "clan_rank": 24,
             "previous_clan_rank": 26,
             "donations": 459,
             "donations_received": 320,
@@ -422,27 +439,10 @@
             },
             "role": "elder",
             "last_seen": "20200723T154341.000Z",
-            "clan_rank": 24,
+            "clan_rank": 25,
             "previous_clan_rank": 23,
             "donations": 50,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "exp_level": 12,
-            "trophies": 5046,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200723T170603.000Z",
-            "clan_rank": 25,
-            "previous_clan_rank": 24,
-            "donations": 102,
-            "donations_received": 100,
             "clan_chest_points": 0
         },
         {
@@ -633,23 +633,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YRJLYVJG",
-            "name": "FlashJakson",
-            "exp_level": 10,
-            "trophies": 4871,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200723T165234.000Z",
-            "clan_rank": 37,
-            "previous_clan_rank": 31,
-            "donations": 96,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCLYCCLR",
             "name": "yggdrasil",
             "exp_level": 10,
@@ -659,11 +642,28 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200723T170740.000Z",
-            "clan_rank": 38,
+            "last_seen": "20200723T172548.000Z",
+            "clan_rank": 37,
             "previous_clan_rank": 43,
             "donations": 27,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YRJLYVJG",
+            "name": "FlashJakson",
+            "exp_level": 10,
+            "trophies": 4851,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200723T172147.000Z",
+            "clan_rank": 38,
+            "previous_clan_rank": 31,
+            "donations": 96,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
