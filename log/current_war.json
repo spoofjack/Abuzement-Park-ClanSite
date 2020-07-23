@@ -10,19 +10,10 @@
         "participants": 31,
         "crowns": 25,
         "battles_remaining": null,
-        "battles_played": 27,
+        "battles_played": 29,
         "wins": 12
     },
     "participants": [
-        {
-            "tag": "#9992GG0CQ",
-            "name": "freighttrain",
-            "cards_earned": 1760,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
         {
             "tag": "#YLCLYCCLR",
             "name": "yggdrasil",
@@ -276,6 +267,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9992GG0CQ",
+            "name": "freighttrain",
+            "cards_earned": 1760,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 1401,
@@ -346,8 +346,8 @@
             "clan_score": 3025,
             "participants": 31,
             "crowns": 25,
-            "battles_remaining": 4,
-            "battles_played": 27,
+            "battles_remaining": 2,
+            "battles_played": 29,
             "wins": 12
         }
     ]
