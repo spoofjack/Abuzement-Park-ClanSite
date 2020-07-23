@@ -10,7 +10,7 @@
         "participants": 31,
         "crowns": 24,
         "battles_remaining": null,
-        "battles_played": 22,
+        "battles_played": 23,
         "wins": 11
     },
     "participants": [
@@ -36,15 +36,6 @@
             "tag": "#LGQJJYYGY",
             "name": "Ace of Aunties",
             "cards_earned": 2640,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "cards_earned": 2337,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -165,6 +156,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "cards_earned": 2337,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -324,8 +324,8 @@
             "clan_score": 3025,
             "participants": 31,
             "crowns": 24,
-            "battles_remaining": 9,
-            "battles_played": 22,
+            "battles_remaining": 8,
+            "battles_played": 23,
             "wins": 11
         },
         {
@@ -345,9 +345,9 @@
             "badge_id": 16000002,
             "clan_score": 3006,
             "participants": 32,
-            "crowns": 17,
-            "battles_remaining": 9,
-            "battles_played": 23,
+            "crowns": 18,
+            "battles_remaining": 8,
+            "battles_played": 24,
             "wins": 10
         }
     ],
