@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3025,
         "participants": 31,
-        "crowns": 20,
+        "crowns": 24,
         "battles_remaining": null,
-        "battles_played": 19,
-        "wins": 9
+        "battles_played": 21,
+        "wins": 11
     },
     "participants": [
         {
@@ -121,15 +121,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#YVLRYQY8Q",
-            "name": "Jayy",
-            "cards_earned": 1401,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#YRJLYVJG",
@@ -292,6 +283,15 @@
             "collection_day_battles_played": 3,
             "wins": 2,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#YVLRYQY8Q",
+            "name": "Jayy",
+            "cards_earned": 1401,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -324,8 +324,8 @@
             "clan_score": 3241,
             "participants": 34,
             "crowns": 30,
-            "battles_remaining": 7,
-            "battles_played": 27,
+            "battles_remaining": 6,
+            "battles_played": 28,
             "wins": 14
         },
         {
@@ -335,8 +335,8 @@
             "clan_score": 3120,
             "participants": 31,
             "crowns": 17,
-            "battles_remaining": 17,
-            "battles_played": 14,
+            "battles_remaining": 15,
+            "battles_played": 16,
             "wins": 10
         },
         {
@@ -345,10 +345,10 @@
             "badge_id": 16000003,
             "clan_score": 3025,
             "participants": 31,
-            "crowns": 20,
-            "battles_remaining": 12,
-            "battles_played": 19,
-            "wins": 9
+            "crowns": 24,
+            "battles_remaining": 10,
+            "battles_played": 21,
+            "wins": 11
         }
     ]
 }
