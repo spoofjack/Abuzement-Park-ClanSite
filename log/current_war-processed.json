@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3025,
         "participants": 31,
-        "crowns": 10,
+        "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 4
+        "battles_played": 12,
+        "wins": 5
     },
     "participants": [
         {
@@ -141,15 +141,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 2337,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#208V2RGL",
             "name": "NateDog",
             "cards_earned": 2337,
@@ -258,6 +249,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 2337,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8RQYURC",
             "name": "Tranosaurus",
             "cards_earned": 1869,
@@ -301,10 +301,10 @@
             "badge_id": 16000024,
             "clan_score": 29472,
             "participants": 33,
-            "crowns": 19,
-            "battles_remaining": 16,
-            "battles_played": 17,
-            "wins": 12
+            "crowns": 20,
+            "battles_remaining": 15,
+            "battles_played": 18,
+            "wins": 13
         },
         {
             "tag": "#PGVV99GG",
@@ -313,8 +313,8 @@
             "clan_score": 3241,
             "participants": 34,
             "crowns": 25,
-            "battles_remaining": 16,
-            "battles_played": 18,
+            "battles_remaining": 15,
+            "battles_played": 19,
             "wins": 10
         },
         {
@@ -334,10 +334,10 @@
             "badge_id": 16000003,
             "clan_score": 3025,
             "participants": 31,
-            "crowns": 10,
-            "battles_remaining": 20,
-            "battles_played": 11,
-            "wins": 4
+            "crowns": 12,
+            "battles_remaining": 19,
+            "battles_played": 12,
+            "wins": 5
         },
         {
             "tag": "#99Q98G0V",
@@ -354,5 +354,5 @@
     "cards": 63676,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "20 hours"
+    "end_label": "19 hours"
 }
