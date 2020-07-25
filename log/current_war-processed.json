@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2939,
         "participants": 29,
-        "crowns": 14,
+        "crowns": 16,
         "battles_remaining": null,
-        "battles_played": 12,
-        "wins": 6
+        "battles_played": 13,
+        "wins": 7
     },
     "participants": [
         {
@@ -22,15 +22,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#2LJU92JR",
@@ -186,6 +177,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLCLYCCLR",
             "name": "yggdrasil",
             "cards_earned": 280,
@@ -283,10 +283,10 @@
             "badge_id": 16000077,
             "clan_score": 2489,
             "participants": 31,
-            "crowns": 27,
-            "battles_remaining": 17,
-            "battles_played": 14,
-            "wins": 12
+            "crowns": 30,
+            "battles_remaining": 16,
+            "battles_played": 15,
+            "wins": 13
         },
         {
             "tag": "#8YGCJJP0",
@@ -300,6 +300,28 @@
             "wins": 9
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2939,
+            "participants": 29,
+            "crowns": 16,
+            "battles_remaining": 16,
+            "battles_played": 13,
+            "wins": 7
+        },
+        {
+            "tag": "#82LJQV00",
+            "name": "AZTEC WARRIORS",
+            "badge_id": 16000146,
+            "clan_score": 1607,
+            "participants": 31,
+            "crowns": 14,
+            "battles_remaining": 18,
+            "battles_played": 13,
+            "wins": 7
+        },
+        {
             "tag": "#PC9UYGPR",
             "name": "-Otakus-",
             "badge_id": 16000054,
@@ -308,28 +330,6 @@
             "crowns": 18,
             "battles_remaining": 18,
             "battles_played": 15,
-            "wins": 6
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2939,
-            "participants": 29,
-            "crowns": 14,
-            "battles_remaining": 17,
-            "battles_played": 12,
-            "wins": 6
-        },
-        {
-            "tag": "#82LJQV00",
-            "name": "AZTEC WARRIORS",
-            "badge_id": 16000146,
-            "clan_score": 1607,
-            "participants": 31,
-            "crowns": 13,
-            "battles_remaining": 20,
-            "battles_played": 11,
             "wins": 6
         }
     ],
