@@ -1,5 +1,5 @@
 {
-    "last_update": 1595732400.67745,
+    "last_update": 1595733300.686104,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
@@ -2914,11 +2914,11 @@
         "#8RQYURC": {
             "name": "Tranosaurus",
             "join_date": 1583897402.637654,
-            "last_activity_date": 1595724300.595019,
-            "last_donation_date": 1595675701.172216,
+            "last_activity_date": 1595733300.686104,
+            "last_donation_date": 1595733300.686104,
             "role": "member",
             "status": "present",
-            "donations": 530,
+            "donations": 538,
             "donations_last_week": 606,
             "events": [
                 {
@@ -4447,7 +4447,7 @@
             "last_activity_date": 1595592001.330092,
             "last_donation_date": 1595592001.330092,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 0,
             "events": [
@@ -4456,6 +4456,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1595592001.330092
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1595733300.686104
                 }
             ]
         },
