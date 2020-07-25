@@ -10,7 +10,7 @@
         "participants": 29,
         "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 9,
+        "battles_played": 10,
         "wins": 6
     },
     "participants": [
@@ -159,15 +159,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#899LR9Y80",
-            "name": "Warlord",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#Y99CRCGUC",
             "name": "toxos",
             "cards_earned": 1189,
@@ -258,6 +249,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#899LR9Y80",
+            "name": "Warlord",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "cards_earned": 1487,
@@ -317,8 +317,8 @@
             "clan_score": 2939,
             "participants": 29,
             "crowns": 12,
-            "battles_remaining": 20,
-            "battles_played": 9,
+            "battles_remaining": 19,
+            "battles_played": 10,
             "wins": 6
         },
         {
@@ -336,5 +336,5 @@
     "cards": 32813,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "20 hours"
+    "end_label": "19 hours"
 }
