@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52964,
+    "clan_score": 52967,
     "required_trophies": 4600,
-    "donations_per_week": 14609,
+    "donations_per_week": 14633,
     "clan_war_trophies": 3008,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,24 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 349,
-            "donations_received": 440,
+            "donations_received": 464,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#L9CQG8J",
+            "name": "Indeed",
+            "exp_level": 13,
+            "trophies": 5593,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20200726T020646.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 4,
+            "donations": 259,
+            "donations_received": 350,
             "clan_chest_points": 0
         },
         {
@@ -48,27 +65,10 @@
             },
             "role": "elder",
             "last_seen": "20200725T103858.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 2,
             "donations": 161,
             "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#L9CQG8J",
-            "name": "Indeed",
-            "exp_level": 13,
-            "trophies": 5562,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20200726T020646.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 4,
-            "donations": 251,
-            "donations_received": 350,
             "clan_chest_points": 0
         },
         {
@@ -160,16 +160,16 @@
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
-            "trophies": 5421,
+            "trophies": 5398,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20200726T015216.000Z",
+            "last_seen": "20200726T021830.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 11,
-            "donations": 1489,
+            "donations": 1497,
             "donations_received": 640,
             "clan_chest_points": 0
         },
@@ -684,23 +684,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#QYVQ0RUUL",
-            "name": "tim",
-            "exp_level": 9,
-            "trophies": 4839,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200726T002740.000Z",
-            "clan_rank": 40,
-            "previous_clan_rank": 38,
-            "donations": 150,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#20LGGP900",
             "name": "blackdog",
             "exp_level": 12,
@@ -711,10 +694,27 @@
             },
             "role": "coLeader",
             "last_seen": "20200725T155636.000Z",
-            "clan_rank": 41,
+            "clan_rank": 40,
             "previous_clan_rank": 42,
             "donations": 156,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#QYVQ0RUUL",
+            "name": "tim",
+            "exp_level": 9,
+            "trophies": 4820,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200726T022737.000Z",
+            "clan_rank": 41,
+            "previous_clan_rank": 38,
+            "donations": 150,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -789,16 +789,16 @@
             "tag": "#QRGULUJRL",
             "name": "Gaviii",
             "exp_level": 9,
-            "trophies": 4693,
+            "trophies": 4674,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200726T015427.000Z",
+            "last_seen": "20200726T022053.000Z",
             "clan_rank": 46,
             "previous_clan_rank": 0,
-            "donations": 0,
+            "donations": 8,
             "donations_received": 40,
             "clan_chest_points": 0
         },
