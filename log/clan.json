@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53178,
+    "clan_score": 53174,
     "required_trophies": 4600,
-    "donations_per_week": 15853,
+    "donations_per_week": 15873,
     "clan_war_trophies": 3008,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -98,10 +98,10 @@
                 "name": "Master II"
             },
             "role": "leader",
-            "last_seen": "20200726T133238.000Z",
+            "last_seen": "20200726T150413.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 4,
-            "donations": 1126,
+            "donations": 1136,
             "donations_received": 640,
             "clan_chest_points": 0
         },
@@ -336,10 +336,10 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200726T150003.000Z",
+            "last_seen": "20200726T150912.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 23,
-            "donations": 531,
+            "donations": 541,
             "donations_received": 520,
             "clan_chest_points": 0
         },
@@ -608,28 +608,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200726T142524.000Z",
+            "last_seen": "20200726T150134.000Z",
             "clan_rank": 35,
             "previous_clan_rank": 36,
             "donations": 464,
             "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YRJLYVJG",
-            "name": "FlashJakson",
-            "exp_level": 10,
-            "trophies": 4907,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200726T145238.000Z",
-            "clan_rank": 36,
-            "previous_clan_rank": 43,
-            "donations": 220,
-            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -643,7 +626,7 @@
             },
             "role": "member",
             "last_seen": "20200726T103914.000Z",
-            "clan_rank": 37,
+            "clan_rank": 36,
             "previous_clan_rank": 33,
             "donations": 0,
             "donations_received": 0,
@@ -660,7 +643,7 @@
             },
             "role": "member",
             "last_seen": "20200725T061031.000Z",
-            "clan_rank": 38,
+            "clan_rank": 37,
             "previous_clan_rank": 35,
             "donations": 39,
             "donations_received": 40,
@@ -677,7 +660,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200726T131828.000Z",
-            "clan_rank": 39,
+            "clan_rank": 38,
             "previous_clan_rank": 41,
             "donations": 227,
             "donations_received": 360,
@@ -694,7 +677,7 @@
             },
             "role": "member",
             "last_seen": "20200725T142652.000Z",
-            "clan_rank": 40,
+            "clan_rank": 39,
             "previous_clan_rank": 37,
             "donations": 310,
             "donations_received": 240,
@@ -711,7 +694,7 @@
             },
             "role": "member",
             "last_seen": "20200726T143358.000Z",
-            "clan_rank": 41,
+            "clan_rank": 40,
             "previous_clan_rank": 44,
             "donations": 26,
             "donations_received": 0,
@@ -728,10 +711,27 @@
             },
             "role": "member",
             "last_seen": "20200726T142835.000Z",
-            "clan_rank": 42,
+            "clan_rank": 41,
             "previous_clan_rank": 39,
             "donations": 75,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YRJLYVJG",
+            "name": "FlashJakson",
+            "exp_level": 10,
+            "trophies": 4845,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200726T145238.000Z",
+            "clan_rank": 42,
+            "previous_clan_rank": 43,
+            "donations": 220,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -867,7 +867,7 @@
             "clan_rank": 50,
             "previous_clan_rank": 50,
             "donations": 20,
-            "donations_received": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         }
     ]
