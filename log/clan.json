@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53166,
+    "clan_score": 53163,
     "required_trophies": 4600,
-    "donations_per_week": 15883,
+    "donations_per_week": 15911,
     "clan_war_trophies": 3008,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -225,23 +225,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 5269,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200726T145813.000Z",
-            "clan_rank": 13,
-            "previous_clan_rank": 13,
-            "donations": 232,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "exp_level": 13,
@@ -252,10 +235,27 @@
             },
             "role": "coLeader",
             "last_seen": "20200726T122836.000Z",
-            "clan_rank": 14,
+            "clan_rank": 13,
             "previous_clan_rank": 17,
             "donations": 458,
             "donations_received": 550,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 5247,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200726T154915.000Z",
+            "clan_rank": 14,
+            "previous_clan_rank": 13,
+            "donations": 232,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -374,7 +374,7 @@
             "clan_rank": 21,
             "previous_clan_rank": 21,
             "donations": 366,
-            "donations_received": 450,
+            "donations_received": 470,
             "clan_chest_points": 0
         },
         {
@@ -387,11 +387,11 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200726T154256.000Z",
+            "last_seen": "20200726T155503.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 22,
-            "donations": 308,
-            "donations_received": 400,
+            "donations": 318,
+            "donations_received": 408,
             "clan_chest_points": 0
         },
         {
@@ -526,7 +526,7 @@
             "last_seen": "20200726T153517.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 30,
-            "donations": 1235,
+            "donations": 1253,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -582,6 +582,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#JRG8G8LL",
+            "name": "Evan_Wibb",
+            "exp_level": 12,
+            "trophies": 4927,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200726T154120.000Z",
+            "clan_rank": 34,
+            "previous_clan_rank": 39,
+            "donations": 85,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2CPGCUPL0",
             "name": "ePhorize",
             "exp_level": 13,
@@ -592,7 +609,7 @@
             },
             "role": "member",
             "last_seen": "20200724T000643.000Z",
-            "clan_rank": 34,
+            "clan_rank": 35,
             "previous_clan_rank": 34,
             "donations": 149,
             "donations_received": 273,
@@ -609,7 +626,7 @@
             },
             "role": "member",
             "last_seen": "20200726T150134.000Z",
-            "clan_rank": 35,
+            "clan_rank": 36,
             "previous_clan_rank": 36,
             "donations": 464,
             "donations_received": 360,
@@ -626,7 +643,7 @@
             },
             "role": "member",
             "last_seen": "20200726T103914.000Z",
-            "clan_rank": 36,
+            "clan_rank": 37,
             "previous_clan_rank": 33,
             "donations": 0,
             "donations_received": 0,
@@ -643,27 +660,10 @@
             },
             "role": "member",
             "last_seen": "20200725T061031.000Z",
-            "clan_rank": 37,
+            "clan_rank": 38,
             "previous_clan_rank": 35,
             "donations": 39,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#JRG8G8LL",
-            "name": "Evan_Wibb",
-            "exp_level": 12,
-            "trophies": 4897,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200726T154120.000Z",
-            "clan_rank": 38,
-            "previous_clan_rank": 39,
-            "donations": 85,
-            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -721,7 +721,7 @@
             "tag": "#YRJLYVJG",
             "name": "FlashJakson",
             "exp_level": 10,
-            "trophies": 4854,
+            "trophies": 4844,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
