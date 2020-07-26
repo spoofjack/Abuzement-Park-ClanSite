@@ -7,13 +7,22 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 3008,
-        "participants": 16,
+        "participants": 18,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 46,
-        "wins": 27
+        "battles_played": 51,
+        "wins": 31
     },
     "participants": [
+        {
+            "tag": "#YRJLYVJG",
+            "name": "FlashJakson",
+            "cards_earned": 2200,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 3
+        },
         {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
@@ -30,6 +39,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#9992GG0CQ",
+            "name": "freighttrain",
+            "cards_earned": 1760,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 2,
             "number_of_battles": 3
         },
         {
@@ -160,8 +178,8 @@
         }
     ],
     "clans": null,
-    "cards": 33733,
+    "cards": 37693,
     "state_label": "Collection Day",
-    "collection_end_time_label": "8 hours",
-    "end_label": "1 day, 8 hours"
+    "collection_end_time_label": "7 hours",
+    "end_label": "1 day, 7 hours"
 }
