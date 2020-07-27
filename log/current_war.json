@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 3008,
         "participants": 30,
-        "crowns": 22,
+        "crowns": 23,
         "battles_remaining": null,
-        "battles_played": 22,
+        "battles_played": 23,
         "wins": 12
     },
     "participants": [
-        {
-            "tag": "#JRG8G8LL",
-            "name": "Evan_Wibb",
-            "cards_earned": 2200,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
@@ -128,6 +119,15 @@
             "cards_earned": 880,
             "battles_played": 1,
             "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#JRG8G8LL",
+            "name": "Evan_Wibb",
+            "cards_earned": 2200,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -336,9 +336,9 @@
             "badge_id": 16000003,
             "clan_score": 3008,
             "participants": 30,
-            "crowns": 22,
-            "battles_remaining": 8,
-            "battles_played": 22,
+            "crowns": 23,
+            "battles_remaining": 7,
+            "battles_played": 23,
             "wins": 12
         }
     ]
