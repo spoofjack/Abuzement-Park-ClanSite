@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53597,
+    "clan_score": 53607,
     "required_trophies": 4600,
-    "donations_per_week": 2300,
+    "donations_per_week": 2370,
     "clan_war_trophies": 3008,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -55,6 +55,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#L9CQG8J",
+            "name": "Indeed",
+            "exp_level": 13,
+            "trophies": 5639,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "member",
+            "last_seen": "20200727T212613.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 2,
+            "donations": 61,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 12,
@@ -65,27 +82,10 @@
             },
             "role": "elder",
             "last_seen": "20200727T103351.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 90,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#L9CQG8J",
-            "name": "Indeed",
-            "exp_level": 13,
-            "trophies": 5610,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "member",
-            "last_seen": "20200727T201352.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 2,
-            "donations": 53,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -119,24 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 106,
-            "donations_received": 112,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5509,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "leader",
-            "last_seen": "20200727T195103.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 5,
-            "donations": 166,
-            "donations_received": 80,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -150,9 +133,26 @@
             },
             "role": "elder",
             "last_seen": "20200727T134354.000Z",
-            "clan_rank": 8,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 67,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5485,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "leader",
+            "last_seen": "20200727T212624.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 5,
+            "donations": 174,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -204,7 +204,7 @@
             "clan_rank": 11,
             "previous_clan_rank": 9,
             "donations": 19,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -276,6 +276,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2P9QGRRLC",
+            "name": "IvoVich",
+            "exp_level": 12,
+            "trophies": 5299,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200727T211508.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 17,
+            "donations": 46,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
             "exp_level": 12,
@@ -286,27 +303,10 @@
             },
             "role": "member",
             "last_seen": "20200727T165406.000Z",
-            "clan_rank": 16,
+            "clan_rank": 17,
             "previous_clan_rank": 16,
             "donations": 20,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2P9QGRRLC",
-            "name": "IvoVich",
-            "exp_level": 12,
-            "trophies": 5265,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200727T211508.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 17,
-            "donations": 46,
-            "donations_received": 48,
             "clan_chest_points": 0
         },
         {
@@ -336,10 +336,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200727T193257.000Z",
+            "last_seen": "20200727T211556.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 19,
-            "donations": 10,
+            "donations": 38,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -540,10 +540,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200727T151959.000Z",
+            "last_seen": "20200727T212149.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 31,
-            "donations": 36,
+            "donations": 62,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -557,7 +557,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200727T182614.000Z",
+            "last_seen": "20200727T212825.000Z",
             "clan_rank": 32,
             "previous_clan_rank": 36,
             "donations": 19,
@@ -697,7 +697,7 @@
             "clan_rank": 40,
             "previous_clan_rank": 40,
             "donations": 8,
-            "donations_received": 60,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
