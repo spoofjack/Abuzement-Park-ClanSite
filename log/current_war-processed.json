@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 3008,
         "participants": 30,
-        "crowns": 21,
+        "crowns": 22,
         "battles_remaining": null,
-        "battles_played": 21,
+        "battles_played": 22,
         "wins": 12
     },
     "participants": [
-        {
-            "tag": "#9992GG0CQ",
-            "name": "freighttrain",
-            "cards_earned": 2200,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#JRG8G8LL",
             "name": "Evan_Wibb",
@@ -120,6 +111,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9992GG0CQ",
+            "name": "freighttrain",
+            "cards_earned": 2200,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -303,9 +303,9 @@
             "badge_id": 16000003,
             "clan_score": 3008,
             "participants": 30,
-            "crowns": 21,
-            "battles_remaining": 9,
-            "battles_played": 21,
+            "crowns": 22,
+            "battles_remaining": 8,
+            "battles_played": 22,
             "wins": 12
         },
         {
@@ -337,8 +337,8 @@
             "clan_score": 3014,
             "participants": 29,
             "crowns": 10,
-            "battles_remaining": 10,
-            "battles_played": 19,
+            "battles_remaining": 9,
+            "battles_played": 20,
             "wins": 3
         }
     ],
