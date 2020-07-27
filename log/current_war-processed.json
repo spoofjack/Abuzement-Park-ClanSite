@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 19,
         "battles_remaining": null,
-        "battles_played": 15,
+        "battles_played": 16,
         "wins": 10
     },
     "participants": [
@@ -117,15 +117,6 @@
             "tag": "#208V2RGL",
             "name": "NateDog",
             "cards_earned": 2255,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "cards_earned": 1869,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -240,6 +231,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "cards_earned": 1401,
@@ -293,8 +293,8 @@
             "clan_score": 3008,
             "participants": 30,
             "crowns": 19,
-            "battles_remaining": 15,
-            "battles_played": 15,
+            "battles_remaining": 14,
+            "battles_played": 16,
             "wins": 10
         },
         {
@@ -303,10 +303,21 @@
             "badge_id": 16000120,
             "clan_score": 3040,
             "participants": 29,
-            "crowns": 11,
-            "battles_remaining": 20,
-            "battles_played": 9,
-            "wins": 5
+            "crowns": 12,
+            "battles_remaining": 19,
+            "battles_played": 10,
+            "wins": 6
+        },
+        {
+            "tag": "#8C90R0PL",
+            "name": "CGD",
+            "badge_id": 16000096,
+            "clan_score": 4980,
+            "participants": 30,
+            "crowns": 2,
+            "battles_remaining": 25,
+            "battles_played": 5,
+            "wins": 2
         },
         {
             "tag": "#99YJG8GU",
@@ -329,21 +340,10 @@
             "battles_remaining": 29,
             "battles_played": 1,
             "wins": 0
-        },
-        {
-            "tag": "#8C90R0PL",
-            "name": "CGD",
-            "badge_id": 16000096,
-            "clan_score": 4980,
-            "participants": 30,
-            "crowns": 0,
-            "battles_remaining": 27,
-            "battles_played": 3,
-            "wins": 0
         }
     ],
     "cards": 59107,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "19 hours"
+    "end_label": "18 hours"
 }
