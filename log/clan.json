@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53636,
+    "clan_score": 53575,
     "required_trophies": 4600,
-    "donations_per_week": 4466,
+    "donations_per_week": 4498,
     "clan_war_trophies": 3072,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5716,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200728T165341.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 1,
-            "donations": 246,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
@@ -48,7 +31,7 @@
             },
             "role": "elder",
             "last_seen": "20200728T132526.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 2,
             "donations": 103,
             "donations_received": 120,
@@ -65,27 +48,10 @@
             },
             "role": "leader",
             "last_seen": "20200728T175056.000Z",
-            "clan_rank": 3,
+            "clan_rank": 2,
             "previous_clan_rank": 7,
             "donations": 362,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5648,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200728T182919.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 5,
-            "donations": 589,
-            "donations_received": 224,
             "clan_chest_points": 0
         },
         {
@@ -99,10 +65,44 @@
             },
             "role": "member",
             "last_seen": "20200728T162632.000Z",
-            "clan_rank": 5,
+            "clan_rank": 3,
             "previous_clan_rank": 4,
             "donations": 117,
             "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5638,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200728T183957.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 1,
+            "donations": 262,
+            "donations_received": 176,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5621,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200728T184413.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 5,
+            "donations": 597,
+            "donations_received": 232,
             "clan_chest_points": 0
         },
         {
@@ -255,7 +255,7 @@
             "clan_rank": 14,
             "previous_clan_rank": 13,
             "donations": 82,
-            "donations_received": 112,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -344,34 +344,17 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "exp_level": 13,
-            "trophies": 5203,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200728T145736.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 23,
-            "donations": 68,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "exp_level": 11,
-            "trophies": 5186,
+            "trophies": 5192,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200728T135755.000Z",
-            "clan_rank": 21,
+            "last_seen": "20200728T183609.000Z",
+            "clan_rank": 20,
             "previous_clan_rank": 21,
             "donations": 103,
             "donations_received": 0,
@@ -388,10 +371,27 @@
             },
             "role": "member",
             "last_seen": "20200728T144922.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 19,
             "donations": 76,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "exp_level": 13,
+            "trophies": 5137,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200728T183319.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 23,
+            "donations": 68,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -721,16 +721,16 @@
             "tag": "#QGLYUPYJ",
             "name": "VB2",
             "exp_level": 11,
-            "trophies": 4854,
+            "trophies": 4834,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200728T182224.000Z",
+            "last_seen": "20200728T183812.000Z",
             "clan_rank": 42,
             "previous_clan_rank": 36,
-            "donations": 83,
+            "donations": 91,
             "donations_received": 120,
             "clan_chest_points": 0
         },
