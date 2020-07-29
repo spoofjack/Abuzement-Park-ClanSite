@@ -10,7 +10,7 @@
         "participants": 27,
         "crowns": 6,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 12,
         "wins": 4
     },
     "participants": [
@@ -112,15 +112,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "cards_earned": 2337,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#9P0V20CY8",
@@ -256,6 +247,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 2337,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -310,8 +310,8 @@
             "clan_score": 3072,
             "participants": 27,
             "crowns": 6,
-            "battles_remaining": 17,
-            "battles_played": 10,
+            "battles_remaining": 15,
+            "battles_played": 12,
             "wins": 4
         }
     ]
