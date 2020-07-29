@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3072,
         "participants": 27,
-        "crowns": 9,
+        "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 16,
-        "wins": 5
+        "battles_played": 17,
+        "wins": 6
     },
     "participants": [
         {
@@ -45,15 +45,6 @@
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "cards_earned": 2337,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 1869,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -204,6 +195,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "cards_earned": 2337,
@@ -276,21 +276,10 @@
             "badge_id": 16000028,
             "clan_score": 19525,
             "participants": 27,
-            "crowns": 11,
-            "battles_remaining": 11,
-            "battles_played": 16,
-            "wins": 7
-        },
-        {
-            "tag": "#PC0R208R",
-            "name": "Bolsonaro",
-            "badge_id": 16000058,
-            "clan_score": 3076,
-            "participants": 28,
             "crowns": 14,
-            "battles_remaining": 12,
-            "battles_played": 16,
-            "wins": 5
+            "battles_remaining": 10,
+            "battles_played": 17,
+            "wins": 8
         },
         {
             "tag": "#LP98YUCV",
@@ -298,9 +287,20 @@
             "badge_id": 16000003,
             "clan_score": 3072,
             "participants": 27,
-            "crowns": 9,
-            "battles_remaining": 11,
-            "battles_played": 16,
+            "crowns": 11,
+            "battles_remaining": 10,
+            "battles_played": 17,
+            "wins": 6
+        },
+        {
+            "tag": "#PC0R208R",
+            "name": "Bolsonaro",
+            "badge_id": 16000058,
+            "clan_score": 3076,
+            "participants": 28,
+            "crowns": 15,
+            "battles_remaining": 10,
+            "battles_played": 18,
             "wins": 5
         },
         {
@@ -309,14 +309,14 @@
             "badge_id": 16000097,
             "clan_score": 3022,
             "participants": 27,
-            "crowns": 12,
-            "battles_remaining": 11,
-            "battles_played": 16,
-            "wins": 4
+            "crowns": 13,
+            "battles_remaining": 10,
+            "battles_played": 17,
+            "wins": 5
         }
     ],
     "cards": 49953,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "12 hours"
+    "end_label": "11 hours"
 }
