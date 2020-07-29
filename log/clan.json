@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54120,
+    "clan_score": 54108,
     "required_trophies": 5300,
-    "donations_per_week": 7210,
+    "donations_per_week": 7230,
     "clan_war_trophies": 3072,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "exp_level": 12,
-            "trophies": 5513,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200729T223726.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 10,
-            "donations": 98,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -184,10 +167,27 @@
             },
             "role": "elder",
             "last_seen": "20200729T205156.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 238,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "exp_level": 12,
+            "trophies": 5489,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200729T223726.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 10,
+            "donations": 108,
+            "donations_received": 130,
             "clan_chest_points": 0
         },
         {
@@ -472,11 +472,11 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200729T180607.000Z",
+            "last_seen": "20200729T224913.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 26,
-            "donations": 34,
-            "donations_received": 120,
+            "donations": 44,
+            "donations_received": 130,
             "clan_chest_points": 0
         },
         {
@@ -789,7 +789,7 @@
             "tag": "#QRGULUJRL",
             "name": "Gaviii",
             "exp_level": 9,
-            "trophies": 4804,
+            "trophies": 4813,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
