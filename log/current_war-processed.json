@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3072,
         "participants": 27,
-        "crowns": 2,
+        "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 6,
-        "wins": 2
+        "battles_played": 7,
+        "wins": 3
     },
     "participants": [
         {
@@ -20,15 +20,6 @@
             "cards_earned": 1870,
             "battles_played": 0,
             "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8RRGYVGGG",
-            "name": "BotoSaka",
-            "cards_earned": 935,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -222,6 +213,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8RRGYVGGG",
+            "name": "BotoSaka",
+            "cards_earned": 935,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 1401,
@@ -260,6 +260,17 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 3072,
+            "participants": 27,
+            "crowns": 5,
+            "battles_remaining": 20,
+            "battles_played": 7,
+            "wins": 3
+        },
+        {
             "tag": "#JQL80P",
             "name": "Apple Sauce",
             "badge_id": 16000028,
@@ -268,17 +279,6 @@
             "crowns": 4,
             "battles_remaining": 25,
             "battles_played": 2,
-            "wins": 2
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 3072,
-            "participants": 27,
-            "crowns": 2,
-            "battles_remaining": 21,
-            "battles_played": 6,
             "wins": 2
         },
         {
@@ -309,9 +309,9 @@
             "badge_id": 16000029,
             "clan_score": 5053,
             "participants": 28,
-            "crowns": 0,
-            "battles_remaining": 28,
-            "battles_played": 0,
+            "crowns": 1,
+            "battles_remaining": 26,
+            "battles_played": 2,
             "wins": 0
         }
     ],
