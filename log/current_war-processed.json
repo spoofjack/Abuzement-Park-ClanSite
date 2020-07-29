@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 3072,
         "participants": 27,
-        "crowns": 0,
+        "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 4,
-        "wins": 0
+        "battles_played": 6,
+        "wins": 2
     },
     "participants": [
-        {
-            "tag": "#YRJLYVJG",
-            "name": "FlashJakson",
-            "cards_earned": 2200,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
@@ -63,15 +54,6 @@
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "cards_earned": 1401,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -222,12 +204,30 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YRJLYVJG",
+            "name": "FlashJakson",
+            "cards_earned": 2200,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "cards_earned": 1401,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 1401,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -265,9 +265,31 @@
             "badge_id": 16000028,
             "clan_score": 19525,
             "participants": 27,
-            "crowns": 3,
-            "battles_remaining": 26,
-            "battles_played": 1,
+            "crowns": 4,
+            "battles_remaining": 25,
+            "battles_played": 2,
+            "wins": 2
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 3072,
+            "participants": 27,
+            "crowns": 2,
+            "battles_remaining": 21,
+            "battles_played": 6,
+            "wins": 2
+        },
+        {
+            "tag": "#PC0R208R",
+            "name": "Bolsonaro",
+            "badge_id": 16000058,
+            "clan_score": 3076,
+            "participants": 28,
+            "crowns": 5,
+            "battles_remaining": 23,
+            "battles_played": 5,
             "wins": 1
         },
         {
@@ -277,20 +299,9 @@
             "clan_score": 3022,
             "participants": 27,
             "crowns": 1,
-            "battles_remaining": 25,
-            "battles_played": 2,
-            "wins": 1
-        },
-        {
-            "tag": "#PC0R208R",
-            "name": "Bolsonaro",
-            "badge_id": 16000058,
-            "clan_score": 3076,
-            "participants": 28,
-            "crowns": 2,
-            "battles_remaining": 25,
+            "battles_remaining": 24,
             "battles_played": 3,
-            "wins": 0
+            "wins": 1
         },
         {
             "tag": "#2GLRJY0",
@@ -301,17 +312,6 @@
             "crowns": 0,
             "battles_remaining": 28,
             "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 3072,
-            "participants": 27,
-            "crowns": 0,
-            "battles_remaining": 23,
-            "battles_played": 4,
             "wins": 0
         }
     ],
