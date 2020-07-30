@@ -7,10 +7,10 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 3133,
-        "participants": 13,
+        "participants": 14,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 33,
+        "battles_played": 34,
         "wins": 14
     },
     "participants": [
@@ -39,6 +39,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#9992GG0CQ",
+            "name": "freighttrain",
+            "cards_earned": 440,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
             "number_of_battles": 3
         },
         {
@@ -133,8 +142,8 @@
         }
     ],
     "clans": null,
-    "cards": 21578,
+    "cards": 22018,
     "state_label": "Collection Day",
-    "collection_end_time_label": "12 hours",
-    "end_label": "1 day, 12 hours"
+    "collection_end_time_label": "11 hours",
+    "end_label": "1 day, 11 hours"
 }
