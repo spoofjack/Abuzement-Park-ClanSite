@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54209,
+    "clan_score": 54215,
     "required_trophies": 5300,
-    "donations_per_week": 8026,
+    "donations_per_week": 8036,
     "clan_war_trophies": 3133,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -310,6 +310,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5301,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200730T063953.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 20,
+            "donations": 180,
+            "donations_received": 330,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2P9QGRRLC",
             "name": "IvoVich",
             "exp_level": 12,
@@ -320,7 +337,7 @@
             },
             "role": "member",
             "last_seen": "20200728T061644.000Z",
-            "clan_rank": 18,
+            "clan_rank": 19,
             "previous_clan_rank": 17,
             "donations": 84,
             "donations_received": 80,
@@ -337,7 +354,7 @@
             },
             "role": "elder",
             "last_seen": "20200730T022619.000Z",
-            "clan_rank": 19,
+            "clan_rank": 20,
             "previous_clan_rank": 18,
             "donations": 264,
             "donations_received": 280,
@@ -354,27 +371,10 @@
             },
             "role": "member",
             "last_seen": "20200730T061451.000Z",
-            "clan_rank": 20,
+            "clan_rank": 21,
             "previous_clan_rank": 21,
             "donations": 162,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5267,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200730T063953.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 20,
-            "donations": 180,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -455,10 +455,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200730T072346.000Z",
+            "last_seen": "20200730T073359.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 27,
-            "donations": 199,
+            "donations": 209,
             "donations_received": 200,
             "clan_chest_points": 0
         },
