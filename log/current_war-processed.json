@@ -10,7 +10,7 @@
         "participants": 28,
         "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 18,
+        "battles_played": 20,
         "wins": 6
     },
     "participants": [
@@ -18,15 +18,6 @@
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9992GG0CQ",
-            "name": "freighttrain",
-            "cards_earned": 1760,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -63,15 +54,6 @@
             "tag": "#QGLYUPYJ",
             "name": "VB2",
             "cards_earned": 1760,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "cards_earned": 2200,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -123,6 +105,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9992GG0CQ",
+            "name": "freighttrain",
+            "cards_earned": 1760,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#JRG8G8LL",
             "name": "Evan_Wibb",
             "cards_earned": 2200,
@@ -155,6 +146,15 @@
             "cards_earned": 1402,
             "battles_played": 1,
             "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "cards_earned": 2200,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -269,6 +269,17 @@
     ],
     "clans": [
         {
+            "tag": "#89QVUY0L",
+            "name": "\u52c7\u58eb\u5011\u2122\ufe0f",
+            "badge_id": 16000176,
+            "clan_score": 12488,
+            "participants": 26,
+            "crowns": 16,
+            "battles_remaining": 12,
+            "battles_played": 14,
+            "wins": 9
+        },
+        {
             "tag": "#8PLL9U9V",
             "name": "CP_Per\u00fa",
             "badge_id": 16000047,
@@ -291,17 +302,6 @@
             "wins": 8
         },
         {
-            "tag": "#89QVUY0L",
-            "name": "\u52c7\u58eb\u5011\u2122\ufe0f",
-            "badge_id": 16000176,
-            "clan_score": 12488,
-            "participants": 26,
-            "crowns": 15,
-            "battles_remaining": 13,
-            "battles_played": 13,
-            "wins": 8
-        },
-        {
             "tag": "#9PC9JQC",
             "name": "\u0f3a\u98a8\u0f12\u96f2\u0f3b",
             "badge_id": 16000162,
@@ -319,8 +319,8 @@
             "clan_score": 3133,
             "participants": 28,
             "crowns": 12,
-            "battles_remaining": 10,
-            "battles_played": 18,
+            "battles_remaining": 8,
+            "battles_played": 20,
             "wins": 6
         }
     ],
