@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54190,
+    "clan_score": 54184,
     "required_trophies": 5300,
-    "donations_per_week": 10492,
+    "donations_per_week": 10500,
     "clan_war_trophies": 3133,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -310,23 +310,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5308,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200731T063527.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 19,
-            "donations": 256,
-            "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#U80UULJR",
             "name": "\u9738\u738b~\u65e0\u540d",
             "exp_level": 13,
@@ -337,7 +320,7 @@
             },
             "role": "member",
             "last_seen": "20200731T040207.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -354,10 +337,27 @@
             },
             "role": "member",
             "last_seen": "20200728T061644.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 20,
             "donations": 84,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5284,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200731T071316.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 19,
+            "donations": 264,
+            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -442,7 +442,7 @@
             "clan_rank": 25,
             "previous_clan_rank": 26,
             "donations": 365,
-            "donations_received": 288,
+            "donations_received": 296,
             "clan_chest_points": 0
         },
         {
@@ -693,7 +693,7 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200731T065841.000Z",
+            "last_seen": "20200731T070307.000Z",
             "clan_rank": 40,
             "previous_clan_rank": 41,
             "donations": 156,
