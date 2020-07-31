@@ -10,7 +10,7 @@
         "participants": 28,
         "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 16,
+        "battles_played": 17,
         "wins": 6
     },
     "participants": [
@@ -81,15 +81,6 @@
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "cards_earned": 1401,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -173,6 +164,15 @@
             "cards_earned": 1402,
             "battles_played": 1,
             "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 1401,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -286,8 +286,8 @@
             "clan_score": 12488,
             "participants": 26,
             "crowns": 15,
-            "battles_remaining": 15,
-            "battles_played": 11,
+            "battles_remaining": 14,
+            "battles_played": 12,
             "wins": 8
         },
         {
@@ -319,8 +319,8 @@
             "clan_score": 3133,
             "participants": 28,
             "crowns": 11,
-            "battles_remaining": 12,
-            "battles_played": 16,
+            "battles_remaining": 11,
+            "battles_played": 17,
             "wins": 6
         }
     ]
