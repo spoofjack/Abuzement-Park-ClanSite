@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 3133,
         "participants": 28,
-        "crowns": 0,
+        "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 2,
+        "wins": 1
     },
     "participants": [
-        {
-            "tag": "#YRJLYVJG",
-            "name": "FlashJakson",
-            "cards_earned": 2640,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
@@ -56,15 +47,6 @@
             "cards_earned": 2200,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CR2C0VVR",
-            "name": "ShaddBills",
-            "cards_earned": 1870,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -265,9 +247,49 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#YRJLYVJG",
+            "name": "FlashJakson",
+            "cards_earned": 2640,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CR2C0VVR",
+            "name": "ShaddBills",
+            "cards_earned": 1870,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#9PC9JQC",
+            "name": "\u0f3a\u98a8\u0f12\u96f2\u0f3b",
+            "badge_id": 16000162,
+            "clan_score": 3007,
+            "participants": 27,
+            "crowns": 5,
+            "battles_remaining": 25,
+            "battles_played": 2,
+            "wins": 2
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 3133,
+            "participants": 28,
+            "crowns": 2,
+            "battles_remaining": 26,
+            "battles_played": 2,
+            "wins": 1
+        },
         {
             "tag": "#R80Y99P",
             "name": "Los Ballenatos",
@@ -275,7 +297,18 @@
             "clan_score": 3131,
             "participants": 27,
             "crowns": 1,
-            "battles_remaining": 26,
+            "battles_remaining": 25,
+            "battles_played": 2,
+            "wins": 1
+        },
+        {
+            "tag": "#89QVUY0L",
+            "name": "\u52c7\u58eb\u5011\u2122\ufe0f",
+            "badge_id": 16000176,
+            "clan_score": 12488,
+            "participants": 26,
+            "crowns": 1,
+            "battles_remaining": 25,
             "battles_played": 1,
             "wins": 1
         },
@@ -289,39 +322,6 @@
             "battles_remaining": 25,
             "battles_played": 1,
             "wins": 1
-        },
-        {
-            "tag": "#89QVUY0L",
-            "name": "\u52c7\u58eb\u5011\u2122\ufe0f",
-            "badge_id": 16000176,
-            "clan_score": 12488,
-            "participants": 26,
-            "crowns": 0,
-            "battles_remaining": 26,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#9PC9JQC",
-            "name": "\u0f3a\u98a8\u0f12\u96f2\u0f3b",
-            "badge_id": 16000162,
-            "clan_score": 3007,
-            "participants": 27,
-            "crowns": 0,
-            "battles_remaining": 27,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 3133,
-            "participants": 28,
-            "crowns": 0,
-            "battles_remaining": 28,
-            "battles_played": 0,
-            "wins": 0
         }
     ],
     "cards": 53141,
