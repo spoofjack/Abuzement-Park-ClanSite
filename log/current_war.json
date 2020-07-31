@@ -10,7 +10,7 @@
         "participants": 28,
         "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 8,
+        "battles_played": 10,
         "wins": 4
     },
     "participants": [
@@ -141,27 +141,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "cards_earned": 1401,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#899LR9Y80",
-            "name": "Warlord",
-            "cards_earned": 1760,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -231,6 +213,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "cards_earned": 1401,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8RQYURC",
             "name": "Tranosaurus",
             "cards_earned": 1869,
@@ -246,6 +237,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#899LR9Y80",
+            "name": "Warlord",
+            "cards_earned": 1760,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -319,8 +319,8 @@
             "clan_score": 3133,
             "participants": 28,
             "crowns": 8,
-            "battles_remaining": 20,
-            "battles_played": 8,
+            "battles_remaining": 18,
+            "battles_played": 10,
             "wins": 4
         }
     ]
