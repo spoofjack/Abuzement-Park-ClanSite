@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3133,
         "participants": 28,
-        "crowns": 10,
+        "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 15,
-        "wins": 5
+        "battles_played": 16,
+        "wins": 6
     },
     "participants": [
         {
@@ -105,15 +105,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1869,
@@ -191,6 +182,15 @@
             "cards_earned": 1402,
             "battles_played": 1,
             "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
         },
@@ -318,10 +318,10 @@
             "badge_id": 16000003,
             "clan_score": 3133,
             "participants": 28,
-            "crowns": 10,
-            "battles_remaining": 13,
-            "battles_played": 15,
-            "wins": 5
+            "crowns": 11,
+            "battles_remaining": 12,
+            "battles_played": 16,
+            "wins": 6
         }
     ]
 }
