@@ -10,19 +10,10 @@
         "participants": 28,
         "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 11,
         "wins": 4
     },
     "participants": [
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 1401,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
@@ -186,6 +177,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 1401,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "cards_earned": 1870,
@@ -319,8 +319,8 @@
             "clan_score": 3133,
             "participants": 28,
             "crowns": 8,
-            "battles_remaining": 18,
-            "battles_played": 10,
+            "battles_remaining": 17,
+            "battles_played": 11,
             "wins": 4
         }
     ]
