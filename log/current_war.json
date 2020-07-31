@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 3133,
         "participants": 28,
-        "crowns": 6,
+        "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 7,
-        "wins": 3
+        "battles_played": 8,
+        "wins": 4
     },
     "participants": [
         {
@@ -159,15 +159,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#899LR9Y80",
             "name": "Warlord",
             "cards_earned": 1760,
@@ -249,6 +240,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "cards_earned": 2805,
@@ -274,10 +274,10 @@
             "badge_id": 16000146,
             "clan_score": 3131,
             "participants": 27,
-            "crowns": 6,
-            "battles_remaining": 22,
-            "battles_played": 5,
-            "wins": 4
+            "crowns": 8,
+            "battles_remaining": 21,
+            "battles_played": 6,
+            "wins": 5
         },
         {
             "tag": "#89QVUY0L",
@@ -318,10 +318,10 @@
             "badge_id": 16000003,
             "clan_score": 3133,
             "participants": 28,
-            "crowns": 6,
-            "battles_remaining": 21,
-            "battles_played": 7,
-            "wins": 3
+            "crowns": 8,
+            "battles_remaining": 20,
+            "battles_played": 8,
+            "wins": 4
         }
     ]
 }
