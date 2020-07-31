@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54190,
+    "clan_score": 54185,
     "required_trophies": 5300,
     "donations_per_week": 10450,
     "clan_war_trophies": 3133,
@@ -310,23 +310,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 5320,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20200731T044350.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 16,
-            "donations": 218,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -337,7 +320,7 @@
             },
             "role": "elder",
             "last_seen": "20200731T024135.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 19,
             "donations": 246,
             "donations_received": 440,
@@ -354,7 +337,7 @@
             },
             "role": "member",
             "last_seen": "20200731T040207.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -371,10 +354,27 @@
             },
             "role": "member",
             "last_seen": "20200728T061644.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 20,
             "donations": 84,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 5297,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20200731T044350.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 16,
+            "donations": 218,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -517,13 +517,13 @@
             "tag": "#9CR2C0VVR",
             "name": "ShaddBills",
             "exp_level": 11,
-            "trophies": 5090,
+            "trophies": 5097,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200731T002153.000Z",
+            "last_seen": "20200731T045838.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 28,
             "donations": 84,
