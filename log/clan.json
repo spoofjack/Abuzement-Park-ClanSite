@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54261,
+    "clan_score": 54250,
     "required_trophies": 5300,
-    "donations_per_week": 14250,
+    "donations_per_week": 14260,
     "clan_war_trophies": 3040,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5587,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "leader",
-            "last_seen": "20200801T152604.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 10,
-            "donations": 868,
-            "donations_received": 600,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -184,10 +167,27 @@
             },
             "role": "member",
             "last_seen": "20200801T154018.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 15,
             "donations": 488,
             "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5565,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "leader",
+            "last_seen": "20200801T163246.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 10,
+            "donations": 878,
+            "donations_received": 600,
             "clan_chest_points": 0
         },
         {
@@ -217,7 +217,7 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200801T102547.000Z",
+            "last_seen": "20200801T163130.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 14,
             "donations": 186,
@@ -361,23 +361,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "exp_level": 11,
-            "trophies": 5291,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20200801T124755.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 20,
-            "donations": 287,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y99CRCGUC",
             "name": "toxos",
             "exp_level": 11,
@@ -388,7 +371,7 @@
             },
             "role": "member",
             "last_seen": "20200801T150346.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 24,
             "donations": 611,
             "donations_received": 440,
@@ -405,9 +388,26 @@
             },
             "role": "member",
             "last_seen": "20200801T132715.000Z",
-            "clan_rank": 23,
+            "clan_rank": 22,
             "previous_clan_rank": 21,
             "donations": 136,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "exp_level": 11,
+            "trophies": 5268,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200801T163824.000Z",
+            "clan_rank": 23,
+            "previous_clan_rank": 20,
+            "donations": 287,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -455,7 +455,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200801T055251.000Z",
+            "last_seen": "20200801T164400.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 25,
             "donations": 298,
@@ -599,6 +599,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#JRG8G8LL",
+            "name": "Evan_Wibb",
+            "exp_level": 12,
+            "trophies": 5016,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200801T164110.000Z",
+            "clan_rank": 35,
+            "previous_clan_rank": 35,
+            "donations": 424,
+            "donations_received": 330,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#CV29GC9",
             "name": "Srgt_Atrex",
             "exp_level": 11,
@@ -609,27 +626,10 @@
             },
             "role": "member",
             "last_seen": "20200731T210821.000Z",
-            "clan_rank": 35,
+            "clan_rank": 36,
             "previous_clan_rank": 34,
             "donations": 216,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#JRG8G8LL",
-            "name": "Evan_Wibb",
-            "exp_level": 12,
-            "trophies": 4986,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200801T141927.000Z",
-            "clan_rank": 36,
-            "previous_clan_rank": 35,
-            "donations": 424,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -789,7 +789,7 @@
             "tag": "#QRGULUJRL",
             "name": "Gaviii",
             "exp_level": 9,
-            "trophies": 4684,
+            "trophies": 4666,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
