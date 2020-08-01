@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54223,
+    "clan_score": 54229,
     "required_trophies": 5300,
-    "donations_per_week": 14370,
+    "donations_per_week": 14390,
     "clan_war_trophies": 3040,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -276,6 +276,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "exp_level": 12,
+            "trophies": 5380,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200801T182945.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 22,
+            "donations": 418,
+            "donations_received": 500,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 12,
@@ -286,7 +303,7 @@
             },
             "role": "elder",
             "last_seen": "20200801T112110.000Z",
-            "clan_rank": 16,
+            "clan_rank": 17,
             "previous_clan_rank": 6,
             "donations": 203,
             "donations_received": 280,
@@ -303,26 +320,9 @@
             },
             "role": "coLeader",
             "last_seen": "20200801T121413.000Z",
-            "clan_rank": 17,
+            "clan_rank": 18,
             "previous_clan_rank": 17,
             "donations": 400,
-            "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "exp_level": 12,
-            "trophies": 5351,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200801T182945.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 22,
-            "donations": 418,
             "donations_received": 480,
             "clan_chest_points": 0
         },
@@ -523,10 +523,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200801T182404.000Z",
+            "last_seen": "20200801T183127.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 30,
-            "donations": 54,
+            "donations": 64,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -548,23 +548,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8J0J889GY",
-            "name": "progamer2008",
-            "exp_level": 11,
-            "trophies": 5077,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200801T181843.000Z",
-            "clan_rank": 32,
-            "previous_clan_rank": 32,
-            "donations": 128,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#208V2RGL",
             "name": "NateDog",
             "exp_level": 11,
@@ -575,10 +558,27 @@
             },
             "role": "member",
             "last_seen": "20200731T224157.000Z",
-            "clan_rank": 33,
+            "clan_rank": 32,
             "previous_clan_rank": 33,
             "donations": 62,
             "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8J0J889GY",
+            "name": "progamer2008",
+            "exp_level": 11,
+            "trophies": 5055,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200801T184145.000Z",
+            "clan_rank": 33,
+            "previous_clan_rank": 32,
+            "donations": 128,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -628,7 +628,7 @@
             "last_seen": "20200801T181520.000Z",
             "clan_rank": 36,
             "previous_clan_rank": 34,
-            "donations": 216,
+            "donations": 226,
             "donations_received": 80,
             "clan_chest_points": 0
         },
