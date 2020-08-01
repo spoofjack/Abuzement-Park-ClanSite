@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54225,
+    "clan_score": 54259,
     "required_trophies": 5300,
-    "donations_per_week": 13850,
+    "donations_per_week": 13910,
     "clan_war_trophies": 3040,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -126,17 +126,34 @@
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
-            "trophies": 5632,
+            "trophies": 5635,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
             "role": "leader",
-            "last_seen": "20200801T103342.000Z",
+            "last_seen": "20200801T133950.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 10,
-            "donations": 790,
+            "donations": 824,
             "donations_received": 600,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 12,
+            "trophies": 5618,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20200801T131439.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 5,
+            "donations": 365,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -150,27 +167,10 @@
             },
             "role": "elder",
             "last_seen": "20200801T111815.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 484,
             "donations_received": 560,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 12,
-            "trophies": 5559,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200801T131439.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 5,
-            "donations": 365,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -204,7 +204,7 @@
             "clan_rank": 11,
             "previous_clan_rank": 11,
             "donations": 283,
-            "donations_received": 416,
+            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -306,7 +306,7 @@
             "clan_rank": 17,
             "previous_clan_rank": 17,
             "donations": 400,
-            "donations_received": 472,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -361,23 +361,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2P9QGRRLC",
-            "name": "IvoVich",
-            "exp_level": 12,
-            "trophies": 5299,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200801T132715.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 21,
-            "donations": 118,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "exp_level": 11,
@@ -388,9 +371,26 @@
             },
             "role": "member",
             "last_seen": "20200801T124755.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 20,
             "donations": 287,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2P9QGRRLC",
+            "name": "IvoVich",
+            "exp_level": 12,
+            "trophies": 5288,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200801T132715.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 21,
+            "donations": 136,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -463,6 +463,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "exp_level": 13,
+            "trophies": 5192,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200801T133640.000Z",
+            "clan_rank": 27,
+            "previous_clan_rank": 27,
+            "donations": 354,
+            "donations_received": 420,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "exp_level": 11,
@@ -473,27 +490,10 @@
             },
             "role": "elder",
             "last_seen": "20200801T062357.000Z",
-            "clan_rank": 27,
+            "clan_rank": 28,
             "previous_clan_rank": 28,
             "donations": 257,
             "donations_received": 250,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "exp_level": 13,
-            "trophies": 5162,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200801T011348.000Z",
-            "clan_rank": 28,
-            "previous_clan_rank": 27,
-            "donations": 346,
-            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -544,7 +544,7 @@
             "clan_rank": 31,
             "previous_clan_rank": 31,
             "donations": 206,
-            "donations_received": 312,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
