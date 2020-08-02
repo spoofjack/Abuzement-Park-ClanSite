@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54263,
+    "clan_score": 54222,
     "required_trophies": 5300,
-    "donations_per_week": 15733,
+    "donations_per_week": 15743,
     "clan_war_trophies": 3040,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5844,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200802T124420.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 1,
-            "donations": 1551,
-            "donations_received": 680,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -48,7 +31,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200730T145843.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 2,
             "donations": 506,
             "donations_received": 360,
@@ -65,10 +48,27 @@
             },
             "role": "elder",
             "last_seen": "20200802T113914.000Z",
-            "clan_rank": 3,
+            "clan_rank": 2,
             "previous_clan_rank": 4,
             "donations": 383,
             "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5762,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200802T125445.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 1,
+            "donations": 1551,
+            "donations_received": 680,
             "clan_chest_points": 0
         },
         {
@@ -152,7 +152,7 @@
             "last_seen": "20200802T122805.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
-            "donations": 562,
+            "donations": 572,
             "donations_received": 640,
             "clan_chest_points": 0
         },
@@ -544,7 +544,7 @@
             "clan_rank": 31,
             "previous_clan_rank": 30,
             "donations": 92,
-            "donations_received": 210,
+            "donations_received": 220,
             "clan_chest_points": 0
         },
         {
