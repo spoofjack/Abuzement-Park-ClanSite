@@ -10,7 +10,7 @@
         "participants": 31,
         "crowns": 14,
         "battles_remaining": null,
-        "battles_played": 20,
+        "battles_played": 21,
         "wins": 6
     },
     "participants": [
@@ -110,15 +110,6 @@
             "cards_earned": 440,
             "battles_played": 0,
             "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YVLRYQY8Q",
             "name": "Jayy",
             "cards_earned": 935,
@@ -335,8 +335,8 @@
             "clan_score": 3040,
             "participants": 31,
             "crowns": 14,
-            "battles_remaining": 11,
-            "battles_played": 20,
+            "battles_remaining": 10,
+            "battles_played": 21,
             "wins": 6
         },
         {
@@ -345,10 +345,10 @@
             "badge_id": 16000058,
             "clan_score": 3002,
             "participants": 32,
-            "crowns": 9,
-            "battles_remaining": 17,
-            "battles_played": 15,
-            "wins": 5
+            "crowns": 10,
+            "battles_remaining": 16,
+            "battles_played": 16,
+            "wins": 6
         }
     ]
 }
