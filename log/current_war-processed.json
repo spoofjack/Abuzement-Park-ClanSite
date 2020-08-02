@@ -10,7 +10,7 @@
         "participants": 31,
         "crowns": 9,
         "battles_remaining": null,
-        "battles_played": 15,
+        "battles_played": 16,
         "wins": 3
     },
     "participants": [
@@ -38,15 +38,6 @@
             "cards_earned": 467,
             "battles_played": 0,
             "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "cards_earned": 1869,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -195,6 +186,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "cards_earned": 1869,
@@ -307,6 +307,17 @@
             "wins": 18
         },
         {
+            "tag": "#GRLG2",
+            "name": "$aldous$",
+            "badge_id": 16000003,
+            "clan_score": 26659,
+            "participants": 32,
+            "crowns": 26,
+            "battles_remaining": 11,
+            "battles_played": 21,
+            "wins": 13
+        },
+        {
             "tag": "#2J82GL0Q",
             "name": "KameHouse GT",
             "badge_id": 16000032,
@@ -318,15 +329,15 @@
             "wins": 13
         },
         {
-            "tag": "#GRLG2",
-            "name": "$aldous$",
-            "badge_id": 16000003,
-            "clan_score": 26659,
+            "tag": "#PRPQ9QRP",
+            "name": "BrasilRoyale",
+            "badge_id": 16000058,
+            "clan_score": 3002,
             "participants": 32,
-            "crowns": 23,
-            "battles_remaining": 12,
-            "battles_played": 20,
-            "wins": 12
+            "crowns": 8,
+            "battles_remaining": 19,
+            "battles_played": 13,
+            "wins": 4
         },
         {
             "tag": "#LP98YUCV",
@@ -335,20 +346,9 @@
             "clan_score": 3040,
             "participants": 31,
             "crowns": 9,
-            "battles_remaining": 16,
-            "battles_played": 15,
+            "battles_remaining": 15,
+            "battles_played": 16,
             "wins": 3
-        },
-        {
-            "tag": "#PRPQ9QRP",
-            "name": "BrasilRoyale",
-            "badge_id": 16000058,
-            "clan_score": 3002,
-            "participants": 32,
-            "crowns": 3,
-            "battles_remaining": 21,
-            "battles_played": 11,
-            "wins": 2
         }
     ],
     "cards": 49371,
