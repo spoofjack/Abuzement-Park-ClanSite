@@ -296,6 +296,17 @@
     ],
     "clans": [
         {
+            "tag": "#2J82GL0Q",
+            "name": "KameHouse GT",
+            "badge_id": 16000032,
+            "clan_score": 21524,
+            "participants": 32,
+            "crowns": 37,
+            "battles_remaining": 4,
+            "battles_played": 28,
+            "wins": 20
+        },
+        {
             "tag": "#9Y8GL9QL",
             "name": "I will \u7cbe\u7075\u56e2",
             "badge_id": 16000142,
@@ -304,17 +315,6 @@
             "crowns": 38,
             "battles_remaining": 0,
             "battles_played": 32,
-            "wins": 19
-        },
-        {
-            "tag": "#2J82GL0Q",
-            "name": "KameHouse GT",
-            "badge_id": 16000032,
-            "clan_score": 21524,
-            "participants": 32,
-            "crowns": 34,
-            "battles_remaining": 5,
-            "battles_played": 27,
             "wins": 19
         },
         {
@@ -354,5 +354,5 @@
     "cards": 49371,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "6 hours"
+    "end_label": "5 hours"
 }
