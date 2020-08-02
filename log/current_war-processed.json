@@ -10,7 +10,7 @@
         "participants": 31,
         "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 9,
+        "battles_played": 11,
         "wins": 1
     },
     "participants": [
@@ -81,15 +81,6 @@
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "cards_earned": 2337,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "cards_earned": 1401,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -204,15 +195,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#QYVQ0RUUL",
-            "name": "tim",
-            "cards_earned": 1760,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#YRJLYVJG",
             "name": "FlashJakson",
             "cards_earned": 2200,
@@ -276,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 1401,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 1869,
@@ -292,6 +283,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#QYVQ0RUUL",
+            "name": "tim",
+            "cards_earned": 1760,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -302,8 +302,8 @@
             "clan_score": 8490,
             "participants": 31,
             "crowns": 15,
-            "battles_remaining": 19,
-            "battles_played": 12,
+            "battles_remaining": 18,
+            "battles_played": 13,
             "wins": 6
         },
         {
@@ -335,8 +335,8 @@
             "clan_score": 3040,
             "participants": 31,
             "crowns": 4,
-            "battles_remaining": 22,
-            "battles_played": 9,
+            "battles_remaining": 20,
+            "battles_played": 11,
             "wins": 1
         },
         {
@@ -346,8 +346,8 @@
             "clan_score": 3002,
             "participants": 32,
             "crowns": 1,
-            "battles_remaining": 27,
-            "battles_played": 5,
+            "battles_remaining": 25,
+            "battles_played": 7,
             "wins": 0
         }
     ],
