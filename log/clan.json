@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54149,
+    "clan_score": 54160,
     "required_trophies": 5300,
-    "donations_per_week": 15258,
+    "donations_per_week": 15261,
     "clan_war_trophies": 3040,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -89,6 +89,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 12,
+            "trophies": 5623,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20200802T031856.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 11,
+            "donations": 385,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -99,27 +116,10 @@
             },
             "role": "elder",
             "last_seen": "20200802T001946.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 522,
             "donations_received": 600,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 12,
-            "trophies": 5593,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200802T031856.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 11,
-            "donations": 385,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -327,23 +327,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#Y2C2RQG9R",
-            "name": "kr21__",
-            "exp_level": 12,
-            "trophies": 5346,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20200802T031901.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 18,
-            "donations": 252,
-            "donations_received": 368,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -354,10 +337,27 @@
             },
             "role": "elder",
             "last_seen": "20200801T142234.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 19,
             "donations": 264,
             "donations_received": 520,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#Y2C2RQG9R",
+            "name": "kr21__",
+            "exp_level": 12,
+            "trophies": 5329,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20200802T031901.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 18,
+            "donations": 252,
+            "donations_received": 371,
             "clan_chest_points": 0
         },
         {
@@ -455,10 +455,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200802T022657.000Z",
+            "last_seen": "20200802T033025.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 29,
-            "donations": 202,
+            "donations": 205,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -557,7 +557,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200801T194724.000Z",
+            "last_seen": "20200802T034101.000Z",
             "clan_rank": 32,
             "previous_clan_rank": 32,
             "donations": 62,
