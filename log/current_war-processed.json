@@ -10,7 +10,7 @@
         "participants": 31,
         "crowns": 18,
         "battles_remaining": null,
-        "battles_played": 27,
+        "battles_played": 28,
         "wins": 7
     },
     "participants": [
@@ -29,15 +29,6 @@
             "cards_earned": 467,
             "battles_played": 0,
             "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#QGLYUPYJ",
-            "name": "VB2",
-            "cards_earned": 1320,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -126,6 +117,15 @@
             "tag": "#U80UULJR",
             "name": "\u9738\u738b~\u65e0\u540d",
             "cards_earned": 1869,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#QGLYUPYJ",
+            "name": "VB2",
+            "cards_earned": 1320,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -346,13 +346,13 @@
             "clan_score": 3040,
             "participants": 31,
             "crowns": 18,
-            "battles_remaining": 4,
-            "battles_played": 27,
+            "battles_remaining": 3,
+            "battles_played": 28,
             "wins": 7
         }
     ],
     "cards": 49371,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "4 hours"
+    "end_label": "3 hours"
 }
