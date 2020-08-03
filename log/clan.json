@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47310,
+    "clan_score": 47309,
     "required_trophies": 5000,
-    "donations_per_week": 2264,
+    "donations_per_week": 2288,
     "clan_war_trophies": 2948,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 4979,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200803T210638.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 1,
+            "donations": 16,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "elder",
             "last_seen": "20200803T153355.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 57,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 4970,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200803T210638.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 1,
-            "donations": 16,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -200,11 +200,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200803T211345.000Z",
+            "last_seen": "20200803T212007.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 9,
             "donations": 60,
-            "donations_received": 40,
+            "donations_received": 64,
             "clan_chest_points": 0
         },
         {
@@ -356,7 +356,7 @@
             "last_seen": "20200803T210615.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 18,
-            "donations": 38,
+            "donations": 46,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -449,16 +449,16 @@
             "tag": "#PV02PGVQ",
             "name": "someone",
             "exp_level": 11,
-            "trophies": 4636,
+            "trophies": 4618,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20200803T174604.000Z",
+            "last_seen": "20200803T212449.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 25,
-            "donations": 56,
+            "donations": 64,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -483,7 +483,7 @@
             "tag": "#8J0J889GY",
             "name": "progamer2008",
             "exp_level": 11,
-            "trophies": 4588,
+            "trophies": 4571,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -492,7 +492,7 @@
             "last_seen": "20200803T210453.000Z",
             "clan_rank": 28,
             "previous_clan_rank": 33,
-            "donations": 37,
+            "donations": 45,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -523,7 +523,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200803T200601.000Z",
+            "last_seen": "20200803T212831.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 41,
             "donations": 0,
@@ -582,23 +582,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "exp_level": 11,
-            "trophies": 4516,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200803T201921.000Z",
-            "clan_rank": 34,
-            "previous_clan_rank": 34,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CV29GC9",
             "name": "Srgt_Atrex",
             "exp_level": 11,
@@ -609,10 +592,27 @@
             },
             "role": "member",
             "last_seen": "20200803T154308.000Z",
-            "clan_rank": 35,
+            "clan_rank": 34,
             "previous_clan_rank": 36,
             "donations": 76,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "exp_level": 11,
+            "trophies": 4501,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200803T211510.000Z",
+            "clan_rank": 35,
+            "previous_clan_rank": 34,
+            "donations": 0,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
