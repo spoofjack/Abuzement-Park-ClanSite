@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47804,
+    "clan_score": 47805,
     "required_trophies": 5000,
     "donations_per_week": 4865,
     "clan_war_trophies": 2948,
@@ -149,7 +149,7 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20200804T232549.000Z",
+            "last_seen": "20200804T233759.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 14,
             "donations": 97,
@@ -361,6 +361,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "exp_level": 11,
+            "trophies": 4711,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200804T232800.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 23,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#Y2C2RQG9R",
             "name": "kr21__",
             "exp_level": 12,
@@ -371,27 +388,10 @@
             },
             "role": "member",
             "last_seen": "20200804T143925.000Z",
-            "clan_rank": 21,
+            "clan_rank": 22,
             "previous_clan_rank": 20,
             "donations": 96,
             "donations_received": 150,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "exp_level": 11,
-            "trophies": 4681,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200804T232800.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 23,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -514,23 +514,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YRJLYVJG",
-            "name": "FlashJakson",
-            "exp_level": 10,
-            "trophies": 4592,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200804T232329.000Z",
-            "clan_rank": 30,
-            "previous_clan_rank": 30,
-            "donations": 0,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y99CRCGUC",
             "name": "toxos",
             "exp_level": 11,
@@ -541,9 +524,26 @@
             },
             "role": "member",
             "last_seen": "20200804T063430.000Z",
-            "clan_rank": 31,
+            "clan_rank": 30,
             "previous_clan_rank": 29,
             "donations": 44,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YRJLYVJG",
+            "name": "FlashJakson",
+            "exp_level": 10,
+            "trophies": 4575,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200804T234144.000Z",
+            "clan_rank": 31,
+            "previous_clan_rank": 30,
+            "donations": 0,
             "donations_received": 80,
             "clan_chest_points": 0
         },
