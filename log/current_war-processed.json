@@ -10,7 +10,7 @@
         "participants": 31,
         "crowns": 18,
         "battles_remaining": null,
-        "battles_played": 22,
+        "battles_played": 23,
         "wins": 11
     },
     "participants": [
@@ -56,15 +56,6 @@
             "cards_earned": 560,
             "battles_played": 0,
             "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#QRGULUJRL",
-            "name": "Gaviii",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -292,6 +283,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#QRGULUJRL",
+            "name": "Gaviii",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -313,9 +313,20 @@
             "clan_score": 2948,
             "participants": 31,
             "crowns": 18,
-            "battles_remaining": 9,
-            "battles_played": 22,
+            "battles_remaining": 8,
+            "battles_played": 23,
             "wins": 11
+        },
+        {
+            "tag": "#PYRJU88P",
+            "name": "high Broyale!",
+            "badge_id": 16000161,
+            "clan_score": 2291,
+            "participants": 28,
+            "crowns": 19,
+            "battles_remaining": 7,
+            "battles_played": 21,
+            "wins": 10
         },
         {
             "tag": "#J9ULCQV",
@@ -326,17 +337,6 @@
             "crowns": 21,
             "battles_remaining": 0,
             "battles_played": 28,
-            "wins": 8
-        },
-        {
-            "tag": "#PYRJU88P",
-            "name": "high Broyale!",
-            "badge_id": 16000161,
-            "clan_score": 2291,
-            "participants": 28,
-            "crowns": 15,
-            "battles_remaining": 10,
-            "battles_played": 18,
             "wins": 8
         },
         {
@@ -354,5 +354,5 @@
     "cards": 38126,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "9 hours"
+    "end_label": "8 hours"
 }
