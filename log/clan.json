@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47271,
+    "clan_score": 47289,
     "required_trophies": 5000,
-    "donations_per_week": 2696,
+    "donations_per_week": 2728,
     "clan_war_trophies": 2948,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,19 +21,36 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#L9CQG8J",
+            "name": "Indeed",
+            "exp_level": 13,
+            "trophies": 4992,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200804T030017.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 12,
+            "donations": 82,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
-            "trophies": 4979,
+            "trophies": 4985,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200803T210638.000Z",
-            "clan_rank": 1,
+            "last_seen": "20200804T030924.000Z",
+            "clan_rank": 2,
             "previous_clan_rank": 11,
-            "donations": 16,
+            "donations": 32,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -48,7 +65,7 @@
             },
             "role": "elder",
             "last_seen": "20200803T153355.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 1,
             "donations": 57,
             "donations_received": 80,
@@ -65,27 +82,10 @@
             },
             "role": "elder",
             "last_seen": "20200804T021212.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 113,
-            "donations_received": 128,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#L9CQG8J",
-            "name": "Indeed",
-            "exp_level": 13,
-            "trophies": 4962,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200803T234604.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 12,
-            "donations": 66,
-            "donations_received": 80,
+            "donations_received": 144,
             "clan_chest_points": 0
         },
         {
@@ -544,7 +544,7 @@
             "clan_rank": 31,
             "previous_clan_rank": 36,
             "donations": 0,
-            "donations_received": 24,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
