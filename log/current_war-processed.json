@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2948,
         "participants": 31,
-        "crowns": 13,
+        "crowns": 15,
         "battles_remaining": null,
-        "battles_played": 15,
-        "wins": 8
+        "battles_played": 16,
+        "wins": 9
     },
     "participants": [
         {
@@ -53,15 +53,6 @@
         {
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#GYQQ0PY",
-            "name": "SloppyJoe",
             "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -249,6 +240,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "cards_earned": 1487,
@@ -301,8 +301,19 @@
             "badge_id": 16000092,
             "clan_score": 2764,
             "participants": 29,
-            "crowns": 18,
-            "battles_remaining": 13,
+            "crowns": 20,
+            "battles_remaining": 11,
+            "battles_played": 18,
+            "wins": 10
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2948,
+            "participants": 31,
+            "crowns": 15,
+            "battles_remaining": 15,
             "battles_played": 16,
             "wins": 9
         },
@@ -318,26 +329,15 @@
             "wins": 8
         },
         {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2948,
-            "participants": 31,
-            "crowns": 13,
-            "battles_remaining": 16,
-            "battles_played": 15,
-            "wins": 8
-        },
-        {
             "tag": "#PYRJU88P",
             "name": "high Broyale!",
             "badge_id": 16000161,
             "clan_score": 2291,
             "participants": 28,
-            "crowns": 12,
-            "battles_remaining": 19,
-            "battles_played": 9,
-            "wins": 6
+            "crowns": 14,
+            "battles_remaining": 17,
+            "battles_played": 11,
+            "wins": 7
         },
         {
             "tag": "#2J8JU08L",
@@ -354,5 +354,5 @@
     "cards": 38126,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "14 hours"
+    "end_label": "13 hours"
 }
