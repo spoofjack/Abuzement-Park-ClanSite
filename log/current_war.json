@@ -10,7 +10,7 @@
         "participants": 31,
         "crowns": 9,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 12,
         "wins": 6
     },
     "participants": [
@@ -27,15 +27,6 @@
             "tag": "#8RRGYVGGG",
             "name": "BotoSaka",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9992GG0CQ",
-            "name": "freighttrain",
-            "cards_earned": 840,
             "battles_played": 0,
             "collection_day_battles_played": 2,
             "wins": 0,
@@ -90,15 +81,6 @@
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 1137,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -222,6 +204,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9992GG0CQ",
+            "name": "freighttrain",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 1400,
@@ -243,6 +234,15 @@
             "tag": "#PV02PGVQ",
             "name": "someone",
             "cards_earned": 1172,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 1137,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -346,8 +346,8 @@
             "clan_score": 2948,
             "participants": 31,
             "crowns": 9,
-            "battles_remaining": 21,
-            "battles_played": 10,
+            "battles_remaining": 19,
+            "battles_played": 12,
             "wins": 6
         }
     ]
