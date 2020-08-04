@@ -296,6 +296,17 @@
     ],
     "clans": [
         {
+            "tag": "#22ULUUL",
+            "name": "Boats and Hoes",
+            "badge_id": 16000092,
+            "clan_score": 2764,
+            "participants": 29,
+            "crowns": 7,
+            "battles_remaining": 23,
+            "battles_played": 6,
+            "wins": 4
+        },
+        {
             "tag": "#J9ULCQV",
             "name": "king",
             "badge_id": 16000012,
@@ -307,15 +318,15 @@
             "wins": 3
         },
         {
-            "tag": "#22ULUUL",
-            "name": "Boats and Hoes",
-            "badge_id": 16000092,
-            "clan_score": 2764,
-            "participants": 29,
+            "tag": "#2J8JU08L",
+            "name": "The Dragons",
+            "badge_id": 16000162,
+            "clan_score": 2941,
+            "participants": 28,
             "crowns": 6,
             "battles_remaining": 24,
-            "battles_played": 5,
-            "wins": 3
+            "battles_played": 4,
+            "wins": 2
         },
         {
             "tag": "#PYRJU88P",
@@ -327,17 +338,6 @@
             "battles_remaining": 26,
             "battles_played": 2,
             "wins": 1
-        },
-        {
-            "tag": "#2J8JU08L",
-            "name": "The Dragons",
-            "badge_id": 16000162,
-            "clan_score": 2941,
-            "participants": 28,
-            "crowns": 2,
-            "battles_remaining": 26,
-            "battles_played": 2,
-            "wins": 0
         },
         {
             "tag": "#LP98YUCV",
@@ -354,5 +354,5 @@
     "cards": 38126,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
