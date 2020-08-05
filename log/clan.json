@@ -106,6 +106,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5032,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "leader",
+            "last_seen": "20200805T222442.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 10,
+            "donations": 452,
+            "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
@@ -116,7 +133,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200805T212955.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 8,
             "donations": 974,
             "donations_received": 344,
@@ -133,27 +150,10 @@
             },
             "role": "elder",
             "last_seen": "20200805T210241.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 13,
             "donations": 198,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5001,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "leader",
-            "last_seen": "20200805T222442.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 10,
-            "donations": 452,
-            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -276,23 +276,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 4855,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200805T212822.000Z",
-            "clan_rank": 16,
-            "previous_clan_rank": 11,
-            "donations": 248,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#GL0VQ8YV",
             "name": "njwalt",
             "exp_level": 13,
@@ -303,7 +286,7 @@
             },
             "role": "member",
             "last_seen": "20200805T021106.000Z",
-            "clan_rank": 17,
+            "clan_rank": 16,
             "previous_clan_rank": 15,
             "donations": 113,
             "donations_received": 200,
@@ -320,9 +303,26 @@
             },
             "role": "elder",
             "last_seen": "20200805T200712.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 19,
             "donations": 382,
+            "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 4816,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200805T225353.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 11,
+            "donations": 248,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -353,28 +353,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200805T210152.000Z",
+            "last_seen": "20200805T224538.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 21,
             "donations": 28,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CV29GC9",
-            "name": "Srgt_Atrex",
-            "exp_level": 11,
-            "trophies": 4713,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200805T224132.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 31,
-            "donations": 221,
-            "donations_received": 152,
             "clan_chest_points": 0
         },
         {
@@ -388,7 +371,7 @@
             },
             "role": "member",
             "last_seen": "20200804T191308.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 20,
             "donations": 68,
             "donations_received": 80,
@@ -405,7 +388,7 @@
             },
             "role": "member",
             "last_seen": "20200805T183159.000Z",
-            "clan_rank": 23,
+            "clan_rank": 22,
             "previous_clan_rank": 22,
             "donations": 96,
             "donations_received": 190,
@@ -422,10 +405,27 @@
             },
             "role": "coLeader",
             "last_seen": "20200805T212403.000Z",
-            "clan_rank": 24,
+            "clan_rank": 23,
             "previous_clan_rank": 23,
             "donations": 284,
             "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CV29GC9",
+            "name": "Srgt_Atrex",
+            "exp_level": 11,
+            "trophies": 4677,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200805T230002.000Z",
+            "clan_rank": 24,
+            "previous_clan_rank": 31,
+            "donations": 221,
+            "donations_received": 152,
             "clan_chest_points": 0
         },
         {
@@ -514,23 +514,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#899LR9Y80",
-            "name": "Warlord",
-            "exp_level": 10,
-            "trophies": 4634,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200805T170804.000Z",
-            "clan_rank": 30,
-            "previous_clan_rank": 37,
-            "donations": 126,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCLYCCLR",
             "name": "yggdrasil",
             "exp_level": 10,
@@ -541,7 +524,7 @@
             },
             "role": "member",
             "last_seen": "20200805T222904.000Z",
-            "clan_rank": 31,
+            "clan_rank": 30,
             "previous_clan_rank": 28,
             "donations": 65,
             "donations_received": 200,
@@ -558,10 +541,27 @@
             },
             "role": "member",
             "last_seen": "20200805T213346.000Z",
-            "clan_rank": 32,
+            "clan_rank": 31,
             "previous_clan_rank": 33,
             "donations": 0,
             "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#899LR9Y80",
+            "name": "Warlord",
+            "exp_level": 10,
+            "trophies": 4617,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200805T225410.000Z",
+            "clan_rank": 32,
+            "previous_clan_rank": 37,
+            "donations": 126,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -727,7 +727,7 @@
                 "name": "Challenger II"
             },
             "role": "elder",
-            "last_seen": "20200805T221621.000Z",
+            "last_seen": "20200805T224902.000Z",
             "clan_rank": 42,
             "previous_clan_rank": 42,
             "donations": 32,
