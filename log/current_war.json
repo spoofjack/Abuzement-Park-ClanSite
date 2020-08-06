@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2937,
         "participants": 29,
-        "crowns": 0,
+        "crowns": 3,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 3,
+        "wins": 2
     },
     "participants": [
-        {
-            "tag": "#YRJLYVJG",
-            "name": "FlashJakson",
-            "cards_earned": 1680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
@@ -150,15 +141,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "cards_earned": 280,
@@ -180,15 +162,6 @@
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "cards_earned": 1680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -274,6 +247,33 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#YRJLYVJG",
+            "name": "FlashJakson",
+            "cards_earned": 1680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 1680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -284,8 +284,8 @@
             "clan_score": 2529,
             "participants": 29,
             "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 0,
+            "battles_remaining": 28,
+            "battles_played": 1,
             "wins": 0
         },
         {
@@ -294,10 +294,10 @@
             "badge_id": 16000012,
             "clan_score": 2933,
             "participants": 29,
-            "crowns": 5,
-            "battles_remaining": 27,
-            "battles_played": 2,
-            "wins": 2
+            "crowns": 8,
+            "battles_remaining": 25,
+            "battles_played": 4,
+            "wins": 4
         },
         {
             "tag": "#2CL2YQJG",
@@ -316,10 +316,10 @@
             "badge_id": 16000015,
             "clan_score": 2802,
             "participants": 29,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 2,
+            "battles_remaining": 28,
+            "battles_played": 1,
+            "wins": 1
         },
         {
             "tag": "#LP98YUCV",
@@ -327,10 +327,10 @@
             "badge_id": 16000003,
             "clan_score": 2937,
             "participants": 29,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 3,
+            "battles_remaining": 26,
+            "battles_played": 3,
+            "wins": 2
         }
     ]
 }
