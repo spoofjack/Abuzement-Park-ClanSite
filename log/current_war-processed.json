@@ -10,7 +10,7 @@
         "participants": 29,
         "crowns": 10,
         "battles_remaining": null,
-        "battles_played": 13,
+        "battles_played": 14,
         "wins": 7
     },
     "participants": [
@@ -29,15 +29,6 @@
             "cards_earned": 840,
             "battles_played": 0,
             "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -213,6 +204,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "cards_earned": 1400,
@@ -278,6 +278,17 @@
     ],
     "clans": [
         {
+            "tag": "#9C9Q9VVR",
+            "name": "SEARCH A",
+            "badge_id": 16000015,
+            "clan_score": 2802,
+            "participants": 29,
+            "crowns": 25,
+            "battles_remaining": 13,
+            "battles_played": 16,
+            "wins": 12
+        },
+        {
             "tag": "#LLJ8YQR",
             "name": "Los lunatikos",
             "badge_id": 16000012,
@@ -287,17 +298,6 @@
             "battles_remaining": 17,
             "battles_played": 12,
             "wins": 12
-        },
-        {
-            "tag": "#9C9Q9VVR",
-            "name": "SEARCH A",
-            "badge_id": 16000015,
-            "clan_score": 2802,
-            "participants": 29,
-            "crowns": 22,
-            "battles_remaining": 14,
-            "battles_played": 15,
-            "wins": 11
         },
         {
             "tag": "#P9QQV0LU",
@@ -317,8 +317,8 @@
             "clan_score": 2937,
             "participants": 29,
             "crowns": 10,
-            "battles_remaining": 16,
-            "battles_played": 13,
+            "battles_remaining": 15,
+            "battles_played": 14,
             "wins": 7
         },
         {
@@ -336,5 +336,5 @@
     "cards": 34298,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "15 hours"
+    "end_label": "14 hours"
 }
