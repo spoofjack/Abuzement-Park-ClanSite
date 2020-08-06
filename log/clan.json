@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48583,
+    "clan_score": 48576,
     "required_trophies": 5000,
-    "donations_per_week": 9135,
+    "donations_per_week": 9145,
     "clan_war_trophies": 2937,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -344,23 +344,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "exp_level": 11,
-            "trophies": 4764,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200806T190050.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 20,
-            "donations": 38,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "exp_level": 11,
@@ -371,9 +354,26 @@
             },
             "role": "member",
             "last_seen": "20200806T202018.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 26,
             "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "exp_level": 11,
+            "trophies": 4745,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200806T225213.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 20,
+            "donations": 48,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -633,23 +633,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RRGYVGGG",
-            "name": "BotoSaka",
-            "exp_level": 11,
-            "trophies": 4612,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200806T223859.000Z",
-            "clan_rank": 37,
-            "previous_clan_rank": 35,
-            "donations": 200,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#QGLYUPYJ",
             "name": "VB2",
             "exp_level": 11,
@@ -660,10 +643,27 @@
             },
             "role": "member",
             "last_seen": "20200806T202240.000Z",
-            "clan_rank": 38,
+            "clan_rank": 37,
             "previous_clan_rank": 36,
             "donations": 152,
             "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RRGYVGGG",
+            "name": "BotoSaka",
+            "exp_level": 11,
+            "trophies": 4594,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200806T224549.000Z",
+            "clan_rank": 38,
+            "previous_clan_rank": 35,
+            "donations": 200,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -680,7 +680,7 @@
             "clan_rank": 39,
             "previous_clan_rank": 37,
             "donations": 179,
-            "donations_received": 230,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -693,7 +693,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200806T223207.000Z",
+            "last_seen": "20200806T225840.000Z",
             "clan_rank": 40,
             "previous_clan_rank": 39,
             "donations": 20,
