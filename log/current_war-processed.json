@@ -278,6 +278,17 @@
     ],
     "clans": [
         {
+            "tag": "#LLJ8YQR",
+            "name": "Los lunatikos",
+            "badge_id": 16000012,
+            "clan_score": 2933,
+            "participants": 29,
+            "crowns": 24,
+            "battles_remaining": 14,
+            "battles_played": 15,
+            "wins": 14
+        },
+        {
             "tag": "#9C9Q9VVR",
             "name": "SEARCH A",
             "badge_id": 16000015,
@@ -286,17 +297,6 @@
             "crowns": 29,
             "battles_remaining": 9,
             "battles_played": 20,
-            "wins": 13
-        },
-        {
-            "tag": "#LLJ8YQR",
-            "name": "Los lunatikos",
-            "badge_id": 16000012,
-            "clan_score": 2933,
-            "participants": 29,
-            "crowns": 23,
-            "battles_remaining": 15,
-            "battles_played": 14,
             "wins": 13
         },
         {
@@ -336,5 +336,5 @@
     "cards": 34298,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "11 hours"
+    "end_label": "10 hours"
 }
