@@ -278,6 +278,17 @@
     ],
     "clans": [
         {
+            "tag": "#9C9Q9VVR",
+            "name": "SEARCH A",
+            "badge_id": 16000015,
+            "clan_score": 2802,
+            "participants": 29,
+            "crowns": 29,
+            "battles_remaining": 9,
+            "battles_played": 20,
+            "wins": 13
+        },
+        {
             "tag": "#LLJ8YQR",
             "name": "Los lunatikos",
             "badge_id": 16000012,
@@ -289,15 +300,15 @@
             "wins": 13
         },
         {
-            "tag": "#9C9Q9VVR",
-            "name": "SEARCH A",
-            "badge_id": 16000015,
-            "clan_score": 2802,
+            "tag": "#2CL2YQJG",
+            "name": "AGUARA R.C.",
+            "badge_id": 16000092,
+            "clan_score": 2430,
             "participants": 29,
-            "crowns": 26,
-            "battles_remaining": 10,
-            "battles_played": 19,
-            "wins": 12
+            "crowns": 16,
+            "battles_remaining": 12,
+            "battles_played": 17,
+            "wins": 11
         },
         {
             "tag": "#P9QQV0LU",
@@ -308,17 +319,6 @@
             "crowns": 23,
             "battles_remaining": 6,
             "battles_played": 23,
-            "wins": 10
-        },
-        {
-            "tag": "#2CL2YQJG",
-            "name": "AGUARA R.C.",
-            "badge_id": 16000092,
-            "clan_score": 2430,
-            "participants": 29,
-            "crowns": 14,
-            "battles_remaining": 13,
-            "battles_played": 16,
             "wins": 10
         },
         {
@@ -336,5 +336,5 @@
     "cards": 34298,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "12 hours"
+    "end_label": "11 hours"
 }
