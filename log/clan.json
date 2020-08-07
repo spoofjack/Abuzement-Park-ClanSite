@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48711,
+    "clan_score": 48727,
     "required_trophies": 5000,
-    "donations_per_week": 9475,
+    "donations_per_week": 9553,
     "clan_war_trophies": 2899,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -51,7 +51,24 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 235,
-            "donations_received": 250,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 12,
+            "trophies": 5117,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200807T023701.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 5,
+            "donations": 213,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -65,7 +82,7 @@
             },
             "role": "elder",
             "last_seen": "20200806T234133.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 332,
             "donations_received": 440,
@@ -82,7 +99,7 @@
             },
             "role": "elder",
             "last_seen": "20200806T180723.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 3,
             "donations": 265,
             "donations_received": 280,
@@ -99,27 +116,10 @@
             },
             "role": "leader",
             "last_seen": "20200807T013814.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 8,
             "donations": 652,
             "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 12,
-            "trophies": 5071,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200807T023701.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 5,
-            "donations": 213,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -149,7 +149,7 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200806T213116.000Z",
+            "last_seen": "20200807T024622.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 10,
             "donations": 1288,
@@ -187,7 +187,7 @@
             "clan_rank": 10,
             "previous_clan_rank": 9,
             "donations": 431,
-            "donations_received": 330,
+            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -204,7 +204,7 @@
             "clan_rank": 11,
             "previous_clan_rank": 11,
             "donations": 360,
-            "donations_received": 310,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -245,17 +245,17 @@
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
-            "trophies": 4966,
+            "trophies": 4922,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20200806T132211.000Z",
+            "last_seen": "20200807T024930.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 14,
-            "donations": 246,
-            "donations_received": 360,
+            "donations": 266,
+            "donations_received": 368,
             "clan_chest_points": 0
         },
         {
@@ -319,11 +319,28 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200805T021106.000Z",
+            "last_seen": "20200807T025314.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 18,
-            "donations": 113,
+            "donations": 141,
             "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "exp_level": 11,
+            "trophies": 4814,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200807T024250.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 20,
+            "donations": 86,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -336,8 +353,8 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200806T233224.000Z",
-            "clan_rank": 19,
+            "last_seen": "20200807T025821.000Z",
+            "clan_rank": 20,
             "previous_clan_rank": 21,
             "donations": 71,
             "donations_received": 239,
@@ -354,27 +371,10 @@
             },
             "role": "member",
             "last_seen": "20200807T001222.000Z",
-            "clan_rank": 20,
+            "clan_rank": 21,
             "previous_clan_rank": 16,
             "donations": 312,
             "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "exp_level": 11,
-            "trophies": 4784,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200807T024250.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 20,
-            "donations": 56,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
