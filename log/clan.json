@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49043,
+    "clan_score": 49023,
     "required_trophies": 5000,
     "donations_per_week": 12240,
     "clan_war_trophies": 2899,
@@ -55,23 +55,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5222,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "leader",
-            "last_seen": "20200808T115227.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 2,
-            "donations": 896,
-            "donations_received": 630,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -82,7 +65,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200808T040319.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 6,
             "donations": 304,
             "donations_received": 320,
@@ -99,10 +82,27 @@
             },
             "role": "elder",
             "last_seen": "20200808T021706.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 257,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5179,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "leader",
+            "last_seen": "20200808T115227.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 2,
+            "donations": 896,
+            "donations_received": 630,
             "clan_chest_points": 0
         },
         {
@@ -687,10 +687,10 @@
             "tag": "#YLCLYCCLR",
             "name": "yggdrasil",
             "exp_level": 10,
-            "trophies": 4587,
+            "trophies": 4600,
             "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "member",
             "last_seen": "20200808T120001.000Z",
