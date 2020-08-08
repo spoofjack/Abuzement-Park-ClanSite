@@ -10,7 +10,7 @@
         "participants": 29,
         "crowns": 1,
         "battles_remaining": null,
-        "battles_played": 1,
+        "battles_played": 2,
         "wins": 1
     },
     "participants": [
@@ -240,15 +240,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#QRGULUJRL",
-            "name": "Gaviii",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 891,
@@ -274,6 +265,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#QRGULUJRL",
+            "name": "Gaviii",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -283,10 +283,10 @@
             "badge_id": 16000029,
             "clan_score": 2979,
             "participants": 30,
-            "crowns": 8,
-            "battles_remaining": 24,
-            "battles_played": 6,
-            "wins": 5
+            "crowns": 10,
+            "battles_remaining": 23,
+            "battles_played": 7,
+            "wins": 6
         },
         {
             "tag": "#202GCJL",
@@ -294,10 +294,10 @@
             "badge_id": 16000007,
             "clan_score": 2903,
             "participants": 30,
-            "crowns": 10,
-            "battles_remaining": 23,
-            "battles_played": 7,
-            "wins": 5
+            "crowns": 12,
+            "battles_remaining": 22,
+            "battles_played": 8,
+            "wins": 6
         },
         {
             "tag": "#YG9R9V",
@@ -316,10 +316,10 @@
             "badge_id": 16000024,
             "clan_score": 1588,
             "participants": 30,
-            "crowns": 2,
-            "battles_remaining": 27,
-            "battles_played": 3,
-            "wins": 0
+            "crowns": 4,
+            "battles_remaining": 25,
+            "battles_played": 5,
+            "wins": 1
         },
         {
             "tag": "#LP98YUCV",
@@ -328,8 +328,8 @@
             "clan_score": 2899,
             "participants": 29,
             "crowns": 1,
-            "battles_remaining": 28,
-            "battles_played": 1,
+            "battles_remaining": 27,
+            "battles_played": 2,
             "wins": 1
         }
     ]
