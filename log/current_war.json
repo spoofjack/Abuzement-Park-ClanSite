@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2899,
         "participants": 29,
-        "crowns": 16,
+        "crowns": 18,
         "battles_remaining": null,
-        "battles_played": 13,
-        "wins": 8
+        "battles_played": 14,
+        "wins": 9
     },
     "participants": [
         {
@@ -132,15 +132,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 1400,
@@ -225,6 +216,15 @@
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 1120,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -327,10 +327,10 @@
             "badge_id": 16000003,
             "clan_score": 2899,
             "participants": 29,
-            "crowns": 16,
-            "battles_remaining": 16,
-            "battles_played": 13,
-            "wins": 8
+            "crowns": 18,
+            "battles_remaining": 15,
+            "battles_played": 14,
+            "wins": 9
         }
     ]
 }
