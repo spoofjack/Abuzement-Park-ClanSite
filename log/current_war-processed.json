@@ -7,10 +7,10 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2889,
-        "participants": 7,
+        "participants": 8,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 20,
+        "battles_played": 22,
         "wins": 9
     },
     "participants": [
@@ -30,6 +30,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "cards_earned": 560,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 0,
             "number_of_battles": 3
         },
         {
@@ -79,7 +88,7 @@
         }
     ],
     "clans": null,
-    "cards": 8276,
+    "cards": 8836,
     "state_label": "Collection Day",
     "collection_end_time_label": "18 hours",
     "end_label": "1 day, 18 hours"
