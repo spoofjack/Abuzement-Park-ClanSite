@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49126,
+    "clan_score": 49100,
     "required_trophies": 5000,
     "donations_per_week": 13545,
     "clan_war_trophies": 2899,
@@ -140,23 +140,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "exp_level": 12,
-            "trophies": 5060,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200808T225916.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 10,
-            "donations": 283,
-            "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "exp_level": 13,
@@ -167,9 +150,26 @@
             },
             "role": "member",
             "last_seen": "20200808T211616.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 605,
+            "donations_received": 520,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "exp_level": 12,
+            "trophies": 5016,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200809T011754.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 10,
+            "donations": 283,
             "donations_received": 520,
             "clan_chest_points": 0
         },
@@ -293,23 +293,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
-            "exp_level": 13,
-            "trophies": 4923,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200808T222819.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 19,
-            "donations": 558,
-            "donations_received": 560,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -320,10 +303,27 @@
             },
             "role": "elder",
             "last_seen": "20200808T191514.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 14,
             "donations": 274,
             "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "exp_level": 13,
+            "trophies": 4904,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200809T012301.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 19,
+            "donations": 558,
+            "donations_received": 560,
             "clan_chest_points": 0
         },
         {
