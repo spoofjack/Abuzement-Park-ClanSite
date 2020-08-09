@@ -7,10 +7,10 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2889,
-        "participants": 14,
+        "participants": 15,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 41,
+        "battles_played": 42,
         "wins": 22
     },
     "participants": [
@@ -139,10 +139,19 @@
             "collection_day_battles_played": 3,
             "wins": 2,
             "number_of_battles": 3
+        },
+        {
+            "tag": "#QRGULUJRL",
+            "name": "Gaviii",
+            "cards_earned": 280,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 3
         }
     ],
     "clans": null,
-    "cards": 17952,
+    "cards": 18232,
     "state_label": "Collection Day",
     "collection_end_time_label": "14 hours",
     "end_label": "1 day, 14 hours"
