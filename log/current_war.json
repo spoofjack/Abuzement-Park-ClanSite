@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2889,
         "participants": 25,
-        "crowns": 16,
+        "crowns": 17,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 7
+        "battles_played": 12,
+        "wins": 8
     },
     "participants": [
         {
@@ -81,15 +81,6 @@
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -204,6 +195,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "cards_earned": 1120,
@@ -247,9 +247,9 @@
             "badge_id": 16000030,
             "clan_score": 2988,
             "participants": 25,
-            "crowns": 17,
-            "battles_remaining": 15,
-            "battles_played": 10,
+            "crowns": 18,
+            "battles_remaining": 14,
+            "battles_played": 11,
             "wins": 8
         },
         {
@@ -280,9 +280,9 @@
             "badge_id": 16000029,
             "clan_score": 2953,
             "participants": 25,
-            "crowns": 8,
-            "battles_remaining": 11,
-            "battles_played": 14,
+            "crowns": 9,
+            "battles_remaining": 10,
+            "battles_played": 15,
             "wins": 2
         },
         {
@@ -291,10 +291,10 @@
             "badge_id": 16000003,
             "clan_score": 2889,
             "participants": 25,
-            "crowns": 16,
-            "battles_remaining": 14,
-            "battles_played": 11,
-            "wins": 7
+            "crowns": 17,
+            "battles_remaining": 13,
+            "battles_played": 12,
+            "wins": 8
         }
     ]
 }
