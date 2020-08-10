@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2889,
         "participants": 25,
-        "crowns": 2,
+        "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 0
+        "battles_played": 4,
+        "wins": 1
     },
     "participants": [
         {
@@ -159,15 +159,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#Y99CRCGUC",
             "name": "toxos",
             "cards_earned": 1120,
@@ -238,6 +229,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -259,8 +259,8 @@
             "clan_score": 2436,
             "participants": 24,
             "crowns": 4,
-            "battles_remaining": 14,
-            "battles_played": 10,
+            "battles_remaining": 13,
+            "battles_played": 11,
             "wins": 2
         },
         {
@@ -280,9 +280,9 @@
             "badge_id": 16000029,
             "clan_score": 2953,
             "participants": 25,
-            "crowns": 3,
-            "battles_remaining": 18,
-            "battles_played": 7,
+            "crowns": 4,
+            "battles_remaining": 17,
+            "battles_played": 8,
             "wins": 1
         },
         {
@@ -291,10 +291,10 @@
             "badge_id": 16000003,
             "clan_score": 2889,
             "participants": 25,
-            "crowns": 2,
-            "battles_remaining": 22,
-            "battles_played": 3,
-            "wins": 0
+            "crowns": 4,
+            "battles_remaining": 21,
+            "battles_played": 4,
+            "wins": 1
         }
     ]
 }
