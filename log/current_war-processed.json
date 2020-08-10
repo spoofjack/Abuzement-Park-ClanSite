@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2889,
         "participants": 25,
-        "crowns": 1,
+        "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 1,
+        "battles_played": 2,
         "wins": 0
     },
     "participants": [
@@ -168,15 +168,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#899LR9Y80",
-            "name": "Warlord",
-            "cards_earned": 840,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "cards_earned": 1400,
@@ -238,6 +229,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#899LR9Y80",
+            "name": "Warlord",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -247,10 +247,10 @@
             "badge_id": 16000030,
             "clan_score": 2988,
             "participants": 25,
-            "crowns": 5,
-            "battles_remaining": 22,
-            "battles_played": 3,
-            "wins": 2
+            "crowns": 6,
+            "battles_remaining": 21,
+            "battles_played": 4,
+            "wins": 3
         },
         {
             "tag": "#22YG0PGY",
@@ -280,9 +280,9 @@
             "badge_id": 16000003,
             "clan_score": 2889,
             "participants": 25,
-            "crowns": 1,
-            "battles_remaining": 24,
-            "battles_played": 1,
+            "crowns": 2,
+            "battles_remaining": 23,
+            "battles_played": 2,
             "wins": 0
         },
         {
@@ -292,8 +292,8 @@
             "clan_score": 2953,
             "participants": 25,
             "crowns": 0,
-            "battles_remaining": 24,
-            "battles_played": 1,
+            "battles_remaining": 23,
+            "battles_played": 2,
             "wins": 0
         }
     ],
