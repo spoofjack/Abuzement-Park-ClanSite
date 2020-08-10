@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2889,
         "participants": 25,
-        "crowns": 17,
+        "crowns": 19,
         "battles_remaining": null,
-        "battles_played": 13,
-        "wins": 8
+        "battles_played": 14,
+        "wins": 9
     },
     "participants": [
-        {
-            "tag": "#JRG8G8LL",
-            "name": "Evan_Wibb",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
@@ -159,6 +150,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#JRG8G8LL",
+            "name": "Evan_Wibb",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "cards_earned": 1487,
@@ -242,6 +242,17 @@
     ],
     "clans": [
         {
+            "tag": "#PCLV0G2V",
+            "name": "\uff36\uff21\uff34\uff21\uff2e \u26a1",
+            "badge_id": 16000030,
+            "clan_score": 2988,
+            "participants": 25,
+            "crowns": 22,
+            "battles_remaining": 12,
+            "battles_played": 13,
+            "wins": 10
+        },
+        {
             "tag": "#22YG0PGY",
             "name": ".+\u203b+.\u8c6c\u4ed4\u6c34\u6676\u5bae.+\u203b+.",
             "badge_id": 16000131,
@@ -253,26 +264,15 @@
             "wins": 10
         },
         {
-            "tag": "#PCLV0G2V",
-            "name": "\uff36\uff21\uff34\uff21\uff2e \u26a1",
-            "badge_id": 16000030,
-            "clan_score": 2988,
-            "participants": 25,
-            "crowns": 21,
-            "battles_remaining": 13,
-            "battles_played": 12,
-            "wins": 9
-        },
-        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 2889,
             "participants": 25,
-            "crowns": 17,
-            "battles_remaining": 12,
-            "battles_played": 13,
-            "wins": 8
+            "crowns": 19,
+            "battles_remaining": 11,
+            "battles_played": 14,
+            "wins": 9
         },
         {
             "tag": "#PLUJ00RQ",
@@ -300,5 +300,5 @@
     "cards": 27907,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "14 hours"
+    "end_label": "13 hours"
 }
