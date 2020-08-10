@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2889,
         "participants": 25,
-        "crowns": 0,
+        "crowns": 1,
         "battles_remaining": null,
-        "battles_played": 0,
+        "battles_played": 1,
         "wins": 0
     },
     "participants": [
@@ -36,15 +36,6 @@
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -238,6 +229,15 @@
             "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -247,21 +247,10 @@
             "badge_id": 16000030,
             "clan_score": 2988,
             "participants": 25,
-            "crowns": 3,
-            "battles_remaining": 24,
-            "battles_played": 1,
-            "wins": 1
-        },
-        {
-            "tag": "#PJ8GQLUR",
-            "name": "caminantes 2.0",
-            "badge_id": 16000172,
-            "clan_score": 2436,
-            "participants": 24,
-            "crowns": 0,
-            "battles_remaining": 24,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 5,
+            "battles_remaining": 22,
+            "battles_played": 3,
+            "wins": 2
         },
         {
             "tag": "#22YG0PGY",
@@ -269,9 +258,31 @@
             "badge_id": 16000131,
             "clan_score": 2925,
             "participants": 25,
-            "crowns": 0,
-            "battles_remaining": 25,
-            "battles_played": 0,
+            "crowns": 3,
+            "battles_remaining": 23,
+            "battles_played": 2,
+            "wins": 2
+        },
+        {
+            "tag": "#PJ8GQLUR",
+            "name": "caminantes 2.0",
+            "badge_id": 16000172,
+            "clan_score": 2436,
+            "participants": 24,
+            "crowns": 2,
+            "battles_remaining": 21,
+            "battles_played": 3,
+            "wins": 1
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2889,
+            "participants": 25,
+            "crowns": 1,
+            "battles_remaining": 24,
+            "battles_played": 1,
             "wins": 0
         },
         {
@@ -281,19 +292,8 @@
             "clan_score": 2953,
             "participants": 25,
             "crowns": 0,
-            "battles_remaining": 25,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2889,
-            "participants": 25,
-            "crowns": 0,
-            "battles_remaining": 25,
-            "battles_played": 0,
+            "battles_remaining": 24,
+            "battles_played": 1,
             "wins": 0
         }
     ],
