@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2889,
         "participants": 25,
-        "crowns": 27,
+        "crowns": 28,
         "battles_remaining": null,
-        "battles_played": 22,
+        "battles_played": 23,
         "wins": 13
     },
     "participants": [
@@ -26,15 +26,6 @@
         {
             "tag": "#Y2C2RQG9R",
             "name": "kr21__",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
             "cards_earned": 1400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -168,6 +159,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "cards_earned": 1120,
@@ -291,9 +291,9 @@
             "badge_id": 16000003,
             "clan_score": 2889,
             "participants": 25,
-            "crowns": 27,
-            "battles_remaining": 3,
-            "battles_played": 22,
+            "crowns": 28,
+            "battles_remaining": 2,
+            "battles_played": 23,
             "wins": 13
         }
     ]
