@@ -7,19 +7,19 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2952,
-        "participants": 7,
+        "participants": 9,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 15,
-        "wins": 8
+        "battles_played": 20,
+        "wins": 9
     },
     "participants": [
         {
             "tag": "#YRJLYVJG",
             "name": "FlashJakson",
-            "cards_earned": 560,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
+            "cards_earned": 1120,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 3
         },
@@ -51,8 +51,26 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "cards_earned": 840,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#QGLYUPYJ",
             "name": "VB2",
+            "cards_earned": 280,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#CV29GC9",
+            "name": "Srgt_Atrex",
             "cards_earned": 280,
             "battles_played": 1,
             "collection_day_battles_played": 1,
@@ -79,7 +97,7 @@
         }
     ],
     "clans": null,
-    "cards": 6631,
+    "cards": 8311,
     "state_label": "Collection Day",
     "collection_end_time_label": "19 hours",
     "end_label": "1 day, 19 hours"
