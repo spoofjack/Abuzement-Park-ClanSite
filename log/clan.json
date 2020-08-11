@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49927,
+    "clan_score": 49936,
     "required_trophies": 5000,
     "donations_per_week": 2180,
     "clan_war_trophies": 2889,
@@ -89,6 +89,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5221,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20200811T020321.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 7,
+            "donations": 26,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2YUGR2P99",
             "name": "\ud5ff\ub808\ud5e4\ud5e4",
             "exp_level": 12,
@@ -99,27 +116,10 @@
             },
             "role": "member",
             "last_seen": "20200811T014447.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 12,
             "donations": 26,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5193,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20200811T014308.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 7,
-            "donations": 26,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5156,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200811T015927.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 3,
-            "donations": 40,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "exp_level": 13,
@@ -184,9 +167,26 @@
             },
             "role": "member",
             "last_seen": "20200810T233025.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 10,
             "donations": 84,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5131,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200811T015927.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 3,
+            "donations": 40,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -194,7 +194,7 @@
             "tag": "#GYQQ0PY",
             "name": "SloppyJoe",
             "exp_level": 13,
-            "trophies": 5074,
+            "trophies": 5104,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -336,7 +336,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200810T202336.000Z",
+            "last_seen": "20200811T020620.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 24,
             "donations": 72,
@@ -704,10 +704,10 @@
             "tag": "#QRGULUJRL",
             "name": "Gaviii",
             "exp_level": 9,
-            "trophies": 4580,
+            "trophies": 4592,
             "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "member",
             "last_seen": "20200811T015841.000Z",
