@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50269,
+    "clan_score": 50264,
     "required_trophies": 5000,
-    "donations_per_week": 4400,
+    "donations_per_week": 4410,
     "clan_war_trophies": 2952,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -310,23 +310,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 5017,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200812T044216.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 16,
-            "donations": 120,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "exp_level": 11,
@@ -337,10 +320,27 @@
             },
             "role": "member",
             "last_seen": "20200811T210112.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 20,
             "donations": 115,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 4996,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200812T045322.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 16,
+            "donations": 120,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -459,7 +459,7 @@
             "clan_rank": 26,
             "previous_clan_rank": 28,
             "donations": 75,
-            "donations_received": 140,
+            "donations_received": 150,
             "clan_chest_points": 0
         },
         {
@@ -608,10 +608,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200810T095651.000Z",
+            "last_seen": "20200812T045247.000Z",
             "clan_rank": 35,
             "previous_clan_rank": 35,
-            "donations": 38,
+            "donations": 48,
             "donations_received": 40,
             "clan_chest_points": 0
         },
