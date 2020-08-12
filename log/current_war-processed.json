@@ -10,7 +10,7 @@
         "participants": 27,
         "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 15,
+        "battles_played": 17,
         "wins": 10
     },
     "participants": [
@@ -22,15 +22,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#Y2C2RQG9R",
-            "name": "kr21__",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#PV02PGVQ",
@@ -256,6 +247,15 @@
             "collection_day_battles_played": 2,
             "wins": 2,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#Y2C2RQG9R",
+            "name": "kr21__",
+            "cards_earned": 1400,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -266,8 +266,8 @@
             "clan_score": 2952,
             "participants": 27,
             "crowns": 12,
-            "battles_remaining": 12,
-            "battles_played": 15,
+            "battles_remaining": 10,
+            "battles_played": 17,
             "wins": 10
         },
         {
@@ -318,5 +318,5 @@
     "cards": 30881,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "20 hours"
+    "end_label": "19 hours"
 }
