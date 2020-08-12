@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50301,
+    "clan_score": 50314,
     "required_trophies": 5000,
-    "donations_per_week": 4852,
+    "donations_per_week": 4860,
     "clan_war_trophies": 2952,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -132,11 +132,28 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200812T010519.000Z",
+            "last_seen": "20200812T124418.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 5,
-            "donations": 215,
+            "donations": 223,
             "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5219,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20200812T123157.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 9,
+            "donations": 80,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -150,7 +167,7 @@
             },
             "role": "member",
             "last_seen": "20200811T181610.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 7,
             "donations": 26,
             "donations_received": 0,
@@ -167,10 +184,10 @@
             },
             "role": "elder",
             "last_seen": "20200812T114524.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 11,
             "donations": 155,
-            "donations_received": 192,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -184,26 +201,9 @@
             },
             "role": "elder",
             "last_seen": "20200811T185147.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 8,
             "donations": 62,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5190,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20200812T115817.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 9,
-            "donations": 80,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -497,23 +497,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#Y99CRCGUC",
-            "name": "toxos",
-            "exp_level": 11,
-            "trophies": 4794,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200812T122651.000Z",
-            "clan_rank": 29,
-            "previous_clan_rank": 32,
-            "donations": 215,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YRJLYVJG",
             "name": "FlashJakson",
             "exp_level": 10,
@@ -524,7 +507,7 @@
             },
             "role": "member",
             "last_seen": "20200812T022141.000Z",
-            "clan_rank": 30,
+            "clan_rank": 29,
             "previous_clan_rank": 33,
             "donations": 0,
             "donations_received": 0,
@@ -540,8 +523,8 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200812T120322.000Z",
-            "clan_rank": 31,
+            "last_seen": "20200812T124237.000Z",
+            "clan_rank": 30,
             "previous_clan_rank": 27,
             "donations": 164,
             "donations_received": 200,
@@ -558,10 +541,27 @@
             },
             "role": "member",
             "last_seen": "20200812T074205.000Z",
-            "clan_rank": 32,
+            "clan_rank": 31,
             "previous_clan_rank": 26,
             "donations": 10,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#Y99CRCGUC",
+            "name": "toxos",
+            "exp_level": 11,
+            "trophies": 4785,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200812T122651.000Z",
+            "clan_rank": 32,
+            "previous_clan_rank": 32,
+            "donations": 215,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
