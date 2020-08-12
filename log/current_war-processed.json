@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2952,
         "participants": 27,
-        "crowns": 1,
+        "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 1,
-        "wins": 1
+        "battles_played": 3,
+        "wins": 2
     },
     "participants": [
         {
@@ -42,15 +42,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8RRGYVGGG",
-            "name": "BotoSaka",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9992GG0CQ",
             "name": "freighttrain",
             "cards_earned": 1120,
@@ -58,15 +49,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "cards_earned": 840,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#2Y02UG8C8",
@@ -249,6 +231,24 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8RRGYVGGG",
+            "name": "BotoSaka",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 2
+        },
+        {
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "cards_earned": 1487,
@@ -260,15 +260,26 @@
     ],
     "clans": [
         {
+            "tag": "#PCUYLCVP",
+            "name": "Alpha Aussies",
+            "badge_id": 16000015,
+            "clan_score": 2642,
+            "participants": 28,
+            "crowns": 6,
+            "battles_remaining": 26,
+            "battles_played": 2,
+            "wins": 2
+        },
+        {
             "tag": "#2PCRUGVG",
             "name": ".::PEOPLES::.",
             "badge_id": 16000002,
             "clan_score": 2665,
             "participants": 28,
-            "crowns": 2,
-            "battles_remaining": 25,
-            "battles_played": 3,
-            "wins": 1
+            "crowns": 3,
+            "battles_remaining": 24,
+            "battles_played": 4,
+            "wins": 2
         },
         {
             "tag": "#LP98YUCV",
@@ -276,21 +287,21 @@
             "badge_id": 16000003,
             "clan_score": 2952,
             "participants": 27,
-            "crowns": 1,
-            "battles_remaining": 26,
-            "battles_played": 1,
-            "wins": 1
+            "crowns": 2,
+            "battles_remaining": 24,
+            "battles_played": 3,
+            "wins": 2
         },
         {
-            "tag": "#PCUYLCVP",
-            "name": "Alpha Aussies",
-            "badge_id": 16000015,
-            "clan_score": 2642,
+            "tag": "#C9CVLU",
+            "name": "Los Macheteros",
+            "badge_id": 16000036,
+            "clan_score": 2192,
             "participants": 28,
-            "crowns": 0,
-            "battles_remaining": 28,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 2,
+            "battles_remaining": 26,
+            "battles_played": 2,
+            "wins": 1
         },
         {
             "tag": "#92QQLLQ",
@@ -301,17 +312,6 @@
             "crowns": 0,
             "battles_remaining": 29,
             "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#C9CVLU",
-            "name": "Los Macheteros",
-            "badge_id": 16000036,
-            "clan_score": 2192,
-            "participants": 28,
-            "crowns": 0,
-            "battles_remaining": 27,
-            "battles_played": 1,
             "wins": 0
         }
     ],
