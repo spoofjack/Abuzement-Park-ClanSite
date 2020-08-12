@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50296,
+    "clan_score": 50307,
     "required_trophies": 5000,
-    "donations_per_week": 4950,
+    "donations_per_week": 4960,
     "clan_war_trophies": 2952,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -72,6 +72,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 5270,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200812T141034.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 12,
+            "donations": 150,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 12,
@@ -82,10 +99,10 @@
             },
             "role": "elder",
             "last_seen": "20200812T135720.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 6,
             "donations": 177,
-            "donations_received": 10,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -99,27 +116,10 @@
             },
             "role": "leader",
             "last_seen": "20200812T041518.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 4,
             "donations": 374,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 5242,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200812T113001.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 12,
-            "donations": 150,
-            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -616,23 +616,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "exp_level": 10,
-            "trophies": 4706,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200812T112203.000Z",
-            "clan_rank": 36,
-            "previous_clan_rank": 38,
-            "donations": 53,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#899LR9Y80",
             "name": "Warlord",
             "exp_level": 10,
@@ -642,8 +625,8 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200812T131448.000Z",
-            "clan_rank": 37,
+            "last_seen": "20200812T140614.000Z",
+            "clan_rank": 36,
             "previous_clan_rank": 37,
             "donations": 198,
             "donations_received": 200,
@@ -660,10 +643,27 @@
             },
             "role": "member",
             "last_seen": "20200811T231247.000Z",
-            "clan_rank": 38,
+            "clan_rank": 37,
             "previous_clan_rank": 36,
             "donations": 10,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "exp_level": 10,
+            "trophies": 4670,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200812T140029.000Z",
+            "clan_rank": 38,
+            "previous_clan_rank": 38,
+            "donations": 63,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
