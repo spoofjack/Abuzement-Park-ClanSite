@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2915,
         "participants": 29,
-        "crowns": 11,
+        "crowns": 13,
         "battles_remaining": null,
-        "battles_played": 10,
-        "wins": 4
+        "battles_played": 12,
+        "wins": 5
     },
     "participants": [
         {
@@ -24,29 +24,11 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "cards_earned": 1785,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9992GG0CQ",
             "name": "freighttrain",
             "cards_earned": 1400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#JRG8G8LL",
-            "name": "Evan_Wibb",
-            "cards_earned": 840,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -195,11 +177,29 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#YLCLYCCLR",
             "name": "yggdrasil",
             "cards_earned": 1400,
             "battles_played": 1,
             "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#JRG8G8LL",
+            "name": "Evan_Wibb",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -283,9 +283,9 @@
             "badge_id": 16000147,
             "clan_score": 1866,
             "participants": 27,
-            "crowns": 13,
-            "battles_remaining": 16,
-            "battles_played": 11,
+            "crowns": 15,
+            "battles_remaining": 15,
+            "battles_played": 12,
             "wins": 8
         },
         {
@@ -294,10 +294,10 @@
             "badge_id": 16000162,
             "clan_score": 1674,
             "participants": 28,
-            "crowns": 15,
-            "battles_remaining": 12,
-            "battles_played": 16,
-            "wins": 8
+            "crowns": 16,
+            "battles_remaining": 11,
+            "battles_played": 17,
+            "wins": 9
         },
         {
             "tag": "#28LQJVYG",
@@ -316,10 +316,10 @@
             "badge_id": 16000003,
             "clan_score": 2915,
             "participants": 29,
-            "crowns": 11,
-            "battles_remaining": 19,
-            "battles_played": 10,
-            "wins": 4
+            "crowns": 13,
+            "battles_remaining": 17,
+            "battles_played": 12,
+            "wins": 5
         },
         {
             "tag": "#Y2U0CR8R",
@@ -328,8 +328,8 @@
             "clan_score": 2179,
             "participants": 29,
             "crowns": 14,
-            "battles_remaining": 18,
-            "battles_played": 11,
+            "battles_remaining": 16,
+            "battles_played": 13,
             "wins": 7
         }
     ]
