@@ -10,7 +10,7 @@
         "participants": 29,
         "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 4,
+        "battles_played": 5,
         "wins": 2
     },
     "participants": [
@@ -150,15 +150,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "cards_earned": 891,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 1189,
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "cards_earned": 891,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "cards_earned": 1189,
@@ -283,10 +283,10 @@
             "badge_id": 16000162,
             "clan_score": 1674,
             "participants": 28,
-            "crowns": 10,
-            "battles_remaining": 18,
-            "battles_played": 10,
-            "wins": 6
+            "crowns": 12,
+            "battles_remaining": 16,
+            "battles_played": 12,
+            "wins": 7
         },
         {
             "tag": "#Y2U0CR8R",
@@ -306,8 +306,8 @@
             "clan_score": 2915,
             "participants": 29,
             "crowns": 7,
-            "battles_remaining": 25,
-            "battles_played": 4,
+            "battles_remaining": 24,
+            "battles_played": 5,
             "wins": 2
         },
         {
@@ -316,9 +316,9 @@
             "badge_id": 16000147,
             "clan_score": 1866,
             "participants": 27,
-            "crowns": 2,
-            "battles_remaining": 24,
-            "battles_played": 3,
+            "crowns": 3,
+            "battles_remaining": 22,
+            "battles_played": 5,
             "wins": 2
         },
         {
@@ -328,13 +328,13 @@
             "clan_score": 2971,
             "participants": 29,
             "crowns": 1,
-            "battles_remaining": 27,
-            "battles_played": 2,
+            "battles_remaining": 26,
+            "battles_played": 3,
             "wins": 1
         }
     ],
     "cards": 34759,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
