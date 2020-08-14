@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50390,
+    "clan_score": 50389,
     "required_trophies": 5000,
     "donations_per_week": 8490,
     "clan_war_trophies": 2915,
@@ -344,23 +344,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5011,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200814T063237.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 21,
-            "donations": 240,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "exp_level": 11,
@@ -371,10 +354,27 @@
             },
             "role": "member",
             "last_seen": "20200813T174849.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 115,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5006,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200814T063237.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 21,
+            "donations": 240,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
