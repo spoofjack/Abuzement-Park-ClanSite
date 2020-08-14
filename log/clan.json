@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50318,
+    "clan_score": 50315,
     "required_trophies": 5000,
     "donations_per_week": 8380,
     "clan_war_trophies": 2915,
@@ -327,23 +327,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 5008,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200814T031305.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 20,
-            "donations": 233,
-            "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -354,17 +337,34 @@
             },
             "role": "elder",
             "last_seen": "20200814T005747.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 21,
             "donations": 222,
             "donations_received": 320,
             "clan_chest_points": 0
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 4986,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200814T031305.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 20,
+            "donations": 233,
+            "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#208V2RGL",
             "name": "NateDog",
             "exp_level": 12,
-            "trophies": 4952,
+            "trophies": 4982,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
