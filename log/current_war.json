@@ -1,8 +1,18 @@
 {
-    "state": "notInWar",
+    "state": "collectionDay",
     "war_end_time": null,
-    "collection_end_time": null,
-    "clan": null,
-    "participants": null,
+    "collection_end_time": "20200816T120425.027Z",
+    "clan": {
+        "tag": "#LP98YUCV",
+        "name": "Abuzement Park",
+        "badge_id": 16000003,
+        "clan_score": 2828,
+        "participants": 0,
+        "crowns": 0,
+        "battles_remaining": null,
+        "battles_played": 0,
+        "wins": 0
+    },
+    "participants": [],
     "clans": null
 }
