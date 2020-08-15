@@ -7,25 +7,34 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2828,
-        "participants": 1,
+        "participants": 2,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 2,
-        "wins": 1
+        "battles_played": 6,
+        "wins": 3
     },
     "participants": [
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "cards_earned": 1189,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
-            "cards_earned": 892,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
-            "wins": 1,
+            "cards_earned": 1487,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
             "number_of_battles": 3
         }
     ],
     "clans": null,
-    "cards": 892,
+    "cards": 2676,
     "state_label": "Collection Day",
     "collection_end_time_label": "23 hours",
     "end_label": "1 day, 23 hours"
