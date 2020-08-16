@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2828,
         "participants": 28,
-        "crowns": 12,
+        "crowns": 13,
         "battles_remaining": null,
-        "battles_played": 18,
-        "wins": 7
+        "battles_played": 19,
+        "wins": 8
     },
     "participants": [
         {
@@ -213,15 +213,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "cards_earned": 1120,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#Y99CRCGUC",
             "name": "toxos",
             "cards_earned": 840,
@@ -264,6 +255,15 @@
             "battles_played": 2,
             "collection_day_battles_played": 1,
             "wins": 0,
+            "number_of_battles": 2
+        },
+        {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "cards_earned": 1120,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 2,
             "number_of_battles": 2
         }
     ],
@@ -318,14 +318,14 @@
             "badge_id": 16000003,
             "clan_score": 2828,
             "participants": 28,
-            "crowns": 12,
-            "battles_remaining": 10,
-            "battles_played": 18,
-            "wins": 7
+            "crowns": 13,
+            "battles_remaining": 9,
+            "battles_played": 19,
+            "wins": 8
         }
     ],
     "cards": 30125,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "15 hours"
+    "end_label": "14 hours"
 }
