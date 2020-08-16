@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2828,
         "participants": 28,
-        "crowns": 6,
+        "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 11,
+        "battles_played": 12,
         "wins": 3
     },
     "participants": [
@@ -38,15 +38,6 @@
             "cards_earned": 560,
             "battles_played": 0,
             "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#JRG8G8LL",
-            "name": "Evan_Wibb",
-            "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -186,6 +177,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#JRG8G8LL",
+            "name": "Evan_Wibb",
+            "cards_earned": 1400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "cards_earned": 594,
@@ -285,10 +285,21 @@
             "badge_id": 16000024,
             "clan_score": 2424,
             "participants": 30,
-            "crowns": 11,
-            "battles_remaining": 18,
-            "battles_played": 12,
-            "wins": 7
+            "crowns": 12,
+            "battles_remaining": 17,
+            "battles_played": 13,
+            "wins": 8
+        },
+        {
+            "tag": "#QJLCVYV",
+            "name": "Frendz Forever",
+            "badge_id": 16000000,
+            "clan_score": 2659,
+            "participants": 31,
+            "crowns": 15,
+            "battles_remaining": 14,
+            "battles_played": 17,
+            "wins": 6
         },
         {
             "tag": "#L9VP8GP9",
@@ -302,25 +313,14 @@
             "wins": 6
         },
         {
-            "tag": "#QJLCVYV",
-            "name": "Frendz Forever",
-            "badge_id": 16000000,
-            "clan_score": 2659,
-            "participants": 31,
-            "crowns": 14,
-            "battles_remaining": 15,
-            "battles_played": 16,
-            "wins": 5
-        },
-        {
             "tag": "#LP98YUCV",
             "name": "Abuzement Park",
             "badge_id": 16000003,
             "clan_score": 2828,
             "participants": 28,
-            "crowns": 6,
-            "battles_remaining": 17,
-            "battles_played": 11,
+            "crowns": 7,
+            "battles_remaining": 16,
+            "battles_played": 12,
             "wins": 3
         }
     ],
