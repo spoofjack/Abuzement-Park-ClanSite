@@ -269,37 +269,26 @@
     ],
     "clans": [
         {
+            "tag": "#L8JCGUL2",
+            "name": "\u300c\u65b0\u300d\u307e\u308b\u306f\u3061",
+            "badge_id": 16000128,
+            "clan_score": 2934,
+            "participants": 28,
+            "crowns": 8,
+            "battles_remaining": 21,
+            "battles_played": 7,
+            "wins": 5
+        },
+        {
             "tag": "#QJLCVYV",
             "name": "Frendz Forever",
             "badge_id": 16000000,
             "clan_score": 2659,
             "participants": 31,
             "crowns": 10,
-            "battles_remaining": 23,
-            "battles_played": 8,
+            "battles_remaining": 22,
+            "battles_played": 9,
             "wins": 4
-        },
-        {
-            "tag": "#L8JCGUL2",
-            "name": "\u300c\u65b0\u300d\u307e\u308b\u306f\u3061",
-            "badge_id": 16000128,
-            "clan_score": 2934,
-            "participants": 28,
-            "crowns": 7,
-            "battles_remaining": 23,
-            "battles_played": 5,
-            "wins": 4
-        },
-        {
-            "tag": "#L9VP8GP9",
-            "name": "Otakus team",
-            "badge_id": 16000109,
-            "clan_score": 2581,
-            "participants": 29,
-            "crowns": 3,
-            "battles_remaining": 26,
-            "battles_played": 3,
-            "wins": 2
         },
         {
             "tag": "#PQ9VYLUC",
@@ -307,10 +296,21 @@
             "badge_id": 16000024,
             "clan_score": 2424,
             "participants": 30,
-            "crowns": 3,
-            "battles_remaining": 27,
-            "battles_played": 3,
-            "wins": 1
+            "crowns": 4,
+            "battles_remaining": 26,
+            "battles_played": 4,
+            "wins": 2
+        },
+        {
+            "tag": "#L9VP8GP9",
+            "name": "Otakus team",
+            "badge_id": 16000109,
+            "clan_score": 2581,
+            "participants": 29,
+            "crowns": 4,
+            "battles_remaining": 25,
+            "battles_played": 4,
+            "wins": 2
         },
         {
             "tag": "#LP98YUCV",
@@ -327,5 +327,5 @@
     "cards": 30125,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
