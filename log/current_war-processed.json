@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2828,
         "participants": 28,
-        "crowns": 11,
+        "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 17,
+        "battles_played": 18,
         "wins": 7
     },
     "participants": [
@@ -40,15 +40,6 @@
             "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#2Y02UG8C8",
-            "name": "Rascal09",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#U80UULJR",
@@ -139,6 +130,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#2Y02UG8C8",
+            "name": "Rascal09",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
         },
         {
             "tag": "#PYL9RLGQG",
@@ -269,6 +269,17 @@
     ],
     "clans": [
         {
+            "tag": "#L9VP8GP9",
+            "name": "Otakus team",
+            "badge_id": 16000109,
+            "clan_score": 2581,
+            "participants": 29,
+            "crowns": 17,
+            "battles_remaining": 10,
+            "battles_played": 19,
+            "wins": 10
+        },
+        {
             "tag": "#PQ9VYLUC",
             "name": "\u5927\u6c49\u6c99\u6587\u4e3b\u4e49",
             "badge_id": 16000024,
@@ -291,17 +302,6 @@
             "wins": 10
         },
         {
-            "tag": "#L9VP8GP9",
-            "name": "Otakus team",
-            "badge_id": 16000109,
-            "clan_score": 2581,
-            "participants": 29,
-            "crowns": 15,
-            "battles_remaining": 11,
-            "battles_played": 18,
-            "wins": 9
-        },
-        {
             "tag": "#QJLCVYV",
             "name": "Frendz Forever",
             "badge_id": 16000000,
@@ -318,9 +318,9 @@
             "badge_id": 16000003,
             "clan_score": 2828,
             "participants": 28,
-            "crowns": 11,
-            "battles_remaining": 11,
-            "battles_played": 17,
+            "crowns": 12,
+            "battles_remaining": 10,
+            "battles_played": 18,
             "wins": 7
         }
     ],
