@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2828,
         "participants": 28,
-        "crowns": 7,
+        "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 12,
-        "wins": 3
+        "battles_played": 13,
+        "wins": 4
     },
     "participants": [
         {
@@ -132,15 +132,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "cards_earned": 1785,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "cards_earned": 1120,
@@ -231,6 +222,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#QRGULUJRL",
             "name": "Gaviii",
             "cards_earned": 840,
@@ -307,9 +307,9 @@
             "badge_id": 16000109,
             "clan_score": 2581,
             "participants": 29,
-            "crowns": 11,
-            "battles_remaining": 17,
-            "battles_played": 12,
+            "crowns": 12,
+            "battles_remaining": 16,
+            "battles_played": 13,
             "wins": 6
         },
         {
@@ -318,10 +318,10 @@
             "badge_id": 16000003,
             "clan_score": 2828,
             "participants": 28,
-            "crowns": 7,
-            "battles_remaining": 16,
-            "battles_played": 12,
-            "wins": 3
+            "crowns": 8,
+            "battles_remaining": 15,
+            "battles_played": 13,
+            "wins": 4
         }
     ],
     "cards": 30125,
