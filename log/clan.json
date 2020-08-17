@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51131,
+    "clan_score": 51115,
     "required_trophies": 5000,
-    "donations_per_week": 382,
+    "donations_per_week": 408,
     "clan_war_trophies": 2828,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -58,17 +58,17 @@
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
-            "trophies": 5547,
+            "trophies": 5523,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200816T160708.000Z",
+            "last_seen": "20200817T032457.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 2,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 8,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
@@ -152,7 +152,7 @@
             "last_seen": "20200817T031422.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 6,
-            "donations": 0,
+            "donations": 8,
             "donations_received": 15,
             "clan_chest_points": 0
         },
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 20,
-            "donations_received": 24,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -412,23 +412,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CV29GC9",
-            "name": "Srgt_Atrex",
-            "exp_level": 11,
-            "trophies": 4990,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200817T031154.000Z",
-            "clan_rank": 24,
-            "previous_clan_rank": 24,
-            "donations": 18,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -438,8 +421,8 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20200817T022835.000Z",
-            "clan_rank": 25,
+            "last_seen": "20200817T031811.000Z",
+            "clan_rank": 24,
             "previous_clan_rank": 23,
             "donations": 50,
             "donations_received": 40,
@@ -456,10 +439,27 @@
             },
             "role": "elder",
             "last_seen": "20200817T023003.000Z",
-            "clan_rank": 26,
+            "clan_rank": 25,
             "previous_clan_rank": 25,
             "donations": 10,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CV29GC9",
+            "name": "Srgt_Atrex",
+            "exp_level": 11,
+            "trophies": 4956,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200817T031154.000Z",
+            "clan_rank": 26,
+            "previous_clan_rank": 24,
+            "donations": 28,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
