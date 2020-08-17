@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2828,
         "participants": 28,
-        "crowns": 15,
+        "crowns": 16,
         "battles_remaining": null,
-        "battles_played": 22,
-        "wins": 9
+        "battles_played": 23,
+        "wins": 10
     },
     "participants": [
-        {
-            "tag": "#YRJLYVJG",
-            "name": "FlashJakson",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#8RRGYVGGG",
             "name": "BotoSaka",
@@ -84,6 +75,15 @@
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YRJLYVJG",
+            "name": "FlashJakson",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -285,10 +285,10 @@
             "badge_id": 16000128,
             "clan_score": 2934,
             "participants": 28,
-            "crowns": 18,
-            "battles_remaining": 6,
-            "battles_played": 22,
-            "wins": 12
+            "crowns": 21,
+            "battles_remaining": 5,
+            "battles_played": 23,
+            "wins": 13
         },
         {
             "tag": "#PQ9VYLUC",
@@ -296,10 +296,10 @@
             "badge_id": 16000024,
             "clan_score": 2424,
             "participants": 30,
-            "crowns": 16,
-            "battles_remaining": 10,
-            "battles_played": 20,
-            "wins": 11
+            "crowns": 17,
+            "battles_remaining": 9,
+            "battles_played": 21,
+            "wins": 12
         },
         {
             "tag": "#LP98YUCV",
@@ -307,10 +307,10 @@
             "badge_id": 16000003,
             "clan_score": 2828,
             "participants": 28,
-            "crowns": 15,
-            "battles_remaining": 6,
-            "battles_played": 22,
-            "wins": 9
+            "crowns": 16,
+            "battles_remaining": 5,
+            "battles_played": 23,
+            "wins": 10
         },
         {
             "tag": "#QJLCVYV",
@@ -327,5 +327,5 @@
     "cards": 30125,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "12 hours"
+    "end_label": "11 hours"
 }
