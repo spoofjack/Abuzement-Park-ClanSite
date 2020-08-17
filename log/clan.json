@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51090,
+    "clan_score": 51088,
     "required_trophies": 5000,
     "donations_per_week": 914,
     "clan_war_trophies": 2828,
@@ -548,23 +548,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "exp_level": 10,
-            "trophies": 4836,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200817T003613.000Z",
-            "clan_rank": 32,
-            "previous_clan_rank": 32,
-            "donations": 2,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YRJLYVJG",
             "name": "FlashJakson",
             "exp_level": 10,
@@ -575,7 +558,7 @@
             },
             "role": "member",
             "last_seen": "20200817T022002.000Z",
-            "clan_rank": 33,
+            "clan_rank": 32,
             "previous_clan_rank": 29,
             "donations": 0,
             "donations_received": 0,
@@ -592,9 +575,26 @@
             },
             "role": "member",
             "last_seen": "20200817T031156.000Z",
-            "clan_rank": 34,
+            "clan_rank": 33,
             "previous_clan_rank": 34,
             "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "exp_level": 10,
+            "trophies": 4817,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200817T110831.000Z",
+            "clan_rank": 34,
+            "previous_clan_rank": 32,
+            "donations": 2,
             "donations_received": 0,
             "clan_chest_points": 0
         },
