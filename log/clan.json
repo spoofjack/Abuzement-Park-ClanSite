@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51125,
+    "clan_score": 51117,
     "required_trophies": 5000,
-    "donations_per_week": 408,
+    "donations_per_week": 418,
     "clan_war_trophies": 2828,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 2,
             "donations": 8,
-            "donations_received": 10,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -174,23 +174,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#GYQQ0PY",
-            "name": "SloppyJoe",
-            "exp_level": 13,
-            "trophies": 5323,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20200817T010826.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 11,
-            "donations": 0,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "exp_level": 13,
@@ -201,7 +184,7 @@
             },
             "role": "member",
             "last_seen": "20200817T001543.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 12,
             "donations": 11,
             "donations_received": 0,
@@ -218,9 +201,26 @@
             },
             "role": "member",
             "last_seen": "20200817T015920.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 15,
             "donations": 16,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#GYQQ0PY",
+            "name": "SloppyJoe",
+            "exp_level": 13,
+            "trophies": 5300,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20200817T034705.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 11,
+            "donations": 10,
             "donations_received": 40,
             "clan_chest_points": 0
         },
