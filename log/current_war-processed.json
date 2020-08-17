@@ -269,6 +269,17 @@
     ],
     "clans": [
         {
+            "tag": "#L9VP8GP9",
+            "name": "Otakus team",
+            "badge_id": 16000109,
+            "clan_score": 2581,
+            "participants": 29,
+            "crowns": 24,
+            "battles_remaining": 5,
+            "battles_played": 24,
+            "wins": 14
+        },
+        {
             "tag": "#PQ9VYLUC",
             "name": "\u5927\u6c49\u6c99\u6587\u4e3b\u4e49",
             "badge_id": 16000024,
@@ -288,17 +299,6 @@
             "crowns": 22,
             "battles_remaining": 2,
             "battles_played": 26,
-            "wins": 13
-        },
-        {
-            "tag": "#L9VP8GP9",
-            "name": "Otakus team",
-            "badge_id": 16000109,
-            "clan_score": 2581,
-            "participants": 29,
-            "crowns": 21,
-            "battles_remaining": 6,
-            "battles_played": 23,
             "wins": 13
         },
         {
@@ -327,5 +327,5 @@
     "cards": 30125,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "8 hours"
+    "end_label": "7 hours"
 }
