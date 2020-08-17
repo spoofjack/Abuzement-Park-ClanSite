@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 2828,
         "participants": 28,
-        "crowns": 14,
+        "crowns": 15,
         "battles_remaining": null,
-        "battles_played": 20,
-        "wins": 8
+        "battles_played": 22,
+        "wins": 9
     },
     "participants": [
         {
             "tag": "#YRJLYVJG",
             "name": "FlashJakson",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "cards_earned": 1785,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -69,15 +60,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#CV29GC9",
-            "name": "Srgt_Atrex",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "cards_earned": 594,
@@ -100,6 +82,15 @@
             "name": "Patrick",
             "cards_earned": 1487,
             "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "cards_earned": 1785,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
@@ -174,6 +165,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#CV29GC9",
+            "name": "Srgt_Atrex",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -302,6 +302,17 @@
             "wins": 11
         },
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2828,
+            "participants": 28,
+            "crowns": 15,
+            "battles_remaining": 6,
+            "battles_played": 22,
+            "wins": 9
+        },
+        {
             "tag": "#QJLCVYV",
             "name": "Frendz Forever",
             "badge_id": 16000000,
@@ -310,17 +321,6 @@
             "crowns": 20,
             "battles_remaining": 10,
             "battles_played": 21,
-            "wins": 8
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2828,
-            "participants": 28,
-            "crowns": 14,
-            "battles_remaining": 8,
-            "battles_played": 20,
             "wins": 8
         }
     ],
