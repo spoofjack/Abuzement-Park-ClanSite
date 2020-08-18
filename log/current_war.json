@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2741,
         "participants": 27,
-        "crowns": 8,
+        "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 6,
-        "wins": 3
+        "battles_played": 7,
+        "wins": 4
     },
     "participants": [
         {
@@ -186,15 +186,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "cards_earned": 891,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "cards_earned": 1189,
@@ -256,6 +247,15 @@
             "collection_day_battles_played": 2,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "cards_earned": 891,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -298,10 +298,10 @@
             "badge_id": 16000077,
             "clan_score": 2922,
             "participants": 28,
-            "crowns": 7,
-            "battles_remaining": 18,
-            "battles_played": 10,
-            "wins": 4
+            "crowns": 9,
+            "battles_remaining": 15,
+            "battles_played": 13,
+            "wins": 6
         },
         {
             "tag": "#LP98YUCV",
@@ -309,10 +309,10 @@
             "badge_id": 16000003,
             "clan_score": 2741,
             "participants": 27,
-            "crowns": 8,
-            "battles_remaining": 21,
-            "battles_played": 6,
-            "wins": 3
+            "crowns": 11,
+            "battles_remaining": 20,
+            "battles_played": 7,
+            "wins": 4
         }
     ]
 }
