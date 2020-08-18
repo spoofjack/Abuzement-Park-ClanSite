@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51401,
+    "clan_score": 51390,
     "required_trophies": 5000,
-    "donations_per_week": 2480,
+    "donations_per_week": 2490,
     "clan_war_trophies": 2741,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -174,23 +174,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "exp_level": 12,
-            "trophies": 5335,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200818T034801.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 14,
-            "donations": 73,
-            "donations_received": 130,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -201,10 +184,27 @@
             },
             "role": "elder",
             "last_seen": "20200818T070701.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 15,
             "donations": 182,
-            "donations_received": 152,
+            "donations_received": 154,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "exp_level": 12,
+            "trophies": 5311,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200818T090339.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 14,
+            "donations": 83,
+            "donations_received": 130,
             "clan_chest_points": 0
         },
         {
@@ -578,7 +578,7 @@
             "clan_rank": 33,
             "previous_clan_rank": 31,
             "donations": 54,
-            "donations_received": 40,
+            "donations_received": 48,
             "clan_chest_points": 0
         },
         {
