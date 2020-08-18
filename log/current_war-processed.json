@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2741,
         "participants": 27,
-        "crowns": 3,
+        "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 1
+        "battles_played": 4,
+        "wins": 2
     },
     "participants": [
         {
@@ -204,15 +204,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#QRGULUJRL",
-            "name": "Gaviii",
-            "cards_earned": 840,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 891,
@@ -256,6 +247,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#QRGULUJRL",
+            "name": "Gaviii",
+            "cards_earned": 840,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -266,8 +266,8 @@
             "clan_score": 2474,
             "participants": 27,
             "crowns": 12,
-            "battles_remaining": 18,
-            "battles_played": 9,
+            "battles_remaining": 17,
+            "battles_played": 10,
             "wins": 6
         },
         {
@@ -276,9 +276,20 @@
             "badge_id": 16000125,
             "clan_score": 2535,
             "participants": 27,
+            "crowns": 6,
+            "battles_remaining": 20,
+            "battles_played": 7,
+            "wins": 3
+        },
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2741,
+            "participants": 27,
             "crowns": 5,
-            "battles_remaining": 21,
-            "battles_played": 6,
+            "battles_remaining": 23,
+            "battles_played": 4,
             "wins": 2
         },
         {
@@ -288,20 +299,9 @@
             "clan_score": 2922,
             "participants": 28,
             "crowns": 4,
-            "battles_remaining": 24,
-            "battles_played": 4,
+            "battles_remaining": 22,
+            "battles_played": 6,
             "wins": 2
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2741,
-            "participants": 27,
-            "crowns": 3,
-            "battles_remaining": 24,
-            "battles_played": 3,
-            "wins": 1
         },
         {
             "tag": "#PQ9VYLUC",
@@ -310,13 +310,13 @@
             "clan_score": 2490,
             "participants": 27,
             "crowns": 0,
-            "battles_remaining": 25,
-            "battles_played": 2,
+            "battles_remaining": 24,
+            "battles_played": 3,
             "wins": 0
         }
     ],
     "cards": 35287,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
