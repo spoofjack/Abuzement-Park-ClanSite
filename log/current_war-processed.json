@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2741,
         "participants": 27,
-        "crowns": 19,
+        "crowns": 20,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 7
+        "battles_played": 12,
+        "wins": 8
     },
     "participants": [
         {
@@ -141,15 +141,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "cards_earned": 1785,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "cards_earned": 1189,
@@ -240,6 +231,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#QRGULUJRL",
             "name": "Gaviii",
             "cards_earned": 840,
@@ -260,26 +260,26 @@
     ],
     "clans": [
         {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2741,
+            "participants": 27,
+            "crowns": 20,
+            "battles_remaining": 15,
+            "battles_played": 12,
+            "wins": 8
+        },
+        {
             "tag": "#YJPRU0R0",
             "name": "\u0623\u0628\u0637\u0627\u0644 \u0627\u0644\u0639\u0631\u0627\u0642",
             "badge_id": 16000077,
             "clan_score": 2922,
             "participants": 28,
             "crowns": 12,
-            "battles_remaining": 12,
-            "battles_played": 16,
+            "battles_remaining": 11,
+            "battles_played": 17,
             "wins": 8
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2741,
-            "participants": 27,
-            "crowns": 19,
-            "battles_remaining": 16,
-            "battles_played": 11,
-            "wins": 7
         },
         {
             "tag": "#YGJ2PP",
@@ -299,8 +299,8 @@
             "clan_score": 2474,
             "participants": 27,
             "crowns": 13,
-            "battles_remaining": 12,
-            "battles_played": 15,
+            "battles_remaining": 11,
+            "battles_played": 16,
             "wins": 6
         },
         {
