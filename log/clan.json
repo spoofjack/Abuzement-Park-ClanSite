@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51371,
+    "clan_score": 51364,
     "required_trophies": 5000,
     "donations_per_week": 2406,
     "clan_war_trophies": 2741,
@@ -296,7 +296,7 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
-            "trophies": 5173,
+            "trophies": 5157,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -344,23 +344,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 5087,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200818T055951.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 25,
-            "donations": 150,
-            "donations_received": 150,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 12,
@@ -371,7 +354,7 @@
             },
             "role": "member",
             "last_seen": "20200817T234002.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 74,
             "donations_received": 100,
@@ -388,7 +371,7 @@
             },
             "role": "elder",
             "last_seen": "20200818T021614.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 20,
             "donations": 84,
             "donations_received": 80,
@@ -405,10 +388,27 @@
             },
             "role": "member",
             "last_seen": "20200818T035005.000Z",
-            "clan_rank": 23,
+            "clan_rank": 22,
             "previous_clan_rank": 21,
             "donations": 0,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 5065,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200818T055951.000Z",
+            "clan_rank": 23,
+            "previous_clan_rank": 25,
+            "donations": 150,
+            "donations_received": 150,
             "clan_chest_points": 0
         },
         {
