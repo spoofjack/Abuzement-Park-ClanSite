@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2741,
         "participants": 27,
-        "crowns": 23,
+        "crowns": 24,
         "battles_remaining": null,
-        "battles_played": 17,
+        "battles_played": 18,
         "wins": 11
     },
     "participants": [
@@ -90,15 +90,6 @@
             "tag": "#899LR9Y80",
             "name": "Warlord",
             "cards_earned": 1400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -256,6 +247,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -265,9 +265,9 @@
             "badge_id": 16000003,
             "clan_score": 2741,
             "participants": 27,
-            "crowns": 23,
-            "battles_remaining": 10,
-            "battles_played": 17,
+            "crowns": 24,
+            "battles_remaining": 9,
+            "battles_played": 18,
             "wins": 11
         },
         {
