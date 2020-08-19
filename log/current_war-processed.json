@@ -10,7 +10,7 @@
         "participants": 27,
         "crowns": 28,
         "battles_remaining": null,
-        "battles_played": 21,
+        "battles_played": 22,
         "wins": 14
     },
     "participants": [
@@ -45,15 +45,6 @@
             "tag": "#JRG8G8LL",
             "name": "Evan_Wibb",
             "cards_earned": 840,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -177,6 +168,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "cards_earned": 1487,
@@ -266,8 +266,8 @@
             "clan_score": 2741,
             "participants": 27,
             "crowns": 28,
-            "battles_remaining": 6,
-            "battles_played": 21,
+            "battles_remaining": 5,
+            "battles_played": 22,
             "wins": 14
         },
         {
@@ -293,6 +293,17 @@
             "wins": 10
         },
         {
+            "tag": "#PQ9VYLUC",
+            "name": "\u5927\u6c49\u6c99\u6587\u4e3b\u4e49",
+            "badge_id": 16000024,
+            "clan_score": 2490,
+            "participants": 27,
+            "crowns": 17,
+            "battles_remaining": 8,
+            "battles_played": 19,
+            "wins": 9
+        },
+        {
             "tag": "#YGJ2PP",
             "name": "Polska",
             "badge_id": 16000125,
@@ -301,17 +312,6 @@
             "crowns": 20,
             "battles_remaining": 6,
             "battles_played": 21,
-            "wins": 8
-        },
-        {
-            "tag": "#PQ9VYLUC",
-            "name": "\u5927\u6c49\u6c99\u6587\u4e3b\u4e49",
-            "badge_id": 16000024,
-            "clan_score": 2490,
-            "participants": 27,
-            "crowns": 14,
-            "battles_remaining": 9,
-            "battles_played": 18,
             "wins": 8
         }
     ],
