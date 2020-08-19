@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52040,
+    "clan_score": 52041,
     "required_trophies": 5000,
     "donations_per_week": 6087,
     "clan_war_trophies": 2859,
@@ -30,7 +30,7 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200819T230725.000Z",
+            "last_seen": "20200819T232241.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 6,
             "donations": 716,
@@ -123,6 +123,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "exp_level": 12,
+            "trophies": 5380,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200819T224546.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 12,
+            "donations": 104,
+            "donations_received": 250,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -133,7 +150,7 @@
             },
             "role": "elder",
             "last_seen": "20200819T213952.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 255,
             "donations_received": 320,
@@ -150,27 +167,10 @@
             },
             "role": "elder",
             "last_seen": "20200819T192248.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 13,
             "donations": 152,
             "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "exp_level": 12,
-            "trophies": 5372,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200819T224546.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 12,
-            "donations": 104,
-            "donations_received": 250,
             "clan_chest_points": 0
         },
         {
@@ -446,23 +446,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "exp_level": 11,
-            "trophies": 5051,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200819T022344.000Z",
-            "clan_rank": 26,
-            "previous_clan_rank": 26,
-            "donations": 28,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CV29GC9",
             "name": "Srgt_Atrex",
             "exp_level": 11,
@@ -473,10 +456,27 @@
             },
             "role": "member",
             "last_seen": "20200819T205335.000Z",
-            "clan_rank": 27,
+            "clan_rank": 26,
             "previous_clan_rank": 27,
             "donations": 383,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "exp_level": 11,
+            "trophies": 5030,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200819T232512.000Z",
+            "clan_rank": 27,
+            "previous_clan_rank": 26,
+            "donations": 28,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
