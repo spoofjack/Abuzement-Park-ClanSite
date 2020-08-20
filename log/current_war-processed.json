@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2859,
         "participants": 30,
-        "crowns": 13,
+        "crowns": 14,
         "battles_remaining": null,
-        "battles_played": 16,
+        "battles_played": 17,
         "wins": 7
     },
     "participants": [
@@ -81,15 +81,6 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#Y99CRCGUC",
             "name": "toxos",
             "cards_earned": 560,
@@ -304,8 +304,8 @@
             "clan_score": 2288,
             "participants": 30,
             "crowns": 18,
-            "battles_remaining": 8,
-            "battles_played": 22,
+            "battles_remaining": 7,
+            "battles_played": 23,
             "wins": 11
         },
         {
@@ -336,14 +336,14 @@
             "badge_id": 16000003,
             "clan_score": 2859,
             "participants": 30,
-            "crowns": 13,
-            "battles_remaining": 14,
-            "battles_played": 16,
+            "crowns": 14,
+            "battles_remaining": 13,
+            "battles_played": 17,
             "wins": 7
         }
     ],
     "cards": 35597,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "16 hours"
+    "end_label": "15 hours"
 }
