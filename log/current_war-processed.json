@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 2859,
         "participants": 30,
-        "crowns": 7,
+        "crowns": 9,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 3
+        "battles_played": 12,
+        "wins": 4
     },
     "participants": [
         {
             "tag": "#YRJLYVJG",
             "name": "FlashJakson",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -195,6 +186,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#9992GG0CQ",
             "name": "freighttrain",
             "cards_earned": 1680,
@@ -336,14 +336,14 @@
             "badge_id": 16000003,
             "clan_score": 2859,
             "participants": 30,
-            "crowns": 7,
-            "battles_remaining": 19,
-            "battles_played": 11,
-            "wins": 3
+            "crowns": 9,
+            "battles_remaining": 18,
+            "battles_played": 12,
+            "wins": 4
         }
     ],
     "cards": 35597,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "19 hours"
+    "end_label": "18 hours"
 }
