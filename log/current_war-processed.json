@@ -7,11 +7,11 @@
         "name": "Abuzement Park",
         "badge_id": 16000003,
         "clan_score": 2859,
-        "participants": 27,
+        "participants": 28,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 68,
-        "wins": 36
+        "battles_played": 69,
+        "wins": 37
     },
     "participants": [
         {
@@ -213,6 +213,15 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#Y99CRCGUC",
+            "name": "toxos",
+            "cards_earned": 560,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#QRGULUJRL",
             "name": "Gaviii",
             "cards_earned": 280,
@@ -259,8 +268,8 @@
         }
     ],
     "clans": null,
-    "cards": 30332,
+    "cards": 30892,
     "state_label": "Collection Day",
-    "collection_end_time_label": "8 hours",
-    "end_label": "1 day, 8 hours"
+    "collection_end_time_label": "7 hours",
+    "end_label": "1 day, 7 hours"
 }
