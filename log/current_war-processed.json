@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 14,
         "battles_remaining": null,
-        "battles_played": 20,
+        "battles_played": 21,
         "wins": 7
     },
     "participants": [
@@ -81,15 +81,6 @@
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -276,6 +267,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#QYVQ0RUUL",
             "name": "tim",
             "cards_earned": 1400,
@@ -337,8 +337,8 @@
             "clan_score": 2859,
             "participants": 30,
             "crowns": 14,
-            "battles_remaining": 10,
-            "battles_played": 20,
+            "battles_remaining": 9,
+            "battles_played": 21,
             "wins": 7
         }
     ],
