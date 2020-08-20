@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52158,
+    "clan_score": 52203,
     "required_trophies": 4600,
-    "donations_per_week": 7130,
+    "donations_per_week": 7166,
     "clan_war_trophies": 2859,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5775,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "leader",
+            "last_seen": "20200820T112144.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 1,
+            "donations": 650,
+            "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
@@ -30,28 +47,11 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200820T105603.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 3,
-            "donations": 826,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5746,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "leader",
-            "last_seen": "20200820T102759.000Z",
+            "last_seen": "20200820T112659.000Z",
             "clan_rank": 2,
-            "previous_clan_rank": 1,
-            "donations": 624,
-            "donations_received": 400,
+            "previous_clan_rank": 3,
+            "donations": 836,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -75,10 +75,10 @@
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
-            "trophies": 5542,
+            "trophies": 5604,
             "arena": {
-                "id": 54000016,
-                "name": "Master II"
+                "id": 54000017,
+                "name": "Master III"
             },
             "role": "elder",
             "last_seen": "20200820T111335.000Z",
@@ -119,7 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 10,
             "donations": 198,
-            "donations_received": 297,
+            "donations_received": 305,
             "clan_chest_points": 0
         },
         {
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 15,
             "donations": 269,
-            "donations_received": 250,
+            "donations_received": 270,
             "clan_chest_points": 0
         },
         {
@@ -425,7 +425,7 @@
             "clan_rank": 24,
             "previous_clan_rank": 14,
             "donations": 152,
-            "donations_received": 65,
+            "donations_received": 73,
             "clan_chest_points": 0
         },
         {
