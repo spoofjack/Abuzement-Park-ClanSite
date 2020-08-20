@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2859,
         "participants": 30,
-        "crowns": 11,
+        "crowns": 13,
         "battles_remaining": null,
-        "battles_played": 15,
-        "wins": 6
+        "battles_played": 16,
+        "wins": 7
     },
     "participants": [
         {
@@ -71,15 +71,6 @@
         {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
             "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#Y99CRCGUC",
             "name": "toxos",
             "cards_earned": 560,
@@ -304,8 +304,8 @@
             "clan_score": 2288,
             "participants": 30,
             "crowns": 18,
-            "battles_remaining": 9,
-            "battles_played": 21,
+            "battles_remaining": 8,
+            "battles_played": 22,
             "wins": 11
         },
         {
@@ -336,14 +336,14 @@
             "badge_id": 16000003,
             "clan_score": 2859,
             "participants": 30,
-            "crowns": 11,
-            "battles_remaining": 15,
-            "battles_played": 15,
-            "wins": 6
+            "crowns": 13,
+            "battles_remaining": 14,
+            "battles_played": 16,
+            "wins": 7
         }
     ],
     "cards": 35597,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "17 hours"
+    "end_label": "16 hours"
 }
