@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 7,
+        "battles_played": 8,
         "wins": 2
     },
     "participants": [
@@ -27,15 +27,6 @@
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "cards_earned": 1680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -240,6 +231,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "cards_earned": 1680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#82UQ80Q8",
             "name": "PhantomX",
             "cards_earned": 1400,
@@ -304,8 +304,8 @@
             "clan_score": 2914,
             "participants": 29,
             "crowns": 14,
-            "battles_remaining": 16,
-            "battles_played": 13,
+            "battles_remaining": 15,
+            "battles_played": 14,
             "wins": 9
         },
         {
@@ -314,10 +314,10 @@
             "badge_id": 16000168,
             "clan_score": 2867,
             "participants": 30,
-            "crowns": 15,
-            "battles_remaining": 17,
-            "battles_played": 13,
-            "wins": 7
+            "crowns": 16,
+            "battles_remaining": 15,
+            "battles_played": 15,
+            "wins": 8
         },
         {
             "tag": "#9UGL8GJU",
@@ -325,10 +325,10 @@
             "badge_id": 16000096,
             "clan_score": 2288,
             "participants": 30,
-            "crowns": 8,
-            "battles_remaining": 17,
-            "battles_played": 13,
-            "wins": 6
+            "crowns": 10,
+            "battles_remaining": 15,
+            "battles_played": 15,
+            "wins": 7
         },
         {
             "tag": "#LP98YUCV",
@@ -337,13 +337,13 @@
             "clan_score": 2859,
             "participants": 30,
             "crowns": 4,
-            "battles_remaining": 23,
-            "battles_played": 7,
+            "battles_remaining": 22,
+            "battles_played": 8,
             "wins": 2
         }
     ],
     "cards": 35597,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "20 hours"
+    "end_label": "19 hours"
 }
