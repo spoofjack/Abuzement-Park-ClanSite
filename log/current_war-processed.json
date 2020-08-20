@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 0,
+        "battles_played": 2,
         "wins": 0
     },
     "participants": [
@@ -18,15 +18,6 @@
             "tag": "#YRJLYVJG",
             "name": "FlashJakson",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -81,15 +72,6 @@
             "tag": "#2Y02UG8C8",
             "name": "Rascal09",
             "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "cards_earned": 891,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -283,19 +265,37 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 891,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
         {
-            "tag": "#9UGL8GJU",
-            "name": "Kingdom of Wolf",
-            "badge_id": 16000096,
-            "clan_score": 2288,
-            "participants": 30,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 1,
-            "wins": 0
+            "tag": "#YJPRU0R0",
+            "name": "\u0623\u0628\u0637\u0627\u0644 \u0627\u0644\u0639\u0631\u0627\u0642",
+            "badge_id": 16000077,
+            "clan_score": 2985,
+            "participants": 28,
+            "crowns": 5,
+            "battles_remaining": 24,
+            "battles_played": 4,
+            "wins": 2
         },
         {
             "tag": "#8UJQ0C",
@@ -303,10 +303,10 @@
             "badge_id": 16000168,
             "clan_score": 2867,
             "participants": 30,
-            "crowns": 0,
-            "battles_remaining": 30,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 2,
+            "battles_remaining": 28,
+            "battles_played": 2,
+            "wins": 2
         },
         {
             "tag": "#UPLQRLY",
@@ -314,21 +314,21 @@
             "badge_id": 16000097,
             "clan_score": 2914,
             "participants": 29,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 3,
+            "battles_remaining": 28,
+            "battles_played": 1,
+            "wins": 1
         },
         {
-            "tag": "#YJPRU0R0",
-            "name": "\u0623\u0628\u0637\u0627\u0644 \u0627\u0644\u0639\u0631\u0627\u0642",
-            "badge_id": 16000077,
-            "clan_score": 2985,
-            "participants": 28,
-            "crowns": 0,
+            "tag": "#9UGL8GJU",
+            "name": "Kingdom of Wolf",
+            "badge_id": 16000096,
+            "clan_score": 2288,
+            "participants": 30,
+            "crowns": 1,
             "battles_remaining": 28,
-            "battles_played": 0,
-            "wins": 0
+            "battles_played": 2,
+            "wins": 1
         },
         {
             "tag": "#LP98YUCV",
@@ -337,8 +337,8 @@
             "clan_score": 2859,
             "participants": 30,
             "crowns": 0,
-            "battles_remaining": 30,
-            "battles_played": 0,
+            "battles_remaining": 28,
+            "battles_played": 2,
             "wins": 0
         }
     ],
