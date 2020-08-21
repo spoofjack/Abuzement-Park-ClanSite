@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52447,
+    "clan_score": 52444,
     "required_trophies": 4600,
     "donations_per_week": 8958,
     "clan_war_trophies": 2859,
@@ -310,23 +310,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 5225,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200821T055640.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 14,
-            "donations": 517,
-            "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "exp_level": 13,
@@ -337,10 +320,27 @@
             },
             "role": "member",
             "last_seen": "20200820T235058.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 21,
             "donations": 188,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 5203,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200821T055640.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 14,
+            "donations": 517,
+            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -534,7 +534,7 @@
             "tag": "#8RRGYVGGG",
             "name": "BotoSaka",
             "exp_level": 11,
-            "trophies": 4938,
+            "trophies": 4965,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
