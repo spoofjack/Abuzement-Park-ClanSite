@@ -10,7 +10,7 @@
         "participants": 30,
         "crowns": 16,
         "battles_remaining": null,
-        "battles_played": 11,
+        "battles_played": 12,
         "wins": 9
     },
     "participants": [
@@ -99,15 +99,6 @@
             "tag": "#2PYY0Q98Y",
             "name": "brandon",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "cards_earned": 1785,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -258,6 +249,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1189,
@@ -293,9 +293,20 @@
             "clan_score": 2829,
             "participants": 30,
             "crowns": 16,
-            "battles_remaining": 19,
-            "battles_played": 11,
+            "battles_remaining": 18,
+            "battles_played": 12,
             "wins": 9
+        },
+        {
+            "tag": "#88J8Q880",
+            "name": "Greek Assault",
+            "badge_id": 16000024,
+            "clan_score": 2316,
+            "participants": 29,
+            "crowns": 11,
+            "battles_remaining": 14,
+            "battles_played": 15,
+            "wins": 6
         },
         {
             "tag": "#8PP98LG0",
@@ -304,17 +315,6 @@
             "clan_score": 2919,
             "participants": 29,
             "crowns": 11,
-            "battles_remaining": 17,
-            "battles_played": 12,
-            "wins": 6
-        },
-        {
-            "tag": "#88J8Q880",
-            "name": "Greek Assault",
-            "badge_id": 16000024,
-            "clan_score": 2316,
-            "participants": 29,
-            "crowns": 10,
             "battles_remaining": 16,
             "battles_played": 13,
             "wins": 6
