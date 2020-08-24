@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2829,
         "participants": 30,
-        "crowns": 21,
+        "crowns": 22,
         "battles_remaining": null,
-        "battles_played": 16,
-        "wins": 11
+        "battles_played": 17,
+        "wins": 12
     },
     "participants": [
         {
@@ -29,15 +29,6 @@
             "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "cards_earned": 892,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -186,6 +177,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "cards_earned": 892,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8LV22G2LY",
             "name": "tryhard",
             "cards_earned": 1487,
@@ -292,10 +292,21 @@
             "badge_id": 16000003,
             "clan_score": 2829,
             "participants": 30,
-            "crowns": 21,
-            "battles_remaining": 14,
-            "battles_played": 16,
-            "wins": 11
+            "crowns": 22,
+            "battles_remaining": 13,
+            "battles_played": 17,
+            "wins": 12
+        },
+        {
+            "tag": "#8PP98LG0",
+            "name": "50 Tronos",
+            "badge_id": 16000044,
+            "clan_score": 2919,
+            "participants": 29,
+            "crowns": 13,
+            "battles_remaining": 12,
+            "battles_played": 17,
+            "wins": 7
         },
         {
             "tag": "#88J8Q880",
@@ -309,26 +320,15 @@
             "wins": 7
         },
         {
-            "tag": "#8PP98LG0",
-            "name": "50 Tronos",
-            "badge_id": 16000044,
-            "clan_score": 2919,
-            "participants": 29,
-            "crowns": 12,
-            "battles_remaining": 15,
-            "battles_played": 14,
-            "wins": 6
-        },
-        {
             "tag": "#YVR0R8RC",
             "name": "a hint of fire",
             "badge_id": 16000000,
             "clan_score": 2640,
             "participants": 30,
-            "crowns": 10,
-            "battles_remaining": 17,
-            "battles_played": 13,
-            "wins": 4
+            "crowns": 12,
+            "battles_remaining": 16,
+            "battles_played": 14,
+            "wins": 5
         },
         {
             "tag": "#22URG99V",
