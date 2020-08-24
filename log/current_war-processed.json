@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2829,
         "participants": 30,
-        "crowns": 0,
+        "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 3,
+        "wins": 3
     },
     "participants": [
         {
@@ -96,15 +96,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8LV22G2LY",
-            "name": "tryhard",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "cards_earned": 1487,
@@ -125,15 +116,6 @@
         {
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
-            "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#288G9GRC",
-            "name": "Mitch",
             "cards_earned": 1120,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -240,15 +222,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "cards_earned": 1189,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "cards_earned": 1785,
@@ -283,19 +256,57 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#8LV22G2LY",
+            "name": "tryhard",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#288G9GRC",
+            "name": "Mitch",
+            "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#LP98YUCV",
+            "name": "Abuzement Park",
+            "badge_id": 16000003,
+            "clan_score": 2829,
+            "participants": 30,
+            "crowns": 4,
+            "battles_remaining": 27,
+            "battles_played": 3,
+            "wins": 3
+        },
         {
             "tag": "#88J8Q880",
             "name": "Greek Assault",
             "badge_id": 16000024,
             "clan_score": 2316,
             "participants": 29,
-            "crowns": 0,
-            "battles_remaining": 29,
-            "battles_played": 0,
-            "wins": 0
+            "crowns": 2,
+            "battles_remaining": 27,
+            "battles_played": 2,
+            "wins": 2
         },
         {
             "tag": "#22URG99V",
@@ -303,9 +314,20 @@
             "badge_id": 16000144,
             "clan_score": 1901,
             "participants": 29,
-            "crowns": 0,
+            "crowns": 1,
+            "battles_remaining": 28,
+            "battles_played": 1,
+            "wins": 1
+        },
+        {
+            "tag": "#YVR0R8RC",
+            "name": "a hint of fire",
+            "badge_id": 16000000,
+            "clan_score": 2640,
+            "participants": 30,
+            "crowns": 1,
             "battles_remaining": 29,
-            "battles_played": 0,
+            "battles_played": 1,
             "wins": 0
         },
         {
@@ -316,28 +338,6 @@
             "participants": 29,
             "crowns": 0,
             "battles_remaining": 29,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#YVR0R8RC",
-            "name": "a hint of fire",
-            "badge_id": 16000000,
-            "clan_score": 2640,
-            "participants": 30,
-            "crowns": 0,
-            "battles_remaining": 30,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#LP98YUCV",
-            "name": "Abuzement Park",
-            "badge_id": 16000003,
-            "clan_score": 2829,
-            "participants": 30,
-            "crowns": 0,
-            "battles_remaining": 30,
             "battles_played": 0,
             "wins": 0
         }
