@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53786,
+    "clan_score": 53775,
     "required_trophies": 4600,
-    "donations_per_week": 556,
+    "donations_per_week": 572,
     "clan_war_trophies": 2829,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -272,7 +272,7 @@
             "clan_rank": 15,
             "previous_clan_rank": 17,
             "donations": 8,
-            "donations_received": 16,
+            "donations_received": 32,
             "clan_chest_points": 0
         },
         {
@@ -310,23 +310,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5295,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200824T041458.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 18,
-            "donations": 20,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 12,
@@ -337,7 +320,7 @@
             },
             "role": "member",
             "last_seen": "20200824T010903.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 22,
             "donations": 30,
             "donations_received": 40,
@@ -354,10 +337,27 @@
             },
             "role": "member",
             "last_seen": "20200823T201428.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 20,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5251,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200824T041458.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 18,
+            "donations": 28,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -591,10 +591,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200824T032544.000Z",
+            "last_seen": "20200824T042222.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 34,
-            "donations": 58,
+            "donations": 66,
             "donations_received": 40,
             "clan_chest_points": 0
         },
