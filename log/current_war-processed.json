@@ -8,25 +8,16 @@
         "badge_id": 16000003,
         "clan_score": 2829,
         "participants": 30,
-        "crowns": 4,
+        "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 3
+        "battles_played": 5,
+        "wins": 4
     },
     "participants": [
         {
             "tag": "#YRJLYVJG",
             "name": "FlashJakson",
             "cards_earned": 1680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "cards_earned": 1189,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -117,15 +108,6 @@
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "cards_earned": 1120,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "cards_earned": 1487,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -258,6 +240,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "cards_earned": 1189,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8LV22G2LY",
             "name": "tryhard",
             "cards_earned": 1487,
@@ -270,6 +261,15 @@
             "tag": "#288G9GRC",
             "name": "Mitch",
             "cards_earned": 1120,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "cards_earned": 1487,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -292,10 +292,21 @@
             "badge_id": 16000003,
             "clan_score": 2829,
             "participants": 30,
-            "crowns": 4,
-            "battles_remaining": 27,
+            "crowns": 7,
+            "battles_remaining": 25,
+            "battles_played": 5,
+            "wins": 4
+        },
+        {
+            "tag": "#8PP98LG0",
+            "name": "50 Tronos",
+            "badge_id": 16000044,
+            "clan_score": 2919,
+            "participants": 29,
+            "crowns": 3,
+            "battles_remaining": 26,
             "battles_played": 3,
-            "wins": 3
+            "wins": 2
         },
         {
             "tag": "#88J8Q880",
@@ -304,8 +315,8 @@
             "clan_score": 2316,
             "participants": 29,
             "crowns": 2,
-            "battles_remaining": 26,
-            "battles_played": 3,
+            "battles_remaining": 25,
+            "battles_played": 4,
             "wins": 2
         },
         {
@@ -326,19 +337,8 @@
             "clan_score": 2640,
             "participants": 30,
             "crowns": 1,
-            "battles_remaining": 29,
-            "battles_played": 1,
-            "wins": 0
-        },
-        {
-            "tag": "#8PP98LG0",
-            "name": "50 Tronos",
-            "badge_id": 16000044,
-            "clan_score": 2919,
-            "participants": 29,
-            "crowns": 0,
-            "battles_remaining": 28,
-            "battles_played": 1,
+            "battles_remaining": 27,
+            "battles_played": 3,
             "wins": 0
         }
     ],
