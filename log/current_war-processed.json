@@ -8,21 +8,12 @@
         "badge_id": 16000003,
         "clan_score": 2829,
         "participants": 30,
-        "crowns": 16,
+        "crowns": 19,
         "battles_remaining": null,
-        "battles_played": 12,
-        "wins": 9
+        "battles_played": 14,
+        "wins": 10
     },
     "participants": [
-        {
-            "tag": "#YRJLYVJG",
-            "name": "FlashJakson",
-            "cards_earned": 1680,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#JRG8G8LL",
             "name": "Evan_Wibb",
@@ -123,15 +114,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 1487,
@@ -174,6 +156,15 @@
             "battles_played": 0,
             "collection_day_battles_played": 1,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#YRJLYVJG",
+            "name": "FlashJakson",
+            "cards_earned": 1680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -258,6 +249,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "cards_earned": 1487,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "cards_earned": 1189,
@@ -292,10 +292,10 @@
             "badge_id": 16000003,
             "clan_score": 2829,
             "participants": 30,
-            "crowns": 16,
-            "battles_remaining": 18,
-            "battles_played": 12,
-            "wins": 9
+            "crowns": 19,
+            "battles_remaining": 16,
+            "battles_played": 14,
+            "wins": 10
         },
         {
             "tag": "#8PP98LG0",
@@ -345,5 +345,5 @@
     "cards": 38699,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "20 hours"
+    "end_label": "19 hours"
 }
