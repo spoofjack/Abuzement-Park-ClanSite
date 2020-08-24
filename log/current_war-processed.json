@@ -8,10 +8,10 @@
         "badge_id": 16000003,
         "clan_score": 2829,
         "participants": 30,
-        "crowns": 13,
+        "crowns": 16,
         "battles_remaining": null,
-        "battles_played": 10,
-        "wins": 8
+        "battles_played": 11,
+        "wins": 9
     },
     "participants": [
         {
@@ -27,15 +27,6 @@
             "tag": "#JRG8G8LL",
             "name": "Evan_Wibb",
             "cards_earned": 840,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2JQYGU8P9",
-            "name": "Orlando Beltran",
-            "cards_earned": 1680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -222,6 +213,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2JQYGU8P9",
+            "name": "Orlando Beltran",
+            "cards_earned": 1680,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8LV22G2LY",
             "name": "tryhard",
             "cards_earned": 1487,
@@ -292,21 +292,10 @@
             "badge_id": 16000003,
             "clan_score": 2829,
             "participants": 30,
-            "crowns": 13,
-            "battles_remaining": 20,
-            "battles_played": 10,
-            "wins": 8
-        },
-        {
-            "tag": "#88J8Q880",
-            "name": "Greek Assault",
-            "badge_id": 16000024,
-            "clan_score": 2316,
-            "participants": 29,
-            "crowns": 8,
-            "battles_remaining": 18,
+            "crowns": 16,
+            "battles_remaining": 19,
             "battles_played": 11,
-            "wins": 5
+            "wins": 9
         },
         {
             "tag": "#8PP98LG0",
@@ -314,10 +303,21 @@
             "badge_id": 16000044,
             "clan_score": 2919,
             "participants": 29,
-            "crowns": 8,
-            "battles_remaining": 19,
-            "battles_played": 10,
-            "wins": 5
+            "crowns": 11,
+            "battles_remaining": 17,
+            "battles_played": 12,
+            "wins": 6
+        },
+        {
+            "tag": "#88J8Q880",
+            "name": "Greek Assault",
+            "badge_id": 16000024,
+            "clan_score": 2316,
+            "participants": 29,
+            "crowns": 10,
+            "battles_remaining": 17,
+            "battles_played": 12,
+            "wins": 6
         },
         {
             "tag": "#YVR0R8RC",
@@ -337,8 +337,8 @@
             "clan_score": 1901,
             "participants": 29,
             "crowns": 4,
-            "battles_remaining": 22,
-            "battles_played": 7,
+            "battles_remaining": 21,
+            "battles_played": 8,
             "wins": 2
         }
     ],
