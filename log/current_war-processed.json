@@ -8,9 +8,9 @@
         "badge_id": 16000003,
         "clan_score": 2829,
         "participants": 30,
-        "crowns": 24,
+        "crowns": 25,
         "battles_remaining": null,
-        "battles_played": 22,
+        "battles_played": 23,
         "wins": 13
     },
     "participants": [
@@ -63,15 +63,6 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "cards_earned": 1487,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "cards_earned": 1785,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -267,6 +258,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "cards_earned": 1785,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "cards_earned": 892,
@@ -292,9 +292,9 @@
             "badge_id": 16000003,
             "clan_score": 2829,
             "participants": 30,
-            "crowns": 24,
-            "battles_remaining": 8,
-            "battles_played": 22,
+            "crowns": 25,
+            "battles_remaining": 7,
+            "battles_played": 23,
             "wins": 13
         },
         {
@@ -314,21 +314,10 @@
             "badge_id": 16000024,
             "clan_score": 2316,
             "participants": 29,
-            "crowns": 13,
-            "battles_remaining": 12,
-            "battles_played": 17,
-            "wins": 8
-        },
-        {
-            "tag": "#YVR0R8RC",
-            "name": "a hint of fire",
-            "badge_id": 16000000,
-            "clan_score": 2640,
-            "participants": 30,
             "crowns": 15,
-            "battles_remaining": 12,
+            "battles_remaining": 11,
             "battles_played": 18,
-            "wins": 6
+            "wins": 9
         },
         {
             "tag": "#22URG99V",
@@ -336,10 +325,21 @@
             "badge_id": 16000144,
             "clan_score": 1901,
             "participants": 29,
-            "crowns": 10,
-            "battles_remaining": 16,
-            "battles_played": 13,
-            "wins": 5
+            "crowns": 12,
+            "battles_remaining": 14,
+            "battles_played": 15,
+            "wins": 7
+        },
+        {
+            "tag": "#YVR0R8RC",
+            "name": "a hint of fire",
+            "badge_id": 16000000,
+            "clan_score": 2640,
+            "participants": 30,
+            "crowns": 16,
+            "battles_remaining": 11,
+            "battles_played": 19,
+            "wins": 6
         }
     ],
     "cards": 38699,
