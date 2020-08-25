@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53751,
+    "clan_score": 53748,
     "required_trophies": 4600,
-    "donations_per_week": 2850,
+    "donations_per_week": 2878,
     "clan_war_trophies": 2829,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -119,7 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 8,
             "donations": 38,
-            "donations_received": 90,
+            "donations_received": 100,
             "clan_chest_points": 0
         },
         {
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 19,
             "donations": 24,
-            "donations_received": 60,
+            "donations_received": 70,
             "clan_chest_points": 0
         },
         {
@@ -391,7 +391,7 @@
             "clan_rank": 22,
             "previous_clan_rank": 32,
             "donations": 54,
-            "donations_received": 40,
+            "donations_received": 48,
             "clan_chest_points": 0
         },
         {
@@ -446,23 +446,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#Y99CRCGUC",
-            "name": "toxos",
-            "exp_level": 11,
-            "trophies": 5168,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200824T154905.000Z",
-            "clan_rank": 26,
-            "previous_clan_rank": 24,
-            "donations": 10,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "exp_level": 11,
@@ -473,7 +456,7 @@
             },
             "role": "elder",
             "last_seen": "20200825T025548.000Z",
-            "clan_rank": 27,
+            "clan_rank": 26,
             "previous_clan_rank": 27,
             "donations": 50,
             "donations_received": 80,
@@ -490,10 +473,27 @@
             },
             "role": "member",
             "last_seen": "20200820T025455.000Z",
-            "clan_rank": 28,
+            "clan_rank": 27,
             "previous_clan_rank": 26,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#Y99CRCGUC",
+            "name": "toxos",
+            "exp_level": 11,
+            "trophies": 5145,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200825T100909.000Z",
+            "clan_rank": 28,
+            "previous_clan_rank": 24,
+            "donations": 38,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
