@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54121,
+    "clan_score": 54109,
     "required_trophies": 4600,
-    "donations_per_week": 7864,
+    "donations_per_week": 7874,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 11,
-            "trophies": 5497,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200827T052826.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 11,
-            "donations": 400,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -184,10 +167,27 @@
             },
             "role": "elder",
             "last_seen": "20200827T030541.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 6,
             "donations": 234,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 11,
+            "trophies": 5472,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200827T052826.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 11,
+            "donations": 400,
+            "donations_received": 210,
             "clan_chest_points": 0
         },
         {
@@ -305,7 +305,7 @@
             "last_seen": "20200827T051120.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 16,
-            "donations": 276,
+            "donations": 286,
             "donations_received": 328,
             "clan_chest_points": 0
         },
