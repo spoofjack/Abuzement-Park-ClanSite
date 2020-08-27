@@ -1,5 +1,5 @@
 {
-    "last_update": 1598562000.875639,
+    "last_update": 1598562900.917655,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
@@ -34,11 +34,11 @@
         "#UVGUUVC0": {
             "name": "ok guy",
             "join_date": 1574406000,
-            "last_activity_date": 1598557501.996299,
-            "last_donation_date": 1598557501.996299,
+            "last_activity_date": 1598562900.917655,
+            "last_donation_date": 1598562900.917655,
             "role": "leader",
             "status": "present",
-            "donations": 705,
+            "donations": 729,
             "donations_last_week": 1177,
             "events": [
                 {
@@ -70,11 +70,11 @@
         "#8C099Q9J8": {
             "name": "Bow To Chase",
             "join_date": 1574406000,
-            "last_activity_date": 1598544900.700058,
-            "last_donation_date": 1598544900.700058,
+            "last_activity_date": 1598562900.917655,
+            "last_donation_date": 1598562900.917655,
             "role": "coLeader",
             "status": "present",
-            "donations": 183,
+            "donations": 199,
             "donations_last_week": 325,
             "events": [
                 {
@@ -3418,11 +3418,11 @@
         "#YVLRYQY8Q": {
             "name": "Jayy",
             "join_date": 1591021175.097095,
-            "last_activity_date": 1598561100.910064,
-            "last_donation_date": 1598561100.910064,
+            "last_activity_date": 1598562900.917655,
+            "last_donation_date": 1598562900.917655,
             "role": "member",
             "status": "present",
-            "donations": 90,
+            "donations": 106,
             "donations_last_week": 297,
             "events": [
                 {
@@ -3472,11 +3472,11 @@
         "#8J0J889GY": {
             "name": "progamer2008",
             "join_date": 1591021175.097095,
-            "last_activity_date": 1598498101.21762,
-            "last_donation_date": 1598498101.21762,
+            "last_activity_date": 1598562900.917655,
+            "last_donation_date": 1598562900.917655,
             "role": "member",
             "status": "present",
-            "donations": 46,
+            "donations": 62,
             "donations_last_week": 18,
             "events": [
                 {
@@ -4012,11 +4012,11 @@
         "#8YRYRG0G": {
             "name": "Blobby",
             "join_date": 1592853301.543186,
-            "last_activity_date": 1598560200.880634,
-            "last_donation_date": 1598560200.880634,
+            "last_activity_date": 1598562900.917655,
+            "last_donation_date": 1598562900.917655,
             "role": "member",
             "status": "present",
-            "donations": 243,
+            "donations": 251,
             "donations_last_week": 284,
             "events": [
                 {
@@ -4360,11 +4360,11 @@
         "#Y99CRCGUC": {
             "name": "toxos",
             "join_date": 1595259900.328101,
-            "last_activity_date": 1598537700.641135,
-            "last_donation_date": 1598537700.641135,
+            "last_activity_date": 1598562900.917655,
+            "last_donation_date": 1598562900.917655,
             "role": "member",
             "status": "present",
-            "donations": 206,
+            "donations": 218,
             "donations_last_week": 376,
             "events": [
                 {
@@ -4885,7 +4885,7 @@
             "last_activity_date": 1598427900.522844,
             "last_donation_date": 1598427900.522844,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 8,
             "donations_last_week": 0,
             "events": [
@@ -4894,6 +4894,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1598394601.255513
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1598562900.917655
                 }
             ]
         }
