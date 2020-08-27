@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54176,
+    "clan_score": 54136,
     "required_trophies": 4600,
-    "donations_per_week": 7530,
+    "donations_per_week": 7540,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -41,16 +41,16 @@
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
-            "trophies": 5710,
+            "trophies": 5683,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
             "role": "leader",
-            "last_seen": "20200826T231554.000Z",
+            "last_seen": "20200827T002225.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 3,
-            "donations": 629,
+            "donations": 639,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -140,23 +140,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5566,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200827T001237.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 6,
-            "donations": 216,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 12,
@@ -167,10 +150,27 @@
             },
             "role": "elder",
             "last_seen": "20200826T221236.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 283,
             "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5541,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200827T001237.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 6,
+            "donations": 216,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -344,23 +344,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "exp_level": 12,
-            "trophies": 5318,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200826T235612.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 25,
-            "donations": 248,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CV29GC9",
             "name": "Srgt_Atrex",
             "exp_level": 12,
@@ -371,27 +354,10 @@
             },
             "role": "member",
             "last_seen": "20200826T142203.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 18,
             "donations": 224,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "exp_level": 13,
-            "trophies": 5297,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200827T001323.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 20,
-            "donations": 110,
-            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -405,10 +371,44 @@
             },
             "role": "member",
             "last_seen": "20200826T203903.000Z",
-            "clan_rank": 23,
+            "clan_rank": 21,
             "previous_clan_rank": 21,
             "donations": 327,
             "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "exp_level": 12,
+            "trophies": 5272,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200827T002043.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 25,
+            "donations": 248,
+            "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "exp_level": 13,
+            "trophies": 5258,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200827T001323.000Z",
+            "clan_rank": 23,
+            "previous_clan_rank": 20,
+            "donations": 110,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -799,7 +799,7 @@
             "clan_rank": 46,
             "previous_clan_rank": 45,
             "donations": 35,
-            "donations_received": 150,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
