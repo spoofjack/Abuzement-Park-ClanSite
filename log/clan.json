@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54385,
+    "clan_score": 54396,
     "required_trophies": 4600,
-    "donations_per_week": 12452,
+    "donations_per_week": 12460,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5746,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200828T224707.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 5,
+            "donations": 1076,
+            "donations_received": 520,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "member",
             "last_seen": "20200828T122215.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 134,
             "donations_received": 310,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5717,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200828T204542.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 5,
-            "donations": 1068,
-            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -217,7 +217,7 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200828T223842.000Z",
+            "last_seen": "20200828T225316.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 13,
             "donations": 580,
@@ -344,23 +344,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CV29GC9",
-            "name": "Srgt_Atrex",
-            "exp_level": 12,
-            "trophies": 5322,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200828T224033.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 21,
-            "donations": 328,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YVLRYQY8Q",
             "name": "Jayy",
             "exp_level": 12,
@@ -371,7 +354,7 @@
             },
             "role": "member",
             "last_seen": "20200828T155612.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 20,
             "donations": 106,
             "donations_received": 160,
@@ -388,7 +371,7 @@
             },
             "role": "member",
             "last_seen": "20200828T181517.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 19,
             "donations": 275,
             "donations_received": 280,
@@ -405,7 +388,7 @@
             },
             "role": "elder",
             "last_seen": "20200828T164702.000Z",
-            "clan_rank": 23,
+            "clan_rank": 22,
             "previous_clan_rank": 15,
             "donations": 244,
             "donations_received": 400,
@@ -422,7 +405,7 @@
             },
             "role": "elder",
             "last_seen": "20200828T204324.000Z",
-            "clan_rank": 24,
+            "clan_rank": 23,
             "previous_clan_rank": 23,
             "donations": 388,
             "donations_received": 400,
@@ -438,11 +421,28 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200828T223741.000Z",
-            "clan_rank": 25,
+            "last_seen": "20200828T225314.000Z",
+            "clan_rank": 24,
             "previous_clan_rank": 22,
             "donations": 473,
             "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CV29GC9",
+            "name": "Srgt_Atrex",
+            "exp_level": 12,
+            "trophies": 5285,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200828T224033.000Z",
+            "clan_rank": 25,
+            "previous_clan_rank": 21,
+            "donations": 328,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -578,7 +578,7 @@
             "clan_rank": 33,
             "previous_clan_rank": 34,
             "donations": 285,
-            "donations_received": 232,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
