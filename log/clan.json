@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54139,
+    "clan_score": 54187,
     "required_trophies": 4600,
-    "donations_per_week": 10282,
+    "donations_per_week": 10292,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5785,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200828T014037.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 2,
+            "donations": 215,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
@@ -31,26 +48,9 @@
             },
             "role": "member",
             "last_seen": "20200827T235313.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 3,
             "donations": 116,
-            "donations_received": 270,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5697,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200828T014037.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 215,
             "donations_received": 270,
             "clan_chest_points": 0
         },
@@ -424,8 +424,25 @@
             "last_seen": "20200828T013910.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 25,
-            "donations": 279,
+            "donations": 289,
             "donations_received": 352,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "exp_level": 13,
+            "trophies": 5245,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200828T015549.000Z",
+            "clan_rank": 25,
+            "previous_clan_rank": 23,
+            "donations": 255,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -439,7 +456,7 @@
             },
             "role": "elder",
             "last_seen": "20200827T191028.000Z",
-            "clan_rank": 25,
+            "clan_rank": 26,
             "previous_clan_rank": 27,
             "donations": 92,
             "donations_received": 200,
@@ -456,27 +473,10 @@
             },
             "role": "member",
             "last_seen": "20200827T170955.000Z",
-            "clan_rank": 26,
+            "clan_rank": 27,
             "previous_clan_rank": 26,
             "donations": 218,
             "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "exp_level": 13,
-            "trophies": 5215,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200828T011159.000Z",
-            "clan_rank": 27,
-            "previous_clan_rank": 23,
-            "donations": 255,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
