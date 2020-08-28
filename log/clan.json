@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54374,
+    "clan_score": 54369,
     "required_trophies": 4600,
-    "donations_per_week": 12212,
+    "donations_per_week": 12220,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -41,7 +41,7 @@
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 12,
-            "trophies": 5719,
+            "trophies": 5692,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
@@ -378,6 +378,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 12,
+            "trophies": 5304,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "leader",
+            "last_seen": "20200828T195109.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 25,
+            "donations": 317,
+            "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -388,7 +405,7 @@
             },
             "role": "elder",
             "last_seen": "20200828T164702.000Z",
-            "clan_rank": 22,
+            "clan_rank": 23,
             "previous_clan_rank": 15,
             "donations": 244,
             "donations_received": 400,
@@ -405,7 +422,7 @@
             },
             "role": "elder",
             "last_seen": "20200828T174208.000Z",
-            "clan_rank": 23,
+            "clan_rank": 24,
             "previous_clan_rank": 23,
             "donations": 388,
             "donations_received": 400,
@@ -422,27 +439,10 @@
             },
             "role": "member",
             "last_seen": "20200828T190755.000Z",
-            "clan_rank": 24,
+            "clan_rank": 25,
             "previous_clan_rank": 22,
             "donations": 465,
             "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 12,
-            "trophies": 5246,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "leader",
-            "last_seen": "20200828T175716.000Z",
-            "clan_rank": 25,
-            "previous_clan_rank": 25,
-            "donations": 309,
-            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -534,13 +534,13 @@
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "exp_level": 11,
-            "trophies": 5095,
+            "trophies": 5102,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200828T183214.000Z",
+            "last_seen": "20200828T195033.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 32,
             "donations": 0,
@@ -731,7 +731,7 @@
             "clan_rank": 42,
             "previous_clan_rank": 33,
             "donations": 0,
-            "donations_received": 152,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
