@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54200,
+    "clan_score": 54241,
     "required_trophies": 4600,
-    "donations_per_week": 10300,
+    "donations_per_week": 10310,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -140,17 +140,34 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "exp_level": 12,
+            "trophies": 5559,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200828T022359.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 8,
+            "donations": 353,
+            "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "exp_level": 13,
-            "trophies": 5518,
+            "trophies": 5546,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "member",
             "last_seen": "20200828T020858.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 14,
             "donations": 174,
             "donations_received": 240,
@@ -167,27 +184,10 @@
             },
             "role": "elder",
             "last_seen": "20200828T001651.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 9,
             "donations": 284,
             "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "exp_level": 12,
-            "trophies": 5500,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200828T021446.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 8,
-            "donations": 353,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -268,11 +268,11 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20200828T020028.000Z",
+            "last_seen": "20200828T022231.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 15,
             "donations": 416,
-            "donations_received": 440,
+            "donations_received": 450,
             "clan_chest_points": 0
         },
         {
@@ -489,7 +489,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200828T002421.000Z",
+            "last_seen": "20200828T022308.000Z",
             "clan_rank": 28,
             "previous_clan_rank": 30,
             "donations": 31,
@@ -540,10 +540,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200828T000908.000Z",
+            "last_seen": "20200828T022734.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 32,
-            "donations": 373,
+            "donations": 383,
             "donations_received": 400,
             "clan_chest_points": 0
         },
@@ -565,23 +565,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YRJLYVJG",
-            "name": "FlashJakson",
-            "exp_level": 10,
-            "trophies": 5032,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200827T224311.000Z",
-            "clan_rank": 33,
-            "previous_clan_rank": 34,
-            "donations": 0,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y0PR2PU8L",
             "name": "CP3WC",
             "exp_level": 10,
@@ -592,10 +575,27 @@
             },
             "role": "member",
             "last_seen": "20200828T004635.000Z",
-            "clan_rank": 34,
+            "clan_rank": 33,
             "previous_clan_rank": 47,
             "donations": 246,
             "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YRJLYVJG",
+            "name": "FlashJakson",
+            "exp_level": 10,
+            "trophies": 5010,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200828T021522.000Z",
+            "clan_rank": 34,
+            "previous_clan_rank": 34,
+            "donations": 0,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
