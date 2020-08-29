@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54492,
+    "clan_score": 54514,
     "required_trophies": 4600,
-    "donations_per_week": 14842,
+    "donations_per_week": 14852,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5787,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200829T211030.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 8,
+            "donations": 402,
+            "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "member",
             "last_seen": "20200828T122215.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 134,
             "donations_received": 310,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5727,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200829T195018.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 8,
-            "donations": 392,
-            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 12,
-            "trophies": 5398,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "leader",
-            "last_seen": "20200829T205604.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 18,
-            "donations": 550,
-            "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#898R0LQRG",
             "name": "beast boy",
             "exp_level": 12,
@@ -269,7 +252,7 @@
             },
             "role": "member",
             "last_seen": "20200829T170835.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 13,
             "donations": 162,
             "donations_received": 80,
@@ -286,7 +269,7 @@
             },
             "role": "member",
             "last_seen": "20200829T022451.000Z",
-            "clan_rank": 16,
+            "clan_rank": 15,
             "previous_clan_rank": 20,
             "donations": 144,
             "donations_received": 200,
@@ -303,7 +286,7 @@
             },
             "role": "elder",
             "last_seen": "20200829T143853.000Z",
-            "clan_rank": 17,
+            "clan_rank": 16,
             "previous_clan_rank": 17,
             "donations": 401,
             "donations_received": 480,
@@ -320,10 +303,27 @@
             },
             "role": "elder",
             "last_seen": "20200829T125719.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 16,
             "donations": 69,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 12,
+            "trophies": 5352,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "leader",
+            "last_seen": "20200829T205604.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 18,
+            "donations": 550,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -463,6 +463,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#208V2RGL",
+            "name": "NateDog",
+            "exp_level": 12,
+            "trophies": 5241,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200829T210726.000Z",
+            "clan_rank": 27,
+            "previous_clan_rank": 28,
+            "donations": 51,
+            "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "exp_level": 11,
@@ -473,27 +490,10 @@
             },
             "role": "elder",
             "last_seen": "20200829T201845.000Z",
-            "clan_rank": 27,
+            "clan_rank": 28,
             "previous_clan_rank": 27,
             "donations": 206,
             "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#208V2RGL",
-            "name": "NateDog",
-            "exp_level": 12,
-            "trophies": 5212,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200829T205932.000Z",
-            "clan_rank": 28,
-            "previous_clan_rank": 28,
-            "donations": 51,
-            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -523,7 +523,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200829T204329.000Z",
+            "last_seen": "20200829T211458.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 41,
             "donations": 0,
@@ -714,7 +714,7 @@
             "clan_rank": 41,
             "previous_clan_rank": 42,
             "donations": 338,
-            "donations_received": 510,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
