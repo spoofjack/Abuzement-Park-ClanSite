@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54367,
+    "clan_score": 54384,
     "required_trophies": 4600,
-    "donations_per_week": 14124,
+    "donations_per_week": 14152,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -38,6 +38,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5708,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200829T155826.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 8,
+            "donations": 338,
+            "donations_received": 340,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 12,
@@ -48,7 +65,7 @@
             },
             "role": "elder",
             "last_seen": "20200829T141704.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 4,
             "donations": 415,
             "donations_received": 400,
@@ -65,27 +82,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200829T120516.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 1,
             "donations": 1134,
             "donations_received": 560,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5674,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20200829T153824.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 8,
-            "donations": 338,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -262,7 +262,7 @@
             "tag": "#898R0LQRG",
             "name": "beast boy",
             "exp_level": 12,
-            "trophies": 5380,
+            "trophies": 5389,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
@@ -271,8 +271,8 @@
             "last_seen": "20200829T153015.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 13,
-            "donations": 144,
-            "donations_received": 64,
+            "donations": 154,
+            "donations_received": 72,
             "clan_chest_points": 0
         },
         {
@@ -353,10 +353,10 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200829T150558.000Z",
+            "last_seen": "20200829T155910.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 25,
-            "donations": 549,
+            "donations": 567,
             "donations_received": 440,
             "clan_chest_points": 0
         },
@@ -636,7 +636,7 @@
             "tag": "#2PYY0Q98Y",
             "name": "brandon",
             "exp_level": 10,
-            "trophies": 4998,
+            "trophies": 4977,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
