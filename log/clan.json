@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54341,
+    "clan_score": 54357,
     "required_trophies": 4600,
-    "donations_per_week": 13880,
+    "donations_per_week": 13926,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -38,6 +38,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "exp_level": 12,
+            "trophies": 5702,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20200829T141704.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 4,
+            "donations": 415,
+            "donations_received": 380,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
@@ -48,27 +65,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200829T120516.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 1,
             "donations": 1134,
             "donations_received": 560,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "exp_level": 12,
-            "trophies": 5672,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "elder",
-            "last_seen": "20200829T141107.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 4,
-            "donations": 415,
-            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -177,17 +177,17 @@
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "exp_level": 13,
-            "trophies": 5577,
+            "trophies": 5578,
             "arena": {
-                "id": 54000016,
-                "name": "Master II"
+                "id": 54000017,
+                "name": "Master III"
             },
             "role": "member",
             "last_seen": "20200829T141059.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 9,
-            "donations": 248,
-            "donations_received": 300,
+            "donations": 266,
+            "donations_received": 310,
             "clan_chest_points": 0
         },
         {
@@ -217,10 +217,10 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20200829T020023.000Z",
+            "last_seen": "20200829T142126.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 15,
-            "donations": 552,
+            "donations": 580,
             "donations_received": 560,
             "clan_chest_points": 0
         },
@@ -697,7 +697,7 @@
             "clan_rank": 40,
             "previous_clan_rank": 41,
             "donations": 0,
-            "donations_received": 200,
+            "donations_received": 216,
             "clan_chest_points": 0
         },
         {
