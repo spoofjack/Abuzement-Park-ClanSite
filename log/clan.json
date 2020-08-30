@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54490,
+    "clan_score": 54480,
     "required_trophies": 4600,
-    "donations_per_week": 15294,
+    "donations_per_week": 15320,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -276,23 +276,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "exp_level": 13,
-            "trophies": 5377,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200830T004057.000Z",
-            "clan_rank": 16,
-            "previous_clan_rank": 17,
-            "donations": 425,
-            "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 12,
@@ -303,7 +286,7 @@
             },
             "role": "elder",
             "last_seen": "20200829T222658.000Z",
-            "clan_rank": 17,
+            "clan_rank": 16,
             "previous_clan_rank": 16,
             "donations": 77,
             "donations_received": 0,
@@ -320,9 +303,26 @@
             },
             "role": "leader",
             "last_seen": "20200830T002902.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 18,
             "donations": 636,
+            "donations_received": 520,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "exp_level": 13,
+            "trophies": 5338,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200830T004057.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 17,
+            "donations": 443,
             "donations_received": 520,
             "clan_chest_points": 0
         },
@@ -459,7 +459,7 @@
             "clan_rank": 26,
             "previous_clan_rank": 27,
             "donations": 248,
-            "donations_received": 410,
+            "donations_received": 420,
             "clan_chest_points": 0
         },
         {
@@ -578,7 +578,7 @@
             "clan_rank": 33,
             "previous_clan_rank": 34,
             "donations": 315,
-            "donations_received": 144,
+            "donations_received": 152,
             "clan_chest_points": 0
         },
         {
@@ -748,7 +748,7 @@
             "clan_rank": 43,
             "previous_clan_rank": 43,
             "donations": 41,
-            "donations_received": 408,
+            "donations_received": 416,
             "clan_chest_points": 0
         },
         {
@@ -846,10 +846,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200829T213612.000Z",
+            "last_seen": "20200830T005316.000Z",
             "clan_rank": 49,
             "previous_clan_rank": 49,
-            "donations": 10,
+            "donations": 18,
             "donations_received": 0,
             "clan_chest_points": 0
         },
