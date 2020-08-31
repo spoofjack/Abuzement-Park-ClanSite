@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54866,
+    "clan_score": 54850,
     "required_trophies": 4600,
-    "donations_per_week": 90,
+    "donations_per_week": 108,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -92,7 +92,7 @@
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
-            "trophies": 5707,
+            "trophies": 5682,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
@@ -132,7 +132,7 @@
                 "name": "Master III"
             },
             "role": "member",
-            "last_seen": "20200830T232925.000Z",
+            "last_seen": "20200831T004513.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 10,
             "donations": 0,
@@ -344,23 +344,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "exp_level": 11,
-            "trophies": 5364,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200830T223609.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 26,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "exp_level": 13,
@@ -370,11 +353,11 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200830T180535.000Z",
-            "clan_rank": 21,
+            "last_seen": "20200831T005737.000Z",
+            "clan_rank": 20,
             "previous_clan_rank": 12,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 10,
+            "donations_received": 8,
             "clan_chest_points": 0
         },
         {
@@ -388,10 +371,27 @@
             },
             "role": "member",
             "last_seen": "20200831T001432.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 0,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "exp_level": 11,
+            "trophies": 5340,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200831T005426.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 26,
+            "donations": 8,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
@@ -472,7 +472,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200830T225035.000Z",
+            "last_seen": "20200831T004808.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 28,
             "donations": 0,
