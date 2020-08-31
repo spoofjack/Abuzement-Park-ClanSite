@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54854,
+    "clan_score": 54826,
     "required_trophies": 4600,
-    "donations_per_week": 280,
+    "donations_per_week": 316,
     "clan_war_trophies": 2895,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -38,23 +38,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#Y0VP098",
-            "name": "melissasboatboy",
-            "exp_level": 13,
-            "trophies": 5845,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "member",
-            "last_seen": "20200831T003431.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 5,
-            "donations": 18,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
@@ -65,10 +48,27 @@
             },
             "role": "coLeader",
             "last_seen": "20200831T014420.000Z",
-            "clan_rank": 3,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 28,
-            "donations_received": 10,
+            "donations_received": 30,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#Y0VP098",
+            "name": "melissasboatboy",
+            "exp_level": 13,
+            "trophies": 5815,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "member",
+            "last_seen": "20200831T024011.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 5,
+            "donations": 36,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -123,23 +123,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "exp_level": 13,
-            "trophies": 5639,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "member",
-            "last_seen": "20200831T004513.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 10,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -150,9 +133,26 @@
             },
             "role": "coLeader",
             "last_seen": "20200830T235318.000Z",
-            "clan_rank": 8,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "exp_level": 13,
+            "trophies": 5613,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "member",
+            "last_seen": "20200831T023912.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 10,
+            "donations": 18,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -387,7 +387,7 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200831T015454.000Z",
+            "last_seen": "20200831T024419.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 12,
             "donations": 10,
@@ -476,7 +476,7 @@
             "clan_rank": 27,
             "previous_clan_rank": 28,
             "donations": 0,
-            "donations_received": 20,
+            "donations_received": 36,
             "clan_chest_points": 0
         },
         {
