@@ -11,7 +11,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  color: #0076B6;
+  color: #222;
 }
 html, body {
     background-color: #000;
@@ -21,7 +21,7 @@ html, body {
 }
 
 main, main > section {
-    background-color: #222;
+    background-color: #f2f2f2;
 }
 
 main > section, header > .inner, footer > .inner {
@@ -104,7 +104,7 @@ small {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
     border: none;
-    border-top: 1px solid #000;
+    border-top: 1px solid #E1E1E1;
     -moz-box-sizing: content-box;
     box-sizing: content-box;
     height: 0;
@@ -126,20 +126,20 @@ a:hover {
 }
 
 .button {
-    text-shadow: -1px -1px 0px #B0B7BC,
-                 0px -1px 0px #B0B7BC,
-                 1px -1px 0px #B0B7BC,
-                 1px 0px 0px #B0B7BC,
-                 -1px 0px 0px #B0B7BC,
-                 -1px 1px 0px #B0B7BC,
-                 1px 1px 0px #B0B7BC,
-                 1px 2px 0px #B0B7BC,
-                 -1px 2px 0px #B0B7BC;
+    text-shadow: -1px -1px 0px #003366,
+                 0px -1px 0px #003366,
+                 1px -1px 0px #003366,
+                 1px 0px 0px #003366,
+                 -1px 0px 0px #003366,
+                 -1px 1px 0px #003366,
+                 1px 1px 0px #003366,
+                 1px 2px 0px #003366,
+                 -1px 2px 0px #003366;
     display: inline-block;
     line-height: 18px;
     text-align: center;
     font-size: 18px;
-    color: #222;
+    color: #fff;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     font-weight: bold;
     text-decoration: none;
@@ -194,7 +194,7 @@ a:hover {
 }
 
 .button:hover {
-    color: #222;
+    color: #fff;
 }
 
 /* Lists
@@ -254,7 +254,7 @@ table {
 th, td {
     padding: 8px 14px;
     text-align: left;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #E1E1E1;
 }
 
 @media (max-width: 700px) {
@@ -319,7 +319,7 @@ select {
     margin: 0;
     text-transform: none;
     height: 34px;
-    border: 1px solid #8d8f95;
+    border: 1px solid #ccc;
 }
 
 /* Grid
@@ -354,7 +354,7 @@ select {
 /* Page Header
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body > header {
-    background-color: #222;
+    background-color: #fff;
 }
 
 body > header h1 {
@@ -406,12 +406,10 @@ body > header h1 em {
 #current-war dl > * {
     flex: 1;
     min-width: 100px;
-    background-color: #222;
+    background-color: #fff;
     margin: 1px;
     padding: 7px;
-    border-right: 1px solid #000;
-	border-bottom: 1px solid #000;
-	border-top: 1px solid #000;
+    border-right: 1px solid #E1E1E1;
 }
 
 #current-war dl > *:last-child {
@@ -465,8 +463,8 @@ body > header h1 em {
     border-bottom: none;
 }
 #war-stats table tr.this-clan {
-    background-color: #8d8f95;
-    border-color: #000;
+    background-color: #F1EAF4;
+    border-color: #BB89CC;
     font-weight: bold;
 }
 
@@ -519,7 +517,7 @@ table td.rank.rank-1 span {
     background-color: rgb(255, 212, 42);
 }
 table td.rank.rank-2 span {
-    background-color: #8d8f95;
+    background-color: #ccc;
 }
 table td.rank.rank-3 span {
     background-color: rgb(218, 165, 32);
@@ -562,8 +560,8 @@ table td.rank span {
 
 #info article {
     position: relative;
-    background-color: #222;
-    box-shadow: 0 1px 2px 0 rgb(0, 0, 0);
+    background-color: #fff;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
     padding: 15px;
     margin-top: 44px;
     margin-bottom: 22px;
@@ -603,7 +601,7 @@ table td.rank span {
 }
 
 #member-info .table-scroll, #member-info table, #member-info tr {
-    background-color: #222;
+    background-color: #fff;
 }
 
 #member-table th:first-child, #member-table td:first-child {
@@ -680,7 +678,7 @@ table tr[data-blacklist="true"] td.name:after {
     font-size: 1.5rem;
     margin-bottom: 0;
 
-    color: #222;
+    color: #fff;
     text-shadow: -1px -1px 0px #000000, 0px -1px 0px #000000, 1px -1px 0px #000000, 1px 0px 0px #000000, -1px 0px 0px #000000, -1px 1px 0px #000000, 1px 1px 0px #000000, 1px 2px 0px #000000, -1px 2px 0px #000000, -1px 3px 0px #000000, 0px 3px 0px #000000, 1px 3px 0px #000000;
 }
 
@@ -728,44 +726,44 @@ table tr[data-blacklist="true"] td.name:after {
 #info table .good,
 #info table .ok,
 #info table .bad {
-    border-left: 1px solid #222;
-    border-bottom: 1px solid #222;
+    border-left: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
 }
 
 #member-table tr[data-activity=bad] td,
 table tr[data-blacklist=true] td,
 #member-table tr[data-activity=ok] td:not(.bad) {
-    border-left: 1px solid #222;
-    border-bottom: 1px solid #222;
+    border-left: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
 }
 
 #member-table tr[data-activity=bad] td,
 table tr[data-blacklist=true] td {
-    background-color: #970000;
-    color: #B0B7BC;
+    background-color: #c13525;
+    color: #fff;
 }
 
 #member-table tr[data-activity=ok] td:not(.bad) {
     background-color: #ffbb43;
-    color: #03468d;
+    color: #222;
 }
 
 #member-table tr[data-new="true"] td.score.ok,
 #member-table tr[data-new="true"] td.donations.ok {
-    background-color: #222;
+    background-color: #fff;
     border-left: none;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #E1E1E1;
 }
 
 #info table#member-table tr td.na {
-    color: #b5b7bd;
-    font-weight: bold;
+    color: #999;
+    font-weight: normal;
 }
 
 #info table .not-in-clan {
-    background-color: #B0B7BC;
-    color: #0076B6;
-    font-weight: bold;
+    background-color: #EEE;
+    color: #999;
+    font-weight: normal;
 }
 
 #info table .war em {
@@ -784,9 +782,9 @@ table tr[data-blacklist=true] td {
     color: #222;
 }
 #member-table td.war.current.incomplete.ok {
-    border: 3px dashed #8d8f95;
-    background-color: #970000;
-    color: #c0c3cc;
+    border: 3px dashed #ffbb43;
+    background-color: #FFF6E6;
+    color: #222;
 }
 
 
@@ -824,8 +822,8 @@ table tr[data-blacklist=true] td {
 #info table tr[data-vacation="True"] td:not(.bad) {
     background-color: #ddd;
     color: #999;
-    border-left: 1px solid #222;
-    border-bottom: 1px solid #222;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #fff;
 }
 #info table tr[data-vacation="True"] td:first-child {
     border-left: none;
@@ -880,8 +878,8 @@ article.member-info > p {
 /* Score colors
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .bad {
-    background-color: #970000;
-    color: #b5b7bd;
+    background-color: #c13525;
+    color: #fff;
 }
 .ok,
 .inactivity.normal {
@@ -897,7 +895,7 @@ article.member-info > p {
 
 #info table .inactivity.na {
     background-color: transparent;
-    color: #03468d;
+    color: #222;
 }
 
 
@@ -926,7 +924,7 @@ strong.na {
 #suggestions .info {
     flex: 0;
     padding-top: 15px;
-    border-top: 1px solid #8d8f95;
+    border-top: 1px solid #ccc;
 }
 .rules {
     width: 100%;
@@ -941,7 +939,7 @@ strong.na {
 /* Page footer
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 footer {
-    color: #222;
+    color: #fff;
     background-color: #000;
 }
 
@@ -954,7 +952,7 @@ footer ul li {
 }
 
 footer a {
-    color: #222;
+    color: #fff;
     text-decoration: none;
     font-weight: bold;
 }
@@ -975,7 +973,7 @@ footer ul li:last-child::after {
 }
 footer .version {
     float: right;
-    color: #8d8f95;
+    color: #ccc;
     font-weight: normal;
 }
 
@@ -989,7 +987,7 @@ footer .disclaimer, footer .disclaimer a {
     max-width: 800px;
     margin: 44px 0 22px 0;
     line-height: 1.3em;
-    color: #8d8f95;
+    color: #ccc;
 }
 
 /* Tooltips
@@ -1011,8 +1009,8 @@ footer .disclaimer, footer .disclaimer a {
     min-width: 90px;
 
     background: #ddd;
-    color: #03468d;
-    border: 1px solid #03468d;
+    color: #222;
+    border: 1px solid #222;
     border-radius: 3px;
     box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
 }
@@ -1026,8 +1024,8 @@ footer .disclaimer, footer .disclaimer a {
     bottom: -4px;
     right: 50%;
     margin-right: -3px;
-    border-bottom: 1px solid #03468d;
-    border-right: 1px solid #03468d;
+    border-bottom: 1px solid #222;
+    border-right: 1px solid #222;
     transform: rotate(45deg);
 }
 .b-tooltip dl {
@@ -1093,7 +1091,7 @@ footer .disclaimer, footer .disclaimer a {
     content: "Fork me on GitHub";
 
     line-height: 21px;
-    color: #222;
+    color: #fff;
     text-shadow: 0 -1px rgba(0, 0, 0, 0.5);
     text-align: center;
     text-indent: 0;
