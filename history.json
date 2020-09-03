@@ -1,5 +1,5 @@
 {
-    "last_update": 1599156900.729517,
+    "last_update": 1599157800.712727,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
@@ -604,11 +604,11 @@
         "#CLL8Q09": {
             "name": "Wub",
             "join_date": 1574406000,
-            "last_activity_date": 1599156900.729517,
-            "last_donation_date": 1599156900.729517,
+            "last_activity_date": 1599157800.712727,
+            "last_donation_date": 1599157800.712727,
             "role": "leader",
             "status": "present",
-            "donations": 433,
+            "donations": 441,
             "donations_last_week": 792,
             "events": [
                 {
@@ -2785,7 +2785,7 @@
             "last_activity_date": 1598200201.260958,
             "last_donation_date": 1598154300.842318,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 36,
             "events": [
@@ -2794,6 +2794,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1583287202.574405
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1599157800.712727
                 }
             ]
         },
@@ -3673,7 +3679,7 @@
             "last_activity_date": 1598564700.901837,
             "last_donation_date": 1593764100.847324,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 94,
             "events": [
@@ -3694,6 +3700,12 @@
                     "type": "re-join",
                     "role": "member",
                     "date": 1598564700.901837
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1599157800.712727
                 }
             ]
         },
@@ -4942,11 +4954,11 @@
         "#8LV22G2LY": {
             "name": "tryhard",
             "join_date": 1598140800.697419,
-            "last_activity_date": 1599117300.37888,
-            "last_donation_date": 1599117300.37888,
+            "last_activity_date": 1599157800.712727,
+            "last_donation_date": 1599157800.712727,
             "role": "member",
             "status": "present",
-            "donations": 184,
+            "donations": 192,
             "donations_last_week": 729,
             "events": [
                 {
@@ -5023,7 +5035,7 @@
             "last_activity_date": 1598734800.542305,
             "last_donation_date": 1598734800.542305,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 0,
             "events": [
@@ -5032,6 +5044,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1598734800.542305
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1599157800.712727
                 }
             ]
         },
