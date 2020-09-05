@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54901,
+    "clan_score": 54896,
     "required_trophies": 5300,
     "donations_per_week": 12128,
     "clan_war_trophies": 1500,
@@ -327,23 +327,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 12,
-            "trophies": 5430,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "leader",
-            "last_seen": "20200904T233823.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 25,
-            "donations": 787,
-            "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -354,10 +337,27 @@
             },
             "role": "elder",
             "last_seen": "20200904T233726.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 17,
             "donations": 286,
             "donations_received": 368,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 12,
+            "trophies": 5410,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "leader",
+            "last_seen": "20200904T235437.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 25,
+            "donations": 787,
+            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -557,7 +557,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200903T051311.000Z",
+            "last_seen": "20200904T234814.000Z",
             "clan_rank": 32,
             "previous_clan_rank": 32,
             "donations": 158,
