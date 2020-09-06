@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 55406,
+    "clan_score": 55416,
     "required_trophies": 5300,
-    "donations_per_week": 15392,
+    "donations_per_week": 15422,
     "clan_war_trophies": 1500,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -140,6 +140,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 12,
+            "trophies": 5643,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20200906T162711.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 10,
+            "donations": 623,
+            "donations_received": 610,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 12,
@@ -150,7 +167,7 @@
             },
             "role": "elder",
             "last_seen": "20200905T113131.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 272,
             "donations_received": 480,
@@ -167,43 +184,26 @@
             },
             "role": "member",
             "last_seen": "20200906T003219.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 9,
             "donations": 104,
             "donations_received": 200,
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 12,
-            "trophies": 5614,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "elder",
-            "last_seen": "20200906T073136.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 10,
-            "donations": 613,
-            "donations_received": 600,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
-            "trophies": 5610,
+            "trophies": 5599,
             "arena": {
-                "id": 54000017,
-                "name": "Master III"
+                "id": 54000016,
+                "name": "Master II"
             },
             "role": "member",
             "last_seen": "20200906T160932.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 11,
-            "donations": 436,
+            "donations": 456,
             "donations_received": 440,
             "clan_chest_points": 0
         },
@@ -370,11 +370,11 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200906T043627.000Z",
+            "last_seen": "20200906T162234.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 486,
-            "donations_received": 490,
+            "donations_received": 510,
             "clan_chest_points": 0
         },
         {
@@ -523,7 +523,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200906T160955.000Z",
+            "last_seen": "20200906T162251.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 32,
             "donations": 327,
@@ -704,7 +704,7 @@
             "tag": "#2PYY0Q98Y",
             "name": "brandon",
             "exp_level": 10,
-            "trophies": 4967,
+            "trophies": 4946,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
