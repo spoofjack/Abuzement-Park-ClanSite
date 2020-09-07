@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47284,
+    "clan_score": 47275,
     "required_trophies": 5300,
-    "donations_per_week": 1410,
+    "donations_per_week": 1436,
     "clan_war_trophies": 1520,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -191,23 +191,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 12,
-            "trophies": 4820,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200907T191054.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 9,
-            "donations": 44,
-            "donations_received": 50,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 12,
@@ -218,7 +201,7 @@
             },
             "role": "leader",
             "last_seen": "20200907T193006.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 13,
             "donations": 158,
             "donations_received": 80,
@@ -235,10 +218,27 @@
             },
             "role": "coLeader",
             "last_seen": "20200907T193400.000Z",
-            "clan_rank": 13,
+            "clan_rank": 12,
             "previous_clan_rank": 14,
             "donations": 150,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 12,
+            "trophies": 4800,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200907T200530.000Z",
+            "clan_rank": 13,
+            "previous_clan_rank": 9,
+            "donations": 44,
+            "donations_received": 50,
             "clan_chest_points": 0
         },
         {
@@ -319,10 +319,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200907T161622.000Z",
+            "last_seen": "20200907T201005.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 20,
-            "donations": 84,
+            "donations": 102,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -378,23 +378,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8LV22G2LY",
-            "name": "tryhard",
-            "exp_level": 11,
-            "trophies": 4670,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200907T162640.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 26,
-            "donations": 38,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#82UQ80Q8",
             "name": "PhantomX",
             "exp_level": 12,
@@ -405,10 +388,27 @@
             },
             "role": "member",
             "last_seen": "20200907T184619.000Z",
-            "clan_rank": 23,
+            "clan_rank": 22,
             "previous_clan_rank": 28,
             "donations": 67,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8LV22G2LY",
+            "name": "tryhard",
+            "exp_level": 11,
+            "trophies": 4652,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200907T201035.000Z",
+            "clan_rank": 23,
+            "previous_clan_rank": 26,
+            "donations": 46,
+            "donations_received": 90,
             "clan_chest_points": 0
         },
         {
@@ -483,7 +483,7 @@
             "tag": "#288G9GRC",
             "name": "Mitch",
             "exp_level": 11,
-            "trophies": 4530,
+            "trophies": 4512,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -493,7 +493,7 @@
             "clan_rank": 28,
             "previous_clan_rank": 35,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 16,
             "clan_chest_points": 0
         },
         {
