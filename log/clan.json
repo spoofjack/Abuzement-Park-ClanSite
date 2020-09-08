@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47786,
+    "clan_score": 47805,
     "required_trophies": 5300,
-    "donations_per_week": 2350,
+    "donations_per_week": 2370,
     "clan_war_trophies": 1520,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -119,6 +119,23 @@
             "clan_rank": 6,
             "previous_clan_rank": 21,
             "donations": 52,
+            "donations_received": 70,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 12,
+            "trophies": 4908,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200908T050616.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 23,
+            "donations": 94,
             "donations_received": 60,
             "clan_chest_points": 0
         },
@@ -133,27 +150,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200908T020312.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 5,
             "donations": 134,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 12,
-            "trophies": 4870,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200908T050616.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 23,
-            "donations": 94,
-            "donations_received": 50,
             "clan_chest_points": 0
         },
         {
@@ -710,10 +710,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200908T002528.000Z",
+            "last_seen": "20200908T053225.000Z",
             "clan_rank": 41,
             "previous_clan_rank": 18,
-            "donations": 35,
+            "donations": 55,
             "donations_received": 80,
             "clan_chest_points": 0
         },
