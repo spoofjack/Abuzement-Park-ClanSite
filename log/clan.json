@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48153,
+    "clan_score": 48129,
     "required_trophies": 5300,
-    "donations_per_week": 4098,
+    "donations_per_week": 4122,
     "clan_war_trophies": 1520,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -174,23 +174,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 12,
-            "trophies": 4871,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "leader",
-            "last_seen": "20200908T204917.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 10,
-            "donations": 316,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -201,7 +184,7 @@
             },
             "role": "elder",
             "last_seen": "20200908T215013.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 11,
             "donations": 36,
             "donations_received": 160,
@@ -218,10 +201,27 @@
             },
             "role": "elder",
             "last_seen": "20200908T172933.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 15,
             "donations": 91,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 12,
+            "trophies": 4812,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "leader",
+            "last_seen": "20200908T233309.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 10,
+            "donations": 324,
+            "donations_received": 168,
             "clan_chest_points": 0
         },
         {
@@ -302,10 +302,10 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20200908T222345.000Z",
+            "last_seen": "20200908T233701.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 23,
-            "donations": 100,
+            "donations": 116,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -340,7 +340,7 @@
             "clan_rank": 19,
             "previous_clan_rank": 16,
             "donations": 78,
-            "donations_received": 88,
+            "donations_received": 104,
             "clan_chest_points": 0
         },
         {
@@ -616,23 +616,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#QRGULUJRL",
-            "name": "Gaviii",
-            "exp_level": 9,
-            "trophies": 4508,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200908T232757.000Z",
-            "clan_rank": 36,
-            "previous_clan_rank": 41,
-            "donations": 18,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#QYVQ0RUUL",
             "name": "tim",
             "exp_level": 10,
@@ -642,11 +625,28 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200908T222731.000Z",
-            "clan_rank": 37,
+            "last_seen": "20200908T234338.000Z",
+            "clan_rank": 36,
             "previous_clan_rank": 36,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#QRGULUJRL",
+            "name": "Gaviii",
+            "exp_level": 9,
+            "trophies": 4493,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200908T232757.000Z",
+            "clan_rank": 37,
+            "previous_clan_rank": 41,
+            "donations": 18,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
