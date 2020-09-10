@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48588,
+    "clan_score": 48585,
     "required_trophies": 5300,
     "donations_per_week": 7136,
     "clan_war_trophies": 1520,
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 4862,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200910T052945.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 13,
-            "donations": 80,
-            "donations_received": 216,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "exp_level": 13,
@@ -269,10 +252,27 @@
             },
             "role": "member",
             "last_seen": "20200910T001424.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 11,
             "donations": 199,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 4851,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200910T052945.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 13,
+            "donations": 80,
+            "donations_received": 216,
             "clan_chest_points": 0
         },
         {
