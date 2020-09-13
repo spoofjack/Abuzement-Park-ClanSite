@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49793,
+    "clan_score": 49780,
     "required_trophies": 5300,
-    "donations_per_week": 15369,
+    "donations_per_week": 15379,
     "clan_war_trophies": 1520,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -72,23 +72,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 12,
-            "trophies": 5146,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200913T065619.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 4,
-            "donations": 697,
-            "donations_received": 530,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -99,7 +82,7 @@
             },
             "role": "elder",
             "last_seen": "20200913T142445.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 7,
             "donations": 442,
             "donations_received": 600,
@@ -116,7 +99,7 @@
             },
             "role": "member",
             "last_seen": "20200913T141915.000Z",
-            "clan_rank": 6,
+            "clan_rank": 5,
             "previous_clan_rank": 8,
             "donations": 360,
             "donations_received": 440,
@@ -133,10 +116,27 @@
             },
             "role": "member",
             "last_seen": "20200913T133649.000Z",
-            "clan_rank": 7,
+            "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 268,
             "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 12,
+            "trophies": 5123,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200913T155124.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 4,
+            "donations": 697,
+            "donations_received": 530,
             "clan_chest_points": 0
         },
         {
@@ -183,10 +183,10 @@
                 "name": "Master I"
             },
             "role": "leader",
-            "last_seen": "20200913T152515.000Z",
+            "last_seen": "20200913T154828.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 12,
-            "donations": 1256,
+            "donations": 1266,
             "donations_received": 640,
             "clan_chest_points": 0
         },
@@ -565,23 +565,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YRJLYVJG",
-            "name": "FlashJakson",
-            "exp_level": 11,
-            "trophies": 4722,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200913T154446.000Z",
-            "clan_rank": 33,
-            "previous_clan_rank": 35,
-            "donations": 0,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y99CRCGUC",
             "name": "toxos",
             "exp_level": 11,
@@ -592,10 +575,27 @@
             },
             "role": "member",
             "last_seen": "20200913T064103.000Z",
-            "clan_rank": 34,
+            "clan_rank": 33,
             "previous_clan_rank": 31,
             "donations": 270,
             "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YRJLYVJG",
+            "name": "FlashJakson",
+            "exp_level": 11,
+            "trophies": 4714,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200913T155615.000Z",
+            "clan_rank": 34,
+            "previous_clan_rank": 35,
+            "donations": 0,
+            "donations_received": 250,
             "clan_chest_points": 0
         },
         {
@@ -608,7 +608,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200912T204419.000Z",
+            "last_seen": "20200913T155327.000Z",
             "clan_rank": 35,
             "previous_clan_rank": 33,
             "donations": 42,
