@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50737,
+    "clan_score": 50761,
     "required_trophies": 5000,
-    "donations_per_week": 8783,
+    "donations_per_week": 8812,
     "clan_war_trophies": 1540,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -106,6 +106,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 12,
+            "trophies": 5267,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200917T212341.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 6,
+            "donations": 350,
+            "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 12,
@@ -116,7 +133,7 @@
             },
             "role": "elder",
             "last_seen": "20200917T171545.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 106,
             "donations_received": 360,
@@ -133,27 +150,10 @@
             },
             "role": "member",
             "last_seen": "20200917T212904.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 292,
             "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 12,
-            "trophies": 5236,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200917T212341.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 6,
-            "donations": 340,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 17,
             "donations": 345,
-            "donations_received": 199,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -327,6 +327,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 5057,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200917T214310.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 15,
+            "donations": 310,
+            "donations_received": 142,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9QG9Q8CVG",
             "name": "Hambone",
             "exp_level": 11,
@@ -337,27 +354,10 @@
             },
             "role": "member",
             "last_seen": "20200917T145159.000Z",
-            "clan_rank": 19,
+            "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 54,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 5029,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200917T214310.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 15,
-            "donations": 310,
-            "donations_received": 122,
             "clan_chest_points": 0
         },
         {
@@ -395,6 +395,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9QJ29UVLV",
+            "name": "FryingPanStan",
+            "exp_level": 12,
+            "trophies": 4998,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200917T213432.000Z",
+            "clan_rank": 23,
+            "previous_clan_rank": 31,
+            "donations": 36,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "exp_level": 11,
@@ -405,27 +422,10 @@
             },
             "role": "member",
             "last_seen": "20200917T195006.000Z",
-            "clan_rank": 23,
+            "clan_rank": 24,
             "previous_clan_rank": 26,
             "donations": 75,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9QJ29UVLV",
-            "name": "FryingPanStan",
-            "exp_level": 12,
-            "trophies": 4942,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200917T213432.000Z",
-            "clan_rank": 24,
-            "previous_clan_rank": 31,
-            "donations": 36,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -472,10 +472,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200917T200839.000Z",
+            "last_seen": "20200917T215716.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 25,
-            "donations": 90,
+            "donations": 109,
             "donations_received": 192,
             "clan_chest_points": 0
         },
@@ -565,23 +565,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2PYY0Q98Y",
-            "name": "brandon",
-            "exp_level": 10,
-            "trophies": 4790,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200917T205622.000Z",
-            "clan_rank": 33,
-            "previous_clan_rank": 34,
-            "donations": 112,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#JRG8G8LL",
             "name": "Evan_Wibb",
             "exp_level": 12,
@@ -592,10 +575,27 @@
             },
             "role": "member",
             "last_seen": "20200917T171210.000Z",
-            "clan_rank": 34,
+            "clan_rank": 33,
             "previous_clan_rank": 32,
             "donations": 107,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2PYY0Q98Y",
+            "name": "brandon",
+            "exp_level": 10,
+            "trophies": 4751,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200917T214806.000Z",
+            "clan_rank": 34,
+            "previous_clan_rank": 34,
+            "donations": 112,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -612,7 +612,7 @@
             "clan_rank": 35,
             "previous_clan_rank": 33,
             "donations": 32,
-            "donations_received": 230,
+            "donations_received": 238,
             "clan_chest_points": 0
         },
         {
