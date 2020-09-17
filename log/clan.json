@@ -3,13 +3,13 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50656,
+    "clan_score": 50403,
     "required_trophies": 5000,
-    "donations_per_week": 6856,
+    "donations_per_week": 6904,
     "clan_war_trophies": 1540,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 48,
+    "members": 46,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -101,7 +101,7 @@
             "last_seen": "20200917T013813.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
-            "donations": 499,
+            "donations": 509,
             "donations_received": 360,
             "clan_chest_points": 0
         },
@@ -140,23 +140,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5166,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200917T014105.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 7,
-            "donations": 230,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -167,10 +150,27 @@
             },
             "role": "member",
             "last_seen": "20200916T133849.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 6,
             "donations": 192,
             "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5143,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200917T014105.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 7,
+            "donations": 230,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -187,7 +187,7 @@
             "clan_rank": 10,
             "previous_clan_rank": 15,
             "donations": 127,
-            "donations_received": 312,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -200,10 +200,10 @@
                 "name": "Master I"
             },
             "role": "leader",
-            "last_seen": "20200917T003200.000Z",
+            "last_seen": "20200917T015220.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 9,
-            "donations": 366,
+            "donations": 376,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -220,7 +220,7 @@
             "last_seen": "20200917T012644.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 10,
-            "donations": 343,
+            "donations": 353,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -327,6 +327,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "exp_level": 11,
+            "trophies": 5013,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200917T014939.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 26,
+            "donations": 18,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
@@ -337,7 +354,7 @@
             },
             "role": "member",
             "last_seen": "20200916T163938.000Z",
-            "clan_rank": 19,
+            "clan_rank": 20,
             "previous_clan_rank": 20,
             "donations": 64,
             "donations_received": 160,
@@ -354,26 +371,9 @@
             },
             "role": "elder",
             "last_seen": "20200916T010508.000Z",
-            "clan_rank": 20,
+            "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "exp_level": 11,
-            "trophies": 4984,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200916T202318.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 26,
-            "donations": 18,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -404,11 +404,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200916T160420.000Z",
+            "last_seen": "20200917T014649.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 17,
-            "donations": 200,
-            "donations_received": 200,
+            "donations": 208,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -441,7 +441,7 @@
             "last_seen": "20200917T014257.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 25,
-            "donations": 56,
+            "donations": 66,
             "donations_received": 152,
             "clan_chest_points": 0
         },
@@ -800,40 +800,6 @@
             "previous_clan_rank": 46,
             "donations": 26,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8J0J889GY",
-            "name": "progamer2008",
-            "exp_level": 11,
-            "trophies": 4131,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200904T142729.000Z",
-            "clan_rank": 47,
-            "previous_clan_rank": 47,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "exp_level": 12,
-            "trophies": 4071,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200831T123617.000Z",
-            "clan_rank": 48,
-            "previous_clan_rank": 48,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         }
     ]
