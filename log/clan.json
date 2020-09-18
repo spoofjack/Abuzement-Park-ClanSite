@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50802,
+    "clan_score": 50794,
     "required_trophies": 5000,
-    "donations_per_week": 9184,
+    "donations_per_week": 9202,
     "clan_war_trophies": 1540,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -123,23 +123,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5253,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200917T230009.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 7,
-            "donations": 320,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -150,10 +133,27 @@
             },
             "role": "member",
             "last_seen": "20200918T020034.000Z",
-            "clan_rank": 8,
+            "clan_rank": 7,
             "previous_clan_rank": 9,
             "donations": 328,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5232,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200918T025507.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 7,
+            "donations": 330,
+            "donations_received": 328,
             "clan_chest_points": 0
         },
         {
@@ -378,6 +378,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "exp_level": 12,
+            "trophies": 5035,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200918T024432.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 19,
+            "donations": 282,
+            "donations_received": 330,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L9CQG8J",
             "name": "Indeed",
             "exp_level": 13,
@@ -388,27 +405,10 @@
             },
             "role": "member",
             "last_seen": "20200916T163938.000Z",
-            "clan_rank": 22,
+            "clan_rank": 23,
             "previous_clan_rank": 20,
             "donations": 64,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "exp_level": 12,
-            "trophies": 5005,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200918T024432.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 19,
-            "donations": 274,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -568,13 +568,13 @@
             "tag": "#YRJLYVJG",
             "name": "FlashJakson",
             "exp_level": 11,
-            "trophies": 4790,
+            "trophies": 4771,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200918T023625.000Z",
+            "last_seen": "20200918T024558.000Z",
             "clan_rank": 33,
             "previous_clan_rank": 30,
             "donations": 0,
