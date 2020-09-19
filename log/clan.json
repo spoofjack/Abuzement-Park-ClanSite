@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50937,
+    "clan_score": 50909,
     "required_trophies": 5000,
     "donations_per_week": 11867,
     "clan_war_trophies": 1540,
@@ -174,23 +174,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5213,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200919T064345.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 6,
-            "donations": 239,
-            "donations_received": 489,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -201,7 +184,7 @@
             },
             "role": "elder",
             "last_seen": "20200919T023505.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 11,
             "donations": 322,
             "donations_received": 400,
@@ -218,10 +201,27 @@
             },
             "role": "leader",
             "last_seen": "20200919T034714.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 12,
             "donations": 608,
             "donations_received": 480,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5146,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200919T064345.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 6,
+            "donations": 239,
+            "donations_received": 489,
             "clan_chest_points": 0
         },
         {
