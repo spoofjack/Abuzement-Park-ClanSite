@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51034,
+    "clan_score": 51039,
     "required_trophies": 5000,
-    "donations_per_week": 12584,
+    "donations_per_week": 12594,
     "clan_war_trophies": 1540,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -85,7 +85,24 @@
             "clan_rank": 4,
             "previous_clan_rank": 1,
             "donations": 501,
-            "donations_received": 450,
+            "donations_received": 460,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "exp_level": 12,
+            "trophies": 5340,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200919T153319.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 8,
+            "donations": 126,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -99,27 +116,10 @@
             },
             "role": "member",
             "last_seen": "20200919T150702.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 275,
             "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "exp_level": 12,
-            "trophies": 5331,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200919T142023.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 8,
-            "donations": 126,
-            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -319,7 +319,7 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200919T151945.000Z",
+            "last_seen": "20200919T153659.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 18,
             "donations": 60,
@@ -543,7 +543,7 @@
             "last_seen": "20200919T152756.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 32,
-            "donations": 385,
+            "donations": 395,
             "donations_received": 480,
             "clan_chest_points": 0
         },
