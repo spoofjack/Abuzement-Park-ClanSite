@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51176,
+    "clan_score": 51153,
     "required_trophies": 5000,
     "donations_per_week": 13929,
     "clan_war_trophies": 1540,
@@ -89,23 +89,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2VQUL0UUG",
-            "name": "Master Zakuri",
-            "exp_level": 12,
-            "trophies": 5383,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20200920T083123.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 6,
-            "donations": 168,
-            "donations_received": 560,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -116,9 +99,26 @@
             },
             "role": "elder",
             "last_seen": "20200920T022929.000Z",
-            "clan_rank": 6,
+            "clan_rank": 5,
             "previous_clan_rank": 7,
             "donations": 529,
+            "donations_received": 560,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2VQUL0UUG",
+            "name": "Master Zakuri",
+            "exp_level": 12,
+            "trophies": 5337,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20200920T083123.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 6,
+            "donations": 168,
             "donations_received": 560,
             "clan_chest_points": 0
         },
