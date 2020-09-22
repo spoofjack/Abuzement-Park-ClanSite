@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51787,
+    "clan_score": 51811,
     "required_trophies": 5000,
-    "donations_per_week": 2540,
+    "donations_per_week": 2592,
     "clan_war_trophies": 1550,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 12,
+            "trophies": 5285,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200922T041748.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 13,
+            "donations": 44,
+            "donations_received": 70,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#898R0LQRG",
             "name": "beast boy",
             "exp_level": 12,
@@ -167,7 +184,7 @@
             },
             "role": "member",
             "last_seen": "20200921T214235.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 10,
             "donations": 98,
             "donations_received": 40,
@@ -184,7 +201,7 @@
             },
             "role": "member",
             "last_seen": "20200921T175647.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 9,
             "donations": 72,
             "donations_received": 40,
@@ -201,7 +218,7 @@
             },
             "role": "elder",
             "last_seen": "20200921T234318.000Z",
-            "clan_rank": 11,
+            "clan_rank": 12,
             "previous_clan_rank": 12,
             "donations": 160,
             "donations_received": 120,
@@ -218,27 +235,10 @@
             },
             "role": "elder",
             "last_seen": "20200922T035158.000Z",
-            "clan_rank": 12,
+            "clan_rank": 13,
             "previous_clan_rank": 11,
             "donations": 76,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 12,
-            "trophies": 5199,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200922T033451.000Z",
-            "clan_rank": 13,
-            "previous_clan_rank": 13,
-            "donations": 36,
-            "donations_received": 50,
+            "donations_received": 96,
             "clan_chest_points": 0
         },
         {
@@ -272,7 +272,7 @@
             "clan_rank": 15,
             "previous_clan_rank": 15,
             "donations": 58,
-            "donations_received": 64,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -404,10 +404,10 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200922T021450.000Z",
+            "last_seen": "20200922T042908.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 23,
-            "donations": 190,
+            "donations": 216,
             "donations_received": 140,
             "clan_chest_points": 0
         },
@@ -514,23 +514,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "exp_level": 11,
-            "trophies": 4890,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200922T004341.000Z",
-            "clan_rank": 30,
-            "previous_clan_rank": 27,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#82UQ80Q8",
             "name": "PhantomX",
             "exp_level": 12,
@@ -540,11 +523,28 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200922T022951.000Z",
-            "clan_rank": 31,
+            "last_seen": "20200922T041849.000Z",
+            "clan_rank": 30,
             "previous_clan_rank": 32,
-            "donations": 132,
+            "donations": 150,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "exp_level": 11,
+            "trophies": 4871,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200922T042129.000Z",
+            "clan_rank": 31,
+            "previous_clan_rank": 27,
+            "donations": 0,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
