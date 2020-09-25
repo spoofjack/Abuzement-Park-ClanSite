@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52566,
+    "clan_score": 52575,
     "required_trophies": 5000,
     "donations_per_week": 11344,
     "clan_war_trophies": 1550,
@@ -41,7 +41,7 @@
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
-            "trophies": 5613,
+            "trophies": 5645,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
@@ -344,23 +344,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 12,
-            "trophies": 5203,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "leader",
-            "last_seen": "20200925T181509.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 18,
-            "donations": 575,
-            "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YVLRYQY8Q",
             "name": "Jayy",
             "exp_level": 12,
@@ -371,7 +354,7 @@
             },
             "role": "member",
             "last_seen": "20200925T053359.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 21,
             "donations": 176,
             "donations_received": 240,
@@ -388,10 +371,27 @@
             },
             "role": "member",
             "last_seen": "20200925T114358.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 23,
             "donations": 166,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 12,
+            "trophies": 5159,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "leader",
+            "last_seen": "20200925T185403.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 18,
+            "donations": 575,
+            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -625,7 +625,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200925T183817.000Z",
+            "last_seen": "20200925T185242.000Z",
             "clan_rank": 36,
             "previous_clan_rank": 34,
             "donations": 0,
