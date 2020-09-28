@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52933,
+    "clan_score": 52928,
     "required_trophies": 5000,
-    "donations_per_week": 940,
+    "donations_per_week": 950,
     "clan_war_trophies": 1560,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -85,7 +85,7 @@
             "clan_rank": 4,
             "previous_clan_rank": 7,
             "donations": 44,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -276,23 +276,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 5286,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200928T110554.000Z",
-            "clan_rank": 16,
-            "previous_clan_rank": 15,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "exp_level": 12,
@@ -303,10 +286,27 @@
             },
             "role": "elder",
             "last_seen": "20200928T121129.000Z",
-            "clan_rank": 17,
+            "clan_rank": 16,
             "previous_clan_rank": 17,
             "donations": 56,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 5264,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200928T132002.000Z",
+            "clan_rank": 17,
+            "previous_clan_rank": 15,
+            "donations": 10,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
