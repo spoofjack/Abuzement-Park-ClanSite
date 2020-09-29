@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53097,
+    "clan_score": 53101,
     "required_trophies": 5000,
-    "donations_per_week": 2090,
+    "donations_per_week": 2136,
     "clan_war_trophies": 1560,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -119,7 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 4,
             "donations": 320,
-            "donations_received": 140,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -132,7 +132,7 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20200928T163132.000Z",
+            "last_seen": "20200929T012453.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 3,
             "donations": 44,
@@ -217,7 +217,7 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200929T010744.000Z",
+            "last_seen": "20200929T012800.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 17,
             "donations": 148,
@@ -251,11 +251,11 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20200928T151916.000Z",
+            "last_seen": "20200929T012316.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 13,
-            "donations": 58,
-            "donations_received": 80,
+            "donations": 68,
+            "donations_received": 96,
             "clan_chest_points": 0
         },
         {
@@ -268,7 +268,7 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20200929T005829.000Z",
+            "last_seen": "20200929T012204.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 14,
             "donations": 76,
@@ -310,6 +310,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "exp_level": 13,
+            "trophies": 5225,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200929T012046.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 21,
+            "donations": 86,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "exp_level": 12,
@@ -320,7 +337,7 @@
             },
             "role": "elder",
             "last_seen": "20200928T195824.000Z",
-            "clan_rank": 18,
+            "clan_rank": 19,
             "previous_clan_rank": 18,
             "donations": 58,
             "donations_received": 80,
@@ -337,44 +354,10 @@
             },
             "role": "leader",
             "last_seen": "20200928T233221.000Z",
-            "clan_rank": 19,
+            "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 142,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9QG9Q8CVG",
-            "name": "Hambone",
-            "exp_level": 11,
-            "trophies": 5200,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20200929T011420.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 22,
-            "donations": 36,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "exp_level": 13,
-            "trophies": 5199,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20200928T204018.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 21,
-            "donations": 68,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -388,7 +371,7 @@
             },
             "role": "member",
             "last_seen": "20200928T223926.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 25,
             "donations": 8,
             "donations_received": 40,
@@ -404,10 +387,27 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20200928T232609.000Z",
-            "clan_rank": 23,
+            "last_seen": "20200929T012424.000Z",
+            "clan_rank": 22,
             "previous_clan_rank": 20,
-            "donations": 56,
+            "donations": 64,
+            "donations_received": 10,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9QG9Q8CVG",
+            "name": "Hambone",
+            "exp_level": 11,
+            "trophies": 5179,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20200929T011420.000Z",
+            "clan_rank": 23,
+            "previous_clan_rank": 22,
+            "donations": 46,
             "donations_received": 0,
             "clan_chest_points": 0
         },
