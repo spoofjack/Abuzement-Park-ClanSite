@@ -1,14 +1,14 @@
 {
-    "last_update": 1601429400.536292,
+    "last_update": 1601430300.535007,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
             "join_date": 1574406000,
-            "last_activity_date": 1601428500.517362,
-            "last_donation_date": 1601428500.517362,
+            "last_activity_date": 1601430300.535007,
+            "last_donation_date": 1601430300.535007,
             "role": "coLeader",
             "status": "present",
-            "donations": 571,
+            "donations": 579,
             "donations_last_week": 1556,
             "events": [
                 {
@@ -352,11 +352,11 @@
         "#9CCL2G0G": {
             "name": "Patrick",
             "join_date": 1574710200,
-            "last_activity_date": 1601408700.48136,
-            "last_donation_date": 1601408700.48136,
+            "last_activity_date": 1601430300.535007,
+            "last_donation_date": 1601430300.535007,
             "role": "elder",
             "status": "present",
-            "donations": 155,
+            "donations": 175,
             "donations_last_week": 644,
             "events": [
                 {
@@ -508,11 +508,11 @@
         "#YLGUQRVVQ": {
             "name": "Granteli",
             "join_date": 1578169292.169115,
-            "last_activity_date": 1601418600.485936,
-            "last_donation_date": 1601418600.485936,
+            "last_activity_date": 1601430300.535007,
+            "last_donation_date": 1601430300.535007,
             "role": "elder",
             "status": "present",
-            "donations": 44,
+            "donations": 72,
             "donations_last_week": 140,
             "events": [
                 {
@@ -793,7 +793,7 @@
             "last_activity_date": 1600815600.466143,
             "last_donation_date": 1600815600.466143,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 10,
             "events": [
@@ -826,6 +826,12 @@
                     "type": "re-join",
                     "role": "member",
                     "date": 1591021175.097095
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1601430300.535007
                 }
             ]
         },
@@ -2707,7 +2713,7 @@
             "last_activity_date": 1600892101.338262,
             "last_donation_date": 1600892101.338262,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 34,
             "events": [
@@ -2716,6 +2722,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1583008201.920516
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1601430300.535007
                 }
             ]
         },
@@ -3679,7 +3691,7 @@
             "last_activity_date": 1601264701.20035,
             "last_donation_date": 1601264701.20035,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 28,
             "events": [
@@ -3688,6 +3700,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1591021175.097095
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1601430300.535007
                 }
             ]
         },
@@ -3973,7 +3991,7 @@
             "last_activity_date": 1601144100.992686,
             "last_donation_date": 1601144100.992686,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 44,
             "events": [
@@ -3982,6 +4000,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1591672501.298281
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1601430300.535007
                 }
             ]
         },
