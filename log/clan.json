@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53110,
+    "clan_score": 53108,
     "required_trophies": 5000,
     "donations_per_week": 2636,
     "clan_war_trophies": 1560,
@@ -565,23 +565,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "exp_level": 11,
-            "trophies": 4973,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200929T082919.000Z",
-            "clan_rank": 33,
-            "previous_clan_rank": 33,
-            "donations": 24,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#82UQ80Q8",
             "name": "PhantomX",
             "exp_level": 12,
@@ -592,9 +575,26 @@
             },
             "role": "member",
             "last_seen": "20200929T035036.000Z",
-            "clan_rank": 34,
+            "clan_rank": 33,
             "previous_clan_rank": 35,
             "donations": 80,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "exp_level": 11,
+            "trophies": 4952,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200929T082919.000Z",
+            "clan_rank": 34,
+            "previous_clan_rank": 33,
+            "donations": 24,
             "donations_received": 80,
             "clan_chest_points": 0
         },
