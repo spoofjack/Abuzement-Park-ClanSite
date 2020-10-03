@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53418,
+    "clan_score": 53468,
     "required_trophies": 4600,
-    "donations_per_week": 11182,
+    "donations_per_week": 11192,
     "clan_war_trophies": 1560,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#899CV2QYQ",
+            "name": "DEADPOOL 2",
+            "exp_level": 12,
+            "trophies": 5929,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "member",
+            "last_seen": "20201003T130226.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 2,
+            "donations": 379,
+            "donations_received": 600,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "coLeader",
             "last_seen": "20201003T122838.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 680,
             "donations_received": 512,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#899CV2QYQ",
-            "name": "DEADPOOL 2",
-            "exp_level": 12,
-            "trophies": 5838,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "member",
-            "last_seen": "20201003T130226.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 379,
-            "donations_received": 600,
             "clan_chest_points": 0
         },
         {
@@ -109,16 +109,16 @@
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
-            "trophies": 5624,
+            "trophies": 5626,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20201003T132554.000Z",
+            "last_seen": "20201003T133708.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 3,
-            "donations": 1519,
+            "donations": 1529,
             "donations_received": 680,
             "clan_chest_points": 0
         },
@@ -285,7 +285,7 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20201003T131224.000Z",
+            "last_seen": "20201003T133332.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 17,
             "donations": 598,
@@ -330,7 +330,7 @@
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 12,
-            "trophies": 5221,
+            "trophies": 5251,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -395,23 +395,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "exp_level": 11,
-            "trophies": 5177,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20201003T133000.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 28,
-            "donations": 147,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#82UQ80Q8",
             "name": "PhantomX",
             "exp_level": 12,
@@ -422,10 +405,27 @@
             },
             "role": "member",
             "last_seen": "20201003T013347.000Z",
-            "clan_rank": 24,
+            "clan_rank": 23,
             "previous_clan_rank": 22,
             "donations": 284,
             "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "exp_level": 11,
+            "trophies": 5155,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201003T133000.000Z",
+            "clan_rank": 24,
+            "previous_clan_rank": 28,
+            "donations": 147,
+            "donations_received": 290,
             "clan_chest_points": 0
         },
         {
