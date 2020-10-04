@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53569,
+    "clan_score": 53561,
     "required_trophies": 4600,
-    "donations_per_week": 13492,
+    "donations_per_week": 13522,
     "clan_war_trophies": 1560,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -64,11 +64,11 @@
                 "name": "Master III"
             },
             "role": "elder",
-            "last_seen": "20201004T140504.000Z",
+            "last_seen": "20201004T183346.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 132,
-            "donations_received": 40,
+            "donations_received": 60,
             "clan_chest_points": 0
         },
         {
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "exp_level": 12,
-            "trophies": 5453,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20201004T182237.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 15,
-            "donations": 623,
-            "donations_received": 600,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 12,
@@ -269,9 +252,26 @@
             },
             "role": "leader",
             "last_seen": "20201004T144831.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 692,
+            "donations_received": 600,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "exp_level": 12,
+            "trophies": 5430,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201004T182237.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 15,
+            "donations": 623,
             "donations_received": 600,
             "clan_chest_points": 0
         },
@@ -340,7 +340,7 @@
             "clan_rank": 19,
             "previous_clan_rank": 21,
             "donations": 72,
-            "donations_received": 190,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -455,10 +455,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20201004T173615.000Z",
+            "last_seen": "20201004T183343.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 25,
-            "donations": 418,
+            "donations": 438,
             "donations_received": 360,
             "clan_chest_points": 0
         },
@@ -497,23 +497,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#JRG8G8LL",
-            "name": "Evan_Wibb",
-            "exp_level": 12,
-            "trophies": 5133,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20201004T030206.000Z",
-            "clan_rank": 29,
-            "previous_clan_rank": 29,
-            "donations": 204,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9QJ29UVLV",
             "name": "FryingPanStan",
             "exp_level": 12,
@@ -524,10 +507,27 @@
             },
             "role": "member",
             "last_seen": "20201002T035727.000Z",
-            "clan_rank": 30,
+            "clan_rank": 29,
             "previous_clan_rank": 30,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#JRG8G8LL",
+            "name": "Evan_Wibb",
+            "exp_level": 12,
+            "trophies": 5111,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201004T184037.000Z",
+            "clan_rank": 30,
+            "previous_clan_rank": 29,
+            "donations": 214,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
