@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53476,
+    "clan_score": 53486,
     "required_trophies": 4600,
     "donations_per_week": 12622,
     "clan_war_trophies": 1560,
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 5539,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20201004T104552.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 14,
+            "donations": 447,
+            "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2VQUL0UUG",
             "name": "Master Zakuri",
             "exp_level": 12,
@@ -167,7 +184,7 @@
             },
             "role": "elder",
             "last_seen": "20201003T194335.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 11,
             "donations": 168,
             "donations_received": 400,
@@ -184,27 +201,10 @@
             },
             "role": "member",
             "last_seen": "20201004T033153.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 10,
             "donations": 400,
             "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 5511,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20201004T101812.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 14,
-            "donations": 447,
-            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -531,23 +531,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "exp_level": 11,
-            "trophies": 5094,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20201004T061659.000Z",
-            "clan_rank": 31,
-            "previous_clan_rank": 24,
-            "donations": 165,
-            "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CV29GC9",
             "name": "Srgt_Atrex",
             "exp_level": 12,
@@ -558,10 +541,27 @@
             },
             "role": "elder",
             "last_seen": "20201004T012556.000Z",
-            "clan_rank": 32,
+            "clan_rank": 31,
             "previous_clan_rank": 38,
             "donations": 104,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "exp_level": 11,
+            "trophies": 5072,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201004T105640.000Z",
+            "clan_rank": 32,
+            "previous_clan_rank": 24,
+            "donations": 165,
+            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
