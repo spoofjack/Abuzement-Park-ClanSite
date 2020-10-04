@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53528,
+    "clan_score": 53486,
     "required_trophies": 4600,
-    "donations_per_week": 12302,
+    "donations_per_week": 12312,
     "clan_war_trophies": 1560,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#899CV2QYQ",
-            "name": "DEADPOOL 2",
-            "exp_level": 12,
-            "trophies": 5964,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "member",
-            "last_seen": "20201004T025524.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 2,
-            "donations": 397,
-            "donations_received": 600,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -48,10 +31,27 @@
             },
             "role": "coLeader",
             "last_seen": "20201003T220211.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 764,
             "donations_received": 552,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#899CV2QYQ",
+            "name": "DEADPOOL 2",
+            "exp_level": 12,
+            "trophies": 5881,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "member",
+            "last_seen": "20201004T025524.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 2,
+            "donations": 397,
+            "donations_received": 610,
             "clan_chest_points": 0
         },
         {
@@ -506,10 +506,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20201004T023533.000Z",
+            "last_seen": "20201004T030206.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 29,
-            "donations": 194,
+            "donations": 204,
             "donations_received": 320,
             "clan_chest_points": 0
         },
