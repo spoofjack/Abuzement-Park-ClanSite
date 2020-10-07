@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47030,
+    "clan_score": 47061,
     "required_trophies": 4600,
-    "donations_per_week": 4562,
+    "donations_per_week": 4626,
     "clan_war_trophies": 1610,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -67,8 +67,25 @@
             "last_seen": "20201007T005547.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 1,
-            "donations": 541,
-            "donations_received": 224,
+            "donations": 551,
+            "donations_received": 248,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#899CV2QYQ",
+            "name": "DEADPOOL 2",
+            "exp_level": 12,
+            "trophies": 4974,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201007T002338.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 3,
+            "donations": 134,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -82,7 +99,7 @@
             },
             "role": "elder",
             "last_seen": "20201007T005517.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 4,
             "donations": 213,
             "donations_received": 168,
@@ -99,27 +116,10 @@
             },
             "role": "member",
             "last_seen": "20201006T211023.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 152,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#899CV2QYQ",
-            "name": "DEADPOOL 2",
-            "exp_level": 12,
-            "trophies": 4885,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201007T002338.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 3,
-            "donations": 134,
-            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -140,23 +140,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 12,
-            "trophies": 4869,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "leader",
-            "last_seen": "20201006T232812.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 13,
-            "donations": 147,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 12,
@@ -167,10 +150,27 @@
             },
             "role": "elder",
             "last_seen": "20201006T192215.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 6,
             "donations": 34,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 12,
+            "trophies": 4849,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "leader",
+            "last_seen": "20201007T010641.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 13,
+            "donations": 175,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -293,23 +293,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2CRR2R9JR",
-            "name": "nickB",
-            "exp_level": 12,
-            "trophies": 4735,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201006T230447.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 18,
-            "donations": 216,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "exp_level": 12,
@@ -320,10 +303,27 @@
             },
             "role": "elder",
             "last_seen": "20201006T235926.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 21,
             "donations": 254,
-            "donations_received": 230,
+            "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2CRR2R9JR",
+            "name": "nickB",
+            "exp_level": 12,
+            "trophies": 4717,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201007T010852.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 18,
+            "donations": 234,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -353,11 +353,11 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20201006T233842.000Z",
+            "last_seen": "20201007T011139.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 17,
             "donations": 192,
-            "donations_received": 230,
+            "donations_received": 260,
             "clan_chest_points": 0
         },
         {
@@ -404,10 +404,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201007T003905.000Z",
+            "last_seen": "20201007T010202.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 19,
-            "donations": 252,
+            "donations": 260,
             "donations_received": 200,
             "clan_chest_points": 0
         },
