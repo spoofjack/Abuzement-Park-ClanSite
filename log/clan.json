@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49911,
+    "clan_score": 49930,
     "required_trophies": 4600,
-    "donations_per_week": 9472,
+    "donations_per_week": 9490,
     "clan_war_trophies": 1630,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -89,6 +89,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 5281,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "leader",
+            "last_seen": "20201016T194422.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 6,
+            "donations": 998,
+            "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -99,7 +116,7 @@
             },
             "role": "elder",
             "last_seen": "20201016T160840.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 14,
             "donations": 220,
             "donations_received": 440,
@@ -116,27 +133,10 @@
             },
             "role": "elder",
             "last_seen": "20201016T114740.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 5,
             "donations": 66,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5237,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20201016T191904.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 7,
-            "donations": 1072,
-            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -174,20 +174,20 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
             "exp_level": 13,
-            "trophies": 5221,
+            "trophies": 5214,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
-            "role": "leader",
-            "last_seen": "20201016T164155.000Z",
+            "role": "coLeader",
+            "last_seen": "20201016T193741.000Z",
             "clan_rank": 10,
-            "previous_clan_rank": 6,
-            "donations": 998,
-            "donations_received": 400,
+            "previous_clan_rank": 7,
+            "donations": 1072,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -204,7 +204,7 @@
             "clan_rank": 11,
             "previous_clan_rank": 10,
             "donations": 416,
-            "donations_received": 352,
+            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -221,7 +221,7 @@
             "clan_rank": 12,
             "previous_clan_rank": 9,
             "donations": 336,
-            "donations_received": 420,
+            "donations_received": 430,
             "clan_chest_points": 0
         },
         {
@@ -506,10 +506,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201016T145110.000Z",
+            "last_seen": "20201016T193133.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 27,
-            "donations": 66,
+            "donations": 84,
             "donations_received": 120,
             "clan_chest_points": 0
         },
