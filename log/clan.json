@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50528,
+    "clan_score": 50540,
     "required_trophies": 4600,
-    "donations_per_week": 1608,
+    "donations_per_week": 1634,
     "clan_war_trophies": 1650,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -72,6 +72,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 5359,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "leader",
+            "last_seen": "20201019T211957.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 9,
+            "donations": 145,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -82,10 +99,10 @@
             },
             "role": "elder",
             "last_seen": "20201019T210041.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 4,
             "donations": 114,
-            "donations_received": 48,
+            "donations_received": 64,
             "clan_chest_points": 0
         },
         {
@@ -99,7 +116,7 @@
             },
             "role": "elder",
             "last_seen": "20201019T203450.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 8,
             "donations_received": 40,
@@ -116,7 +133,7 @@
             },
             "role": "elder",
             "last_seen": "20201019T180427.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 10,
             "donations": 92,
             "donations_received": 40,
@@ -133,7 +150,7 @@
             },
             "role": "elder",
             "last_seen": "20201019T123907.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 0,
             "donations_received": 0,
@@ -150,27 +167,10 @@
             },
             "role": "member",
             "last_seen": "20201019T203751.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 5,
             "donations": 94,
-            "donations_received": 100,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 5301,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "leader",
-            "last_seen": "20201019T205702.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 9,
-            "donations": 137,
-            "donations_received": 120,
+            "donations_received": 110,
             "clan_chest_points": 0
         },
         {
@@ -293,23 +293,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CV29GC9",
-            "name": "Srgt_Atrex",
-            "exp_level": 12,
-            "trophies": 5104,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20201019T205447.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 19,
-            "donations": 54,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "exp_level": 13,
@@ -320,7 +303,7 @@
             },
             "role": "elder",
             "last_seen": "20201019T203607.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 18,
             "donations": 84,
             "donations_received": 80,
@@ -336,11 +319,28 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20201019T150707.000Z",
-            "clan_rank": 19,
+            "last_seen": "20201019T212004.000Z",
+            "clan_rank": 18,
             "previous_clan_rank": 17,
-            "donations": 16,
+            "donations": 34,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CV29GC9",
+            "name": "Srgt_Atrex",
+            "exp_level": 12,
+            "trophies": 5038,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20201019T205447.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 19,
+            "donations": 54,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
