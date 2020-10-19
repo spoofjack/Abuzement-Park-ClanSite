@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50327,
+    "clan_score": 50325,
     "required_trophies": 4600,
-    "donations_per_week": 70,
+    "donations_per_week": 90,
     "clan_war_trophies": 1630,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -64,10 +64,10 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20201018T225222.000Z",
+            "last_seen": "20201019T005002.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 0,
+            "donations": 20,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -119,7 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 15,
             "donations": 0,
-            "donations_received": 20,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 0,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -446,23 +446,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "exp_level": 11,
-            "trophies": 4880,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201019T004504.000Z",
-            "clan_rank": 26,
-            "previous_clan_rank": 26,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9VJGVJ8",
             "name": "Dwight Schrute",
             "exp_level": 12,
@@ -473,7 +456,7 @@
             },
             "role": "member",
             "last_seen": "20201018T223322.000Z",
-            "clan_rank": 27,
+            "clan_rank": 26,
             "previous_clan_rank": 30,
             "donations": 0,
             "donations_received": 0,
@@ -490,7 +473,7 @@
             },
             "role": "member",
             "last_seen": "20201018T100340.000Z",
-            "clan_rank": 28,
+            "clan_rank": 27,
             "previous_clan_rank": 25,
             "donations": 0,
             "donations_received": 0,
@@ -506,10 +489,27 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201019T002226.000Z",
-            "clan_rank": 29,
+            "last_seen": "20201019T004757.000Z",
+            "clan_rank": 28,
             "previous_clan_rank": 28,
             "donations": 20,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "exp_level": 11,
+            "trophies": 4859,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201019T004504.000Z",
+            "clan_rank": 29,
+            "previous_clan_rank": 26,
+            "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
         },
