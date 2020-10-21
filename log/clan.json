@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50873,
+    "clan_score": 50878,
     "required_trophies": 4600,
-    "donations_per_week": 4054,
+    "donations_per_week": 4084,
     "clan_war_trophies": 1650,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -123,6 +123,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 12,
+            "trophies": 5324,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201021T024423.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 8,
+            "donations": 36,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8RQYURC",
             "name": "Tranosaurus",
             "exp_level": 12,
@@ -133,27 +150,10 @@
             },
             "role": "elder",
             "last_seen": "20201020T173516.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 24,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 12,
-            "trophies": 5311,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20201021T024423.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 8,
-            "donations": 36,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -330,16 +330,16 @@
             "tag": "#CV29GC9",
             "name": "Srgt_Atrex",
             "exp_level": 12,
-            "trophies": 5056,
+            "trophies": 5048,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20201021T024143.000Z",
+            "last_seen": "20201021T025523.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 21,
-            "donations": 92,
+            "donations": 102,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -472,10 +472,10 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20201021T015626.000Z",
+            "last_seen": "20201021T025120.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 26,
-            "donations": 120,
+            "donations": 130,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -510,7 +510,7 @@
             "clan_rank": 29,
             "previous_clan_rank": 27,
             "donations": 0,
-            "donations_received": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -642,11 +642,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201017T024851.000Z",
+            "last_seen": "20201021T025253.000Z",
             "clan_rank": 37,
             "previous_clan_rank": 36,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 10,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
