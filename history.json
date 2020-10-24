@@ -1,5 +1,5 @@
 {
-    "last_update": 1603545300.439491,
+    "last_update": 1603546200.43693,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
@@ -610,11 +610,11 @@
         "#CLL8Q09": {
             "name": "Wub",
             "join_date": 1574406000,
-            "last_activity_date": 1603502100.381125,
-            "last_donation_date": 1603502100.381125,
+            "last_activity_date": 1603546200.43693,
+            "last_donation_date": 1603546200.43693,
             "role": "leader",
             "status": "present",
-            "donations": 563,
+            "donations": 587,
             "donations_last_week": 1262,
             "events": [
                 {
@@ -5371,7 +5371,7 @@
             "last_activity_date": 1603293301.108263,
             "last_donation_date": 1603293301.108263,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 82,
             "donations_last_week": 0,
             "events": [
@@ -5380,6 +5380,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1603132201.294476
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1603546200.43693
                 }
             ]
         },
