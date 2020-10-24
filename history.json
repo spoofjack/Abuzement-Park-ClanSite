@@ -1,5 +1,5 @@
 {
-    "last_update": 1603530900.429245,
+    "last_update": 1603531800.43196,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
@@ -748,10 +748,10 @@
         "#20LGGP900": {
             "name": "blackdog",
             "join_date": 1578169292.169115,
-            "last_activity_date": 1599066782.672453,
+            "last_activity_date": 1603531800.43196,
             "last_donation_date": 1599066782.672453,
             "role": "member",
-            "status": "absent",
+            "status": "present",
             "donations": 0,
             "donations_last_week": 36,
             "events": [
@@ -790,6 +790,12 @@
                     "type": "left",
                     "role": "member",
                     "date": 1600322401.046668
+                },
+                {
+                    "event": "join",
+                    "type": "re-join",
+                    "role": "member",
+                    "date": 1603531800.43196
                 }
             ]
         },
