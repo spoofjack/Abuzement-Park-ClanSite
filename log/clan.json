@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51086,
+    "clan_score": 51076,
     "required_trophies": 4600,
-    "donations_per_week": 11751,
+    "donations_per_week": 11761,
     "clan_war_trophies": 1650,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 12,
-            "trophies": 5295,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20201024T212723.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 9,
-            "donations": 88,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 12,
@@ -184,7 +167,7 @@
             },
             "role": "elder",
             "last_seen": "20201023T113545.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 10,
             "donations": 62,
             "donations_received": 40,
@@ -201,10 +184,27 @@
             },
             "role": "member",
             "last_seen": "20201025T014133.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 11,
             "donations": 392,
             "donations_received": 480,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 12,
+            "trophies": 5274,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20201025T052258.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 9,
+            "donations": 98,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -459,7 +459,7 @@
             "clan_rank": 26,
             "previous_clan_rank": 25,
             "donations": 38,
-            "donations_received": 40,
+            "donations_received": 50,
             "clan_chest_points": 0
         },
         {
