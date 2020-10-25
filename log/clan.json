@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51079,
+    "clan_score": 51091,
     "required_trophies": 4600,
-    "donations_per_week": 12429,
+    "donations_per_week": 12439,
     "clan_war_trophies": 1650,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5609,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20201025T133309.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 1,
+            "donations": 1002,
+            "donations_received": 499,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "coLeader",
             "last_seen": "20201025T124906.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 1480,
             "donations_received": 490,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5578,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20201025T124940.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 1,
-            "donations": 1002,
-            "donations_received": 499,
             "clan_chest_points": 0
         },
         {
@@ -64,10 +64,10 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20201025T125620.000Z",
+            "last_seen": "20201025T134154.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 700,
+            "donations": 710,
             "donations_received": 600,
             "clan_chest_points": 0
         },
@@ -395,23 +395,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9QJ29UVLV",
-            "name": "FryingPanStan",
-            "exp_level": 12,
-            "trophies": 5076,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20201025T132512.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 20,
-            "donations": 0,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CV29GC9",
             "name": "Srgt_Atrex",
             "exp_level": 12,
@@ -422,10 +405,27 @@
             },
             "role": "elder",
             "last_seen": "20201025T040643.000Z",
-            "clan_rank": 24,
+            "clan_rank": 23,
             "previous_clan_rank": 24,
             "donations": 264,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9QJ29UVLV",
+            "name": "FryingPanStan",
+            "exp_level": 12,
+            "trophies": 5055,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201025T132512.000Z",
+            "clan_rank": 24,
+            "previous_clan_rank": 20,
+            "donations": 0,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -510,7 +510,7 @@
             "clan_rank": 29,
             "previous_clan_rank": 31,
             "donations": 533,
-            "donations_received": 560,
+            "donations_received": 570,
             "clan_chest_points": 0
         },
         {
