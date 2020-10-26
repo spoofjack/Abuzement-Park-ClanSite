@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51132,
+    "clan_score": 51126,
     "required_trophies": 4600,
-    "donations_per_week": 1102,
+    "donations_per_week": 1120,
     "clan_war_trophies": 1660,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5666,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20201026T161710.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 2,
+            "donations": 62,
+            "donations_received": 18,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
@@ -31,34 +48,17 @@
             },
             "role": "coLeader",
             "last_seen": "20201026T155034.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 204,
             "donations_received": 26,
             "clan_chest_points": 0
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5638,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20201026T135128.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 44,
-            "donations_received": 18,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
-            "trophies": 5466,
+            "trophies": 5426,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
@@ -115,11 +115,11 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20201026T160224.000Z",
+            "last_seen": "20201026T162246.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 12,
             "donations": 40,
-            "donations_received": 50,
+            "donations_received": 60,
             "clan_chest_points": 0
         },
         {
@@ -459,7 +459,7 @@
             "clan_rank": 26,
             "previous_clan_rank": 25,
             "donations": 48,
-            "donations_received": 48,
+            "donations_received": 56,
             "clan_chest_points": 0
         },
         {
