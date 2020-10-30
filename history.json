@@ -1,5 +1,5 @@
 {
-    "last_update": 1604089801.187978,
+    "last_update": 1604090701.19864,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
@@ -4048,11 +4048,11 @@
         "#82UQ80Q8": {
             "name": "PhantomX",
             "join_date": 1591676101.354309,
-            "last_activity_date": 1604082601.150637,
-            "last_donation_date": 1604082601.150637,
+            "last_activity_date": 1604090701.19864,
+            "last_donation_date": 1604090701.19864,
             "role": "member",
             "status": "present",
-            "donations": 374,
+            "donations": 382,
             "donations_last_week": 586,
             "events": [
                 {
@@ -5491,7 +5491,7 @@
             "last_activity_date": 1604069101.145228,
             "last_donation_date": 1604069101.145228,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 0,
             "events": [
@@ -5500,6 +5500,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1604069101.145228
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1604090701.19864
                 }
             ]
         }
