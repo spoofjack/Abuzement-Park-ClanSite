@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52340,
+    "clan_score": 52395,
     "required_trophies": 4600,
-    "donations_per_week": 10313,
+    "donations_per_week": 10375,
     "clan_war_trophies": 1660,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -51,7 +51,24 @@
             "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 614,
-            "donations_received": 347,
+            "donations_received": 355,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5615,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20201031T161458.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 6,
+            "donations": 388,
+            "donations_received": 560,
             "clan_chest_points": 0
         },
         {
@@ -65,27 +82,27 @@
             },
             "role": "coLeader",
             "last_seen": "20201031T141200.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 3,
             "donations": 1365,
-            "donations_received": 318,
+            "donations_received": 326,
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
             "exp_level": 13,
-            "trophies": 5585,
+            "trophies": 5521,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
-            "role": "elder",
-            "last_seen": "20201031T161458.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 6,
-            "donations": 388,
-            "donations_received": 560,
+            "role": "member",
+            "last_seen": "20201031T161903.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 5,
+            "donations": 88,
+            "donations_received": 220,
             "clan_chest_points": 0
         },
         {
@@ -99,7 +116,7 @@
             },
             "role": "elder",
             "last_seen": "20201031T122322.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 9,
             "donations": 290,
             "donations_received": 400,
@@ -116,27 +133,10 @@
             },
             "role": "member",
             "last_seen": "20201031T115649.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 200,
             "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "exp_level": 13,
-            "trophies": 5485,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20201030T165716.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 5,
-            "donations": 80,
-            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -149,11 +149,28 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20201031T013023.000Z",
+            "last_seen": "20201031T162726.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 8,
-            "donations": 469,
-            "donations_received": 440,
+            "donations": 503,
+            "donations_received": 450,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 5478,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "leader",
+            "last_seen": "20201031T162513.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 11,
+            "donations": 520,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -167,26 +184,9 @@
             },
             "role": "elder",
             "last_seen": "20201031T151205.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 4,
             "donations": 290,
-            "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 5441,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "leader",
-            "last_seen": "20201031T161227.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 11,
-            "donations": 500,
             "donations_received": 520,
             "clan_chest_points": 0
         },
@@ -221,7 +221,7 @@
             "clan_rank": 12,
             "previous_clan_rank": 14,
             "donations": 760,
-            "donations_received": 576,
+            "donations_received": 592,
             "clan_chest_points": 0
         },
         {
@@ -378,6 +378,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9QJ29UVLV",
+            "name": "FryingPanStan",
+            "exp_level": 12,
+            "trophies": 5154,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201031T161344.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 20,
+            "donations": 0,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#JRG8G8LL",
             "name": "Evan_Wibb",
             "exp_level": 12,
@@ -388,27 +405,10 @@
             },
             "role": "member",
             "last_seen": "20201031T154045.000Z",
-            "clan_rank": 22,
+            "clan_rank": 23,
             "previous_clan_rank": 23,
             "donations": 416,
             "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9QJ29UVLV",
-            "name": "FryingPanStan",
-            "exp_level": 12,
-            "trophies": 5125,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20201031T161344.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 20,
-            "donations": 0,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
