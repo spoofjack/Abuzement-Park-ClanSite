@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 45850,
+    "clan_score": 45877,
     "required_trophies": 4600,
-    "donations_per_week": 1424,
+    "donations_per_week": 1452,
     "clan_war_trophies": 1710,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -51,7 +51,24 @@
             "clan_rank": 2,
             "previous_clan_rank": 5,
             "donations": 104,
-            "donations_received": 50,
+            "donations_received": 58,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 4828,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20201102T182329.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 6,
+            "donations": 38,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -65,7 +82,7 @@
             },
             "role": "elder",
             "last_seen": "20201102T172532.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 9,
             "donations": 58,
             "donations_received": 80,
@@ -82,9 +99,26 @@
             },
             "role": "elder",
             "last_seen": "20201102T140045.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 4,
             "donations": 86,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "exp_level": 13,
+            "trophies": 4821,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201102T182614.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 3,
+            "donations": 72,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -99,7 +133,7 @@
             },
             "role": "coLeader",
             "last_seen": "20201102T171201.000Z",
-            "clan_rank": 5,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 138,
             "donations_received": 64,
@@ -116,43 +150,9 @@
             },
             "role": "leader",
             "last_seen": "20201102T145244.000Z",
-            "clan_rank": 6,
+            "clan_rank": 8,
             "previous_clan_rank": 2,
             "donations": 58,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 4798,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20201102T182329.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 6,
-            "donations": 38,
-            "donations_received": 60,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "exp_level": 13,
-            "trophies": 4792,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201102T182614.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 3,
-            "donations": 54,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -174,23 +174,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2CRR2R9JR",
-            "name": "Michael Scott",
-            "exp_level": 13,
-            "trophies": 4740,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201102T182812.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 11,
-            "donations": 104,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "exp_level": 13,
@@ -201,10 +184,27 @@
             },
             "role": "member",
             "last_seen": "20201102T175848.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 14,
             "donations": 74,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2CRR2R9JR",
+            "name": "Michael Scott",
+            "exp_level": 13,
+            "trophies": 4722,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201102T183717.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 11,
+            "donations": 104,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -262,7 +262,7 @@
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "exp_level": 13,
-            "trophies": 4630,
+            "trophies": 4643,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -271,7 +271,7 @@
             "last_seen": "20201102T182753.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 20,
-            "donations": 31,
+            "donations": 41,
             "donations_received": 50,
             "clan_chest_points": 0
         },
@@ -336,7 +336,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201102T135221.000Z",
+            "last_seen": "20201102T183910.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 25,
             "donations": 90,
