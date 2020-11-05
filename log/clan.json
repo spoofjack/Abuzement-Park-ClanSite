@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48051,
+    "clan_score": 48053,
     "required_trophies": 4600,
-    "donations_per_week": 6548,
+    "donations_per_week": 6556,
     "clan_war_trophies": 1710,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -55,23 +55,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5015,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20201105T041104.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 4,
-            "donations": 196,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 13,
@@ -82,7 +65,7 @@
             },
             "role": "leader",
             "last_seen": "20201105T013433.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 234,
             "donations_received": 280,
@@ -99,9 +82,26 @@
             },
             "role": "elder",
             "last_seen": "20201104T215426.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 9,
             "donations": 146,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5003,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20201105T041104.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 4,
+            "donations": 196,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -259,6 +259,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8RQYURC",
+            "name": "Tranosaurus",
+            "exp_level": 12,
+            "trophies": 4792,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20201105T042042.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 11,
+            "donations": 39,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "exp_level": 12,
@@ -269,7 +286,7 @@
             },
             "role": "elder",
             "last_seen": "20201105T020914.000Z",
-            "clan_rank": 15,
+            "clan_rank": 16,
             "previous_clan_rank": 14,
             "donations": 118,
             "donations_received": 280,
@@ -286,7 +303,7 @@
             },
             "role": "elder",
             "last_seen": "20201105T033407.000Z",
-            "clan_rank": 16,
+            "clan_rank": 17,
             "previous_clan_rank": 15,
             "donations": 223,
             "donations_received": 320,
@@ -302,10 +319,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201105T021811.000Z",
-            "clan_rank": 17,
+            "last_seen": "20201105T042553.000Z",
+            "clan_rank": 18,
             "previous_clan_rank": 16,
-            "donations": 353,
+            "donations": 361,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -320,27 +337,10 @@
             },
             "role": "member",
             "last_seen": "20201104T233001.000Z",
-            "clan_rank": 18,
+            "clan_rank": 19,
             "previous_clan_rank": 12,
             "donations": 416,
             "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8RQYURC",
-            "name": "Tranosaurus",
-            "exp_level": 12,
-            "trophies": 4763,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20201105T024927.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 11,
-            "donations": 39,
-            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -425,7 +425,7 @@
             "clan_rank": 24,
             "previous_clan_rank": 22,
             "donations": 370,
-            "donations_received": 272,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
