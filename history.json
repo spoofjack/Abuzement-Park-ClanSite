@@ -1,14 +1,14 @@
 {
-    "last_update": 1604646900.700814,
+    "last_update": 1604647800.708445,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
             "join_date": 1574406000,
-            "last_activity_date": 1604639700.676016,
-            "last_donation_date": 1604639700.676016,
+            "last_activity_date": 1604647800.708445,
+            "last_donation_date": 1604647800.708445,
             "role": "coLeader",
             "status": "present",
-            "donations": 956,
+            "donations": 984,
             "donations_last_week": 1535,
             "events": [
                 {
@@ -748,11 +748,11 @@
         "#20LGGP900": {
             "name": "blackdog",
             "join_date": 1578169292.169115,
-            "last_activity_date": 1604620800.785145,
-            "last_donation_date": 1604620800.785145,
+            "last_activity_date": 1604647800.708445,
+            "last_donation_date": 1604647800.708445,
             "role": "member",
             "status": "present",
-            "donations": 112,
+            "donations": 122,
             "donations_last_week": 278,
             "events": [
                 {
@@ -4732,11 +4732,11 @@
         "#JRG8G8LL": {
             "name": "Evan_Wibb",
             "join_date": 1595636100.774641,
-            "last_activity_date": 1604641500.620415,
-            "last_donation_date": 1604641500.620415,
+            "last_activity_date": 1604647800.708445,
+            "last_donation_date": 1604647800.708445,
             "role": "member",
             "status": "present",
-            "donations": 198,
+            "donations": 208,
             "donations_last_week": 470,
             "events": [
                 {
@@ -5634,7 +5634,7 @@
             "join_date": 1604637000.642959,
             "last_activity_date": 1604646000.682058,
             "last_donation_date": 1604646000.682058,
-            "role": "member",
+            "role": "elder",
             "status": "present",
             "donations": 10,
             "donations_last_week": 0,
@@ -5644,6 +5644,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1604637000.642959
+                },
+                {
+                    "event": "role change",
+                    "type": "promotion",
+                    "role": "elder",
+                    "date": 1604647800.708445
                 }
             ]
         }
