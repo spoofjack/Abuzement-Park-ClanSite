@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48502,
+    "clan_score": 48516,
     "required_trophies": 4300,
     "donations_per_week": 10922,
     "clan_war_trophies": 1710,
@@ -140,6 +140,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 4963,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "leader",
+            "last_seen": "20201107T042516.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 5,
+            "donations": 376,
+            "donations_received": 480,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -150,27 +167,10 @@
             },
             "role": "elder",
             "last_seen": "20201106T211647.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 6,
             "donations": 470,
             "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 4935,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "leader",
-            "last_seen": "20201107T040959.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 5,
-            "donations": 376,
-            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -421,7 +421,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201107T035837.000Z",
+            "last_seen": "20201107T042959.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 20,
             "donations": 675,
