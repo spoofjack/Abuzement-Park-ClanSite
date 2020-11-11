@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50434,
+    "clan_score": 50456,
     "required_trophies": 4300,
-    "donations_per_week": 7166,
+    "donations_per_week": 7186,
     "clan_war_trophies": 1730,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5416,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201111T185238.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 3,
+            "donations": 223,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "coLeader",
             "last_seen": "20201111T173144.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 303,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5385,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20201111T182013.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 3,
-            "donations": 223,
-            "donations_received": 260,
             "clan_chest_points": 0
         },
         {
@@ -183,10 +183,10 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20201111T163243.000Z",
+            "last_seen": "20201111T185659.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 11,
-            "donations": 171,
+            "donations": 181,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -234,7 +234,7 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20201110T201200.000Z",
+            "last_seen": "20201111T185537.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 12,
             "donations": 37,
@@ -285,10 +285,10 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20201111T164230.000Z",
+            "last_seen": "20201111T185742.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 18,
-            "donations": 224,
+            "donations": 234,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -361,6 +361,40 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "exp_level": 11,
+            "trophies": 4899,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201111T185131.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 26,
+            "donations": 65,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "exp_level": 12,
+            "trophies": 4898,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201111T185342.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 21,
+            "donations": 103,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "exp_level": 13,
@@ -371,44 +405,10 @@
             },
             "role": "elder",
             "last_seen": "20201111T161744.000Z",
-            "clan_rank": 21,
+            "clan_rank": 23,
             "previous_clan_rank": 25,
             "donations": 149,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "exp_level": 12,
-            "trophies": 4870,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201111T184059.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 21,
-            "donations": 103,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "exp_level": 11,
-            "trophies": 4868,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201111T173528.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 26,
-            "donations": 65,
-            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -523,7 +523,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201111T181934.000Z",
+            "last_seen": "20201111T185111.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 28,
             "donations": 252,
@@ -795,7 +795,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201111T182110.000Z",
+            "last_seen": "20201111T185024.000Z",
             "clan_rank": 46,
             "previous_clan_rank": 45,
             "donations": 86,
