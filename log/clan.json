@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50503,
+    "clan_score": 50509,
     "required_trophies": 4300,
-    "donations_per_week": 7272,
+    "donations_per_week": 7289,
     "clan_war_trophies": 1730,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5416,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20201111T185238.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 3,
-            "donations": 223,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -48,17 +31,34 @@
             },
             "role": "coLeader",
             "last_seen": "20201111T173144.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 2,
             "donations": 303,
             "donations_received": 200,
             "clan_chest_points": 0
         },
         {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5392,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201111T193707.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 3,
+            "donations": 223,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
-            "trophies": 5331,
+            "trophies": 5360,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 5,
             "donations": 199,
-            "donations_received": 216,
+            "donations_received": 225,
             "clan_chest_points": 0
         },
         {
@@ -132,7 +132,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20201111T181732.000Z",
+            "last_seen": "20201111T193825.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 9,
             "donations": 507,
@@ -153,7 +153,7 @@
             "clan_rank": 8,
             "previous_clan_rank": 1,
             "donations": 682,
-            "donations_received": 306,
+            "donations_received": 314,
             "clan_chest_points": 0
         },
         {
@@ -574,10 +574,10 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20201111T163850.000Z",
+            "last_seen": "20201111T193457.000Z",
             "clan_rank": 33,
             "previous_clan_rank": 43,
-            "donations": 88,
+            "donations": 89,
             "donations_received": 230,
             "clan_chest_points": 0
         },
@@ -650,6 +650,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#99Q80PG9",
+            "name": "Kevin Malone",
+            "exp_level": 10,
+            "trophies": 4673,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201111T194024.000Z",
+            "clan_rank": 38,
+            "previous_clan_rank": 37,
+            "donations": 16,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9VJGVJ8",
             "name": "Dwight Schrute",
             "exp_level": 12,
@@ -660,27 +677,10 @@
             },
             "role": "member",
             "last_seen": "20201111T181154.000Z",
-            "clan_rank": 38,
+            "clan_rank": 39,
             "previous_clan_rank": 35,
             "donations": 387,
             "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#99Q80PG9",
-            "name": "Kevin Malone",
-            "exp_level": 10,
-            "trophies": 4643,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201111T192646.000Z",
-            "clan_rank": 39,
-            "previous_clan_rank": 37,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -744,7 +744,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201111T191829.000Z",
+            "last_seen": "20201111T194027.000Z",
             "clan_rank": 43,
             "previous_clan_rank": 42,
             "donations": 392,
