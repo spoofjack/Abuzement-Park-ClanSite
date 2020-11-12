@@ -3,13 +3,13 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50673,
+    "clan_score": 50548,
     "required_trophies": 4300,
     "donations_per_week": 9166,
     "clan_war_trophies": 1730,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 50,
+    "members": 49,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -106,23 +106,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5210,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20201112T141454.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 6,
-            "donations": 911,
-            "donations_received": 356,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -133,10 +116,27 @@
             },
             "role": "member",
             "last_seen": "20201112T132500.000Z",
-            "clan_rank": 7,
+            "clan_rank": 6,
             "previous_clan_rank": 7,
             "donations": 308,
             "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5187,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20201112T141454.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 6,
+            "donations": 911,
+            "donations_received": 356,
             "clan_chest_points": 0
         },
         {
@@ -228,13 +228,13 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
-            "trophies": 5069,
+            "trophies": 5099,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20201112T134733.000Z",
+            "last_seen": "20201112T141933.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 13,
             "donations": 322,
@@ -851,23 +851,6 @@
             "previous_clan_rank": 49,
             "donations": 20,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YRJLYVJG",
-            "name": "FlashJakson",
-            "exp_level": 11,
-            "trophies": 4005,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20201029T180722.000Z",
-            "clan_rank": 50,
-            "previous_clan_rank": 50,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         }
     ]
