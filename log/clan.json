@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51140,
+    "clan_score": 51149,
     "required_trophies": 4300,
     "donations_per_week": 12265,
     "clan_war_trophies": 1730,
@@ -55,6 +55,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5401,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201113T230131.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 2,
+            "donations": 455,
+            "donations_received": 480,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -65,27 +82,10 @@
             },
             "role": "coLeader",
             "last_seen": "20201113T210352.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 5,
             "donations": 197,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5372,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20201113T205504.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 2,
-            "donations": 455,
-            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -228,7 +228,7 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
-            "trophies": 5119,
+            "trophies": 5101,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -769,23 +769,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YCQJCUL9R",
-            "name": "the beast",
-            "exp_level": 9,
-            "trophies": 4546,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20201113T225747.000Z",
-            "clan_rank": 45,
-            "previous_clan_rank": 44,
-            "donations": 320,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#82QJYLGY2",
             "name": "rorik",
             "exp_level": 11,
@@ -796,10 +779,27 @@
             },
             "role": "member",
             "last_seen": "20201105T142920.000Z",
-            "clan_rank": 46,
+            "clan_rank": 45,
             "previous_clan_rank": 46,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YCQJCUL9R",
+            "name": "the beast",
+            "exp_level": 9,
+            "trophies": 4530,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20201113T231309.000Z",
+            "clan_rank": 46,
+            "previous_clan_rank": 44,
+            "donations": 320,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
