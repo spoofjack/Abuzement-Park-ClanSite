@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51086,
+    "clan_score": 51100,
     "required_trophies": 4300,
-    "donations_per_week": 12035,
+    "donations_per_week": 12045,
     "clan_war_trophies": 1730,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -72,6 +72,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5343,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201113T195956.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 2,
+            "donations": 455,
+            "donations_received": 460,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2Y20VLR2",
             "name": "big rock",
             "exp_level": 13,
@@ -82,27 +99,10 @@
             },
             "role": "member",
             "last_seen": "20201113T023732.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 4,
             "donations": 291,
             "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5313,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20201113T195956.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 2,
-            "donations": 455,
-            "donations_received": 450,
             "clan_chest_points": 0
         },
         {
@@ -446,6 +446,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9VJGVJ8",
+            "name": "Dwight Schrute",
+            "exp_level": 12,
+            "trophies": 4845,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201113T193805.000Z",
+            "clan_rank": 26,
+            "previous_clan_rank": 38,
+            "donations": 637,
+            "donations_received": 520,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#LYJQPUUR",
             "name": "Papi",
             "exp_level": 11,
@@ -456,27 +473,10 @@
             },
             "role": "member",
             "last_seen": "20201113T074332.000Z",
-            "clan_rank": 26,
+            "clan_rank": 27,
             "previous_clan_rank": 26,
             "donations": 73,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9VJGVJ8",
-            "name": "Dwight Schrute",
-            "exp_level": 12,
-            "trophies": 4825,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201113T193805.000Z",
-            "clan_rank": 27,
-            "previous_clan_rank": 38,
-            "donations": 637,
-            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -523,7 +523,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201113T162748.000Z",
+            "last_seen": "20201113T200520.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 25,
             "donations": 65,
@@ -667,23 +667,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#U929P2VP",
-            "name": "Vqix",
-            "exp_level": 10,
-            "trophies": 4679,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201113T193218.000Z",
-            "clan_rank": 39,
-            "previous_clan_rank": 40,
-            "donations": 369,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8JP0JJP2",
             "name": "Kronx",
             "exp_level": 10,
@@ -694,10 +677,27 @@
             },
             "role": "member",
             "last_seen": "20201113T155943.000Z",
-            "clan_rank": 40,
+            "clan_rank": 39,
             "previous_clan_rank": 39,
             "donations": 48,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#U929P2VP",
+            "name": "Vqix",
+            "exp_level": 10,
+            "trophies": 4644,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201113T201414.000Z",
+            "clan_rank": 40,
+            "previous_clan_rank": 40,
+            "donations": 379,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
