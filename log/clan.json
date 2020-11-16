@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51696,
+    "clan_score": 51690,
     "required_trophies": 4300,
-    "donations_per_week": 396,
+    "donations_per_week": 416,
     "clan_war_trophies": 1730,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -191,23 +191,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5229,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20201116T021917.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 11,
-            "donations": 10,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -218,9 +201,26 @@
             },
             "role": "elder",
             "last_seen": "20201116T022057.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 10,
             "donations": 20,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5206,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20201116T043153.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 11,
+            "donations": 30,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -493,7 +493,7 @@
             "clan_rank": 28,
             "previous_clan_rank": 27,
             "donations": 0,
-            "donations_received": 10,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -561,7 +561,7 @@
             "clan_rank": 32,
             "previous_clan_rank": 33,
             "donations": 18,
-            "donations_received": 0,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
