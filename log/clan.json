@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52342,
+    "clan_score": 52330,
     "required_trophies": 5000,
     "donations_per_week": 11104,
     "clan_war_trophies": 1750,
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5261,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20201120T162214.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 14,
-            "donations": 338,
-            "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2CRR2R9JR",
             "name": "Michael Scott",
             "exp_level": 13,
@@ -269,10 +252,27 @@
             },
             "role": "member",
             "last_seen": "20201120T162612.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 15,
             "donations": 540,
             "donations_received": 390,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5215,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20201120T162214.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 14,
+            "donations": 338,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -353,7 +353,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20201120T162821.000Z",
+            "last_seen": "20201120T164010.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 21,
             "donations": 560,
@@ -370,7 +370,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20201120T153742.000Z",
+            "last_seen": "20201120T164327.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 8,
@@ -755,10 +755,10 @@
             "tag": "#9LY8CYCR0",
             "name": "buthole",
             "exp_level": 9,
-            "trophies": 4580,
+            "trophies": 4595,
             "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "member",
             "last_seen": "20201120T154453.000Z",
