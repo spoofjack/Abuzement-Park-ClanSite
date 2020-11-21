@@ -3,13 +3,13 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52904,
+    "clan_score": 52768,
     "required_trophies": 5000,
-    "donations_per_week": 14084,
+    "donations_per_week": 14114,
     "clan_war_trophies": 1750,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 50,
+    "members": 49,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -24,7 +24,7 @@
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
-            "trophies": 5703,
+            "trophies": 5683,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
@@ -33,8 +33,25 @@
             "last_seen": "20201121T212853.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 577,
+            "donations": 587,
             "donations_received": 480,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5553,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201121T213701.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 5,
+            "donations": 779,
+            "donations_received": 560,
             "clan_chest_points": 0
         },
         {
@@ -48,27 +65,10 @@
             },
             "role": "member",
             "last_seen": "20201121T192728.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 8,
             "donations": 662,
             "donations_received": 430,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5534,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "coLeader",
-            "last_seen": "20201121T193526.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 3,
-            "donations": 1245,
-            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -89,20 +89,20 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
             "exp_level": 13,
-            "trophies": 5523,
+            "trophies": 5510,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
-            "role": "elder",
-            "last_seen": "20201121T201437.000Z",
+            "role": "coLeader",
+            "last_seen": "20201121T213712.000Z",
             "clan_rank": 5,
-            "previous_clan_rank": 5,
-            "donations": 769,
-            "donations_received": 560,
+            "previous_clan_rank": 3,
+            "donations": 1255,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2CRR2R9JR",
-            "name": "Michael Scott",
-            "exp_level": 13,
-            "trophies": 5304,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20201121T212711.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 9,
-            "donations": 751,
-            "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8RQYURC",
             "name": "Tranosaurus",
             "exp_level": 12,
@@ -269,10 +252,27 @@
             },
             "role": "elder",
             "last_seen": "20201121T065052.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 16,
             "donations": 156,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2CRR2R9JR",
+            "name": "Michael Scott",
+            "exp_level": 13,
+            "trophies": 5281,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201121T212711.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 9,
+            "donations": 751,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -446,6 +446,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#20LGGP900",
+            "name": "blackdog",
+            "exp_level": 12,
+            "trophies": 5045,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201121T214153.000Z",
+            "clan_rank": 26,
+            "previous_clan_rank": 26,
+            "donations": 258,
+            "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#QGYPU2RC",
             "name": "gioaguilar",
             "exp_level": 12,
@@ -456,7 +473,7 @@
             },
             "role": "member",
             "last_seen": "20201121T032823.000Z",
-            "clan_rank": 26,
+            "clan_rank": 27,
             "previous_clan_rank": 31,
             "donations": 6,
             "donations_received": 0,
@@ -473,7 +490,7 @@
             },
             "role": "elder",
             "last_seen": "20201121T210614.000Z",
-            "clan_rank": 27,
+            "clan_rank": 28,
             "previous_clan_rank": 28,
             "donations": 308,
             "donations_received": 520,
@@ -490,27 +507,10 @@
             },
             "role": "elder",
             "last_seen": "20201120T140650.000Z",
-            "clan_rank": 28,
+            "clan_rank": 29,
             "previous_clan_rank": 29,
             "donations": 44,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#20LGGP900",
-            "name": "blackdog",
-            "exp_level": 12,
-            "trophies": 5015,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20201121T194956.000Z",
-            "clan_rank": 29,
-            "previous_clan_rank": 26,
-            "donations": 258,
-            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -551,13 +551,13 @@
             "tag": "#YLCLYCCLR",
             "name": "yggdrasil",
             "exp_level": 11,
-            "trophies": 4948,
+            "trophies": 4977,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201121T210233.000Z",
+            "last_seen": "20201121T213637.000Z",
             "clan_rank": 32,
             "previous_clan_rank": 32,
             "donations": 35,
@@ -693,7 +693,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201121T203212.000Z",
+            "last_seen": "20201121T214442.000Z",
             "clan_rank": 40,
             "previous_clan_rank": 42,
             "donations": 334,
@@ -837,23 +837,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YVLRYQY8Q",
-            "name": "Jayy",
-            "exp_level": 12,
-            "trophies": 4359,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20201115T024409.000Z",
-            "clan_rank": 49,
-            "previous_clan_rank": 49,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2JQYGU8P9",
             "name": "Orlando Beltran",
             "exp_level": 11,
@@ -864,10 +847,10 @@
             },
             "role": "member",
             "last_seen": "20201121T212658.000Z",
-            "clan_rank": 50,
+            "clan_rank": 49,
             "previous_clan_rank": 50,
             "donations": 87,
-            "donations_received": 290,
+            "donations_received": 320,
             "clan_chest_points": 0
         }
     ]

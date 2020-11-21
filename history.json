@@ -1,14 +1,14 @@
 {
-    "last_update": 1606012200.94576,
+    "last_update": 1606013100.941158,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
             "join_date": 1574406000,
-            "last_activity_date": 1606005900.934208,
-            "last_donation_date": 1606005900.934208,
+            "last_activity_date": 1606013100.941158,
+            "last_donation_date": 1606013100.941158,
             "role": "coLeader",
             "status": "present",
-            "donations": 1245,
+            "donations": 1255,
             "donations_last_week": 1635,
             "events": [
                 {
@@ -88,11 +88,11 @@
         "#8C099Q9J8": {
             "name": "Bow To Chase",
             "join_date": 1574406000,
-            "last_activity_date": 1606004100.930754,
-            "last_donation_date": 1606004100.930754,
+            "last_activity_date": 1606013100.941158,
+            "last_donation_date": 1606013100.941158,
             "role": "coLeader",
             "status": "present",
-            "donations": 577,
+            "donations": 587,
             "donations_last_week": 363,
             "events": [
                 {
@@ -310,11 +310,11 @@
         "#8CLQGRJL0": {
             "name": "klawler",
             "join_date": 1574446249.46422,
-            "last_activity_date": 1606007700.93546,
-            "last_donation_date": 1606007700.93546,
+            "last_activity_date": 1606013100.941158,
+            "last_donation_date": 1606013100.941158,
             "role": "elder",
             "status": "present",
-            "donations": 769,
+            "donations": 779,
             "donations_last_week": 657,
             "events": [
                 {
@@ -3553,7 +3553,7 @@
             "last_activity_date": 1605426301.073647,
             "last_donation_date": 1605426301.073647,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 10,
             "events": [
@@ -3574,6 +3574,12 @@
                     "type": "re-join",
                     "role": "member",
                     "date": 1597742101.038955
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1606013100.941158
                 }
             ]
         },
