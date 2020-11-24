@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53494,
+    "clan_score": 53509,
     "required_trophies": 5000,
-    "donations_per_week": 3808,
+    "donations_per_week": 3816,
     "clan_war_trophies": 1770,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,10 +47,27 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20201124T041446.000Z",
+            "last_seen": "20201124T143542.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 3,
-            "donations": 126,
+            "donations": 134,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "exp_level": 13,
+            "trophies": 5550,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201124T143158.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 8,
+            "donations": 20,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -65,7 +82,7 @@
             },
             "role": "member",
             "last_seen": "20201124T134443.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 70,
             "donations_received": 160,
@@ -82,7 +99,7 @@
             },
             "role": "elder",
             "last_seen": "20201124T123419.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 2,
             "donations": 150,
             "donations_received": 160,
@@ -99,26 +116,9 @@
             },
             "role": "member",
             "last_seen": "20201124T140732.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 116,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "exp_level": 13,
-            "trophies": 5520,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20201124T102003.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 8,
-            "donations": 20,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 7,
             "donations": 142,
-            "donations_received": 168,
+            "donations_received": 176,
             "clan_chest_points": 0
         },
         {
@@ -268,7 +268,7 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20201124T071710.000Z",
+            "last_seen": "20201124T143937.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 16,
             "donations": 110,
