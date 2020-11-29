@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54544,
+    "clan_score": 54539,
     "required_trophies": 5000,
     "donations_per_week": 14830,
     "clan_war_trophies": 1770,
@@ -208,23 +208,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5549,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20201129T053857.000Z",
-            "clan_rank": 12,
-            "previous_clan_rank": 18,
-            "donations": 450,
-            "donations_received": 600,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -235,10 +218,27 @@
             },
             "role": "elder",
             "last_seen": "20201129T002225.000Z",
-            "clan_rank": 13,
+            "clan_rank": 12,
             "previous_clan_rank": 8,
             "donations": 216,
             "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5530,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201129T053857.000Z",
+            "clan_rank": 13,
+            "previous_clan_rank": 18,
+            "donations": 450,
+            "donations_received": 600,
             "clan_chest_points": 0
         },
         {
@@ -625,7 +625,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201129T061859.000Z",
+            "last_seen": "20201129T063316.000Z",
             "clan_rank": 36,
             "previous_clan_rank": 37,
             "donations": 496,
