@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54621,
+    "clan_score": 54601,
     "required_trophies": 5000,
     "donations_per_week": 222,
     "clan_war_trophies": 1770,
@@ -55,23 +55,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 13,
-            "trophies": 5747,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "elder",
-            "last_seen": "20201130T005727.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 25,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 13,
@@ -82,7 +65,7 @@
             },
             "role": "leader",
             "last_seen": "20201129T235220.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 4,
             "donations": 0,
             "donations_received": 0,
@@ -99,8 +82,25 @@
             },
             "role": "coLeader",
             "last_seen": "20201130T011710.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 6,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 13,
+            "trophies": 5720,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20201130T015040.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 25,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -225,23 +225,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PYL9RLGQG",
-            "name": "Jesse",
-            "exp_level": 13,
-            "trophies": 5483,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20201130T013434.000Z",
-            "clan_rank": 13,
-            "previous_clan_rank": 13,
-            "donations": 18,
-            "donations_received": 16,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -252,7 +235,7 @@
             },
             "role": "member",
             "last_seen": "20201130T002644.000Z",
-            "clan_rank": 14,
+            "clan_rank": 13,
             "previous_clan_rank": 10,
             "donations": 18,
             "donations_received": 40,
@@ -269,10 +252,27 @@
             },
             "role": "elder",
             "last_seen": "20201129T192519.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 12,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PYL9RLGQG",
+            "name": "Jesse",
+            "exp_level": 13,
+            "trophies": 5459,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201130T014630.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 13,
+            "donations": 18,
+            "donations_received": 16,
             "clan_chest_points": 0
         },
         {
@@ -718,23 +718,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8JP0JJP2",
-            "name": "Kronx",
-            "exp_level": 10,
-            "trophies": 4887,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201129T222412.000Z",
-            "clan_rank": 42,
-            "previous_clan_rank": 44,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#L9UG9VLJ2",
             "name": "Churro",
             "exp_level": 10,
@@ -745,8 +728,25 @@
             },
             "role": "member",
             "last_seen": "20201129T220713.000Z",
-            "clan_rank": 43,
+            "clan_rank": 42,
             "previous_clan_rank": 43,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JP0JJP2",
+            "name": "Kronx",
+            "exp_level": 10,
+            "trophies": 4848,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201130T015005.000Z",
+            "clan_rank": 43,
+            "previous_clan_rank": 44,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
