@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 55082,
+    "clan_score": 55080,
     "required_trophies": 5000,
     "donations_per_week": 7040,
     "clan_war_trophies": 1790,
@@ -378,23 +378,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2JLYU8L8",
-            "name": "Rochi",
-            "exp_level": 12,
-            "trophies": 5298,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20201202T223635.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 23,
-            "donations": 35,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8RQYURC",
             "name": "Tranosaurus",
             "exp_level": 12,
@@ -405,9 +388,26 @@
             },
             "role": "elder",
             "last_seen": "20201127T034426.000Z",
-            "clan_rank": 23,
+            "clan_rank": 22,
             "previous_clan_rank": 22,
             "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2JLYU8L8",
+            "name": "Rochi",
+            "exp_level": 12,
+            "trophies": 5275,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201202T223635.000Z",
+            "clan_rank": 23,
+            "previous_clan_rank": 23,
+            "donations": 35,
             "donations_received": 0,
             "clan_chest_points": 0
         },
