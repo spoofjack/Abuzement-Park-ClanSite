@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 55126,
+    "clan_score": 55138,
     "required_trophies": 5000,
-    "donations_per_week": 8808,
+    "donations_per_week": 8856,
     "clan_war_trophies": 1790,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5912,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20201203T181300.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 3,
+            "donations": 340,
+            "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
@@ -31,7 +48,7 @@
             },
             "role": "elder",
             "last_seen": "20201203T171139.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 100,
             "donations_received": 320,
@@ -48,27 +65,10 @@
             },
             "role": "coLeader",
             "last_seen": "20201203T175413.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 1,
             "donations": 780,
             "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5883,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20201203T181300.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 3,
-            "donations": 324,
-            "donations_received": 304,
             "clan_chest_points": 0
         },
         {
@@ -336,10 +336,10 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20201203T152949.000Z",
+            "last_seen": "20201203T182815.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 18,
-            "donations": 287,
+            "donations": 303,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -353,7 +353,7 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20201203T152217.000Z",
+            "last_seen": "20201203T182241.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 122,
@@ -466,7 +466,7 @@
             "tag": "#YLCLYCCLR",
             "name": "yggdrasil",
             "exp_level": 11,
-            "trophies": 5253,
+            "trophies": 5230,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -527,7 +527,7 @@
             "clan_rank": 30,
             "previous_clan_rank": 32,
             "donations": 476,
-            "donations_received": 304,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -846,11 +846,11 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20201201T193540.000Z",
+            "last_seen": "20201203T181629.000Z",
             "clan_rank": 49,
             "previous_clan_rank": 49,
-            "donations": 0,
-            "donations_received": 40,
+            "donations": 16,
+            "donations_received": 56,
             "clan_chest_points": 0
         }
     ]
