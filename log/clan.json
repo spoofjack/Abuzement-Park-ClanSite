@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 55135,
+    "clan_score": 55140,
     "required_trophies": 5000,
-    "donations_per_week": 7804,
+    "donations_per_week": 7814,
     "clan_war_trophies": 1790,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -225,6 +225,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5543,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201203T062841.000Z",
+            "clan_rank": 13,
+            "previous_clan_rank": 15,
+            "donations": 308,
+            "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -235,7 +252,7 @@
             },
             "role": "member",
             "last_seen": "20201203T012939.000Z",
-            "clan_rank": 13,
+            "clan_rank": 14,
             "previous_clan_rank": 16,
             "donations": 275,
             "donations_received": 280,
@@ -252,27 +269,10 @@
             },
             "role": "elder",
             "last_seen": "20201203T021230.000Z",
-            "clan_rank": 14,
+            "clan_rank": 15,
             "previous_clan_rank": 13,
             "donations": 334,
             "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5514,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20201203T062841.000Z",
-            "clan_rank": 15,
-            "previous_clan_rank": 15,
-            "donations": 308,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -340,7 +340,7 @@
             "clan_rank": 19,
             "previous_clan_rank": 19,
             "donations": 104,
-            "donations_received": 220,
+            "donations_received": 230,
             "clan_chest_points": 0
         },
         {
@@ -565,23 +565,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#QGYPU2RC",
-            "name": "gioaguilar",
-            "exp_level": 12,
-            "trophies": 5066,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20201203T060900.000Z",
-            "clan_rank": 33,
-            "previous_clan_rank": 33,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#LC9C9RQ",
             "name": "Jim Halpert",
             "exp_level": 11,
@@ -592,7 +575,7 @@
             },
             "role": "member",
             "last_seen": "20201203T012358.000Z",
-            "clan_rank": 34,
+            "clan_rank": 33,
             "previous_clan_rank": 34,
             "donations": 76,
             "donations_received": 40,
@@ -609,10 +592,27 @@
             },
             "role": "member",
             "last_seen": "20201202T131748.000Z",
-            "clan_rank": 35,
+            "clan_rank": 34,
             "previous_clan_rank": 35,
             "donations": 26,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#QGYPU2RC",
+            "name": "gioaguilar",
+            "exp_level": 12,
+            "trophies": 5046,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201203T060900.000Z",
+            "clan_rank": 35,
+            "previous_clan_rank": 33,
+            "donations": 10,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
