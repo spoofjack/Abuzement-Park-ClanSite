@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 55053,
+    "clan_score": 55102,
     "required_trophies": 5000,
-    "donations_per_week": 9504,
+    "donations_per_week": 9527,
     "clan_war_trophies": 1790,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5949,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20201204T011115.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 3,
+            "donations": 388,
+            "donations_received": 327,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
@@ -31,7 +48,7 @@
             },
             "role": "elder",
             "last_seen": "20201203T171139.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 100,
             "donations_received": 320,
@@ -48,27 +65,10 @@
             },
             "role": "coLeader",
             "last_seen": "20201204T000030.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 4,
             "donations": 132,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5861,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20201204T005741.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 3,
-            "donations": 388,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -166,10 +166,10 @@
                 "name": "Master III"
             },
             "role": "member",
-            "last_seen": "20201203T225831.000Z",
+            "last_seen": "20201204T010857.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 12,
-            "donations": 124,
+            "donations": 132,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -183,10 +183,10 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20201204T001912.000Z",
+            "last_seen": "20201204T011143.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 10,
-            "donations": 476,
+            "donations": 480,
             "donations_received": 360,
             "clan_chest_points": 0
         },
@@ -306,7 +306,7 @@
             "clan_rank": 17,
             "previous_clan_rank": 13,
             "donations": 408,
-            "donations_received": 344,
+            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -330,7 +330,7 @@
             "tag": "#2CRR2R9JR",
             "name": "Michael Scott",
             "exp_level": 13,
-            "trophies": 5437,
+            "trophies": 5467,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
@@ -446,23 +446,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PRJ9JC9J",
-            "name": "max the great",
-            "exp_level": 12,
-            "trophies": 5280,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20201203T222856.000Z",
-            "clan_rank": 26,
-            "previous_clan_rank": 23,
-            "donations": 86,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#82UQ80Q8",
             "name": "PhantomX",
             "exp_level": 13,
@@ -473,10 +456,27 @@
             },
             "role": "member",
             "last_seen": "20201203T032106.000Z",
-            "clan_rank": 27,
+            "clan_rank": 26,
             "previous_clan_rank": 25,
             "donations": 128,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PRJ9JC9J",
+            "name": "max the great",
+            "exp_level": 12,
+            "trophies": 5263,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201204T010725.000Z",
+            "clan_rank": 27,
+            "previous_clan_rank": 23,
+            "donations": 97,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -625,7 +625,7 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20201203T153752.000Z",
+            "last_seen": "20201204T011205.000Z",
             "clan_rank": 36,
             "previous_clan_rank": 33,
             "donations": 10,
