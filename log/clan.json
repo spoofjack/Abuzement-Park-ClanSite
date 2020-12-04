@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54996,
+    "clan_score": 55010,
     "required_trophies": 5000,
-    "donations_per_week": 11810,
+    "donations_per_week": 11864,
     "clan_war_trophies": 1790,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -72,6 +72,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#898R0LQRG",
+            "name": "beast boy",
+            "exp_level": 12,
+            "trophies": 5716,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "member",
+            "last_seen": "20201204T222834.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 4,
+            "donations": 282,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -82,10 +99,10 @@
             },
             "role": "elder",
             "last_seen": "20201204T221455.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 10,
             "donations": 598,
-            "donations_received": 470,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -99,7 +116,7 @@
             },
             "role": "member",
             "last_seen": "20201204T204237.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 747,
             "donations_received": 480,
@@ -116,27 +133,10 @@
             },
             "role": "elder",
             "last_seen": "20201204T212849.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 68,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#898R0LQRG",
-            "name": "beast boy",
-            "exp_level": 12,
-            "trophies": 5663,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "member",
-            "last_seen": "20201204T222834.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 4,
-            "donations": 274,
-            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -149,7 +149,7 @@
                 "name": "Master III"
             },
             "role": "leader",
-            "last_seen": "20201204T201754.000Z",
+            "last_seen": "20201204T224330.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 390,
@@ -220,7 +220,7 @@
             "last_seen": "20201204T222123.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 6,
-            "donations": 1170,
+            "donations": 1178,
             "donations_received": 440,
             "clan_chest_points": 0
         },
@@ -268,10 +268,10 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20201204T201728.000Z",
+            "last_seen": "20201204T224211.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 16,
-            "donations": 431,
+            "donations": 449,
             "donations_received": 520,
             "clan_chest_points": 0
         },
@@ -302,11 +302,11 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20201204T185547.000Z",
+            "last_seen": "20201204T224014.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 17,
-            "donations": 428,
-            "donations_received": 400,
+            "donations": 448,
+            "donations_received": 424,
             "clan_chest_points": 0
         },
         {
@@ -327,23 +327,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5424,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20201204T222437.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 12,
-            "donations": 435,
-            "donations_received": 460,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2JLYU8L8",
             "name": "Rochi",
             "exp_level": 12,
@@ -354,7 +337,7 @@
             },
             "role": "member",
             "last_seen": "20201204T215341.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 23,
             "donations": 35,
             "donations_received": 0,
@@ -371,7 +354,7 @@
             },
             "role": "member",
             "last_seen": "20201204T202125.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 20,
             "donations": 186,
             "donations_received": 400,
@@ -388,10 +371,27 @@
             },
             "role": "elder",
             "last_seen": "20201204T062748.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 124,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5365,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201204T222437.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 12,
+            "donations": 435,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -565,23 +565,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PY2VRQU9J",
-            "name": "XR",
-            "exp_level": 11,
-            "trophies": 5134,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20201204T221514.000Z",
-            "clan_rank": 33,
-            "previous_clan_rank": 28,
-            "donations": 619,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "exp_level": 11,
@@ -592,10 +575,27 @@
             },
             "role": "member",
             "last_seen": "20201204T201807.000Z",
-            "clan_rank": 34,
+            "clan_rank": 33,
             "previous_clan_rank": 33,
             "donations": 228,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PY2VRQU9J",
+            "name": "XR",
+            "exp_level": 11,
+            "trophies": 5107,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201204T223600.000Z",
+            "clan_rank": 34,
+            "previous_clan_rank": 28,
+            "donations": 619,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
