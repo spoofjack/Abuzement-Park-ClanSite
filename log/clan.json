@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54939,
+    "clan_score": 54935,
     "required_trophies": 5000,
     "donations_per_week": 16200,
     "clan_war_trophies": 1790,
@@ -72,23 +72,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 5726,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "leader",
-            "last_seen": "20201206T192330.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 11,
-            "donations": 616,
-            "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 13,
@@ -99,7 +82,7 @@
             },
             "role": "elder",
             "last_seen": "20201206T180154.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 76,
             "donations_received": 80,
@@ -116,10 +99,27 @@
             },
             "role": "member",
             "last_seen": "20201206T084022.000Z",
-            "clan_rank": 6,
+            "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 969,
             "donations_received": 600,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 5697,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "leader",
+            "last_seen": "20201206T193417.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 11,
+            "donations": 616,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -344,6 +344,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 5394,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20201206T193009.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 23,
+            "donations": 320,
+            "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PV02PGVQ",
             "name": "someone",
             "exp_level": 12,
@@ -354,27 +371,10 @@
             },
             "role": "elder",
             "last_seen": "20201205T180559.000Z",
-            "clan_rank": 20,
+            "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 134,
             "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 5364,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20201206T185004.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 23,
-            "donations": 320,
-            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -446,6 +446,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PRJ9JC9J",
+            "name": "max the great",
+            "exp_level": 12,
+            "trophies": 5242,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201206T193649.000Z",
+            "clan_rank": 26,
+            "previous_clan_rank": 21,
+            "donations": 325,
+            "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2998GQ9YY",
             "name": "The_Myth_",
             "exp_level": 13,
@@ -456,27 +473,10 @@
             },
             "role": "member",
             "last_seen": "20201206T182719.000Z",
-            "clan_rank": 26,
+            "clan_rank": 27,
             "previous_clan_rank": 28,
             "donations": 300,
             "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PRJ9JC9J",
-            "name": "max the great",
-            "exp_level": 12,
-            "trophies": 5215,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20201206T192205.000Z",
-            "clan_rank": 27,
-            "previous_clan_rank": 21,
-            "donations": 325,
-            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -812,7 +812,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201206T182631.000Z",
+            "last_seen": "20201206T193938.000Z",
             "clan_rank": 47,
             "previous_clan_rank": 48,
             "donations": 76,
