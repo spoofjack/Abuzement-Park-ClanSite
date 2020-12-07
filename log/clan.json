@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54858,
+    "clan_score": 54825,
     "required_trophies": 5000,
-    "donations_per_week": 390,
+    "donations_per_week": 540,
     "clan_war_trophies": 1790,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -85,7 +85,7 @@
             "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 46,
-            "donations_received": 0,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -98,11 +98,11 @@
                 "name": "Master III"
             },
             "role": "member",
-            "last_seen": "20201207T025838.000Z",
+            "last_seen": "20201207T042701.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 6,
-            "donations": 20,
-            "donations_received": 0,
+            "donations": 50,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
@@ -123,23 +123,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5657,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "elder",
-            "last_seen": "20201207T041239.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 11,
-            "donations": 10,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 13,
@@ -150,7 +133,7 @@
             },
             "role": "elder",
             "last_seen": "20201207T004607.000Z",
-            "clan_rank": 8,
+            "clan_rank": 7,
             "previous_clan_rank": 5,
             "donations": 10,
             "donations_received": 0,
@@ -167,7 +150,7 @@
             },
             "role": "leader",
             "last_seen": "20201207T014547.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 10,
             "donations": 30,
             "donations_received": 40,
@@ -184,7 +167,7 @@
             },
             "role": "member",
             "last_seen": "20201207T012254.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 0,
             "donations_received": 0,
@@ -201,9 +184,26 @@
             },
             "role": "member",
             "last_seen": "20201206T191425.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 9,
             "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5572,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20201207T042539.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 11,
+            "donations": 40,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -254,7 +254,7 @@
             "last_seen": "20201207T041459.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 13,
-            "donations": 18,
+            "donations": 68,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -323,7 +323,7 @@
             "clan_rank": 18,
             "previous_clan_rank": 15,
             "donations": 0,
-            "donations_received": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -336,11 +336,11 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20201206T012434.000Z",
+            "last_seen": "20201207T042025.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 19,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 20,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -829,11 +829,11 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201206T035839.000Z",
+            "last_seen": "20201207T042051.000Z",
             "clan_rank": 48,
             "previous_clan_rank": 48,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 20,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -850,7 +850,7 @@
             "clan_rank": 49,
             "previous_clan_rank": 49,
             "donations": 10,
-            "donations_received": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         }
     ]
