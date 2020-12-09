@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47257,
+    "clan_score": 47243,
     "required_trophies": 5000,
     "donations_per_week": 7510,
     "clan_war_trophies": 1890,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 4936,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "coLeader",
-            "last_seen": "20201209T222843.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 3,
-            "donations": 156,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
@@ -48,7 +31,7 @@
             },
             "role": "elder",
             "last_seen": "20201209T172841.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 4,
             "donations": 84,
             "donations_received": 200,
@@ -58,17 +41,34 @@
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
-            "trophies": 4878,
+            "trophies": 4908,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
             "last_seen": "20201209T222120.000Z",
-            "clan_rank": 3,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 314,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 4878,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "coLeader",
+            "last_seen": "20201209T223921.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 3,
+            "donations": 156,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
