@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47586,
+    "clan_score": 47571,
     "required_trophies": 5000,
-    "donations_per_week": 12760,
+    "donations_per_week": 12770,
     "clan_war_trophies": 1890,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 4969,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20201212T025526.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 8,
-            "donations": 394,
-            "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
@@ -48,7 +31,7 @@
             },
             "role": "elder",
             "last_seen": "20201211T183740.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 112,
             "donations_received": 360,
@@ -65,10 +48,27 @@
             },
             "role": "member",
             "last_seen": "20201212T005554.000Z",
-            "clan_rank": 3,
+            "clan_rank": 2,
             "previous_clan_rank": 5,
             "donations": 227,
             "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 4939,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20201212T025526.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 8,
+            "donations": 394,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -136,7 +136,7 @@
             "clan_rank": 7,
             "previous_clan_rank": 9,
             "donations": 870,
-            "donations_received": 490,
+            "donations_received": 500,
             "clan_chest_points": 0
         },
         {
@@ -693,10 +693,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201211T234302.000Z",
+            "last_seen": "20201212T031239.000Z",
             "clan_rank": 40,
             "previous_clan_rank": 40,
-            "donations": 831,
+            "donations": 841,
             "donations_received": 120,
             "clan_chest_points": 0
         },
