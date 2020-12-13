@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47920,
+    "clan_score": 47907,
     "required_trophies": 5000,
-    "donations_per_week": 14710,
+    "donations_per_week": 14720,
     "clan_war_trophies": 1890,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -123,23 +123,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 4911,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "coLeader",
-            "last_seen": "20201213T022848.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 8,
-            "donations": 404,
-            "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -150,10 +133,27 @@
             },
             "role": "elder",
             "last_seen": "20201213T001839.000Z",
-            "clan_rank": 8,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 503,
             "donations_received": 560,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 4884,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "coLeader",
+            "last_seen": "20201213T022848.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 8,
+            "donations": 404,
+            "donations_received": 490,
             "clan_chest_points": 0
         },
         {
@@ -370,10 +370,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201213T025255.000Z",
+            "last_seen": "20201213T031412.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 18,
-            "donations": 276,
+            "donations": 286,
             "donations_received": 520,
             "clan_chest_points": 0
         },
