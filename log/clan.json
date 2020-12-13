@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47906,
+    "clan_score": 47891,
     "required_trophies": 5000,
-    "donations_per_week": 15170,
+    "donations_per_week": 15180,
     "clan_war_trophies": 1890,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -89,23 +89,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "exp_level": 13,
-            "trophies": 4964,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20201212T101717.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 2,
-            "donations": 112,
-            "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#LYJ020LL",
             "name": "Moon",
             "exp_level": 13,
@@ -115,11 +98,28 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201213T081845.000Z",
-            "clan_rank": 6,
+            "last_seen": "20201213T103513.000Z",
+            "clan_rank": 5,
             "previous_clan_rank": 3,
-            "donations": 293,
+            "donations": 303,
             "donations_received": 450,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "exp_level": 13,
+            "trophies": 4935,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20201213T103431.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 2,
+            "donations": 112,
+            "donations_received": 410,
             "clan_chest_points": 0
         },
         {
@@ -489,7 +489,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201213T081825.000Z",
+            "last_seen": "20201213T103100.000Z",
             "clan_rank": 28,
             "previous_clan_rank": 29,
             "donations": 378,
