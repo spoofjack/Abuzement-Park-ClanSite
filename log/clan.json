@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47897,
+    "clan_score": 47926,
     "required_trophies": 5000,
-    "donations_per_week": 14497,
+    "donations_per_week": 14505,
     "clan_war_trophies": 1890,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -55,6 +55,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 5002,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "leader",
+            "last_seen": "20201212T235307.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 11,
+            "donations": 650,
+            "donations_received": 560,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -65,27 +82,10 @@
             },
             "role": "coLeader",
             "last_seen": "20201212T234950.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 634,
-            "donations_received": 547,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 4971,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "leader",
-            "last_seen": "20201212T235307.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 11,
-            "donations": 650,
-            "donations_received": 560,
+            "donations_received": 555,
             "clan_chest_points": 0
         },
         {
@@ -149,11 +149,28 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201212T235544.000Z",
+            "last_seen": "20201213T000105.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 643,
             "donations_received": 520,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 4874,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20201212T232647.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 1,
+            "donations": 437,
+            "donations_received": 600,
             "clan_chest_points": 0
         },
         {
@@ -167,27 +184,10 @@
             },
             "role": "elder",
             "last_seen": "20201212T115324.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 6,
             "donations": 498,
             "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 4848,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20201212T232647.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 1,
-            "donations": 437,
-            "donations_received": 600,
             "clan_chest_points": 0
         },
         {
@@ -336,7 +336,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201212T210006.000Z",
+            "last_seen": "20201213T000103.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 20,
             "donations": 419,
@@ -693,10 +693,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201212T224823.000Z",
+            "last_seen": "20201213T001137.000Z",
             "clan_rank": 40,
             "previous_clan_rank": 40,
-            "donations": 881,
+            "donations": 889,
             "donations_received": 120,
             "clan_chest_points": 0
         },
