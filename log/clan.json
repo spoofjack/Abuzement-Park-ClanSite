@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47877,
+    "clan_score": 47863,
     "required_trophies": 5000,
-    "donations_per_week": 8,
+    "donations_per_week": 148,
     "clan_war_trophies": 1890,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -38,23 +38,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 4996,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "leader",
-            "last_seen": "20201214T001050.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 3,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
@@ -65,7 +48,7 @@
             },
             "role": "elder",
             "last_seen": "20201213T103431.000Z",
-            "clan_rank": 3,
+            "clan_rank": 2,
             "previous_clan_rank": 5,
             "donations": 0,
             "donations_received": 0,
@@ -82,9 +65,26 @@
             },
             "role": "member",
             "last_seen": "20201213T225606.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 6,
             "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 4968,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "leader",
+            "last_seen": "20201214T002540.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 3,
+            "donations": 18,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -319,10 +319,10 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20201214T000227.000Z",
+            "last_seen": "20201214T001842.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 16,
-            "donations": 0,
+            "donations": 28,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -370,10 +370,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201213T235805.000Z",
+            "last_seen": "20201214T002853.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 21,
-            "donations": 0,
+            "donations": 17,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -432,7 +432,7 @@
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "exp_level": 13,
-            "trophies": 4620,
+            "trophies": 4619,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -442,7 +442,7 @@
             "clan_rank": 25,
             "previous_clan_rank": 22,
             "donations": 8,
-            "donations_received": 0,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -472,11 +472,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201213T061409.000Z",
+            "last_seen": "20201214T002259.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 25,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -557,11 +557,11 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201213T211203.000Z",
+            "last_seen": "20201214T001525.000Z",
             "clan_rank": 32,
             "previous_clan_rank": 24,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 10,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -608,10 +608,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201213T233048.000Z",
+            "last_seen": "20201214T002819.000Z",
             "clan_rank": 35,
             "previous_clan_rank": 34,
-            "donations": 0,
+            "donations": 28,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -659,7 +659,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201213T212030.000Z",
+            "last_seen": "20201214T002717.000Z",
             "clan_rank": 38,
             "previous_clan_rank": 36,
             "donations": 0,
@@ -710,10 +710,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201213T201709.000Z",
+            "last_seen": "20201214T002421.000Z",
             "clan_rank": 41,
             "previous_clan_rank": 40,
-            "donations": 0,
+            "donations": 18,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -778,11 +778,11 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20201213T040824.000Z",
+            "last_seen": "20201214T002517.000Z",
             "clan_rank": 45,
             "previous_clan_rank": 45,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 1,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
