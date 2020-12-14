@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47949,
+    "clan_score": 47952,
     "required_trophies": 5000,
-    "donations_per_week": 428,
+    "donations_per_week": 438,
     "clan_war_trophies": 1890,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -149,11 +149,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201214T061403.000Z",
+            "last_seen": "20201214T062848.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 20,
-            "donations_received": 20,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -361,6 +361,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "exp_level": 12,
+            "trophies": 4700,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20201214T061913.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 23,
+            "donations": 10,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#82UQ80Q8",
             "name": "PhantomX",
             "exp_level": 13,
@@ -371,25 +388,8 @@
             },
             "role": "member",
             "last_seen": "20201214T011937.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 21,
-            "donations": 0,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "exp_level": 12,
-            "trophies": 4671,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20201214T051259.000Z",
             "clan_rank": 22,
-            "previous_clan_rank": 23,
+            "previous_clan_rank": 21,
             "donations": 0,
             "donations_received": 40,
             "clan_chest_points": 0
@@ -585,7 +585,7 @@
             "tag": "#2JLYU8L8",
             "name": "Rochi",
             "exp_level": 12,
-            "trophies": 4522,
+            "trophies": 4524,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -684,23 +684,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PY2VRQU9J",
-            "name": "XR",
-            "exp_level": 11,
-            "trophies": 4403,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20201214T060236.000Z",
-            "clan_rank": 40,
-            "previous_clan_rank": 40,
-            "donations": 28,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#99Q80PG9",
             "name": "Kevin Malone",
             "exp_level": 10,
@@ -711,9 +694,26 @@
             },
             "role": "member",
             "last_seen": "20201213T220130.000Z",
-            "clan_rank": 41,
+            "clan_rank": 40,
             "previous_clan_rank": 39,
             "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PY2VRQU9J",
+            "name": "XR",
+            "exp_level": 11,
+            "trophies": 4372,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20201214T060236.000Z",
+            "clan_rank": 41,
+            "previous_clan_rank": 40,
+            "donations": 28,
             "donations_received": 0,
             "clan_chest_points": 0
         },
