@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47964,
+    "clan_score": 47974,
     "required_trophies": 5000,
-    "donations_per_week": 508,
+    "donations_per_week": 516,
     "clan_war_trophies": 1890,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -55,6 +55,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "exp_level": 13,
+            "trophies": 4993,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20201214T084019.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 3,
+            "donations": 0,
+            "donations_received": 8,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#LYJ020LL",
             "name": "Moon",
             "exp_level": 13,
@@ -65,7 +82,7 @@
             },
             "role": "member",
             "last_seen": "20201214T050631.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 5,
             "donations": 20,
             "donations_received": 0,
@@ -82,27 +99,10 @@
             },
             "role": "elder",
             "last_seen": "20201214T024015.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 6,
             "donations": 0,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "exp_level": 13,
-            "trophies": 4964,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20201214T084019.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 3,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -446,23 +446,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#Y99CRCGUC",
-            "name": "toxos",
-            "exp_level": 11,
-            "trophies": 4617,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201214T082120.000Z",
-            "clan_rank": 26,
-            "previous_clan_rank": 29,
-            "donations": 20,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9VJGVJ8",
             "name": "Dwight Schrute",
             "exp_level": 12,
@@ -473,10 +456,27 @@
             },
             "role": "member",
             "last_seen": "20201214T061242.000Z",
-            "clan_rank": 27,
+            "clan_rank": 26,
             "previous_clan_rank": 26,
             "donations": 40,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#Y99CRCGUC",
+            "name": "toxos",
+            "exp_level": 11,
+            "trophies": 4589,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201214T085331.000Z",
+            "clan_rank": 27,
+            "previous_clan_rank": 29,
+            "donations": 28,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
