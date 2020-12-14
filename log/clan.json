@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47866,
+    "clan_score": 47878,
     "required_trophies": 5000,
-    "donations_per_week": 178,
+    "donations_per_week": 208,
     "clan_war_trophies": 1890,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 4998,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "leader",
+            "last_seen": "20201214T004827.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 3,
+            "donations": 28,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -30,10 +47,10 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20201214T004454.000Z",
-            "clan_rank": 1,
+            "last_seen": "20201214T005538.000Z",
+            "clan_rank": 2,
             "previous_clan_rank": 1,
-            "donations": 0,
+            "donations": 10,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -48,7 +65,7 @@
             },
             "role": "elder",
             "last_seen": "20201213T103431.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 5,
             "donations": 0,
             "donations_received": 0,
@@ -65,26 +82,9 @@
             },
             "role": "member",
             "last_seen": "20201213T225606.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 6,
             "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 4968,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "leader",
-            "last_seen": "20201214T003302.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 3,
-            "donations": 18,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 15,
             "donations": 10,
-            "donations_received": 10,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -472,10 +472,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201214T002259.000Z",
+            "last_seen": "20201214T005956.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 25,
-            "donations": 20,
+            "donations": 30,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -548,23 +548,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PRJ9JC9J",
-            "name": "max the great",
-            "exp_level": 12,
-            "trophies": 4540,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20201214T004342.000Z",
-            "clan_rank": 32,
-            "previous_clan_rank": 24,
-            "donations": 30,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#JRG8G8LL",
             "name": "Evan_Wibb",
             "exp_level": 12,
@@ -575,7 +558,7 @@
             },
             "role": "member",
             "last_seen": "20201213T215556.000Z",
-            "clan_rank": 33,
+            "clan_rank": 32,
             "previous_clan_rank": 33,
             "donations": 0,
             "donations_received": 0,
@@ -592,7 +575,7 @@
             },
             "role": "member",
             "last_seen": "20201213T230537.000Z",
-            "clan_rank": 34,
+            "clan_rank": 33,
             "previous_clan_rank": 26,
             "donations": 0,
             "donations_received": 8,
@@ -608,11 +591,28 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201214T002819.000Z",
-            "clan_rank": 35,
+            "last_seen": "20201214T004913.000Z",
+            "clan_rank": 34,
             "previous_clan_rank": 34,
             "donations": 28,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PRJ9JC9J",
+            "name": "max the great",
+            "exp_level": 12,
+            "trophies": 4512,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20201214T004342.000Z",
+            "clan_rank": 35,
+            "previous_clan_rank": 24,
+            "donations": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
