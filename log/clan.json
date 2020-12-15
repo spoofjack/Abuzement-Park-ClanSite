@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47944,
+    "clan_score": 47959,
     "required_trophies": 5000,
-    "donations_per_week": 2258,
+    "donations_per_week": 2276,
     "clan_war_trophies": 1880,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -89,6 +89,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 4936,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "leader",
+            "last_seen": "20201215T001216.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 6,
+            "donations": 86,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -99,27 +116,10 @@
             },
             "role": "elder",
             "last_seen": "20201214T211037.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 66,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 4907,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "leader",
-            "last_seen": "20201214T233343.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 6,
-            "donations": 68,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -136,7 +136,7 @@
             "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 48,
-            "donations_received": 40,
+            "donations_received": 48,
             "clan_chest_points": 0
         },
         {
@@ -629,7 +629,7 @@
             "clan_rank": 36,
             "previous_clan_rank": 29,
             "donations": 76,
-            "donations_received": 50,
+            "donations_received": 60,
             "clan_chest_points": 0
         },
         {
