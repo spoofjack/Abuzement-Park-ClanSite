@@ -1,5 +1,5 @@
 {
-    "last_update": 1608057000.512496,
+    "last_update": 1608057900.546228,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
@@ -5809,7 +5809,7 @@
             "last_activity_date": 1608057000.512496,
             "last_donation_date": 1608057000.512496,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 83,
             "donations_last_week": 371,
             "events": [
@@ -5818,6 +5818,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1605050100.437621
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1608057900.546228
                 }
             ]
         },
