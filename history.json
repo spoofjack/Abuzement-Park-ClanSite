@@ -1,5 +1,5 @@
 {
-    "last_update": 1608077700.559073,
+    "last_update": 1608078600.554867,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
@@ -2653,7 +2653,7 @@
             "last_activity_date": 1605072600.588747,
             "last_donation_date": 1605072600.588747,
             "role": "elder",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 36,
             "events": [
@@ -2668,6 +2668,12 @@
                     "type": "promotion",
                     "role": "elder",
                     "date": 1584229501.201294
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "elder",
+                    "date": 1608078600.554867
                 }
             ]
         },
@@ -3043,7 +3049,7 @@
             "last_activity_date": 1606860000.883662,
             "last_donation_date": 1606860000.883662,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 8,
             "events": [
@@ -3064,6 +3070,12 @@
                     "type": "re-join",
                     "role": "member",
                     "date": 1602545400.799037
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1608078600.554867
                 }
             ]
         },
@@ -3073,7 +3085,7 @@
             "last_activity_date": 1606466701.571689,
             "last_donation_date": 1606466701.571689,
             "role": "elder",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 58,
             "events": [
@@ -3088,6 +3100,12 @@
                     "type": "promotion",
                     "role": "elder",
                     "date": 1597276801.319279
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "elder",
+                    "date": 1608078600.554867
                 }
             ]
         },
