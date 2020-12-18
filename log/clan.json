@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47537,
+    "clan_score": 47522,
     "required_trophies": 4600,
     "donations_per_week": 8961,
     "clan_war_trophies": 1880,
@@ -276,23 +276,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 4794,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20201218T001715.000Z",
-            "clan_rank": 16,
-            "previous_clan_rank": 7,
-            "donations": 362,
-            "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PYYJL8GCJ",
             "name": "JM",
             "exp_level": 12,
@@ -303,7 +286,7 @@
             },
             "role": "member",
             "last_seen": "20201218T011311.000Z",
-            "clan_rank": 17,
+            "clan_rank": 16,
             "previous_clan_rank": 14,
             "donations": 270,
             "donations_received": 100,
@@ -320,7 +303,7 @@
             },
             "role": "coLeader",
             "last_seen": "20201218T002308.000Z",
-            "clan_rank": 18,
+            "clan_rank": 17,
             "previous_clan_rank": 18,
             "donations": 324,
             "donations_received": 400,
@@ -337,10 +320,27 @@
             },
             "role": "elder",
             "last_seen": "20201217T192735.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 23,
             "donations": 262,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 4736,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20201218T001715.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 7,
+            "donations": 362,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -574,7 +574,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20201218T012836.000Z",
+            "last_seen": "20201218T015938.000Z",
             "clan_rank": 33,
             "previous_clan_rank": 34,
             "donations": 186,
@@ -769,23 +769,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9LY8CYCR0",
-            "name": "buthole",
-            "exp_level": 9,
-            "trophies": 4069,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20201218T014320.000Z",
-            "clan_rank": 45,
-            "previous_clan_rank": 45,
-            "donations": 117,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YCGRVYVPU",
             "name": "FixTeN",
             "exp_level": 9,
@@ -796,10 +779,27 @@
             },
             "role": "member",
             "last_seen": "20201217T201759.000Z",
-            "clan_rank": 46,
+            "clan_rank": 45,
             "previous_clan_rank": 46,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9LY8CYCR0",
+            "name": "buthole",
+            "exp_level": 9,
+            "trophies": 4041,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20201218T014320.000Z",
+            "clan_rank": 46,
+            "previous_clan_rank": 45,
+            "donations": 117,
+            "donations_received": 40,
             "clan_chest_points": 0
         }
     ]
