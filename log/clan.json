@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47711,
+    "clan_score": 47725,
     "required_trophies": 4600,
-    "donations_per_week": 13968,
+    "donations_per_week": 13986,
     "clan_war_trophies": 1880,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -89,6 +89,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 4993,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20201220T182047.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 9,
+            "donations": 474,
+            "donations_received": 720,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 13,
@@ -98,28 +115,11 @@
                 "name": "Challenger III"
             },
             "role": "leader",
-            "last_seen": "20201220T142044.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 4,
-            "donations": 658,
-            "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 4964,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20201220T182047.000Z",
+            "last_seen": "20201220T184140.000Z",
             "clan_rank": 6,
-            "previous_clan_rank": 9,
-            "donations": 474,
-            "donations_received": 720,
+            "previous_clan_rank": 4,
+            "donations": 676,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
@@ -425,7 +425,7 @@
             "clan_rank": 24,
             "previous_clan_rank": 24,
             "donations": 612,
-            "donations_received": 592,
+            "donations_received": 600,
             "clan_chest_points": 0
         },
         {
@@ -795,11 +795,11 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20201220T170939.000Z",
+            "last_seen": "20201220T183813.000Z",
             "clan_rank": 46,
             "previous_clan_rank": 46,
             "donations": 137,
-            "donations_received": 40,
+            "donations_received": 50,
             "clan_chest_points": 0
         }
     ]
