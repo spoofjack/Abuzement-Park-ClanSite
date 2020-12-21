@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48040,
+    "clan_score": 48053,
     "required_trophies": 4600,
-    "donations_per_week": 840,
+    "donations_per_week": 900,
     "clan_war_trophies": 1860,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -51,7 +51,24 @@
             "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 28,
-            "donations_received": 32,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5088,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20201221T113031.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 11,
+            "donations": 132,
+            "donations_received": 70,
             "clan_chest_points": 0
         },
         {
@@ -65,27 +82,10 @@
             },
             "role": "member",
             "last_seen": "20201221T084214.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 2,
             "donations": 18,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5062,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20201221T113031.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 11,
-            "donations": 116,
-            "donations_received": 60,
             "clan_chest_points": 0
         },
         {
@@ -115,11 +115,11 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20201221T114413.000Z",
+            "last_seen": "20201221T115251.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 7,
             "donations": 76,
-            "donations_received": 20,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -200,11 +200,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201221T010151.000Z",
+            "last_seen": "20201221T114547.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 10,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 36,
+            "donations_received": 16,
             "clan_chest_points": 0
         },
         {
@@ -373,8 +373,8 @@
             "last_seen": "20201221T114002.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 0,
-            "donations": 40,
-            "donations_received": 8,
+            "donations": 48,
+            "donations_received": 24,
             "clan_chest_points": 0
         },
         {
@@ -812,7 +812,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20201220T185714.000Z",
+            "last_seen": "20201221T115614.000Z",
             "clan_rank": 47,
             "previous_clan_rank": 45,
             "donations": 0,
