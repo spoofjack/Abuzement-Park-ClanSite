@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48043,
+    "clan_score": 48073,
     "required_trophies": 4600,
     "donations_per_week": 560,
     "clan_war_trophies": 1880,
@@ -123,6 +123,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 4989,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20201221T071144.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 8,
+            "donations": 86,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -133,7 +150,7 @@
             },
             "role": "elder",
             "last_seen": "20201220T222305.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 9,
             "donations": 0,
             "donations_received": 0,
@@ -150,7 +167,7 @@
             },
             "role": "coLeader",
             "last_seen": "20201221T020601.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 7,
             "donations": 20,
             "donations_received": 0,
@@ -167,27 +184,10 @@
             },
             "role": "leader",
             "last_seen": "20201221T012042.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 5,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 4929,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20201221T071144.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 8,
-            "donations": 86,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -752,23 +752,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#99Q80PG9",
-            "name": "Kevin Malone",
-            "exp_level": 10,
-            "trophies": 4263,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20201221T071111.000Z",
-            "clan_rank": 44,
-            "previous_clan_rank": 43,
-            "donations": 18,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8JP0JJP2",
             "name": "Kronx",
             "exp_level": 11,
@@ -779,10 +762,27 @@
             },
             "role": "member",
             "last_seen": "20201221T042821.000Z",
-            "clan_rank": 45,
+            "clan_rank": 44,
             "previous_clan_rank": 44,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#99Q80PG9",
+            "name": "Kevin Malone",
+            "exp_level": 10,
+            "trophies": 4234,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20201221T071111.000Z",
+            "clan_rank": 45,
+            "previous_clan_rank": 43,
+            "donations": 18,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
