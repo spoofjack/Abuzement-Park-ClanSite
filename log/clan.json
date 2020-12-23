@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48122,
+    "clan_score": 48127,
     "required_trophies": 4600,
     "donations_per_week": 5848,
     "clan_war_trophies": 1860,
@@ -64,7 +64,7 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20201223T185626.000Z",
+            "last_seen": "20201223T201330.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 34,
@@ -327,6 +327,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#82UQ80Q8",
+            "name": "PhantomX",
+            "exp_level": 13,
+            "trophies": 4757,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201223T195613.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 18,
+            "donations": 146,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8LV22G2LY",
             "name": "tryhard",
             "exp_level": 12,
@@ -337,27 +354,10 @@
             },
             "role": "member",
             "last_seen": "20201223T004013.000Z",
-            "clan_rank": 19,
+            "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 100,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#82UQ80Q8",
-            "name": "PhantomX",
-            "exp_level": 13,
-            "trophies": 4729,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201223T195613.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 18,
-            "donations": 146,
-            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -786,23 +786,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YCGRVYVPU",
-            "name": "FixTeN",
-            "exp_level": 9,
-            "trophies": 4149,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20201223T194601.000Z",
-            "clan_rank": 46,
-            "previous_clan_rank": 47,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8JP0JJP2",
             "name": "Kronx",
             "exp_level": 11,
@@ -813,9 +796,26 @@
             },
             "role": "member",
             "last_seen": "20201223T072219.000Z",
-            "clan_rank": 47,
+            "clan_rank": 46,
             "previous_clan_rank": 46,
             "donations": 40,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YCGRVYVPU",
+            "name": "FixTeN",
+            "exp_level": 9,
+            "trophies": 4090,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20201223T194601.000Z",
+            "clan_rank": 47,
+            "previous_clan_rank": 47,
+            "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
         }
