@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48214,
+    "clan_score": 48225,
     "required_trophies": 4600,
     "donations_per_week": 7794,
     "clan_war_trophies": 1860,
@@ -89,6 +89,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5073,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20201224T183909.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 11,
+            "donations": 368,
+            "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#LYJ020LL",
             "name": "Moon",
             "exp_level": 13,
@@ -99,27 +116,10 @@
             },
             "role": "member",
             "last_seen": "20201224T080728.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 152,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5044,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20201224T183909.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 11,
-            "donations": 368,
-            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -395,23 +395,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 4678,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201224T184106.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 22,
-            "donations": 152,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PYYJL8GCJ",
             "name": "JM",
             "exp_level": 12,
@@ -422,10 +405,27 @@
             },
             "role": "member",
             "last_seen": "20201223T185241.000Z",
-            "clan_rank": 24,
+            "clan_rank": 23,
             "previous_clan_rank": 23,
             "donations": 75,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 4652,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201224T184106.000Z",
+            "clan_rank": 24,
+            "previous_clan_rank": 22,
+            "donations": 152,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
