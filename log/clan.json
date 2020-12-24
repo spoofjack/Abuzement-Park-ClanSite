@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48174,
+    "clan_score": 48145,
     "required_trophies": 4600,
     "donations_per_week": 6782,
     "clan_war_trophies": 1860,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5218,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20201224T043711.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 1,
-            "donations": 112,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -48,10 +31,27 @@
             },
             "role": "coLeader",
             "last_seen": "20201224T033439.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 2,
             "donations": 272,
             "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5160,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20201224T045157.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 1,
+            "donations": 112,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 4927,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20201224T031844.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 11,
+            "donations": 294,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#Y0VP098",
             "name": "melissasboatboy",
             "exp_level": 13,
@@ -167,27 +184,10 @@
             },
             "role": "member",
             "last_seen": "20201224T005751.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 13,
             "donations": 120,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 4926,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20201224T031844.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 11,
-            "donations": 294,
-            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -619,7 +619,7 @@
             "tag": "#PRJ9JC9J",
             "name": "max the great",
             "exp_level": 12,
-            "trophies": 4437,
+            "trophies": 4439,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
