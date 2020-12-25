@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48111,
+    "clan_score": 48134,
     "required_trophies": 4600,
-    "donations_per_week": 10126,
+    "donations_per_week": 10135,
     "clan_war_trophies": 1860,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -38,6 +38,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 13,
+            "trophies": 5156,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20201225T205920.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 3,
+            "donations": 96,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -48,27 +65,10 @@
             },
             "role": "coLeader",
             "last_seen": "20201225T202134.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 1,
             "donations": 446,
             "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 13,
-            "trophies": 5126,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20201225T205920.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 3,
-            "donations": 96,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -143,7 +143,7 @@
             "tag": "#2Q2RUJ2Q",
             "name": "Jeffweeeeeeeeee",
             "exp_level": 13,
-            "trophies": 4939,
+            "trophies": 4967,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -234,10 +234,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201225T194743.000Z",
+            "last_seen": "20201225T211246.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 22,
-            "donations": 576,
+            "donations": 584,
             "donations_received": 400,
             "clan_chest_points": 0
         },
@@ -323,7 +323,7 @@
             "clan_rank": 18,
             "previous_clan_rank": 20,
             "donations": 662,
-            "donations_received": 384,
+            "donations_received": 393,
             "clan_chest_points": 0
         },
         {
@@ -370,10 +370,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201225T152804.000Z",
+            "last_seen": "20201225T210135.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 19,
-            "donations": 156,
+            "donations": 157,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -421,7 +421,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201225T170017.000Z",
+            "last_seen": "20201225T210510.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 24,
             "donations": 178,
@@ -633,23 +633,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PRJ9JC9J",
-            "name": "max the great",
-            "exp_level": 12,
-            "trophies": 4443,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20201225T205409.000Z",
-            "clan_rank": 37,
-            "previous_clan_rank": 36,
-            "donations": 332,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#L9UG9VLJ2",
             "name": "Churro",
             "exp_level": 10,
@@ -660,7 +643,7 @@
             },
             "role": "member",
             "last_seen": "20201225T194130.000Z",
-            "clan_rank": 38,
+            "clan_rank": 37,
             "previous_clan_rank": 38,
             "donations": 0,
             "donations_received": 0,
@@ -677,10 +660,27 @@
             },
             "role": "member",
             "last_seen": "20201225T111121.000Z",
-            "clan_rank": 39,
+            "clan_rank": 38,
             "previous_clan_rank": 35,
             "donations": 64,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PRJ9JC9J",
+            "name": "max the great",
+            "exp_level": 12,
+            "trophies": 4384,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20201225T205409.000Z",
+            "clan_rank": 39,
+            "previous_clan_rank": 36,
+            "donations": 332,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
