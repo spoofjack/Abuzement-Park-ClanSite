@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48183,
+    "clan_score": 48139,
     "required_trophies": 4600,
     "donations_per_week": 8942,
     "clan_war_trophies": 1860,
@@ -72,23 +72,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#LYJ020LL",
-            "name": "Moon",
-            "exp_level": 13,
-            "trophies": 5113,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20201225T082931.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 5,
-            "donations": 162,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 13,
@@ -99,10 +82,27 @@
             },
             "role": "leader",
             "last_seen": "20201225T041716.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 469,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#LYJ020LL",
+            "name": "Moon",
+            "exp_level": 13,
+            "trophies": 5025,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20201225T082931.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 5,
+            "donations": 162,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
