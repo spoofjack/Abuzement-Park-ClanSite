@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48343,
+    "clan_score": 48340,
     "required_trophies": 4600,
-    "donations_per_week": 400,
+    "donations_per_week": 458,
     "clan_war_trophies": 1860,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -47,11 +47,11 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20201228T034207.000Z",
+            "last_seen": "20201228T072447.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 20,
+            "donations_received": 8,
             "clan_chest_points": 0
         },
         {
@@ -132,10 +132,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201228T064609.000Z",
+            "last_seen": "20201228T072922.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 6,
-            "donations": 56,
+            "donations": 84,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -353,11 +353,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201227T152016.000Z",
+            "last_seen": "20201228T072521.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 18,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 10,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -582,23 +582,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "exp_level": 11,
-            "trophies": 4505,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20201228T070718.000Z",
-            "clan_rank": 34,
-            "previous_clan_rank": 33,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2998GQ9YY",
             "name": "The_Myth_",
             "exp_level": 13,
@@ -609,7 +592,7 @@
             },
             "role": "member",
             "last_seen": "20201227T010723.000Z",
-            "clan_rank": 35,
+            "clan_rank": 34,
             "previous_clan_rank": 34,
             "donations": 0,
             "donations_received": 0,
@@ -626,9 +609,26 @@
             },
             "role": "member",
             "last_seen": "20201228T033558.000Z",
-            "clan_rank": 36,
+            "clan_rank": 35,
             "previous_clan_rank": 38,
             "donations": 10,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "exp_level": 11,
+            "trophies": 4475,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20201228T070718.000Z",
+            "clan_rank": 36,
+            "previous_clan_rank": 33,
+            "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
         },
