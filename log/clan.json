@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48508,
+    "clan_score": 48517,
     "required_trophies": 4600,
-    "donations_per_week": 3010,
+    "donations_per_week": 3028,
     "clan_war_trophies": 1840,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 270,
-            "donations_received": 160,
+            "donations_received": 168,
             "clan_chest_points": 0
         },
         {
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 22,
             "donations": 72,
-            "donations_received": 130,
+            "donations_received": 140,
             "clan_chest_points": 0
         },
         {
@@ -404,11 +404,28 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20201229T145501.000Z",
+            "last_seen": "20201229T181356.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 23,
-            "donations": 112,
+            "donations": 130,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2JLYU8L8",
+            "name": "Rochi",
+            "exp_level": 12,
+            "trophies": 4709,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20201229T180540.000Z",
+            "clan_rank": 24,
+            "previous_clan_rank": 25,
+            "donations": 0,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -422,26 +439,9 @@
             },
             "role": "member",
             "last_seen": "20201229T162448.000Z",
-            "clan_rank": 24,
+            "clan_rank": 25,
             "previous_clan_rank": 24,
             "donations": 40,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2JLYU8L8",
-            "name": "Rochi",
-            "exp_level": 12,
-            "trophies": 4647,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20201229T174520.000Z",
-            "clan_rank": 25,
-            "previous_clan_rank": 25,
-            "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -803,6 +803,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YCGRVYVPU",
+            "name": "FixTeN",
+            "exp_level": 9,
+            "trophies": 4166,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20201229T175737.000Z",
+            "clan_rank": 47,
+            "previous_clan_rank": 48,
+            "donations": 0,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9LY8CYCR0",
             "name": "buthole",
             "exp_level": 10,
@@ -813,27 +830,10 @@
             },
             "role": "member",
             "last_seen": "20201229T071036.000Z",
-            "clan_rank": 47,
+            "clan_rank": 48,
             "previous_clan_rank": 47,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YCGRVYVPU",
-            "name": "FixTeN",
-            "exp_level": 9,
-            "trophies": 4107,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20201229T175737.000Z",
-            "clan_rank": 48,
-            "previous_clan_rank": 48,
-            "donations": 0,
-            "donations_received": 40,
             "clan_chest_points": 0
         }
     ]
