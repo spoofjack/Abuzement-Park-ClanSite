@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48763,
+    "clan_score": 48761,
     "required_trophies": 4600,
     "donations_per_week": 7798,
     "clan_war_trophies": 1840,
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "exp_level": 13,
-            "trophies": 5047,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20210101T125057.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 9,
-            "donations": 423,
-            "donations_received": 420,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
@@ -184,10 +167,27 @@
             },
             "role": "coLeader",
             "last_seen": "20210101T125623.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 10,
             "donations": 743,
             "donations_received": 410,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "exp_level": 13,
+            "trophies": 5040,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20210101T125057.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 9,
+            "donations": 423,
+            "donations_received": 420,
             "clan_chest_points": 0
         },
         {
@@ -789,7 +789,7 @@
             "tag": "#YCGRVYVPU",
             "name": "FixTeN",
             "exp_level": 9,
-            "trophies": 4191,
+            "trophies": 4221,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
