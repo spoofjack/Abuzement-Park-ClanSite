@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48816,
+    "clan_score": 48802,
     "required_trophies": 4600,
     "donations_per_week": 9054,
     "clan_war_trophies": 1840,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5204,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20210101T233721.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 1,
-            "donations": 564,
-            "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#LYJ020LL",
             "name": "Moon",
             "exp_level": 13,
@@ -48,10 +31,27 @@
             },
             "role": "member",
             "last_seen": "20210101T131732.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 5,
             "donations": 86,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5177,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20210101T233721.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 1,
+            "donations": 564,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
