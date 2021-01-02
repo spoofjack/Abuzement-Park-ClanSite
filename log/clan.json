@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48836,
+    "clan_score": 48822,
     "required_trophies": 4600,
     "donations_per_week": 9474,
     "clan_war_trophies": 1840,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#LYJ020LL",
-            "name": "Moon",
-            "exp_level": 13,
-            "trophies": 5204,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20210102T092538.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 2,
-            "donations": 106,
-            "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 13,
@@ -48,7 +31,7 @@
             },
             "role": "leader",
             "last_seen": "20210102T032839.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 5,
             "donations": 545,
             "donations_received": 440,
@@ -65,10 +48,27 @@
             },
             "role": "coLeader",
             "last_seen": "20210101T233721.000Z",
-            "clan_rank": 3,
+            "clan_rank": 2,
             "previous_clan_rank": 1,
             "donations": 564,
             "donations_received": 480,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#LYJ020LL",
+            "name": "Moon",
+            "exp_level": 13,
+            "trophies": 5176,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20210102T092538.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 2,
+            "donations": 106,
+            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
