@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49101,
+    "clan_score": 49097,
     "required_trophies": 4600,
-    "donations_per_week": 12194,
+    "donations_per_week": 12214,
     "clan_war_trophies": 1840,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,10 +47,10 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20210103T145009.000Z",
+            "last_seen": "20210103T173126.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 1,
-            "donations": 712,
+            "donations": 722,
             "donations_received": 600,
             "clan_chest_points": 0
         },
@@ -217,10 +217,10 @@
                 "name": "Challenger III"
             },
             "role": "leader",
-            "last_seen": "20210103T164634.000Z",
+            "last_seen": "20210103T174326.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 9,
-            "donations": 723,
+            "donations": 733,
             "donations_received": 560,
             "clan_chest_points": 0
         },
@@ -238,7 +238,7 @@
             "clan_rank": 13,
             "previous_clan_rank": 16,
             "donations": 350,
-            "donations_received": 330,
+            "donations_received": 350,
             "clan_chest_points": 0
         },
         {
@@ -820,23 +820,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8JP0JJP2",
-            "name": "Kronx",
-            "exp_level": 11,
-            "trophies": 4181,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20210103T172652.000Z",
-            "clan_rank": 48,
-            "previous_clan_rank": 46,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YCGRVYVPU",
             "name": "FixTeN",
             "exp_level": 9,
@@ -847,10 +830,27 @@
             },
             "role": "member",
             "last_seen": "20210103T150513.000Z",
-            "clan_rank": 49,
+            "clan_rank": 48,
             "previous_clan_rank": 47,
             "donations": 84,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JP0JJP2",
+            "name": "Kronx",
+            "exp_level": 11,
+            "trophies": 4064,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20210103T173838.000Z",
+            "clan_rank": 49,
+            "previous_clan_rank": 46,
+            "donations": 0,
+            "donations_received": 0,
             "clan_chest_points": 0
         }
     ]
