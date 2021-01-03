@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49120,
+    "clan_score": 49089,
     "required_trophies": 4600,
     "donations_per_week": 12124,
     "clan_war_trophies": 1840,
@@ -106,23 +106,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLGUQRVVQ",
-            "name": "Granteli",
-            "exp_level": 13,
-            "trophies": 5066,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20210103T134821.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 3,
-            "donations": 104,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#LYJ020LL",
             "name": "Moon",
             "exp_level": 13,
@@ -133,7 +116,7 @@
             },
             "role": "member",
             "last_seen": "20210103T110741.000Z",
-            "clan_rank": 7,
+            "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 133,
             "donations_received": 480,
@@ -150,10 +133,27 @@
             },
             "role": "elder",
             "last_seen": "20201230T104027.000Z",
-            "clan_rank": 8,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 1,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLGUQRVVQ",
+            "name": "Granteli",
+            "exp_level": 13,
+            "trophies": 5007,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20210103T153504.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 3,
+            "donations": 104,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -279,7 +279,7 @@
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
-            "trophies": 4876,
+            "trophies": 4872,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -421,7 +421,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20210103T151729.000Z",
+            "last_seen": "20210103T154432.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 22,
             "donations": 1013,
