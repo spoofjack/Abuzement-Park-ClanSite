@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 43505,
     "required_trophies": 4600,
-    "donations_per_week": 1108,
+    "donations_per_week": 1116,
     "clan_war_trophies": 1790,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -153,7 +153,7 @@
             "clan_rank": 8,
             "previous_clan_rank": 20,
             "donations": 16,
-            "donations_received": 16,
+            "donations_received": 24,
             "clan_chest_points": 0
         },
         {
@@ -166,7 +166,7 @@
                 "name": "Challenger II"
             },
             "role": "elder",
-            "last_seen": "20210104T123301.000Z",
+            "last_seen": "20210104T130428.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 16,
             "donations": 28,
@@ -735,6 +735,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YCGRVYVPU",
+            "name": "FixTeN",
+            "exp_level": 9,
+            "trophies": 4100,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20210104T125111.000Z",
+            "clan_rank": 43,
+            "previous_clan_rank": 48,
+            "donations": 8,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2JQYGU8P9",
             "name": "Orlando Beltran",
             "exp_level": 11,
@@ -745,25 +762,8 @@
             },
             "role": "member",
             "last_seen": "20201231T221641.000Z",
-            "clan_rank": 43,
-            "previous_clan_rank": 42,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8JP0JJP2",
-            "name": "Kronx",
-            "exp_level": 11,
-            "trophies": 4091,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20210104T125711.000Z",
             "clan_rank": 44,
-            "previous_clan_rank": 49,
+            "previous_clan_rank": 42,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -820,23 +820,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YCGRVYVPU",
-            "name": "FixTeN",
-            "exp_level": 9,
-            "trophies": 4072,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20210104T125111.000Z",
-            "clan_rank": 48,
-            "previous_clan_rank": 48,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9LY8CYCR0",
             "name": "buthole",
             "exp_level": 10,
@@ -847,10 +830,27 @@
             },
             "role": "member",
             "last_seen": "20210104T074441.000Z",
-            "clan_rank": 49,
+            "clan_rank": 48,
             "previous_clan_rank": 47,
             "donations": 23,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JP0JJP2",
+            "name": "Kronx",
+            "exp_level": 11,
+            "trophies": 4061,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20210104T131003.000Z",
+            "clan_rank": 49,
+            "previous_clan_rank": 49,
+            "donations": 0,
+            "donations_received": 0,
             "clan_chest_points": 0
         }
     ]
