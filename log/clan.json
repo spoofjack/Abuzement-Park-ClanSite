@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 42572,
+    "clan_score": 42746,
     "required_trophies": 4600,
-    "donations_per_week": 574,
+    "donations_per_week": 632,
     "clan_war_trophies": 1790,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,20 +21,37 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 4634,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "coLeader",
+            "last_seen": "20210104T103422.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 2,
+            "donations": 52,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
-            "trophies": 4528,
+            "trophies": 4558,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "elder",
             "last_seen": "20210104T101222.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 7,
             "donations": 8,
-            "donations_received": 16,
+            "donations_received": 32,
             "clan_chest_points": 0
         },
         {
@@ -47,11 +64,11 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210104T081625.000Z",
-            "clan_rank": 2,
+            "last_seen": "20210104T103055.000Z",
+            "clan_rank": 3,
             "previous_clan_rank": 8,
-            "donations": 62,
-            "donations_received": 40,
+            "donations": 86,
+            "donations_received": 50,
             "clan_chest_points": 0
         },
         {
@@ -65,7 +82,7 @@
             },
             "role": "member",
             "last_seen": "20210104T081725.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 6,
             "donations": 15,
             "donations_received": 40,
@@ -82,27 +99,10 @@
             },
             "role": "coLeader",
             "last_seen": "20210103T033530.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 1,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 4317,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "coLeader",
-            "last_seen": "20210104T022551.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 2,
-            "donations": 18,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -119,7 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 33,
             "donations": 16,
-            "donations_received": 0,
+            "donations_received": 16,
             "clan_chest_points": 0
         },
         {
@@ -510,7 +510,7 @@
             "clan_rank": 29,
             "previous_clan_rank": 46,
             "donations": 16,
-            "donations_received": 0,
+            "donations_received": 16,
             "clan_chest_points": 0
         },
         {
