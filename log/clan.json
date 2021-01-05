@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 44490,
+    "clan_score": 44488,
     "required_trophies": 4600,
     "donations_per_week": 3279,
     "clan_war_trophies": 1790,
@@ -370,7 +370,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210105T134719.000Z",
+            "last_seen": "20210105T150531.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 15,
             "donations": 236,
@@ -820,23 +820,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YCGRVYVPU",
-            "name": "FixTeN",
-            "exp_level": 9,
-            "trophies": 4123,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20210105T140426.000Z",
-            "clan_rank": 48,
-            "previous_clan_rank": 44,
-            "donations": 8,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#LC9C9RQ",
             "name": "Jim Halpert",
             "exp_level": 11,
@@ -847,10 +830,27 @@
             },
             "role": "member",
             "last_seen": "20210102T071946.000Z",
-            "clan_rank": 49,
+            "clan_rank": 48,
             "previous_clan_rank": 47,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YCGRVYVPU",
+            "name": "FixTeN",
+            "exp_level": 9,
+            "trophies": 4066,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20210105T150504.000Z",
+            "clan_rank": 49,
+            "previous_clan_rank": 44,
+            "donations": 8,
+            "donations_received": 40,
             "clan_chest_points": 0
         }
     ]
