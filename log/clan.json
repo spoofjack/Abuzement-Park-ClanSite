@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 44377,
+    "clan_score": 44392,
     "required_trophies": 4600,
-    "donations_per_week": 2172,
+    "donations_per_week": 2224,
     "clan_war_trophies": 1790,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -98,11 +98,28 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210104T181435.000Z",
+            "last_seen": "20210105T010119.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 7,
             "donations": 88,
-            "donations_received": 80,
+            "donations_received": 112,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 4538,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "leader",
+            "last_seen": "20210105T004617.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 11,
+            "donations": 72,
+            "donations_received": 72,
             "clan_chest_points": 0
         },
         {
@@ -116,27 +133,10 @@
             },
             "role": "member",
             "last_seen": "20210104T231542.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 8,
             "donations": 53,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 4509,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "leader",
-            "last_seen": "20210105T004617.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 11,
-            "donations": 64,
-            "donations_received": 72,
             "clan_chest_points": 0
         },
         {
@@ -200,11 +200,11 @@
                 "name": "Challenger II"
             },
             "role": "elder",
-            "last_seen": "20210104T195333.000Z",
+            "last_seen": "20210105T011359.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 5,
-            "donations": 84,
-            "donations_received": 80,
+            "donations": 92,
+            "donations_received": 100,
             "clan_chest_points": 0
         },
         {
@@ -370,10 +370,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210105T005955.000Z",
+            "last_seen": "20210105T011421.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 15,
-            "donations": 108,
+            "donations": 126,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -577,7 +577,7 @@
             "last_seen": "20210105T005509.000Z",
             "clan_rank": 33,
             "previous_clan_rank": 39,
-            "donations": 112,
+            "donations": 130,
             "donations_received": 40,
             "clan_chest_points": 0
         },
