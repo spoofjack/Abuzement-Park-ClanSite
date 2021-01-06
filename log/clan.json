@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 44839,
+    "clan_score": 44835,
     "required_trophies": 4600,
-    "donations_per_week": 4994,
+    "donations_per_week": 5012,
     "clan_war_trophies": 1790,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -55,23 +55,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "exp_level": 13,
-            "trophies": 4646,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20210106T124121.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 2,
-            "donations": 80,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -82,7 +65,7 @@
             },
             "role": "elder",
             "last_seen": "20210106T112607.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 10,
             "donations": 264,
             "donations_received": 240,
@@ -92,17 +75,34 @@
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
-            "trophies": 4604,
+            "trophies": 4632,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
             "last_seen": "20210106T124416.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 5,
             "donations": 446,
             "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "exp_level": 13,
+            "trophies": 4617,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20210106T124121.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 2,
+            "donations": 80,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -272,7 +272,7 @@
             "clan_rank": 15,
             "previous_clan_rank": 8,
             "donations": 218,
-            "donations_received": 230,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -391,7 +391,7 @@
             "clan_rank": 22,
             "previous_clan_rank": 20,
             "donations": 300,
-            "donations_received": 192,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -531,23 +531,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2GGYGCRR0",
-            "name": "Ok Girl",
-            "exp_level": 11,
-            "trophies": 4287,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20210106T025942.000Z",
-            "clan_rank": 31,
-            "previous_clan_rank": 30,
-            "donations": 112,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8VLL2QL8P",
             "name": "climaxspot",
             "exp_level": 11,
@@ -558,7 +541,7 @@
             },
             "role": "member",
             "last_seen": "20210106T104717.000Z",
-            "clan_rank": 32,
+            "clan_rank": 31,
             "previous_clan_rank": 32,
             "donations": 0,
             "donations_received": 0,
@@ -575,9 +558,26 @@
             },
             "role": "member",
             "last_seen": "20210105T185437.000Z",
-            "clan_rank": 33,
+            "clan_rank": 32,
             "previous_clan_rank": 23,
             "donations": 192,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2GGYGCRR0",
+            "name": "Ok Girl",
+            "exp_level": 11,
+            "trophies": 4257,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20210106T125138.000Z",
+            "clan_rank": 33,
+            "previous_clan_rank": 30,
+            "donations": 130,
             "donations_received": 80,
             "clan_chest_points": 0
         },
