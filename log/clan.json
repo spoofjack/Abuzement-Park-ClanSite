@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 45441,
+    "clan_score": 45449,
     "required_trophies": 4600,
     "donations_per_week": 8932,
     "clan_war_trophies": 1790,
@@ -55,23 +55,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 4733,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "coLeader",
-            "last_seen": "20210108T125558.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 4,
-            "donations": 967,
-            "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -82,10 +65,27 @@
             },
             "role": "coLeader",
             "last_seen": "20210108T143728.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 6,
             "donations": 584,
             "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 4714,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "coLeader",
+            "last_seen": "20210108T150952.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 4,
+            "donations": 967,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -276,17 +276,34 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2CRR2R9JR",
+            "name": "Michael Scott",
+            "exp_level": 13,
+            "trophies": 4538,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20210108T151300.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 19,
+            "donations": 504,
+            "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#82UQ80Q8",
             "name": "PhantomX",
             "exp_level": 13,
-            "trophies": 4511,
+            "trophies": 4525,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "member",
             "last_seen": "20210108T144644.000Z",
-            "clan_rank": 16,
+            "clan_rank": 17,
             "previous_clan_rank": 17,
             "donations": 158,
             "donations_received": 280,
@@ -303,7 +320,7 @@
             },
             "role": "member",
             "last_seen": "20210108T144638.000Z",
-            "clan_rank": 17,
+            "clan_rank": 18,
             "previous_clan_rank": 23,
             "donations": 130,
             "donations_received": 40,
@@ -320,7 +337,7 @@
             },
             "role": "member",
             "last_seen": "20210108T032123.000Z",
-            "clan_rank": 18,
+            "clan_rank": 19,
             "previous_clan_rank": 15,
             "donations": 112,
             "donations_received": 160,
@@ -337,27 +354,10 @@
             },
             "role": "elder",
             "last_seen": "20210108T055219.000Z",
-            "clan_rank": 19,
+            "clan_rank": 20,
             "previous_clan_rank": 13,
             "donations": 154,
             "donations_received": 360,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2CRR2R9JR",
-            "name": "Michael Scott",
-            "exp_level": 13,
-            "trophies": 4480,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20210108T125325.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 19,
-            "donations": 504,
-            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -650,23 +650,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8JP0JJP2",
-            "name": "Kronx",
-            "exp_level": 11,
-            "trophies": 4227,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20210108T051014.000Z",
-            "clan_rank": 38,
-            "previous_clan_rank": 41,
-            "donations": 92,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2GGYGCRR0",
             "name": "Ok Girl",
             "exp_level": 11,
@@ -677,7 +660,7 @@
             },
             "role": "member",
             "last_seen": "20210106T223323.000Z",
-            "clan_rank": 39,
+            "clan_rank": 38,
             "previous_clan_rank": 37,
             "donations": 196,
             "donations_received": 160,
@@ -694,8 +677,25 @@
             },
             "role": "member",
             "last_seen": "20210107T222820.000Z",
-            "clan_rank": 40,
+            "clan_rank": 39,
             "previous_clan_rank": 38,
+            "donations": 92,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JP0JJP2",
+            "name": "Kronx",
+            "exp_level": 11,
+            "trophies": 4217,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20210108T150614.000Z",
+            "clan_rank": 40,
+            "previous_clan_rank": 41,
             "donations": 92,
             "donations_received": 0,
             "clan_chest_points": 0
