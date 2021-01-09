@@ -23,7 +23,7 @@
                 "legendary": 880
             }
         },
-        "score": 1,
+        "score": -1,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -41,7 +41,7 @@
         "new": false,
         "time_in_clan": "14 Months",
         "total_donations": 252,
-        "donations_daily": 21,
+        "donations_daily": 19,
         "events": [
             {
                 "date": "11/22/2019",
@@ -90,10 +90,10 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 1,
+        "donation_score": -1,
         "war_score": 0,
-        "donation_status": "normal",
-        "status": "ok",
+        "donation_status": "ok",
+        "status": "bad",
         "activity_status": "good",
         "role_label": "Co-Leader",
         "trophies_status": "normal",
@@ -147,7 +147,7 @@
         "new": false,
         "time_in_clan": "14 Months",
         "total_donations": 1354,
-        "donations_daily": 113,
+        "donations_daily": 104,
         "events": [
             {
                 "date": "11/22/2019",
@@ -265,7 +265,7 @@
         "new": false,
         "time_in_clan": "14 Months",
         "total_donations": 2197,
-        "donations_daily": 183,
+        "donations_daily": 169,
         "events": [
             {
                 "date": "11/22/2019",
@@ -318,13 +318,113 @@
         "war_score_average": 0
     },
     {
+        "tag": "#GL0VQ8YV",
+        "name": "njwalt",
+        "exp_level": 13,
+        "trophies": 4745,
+        "role": "member",
+        "last_seen": "20210108T235023.000Z",
+        "clan_rank": 4,
+        "previous_clan_rank": 6,
+        "donations": 294,
+        "donations_received": 240,
+        "clan_chest_points": 0,
+        "war_readiness": 53.92156862745098,
+        "war_readiness_status": "normal",
+        "arena_league": {
+            "id": "challenger-3",
+            "trophies": 4600,
+            "collection_win": {
+                "bronze": 160,
+                "silver": 320,
+                "gold": 560,
+                "legendary": 880
+            }
+        },
+        "score": 24,
+        "vacation": false,
+        "safe": false,
+        "blacklist": false,
+        "no_promote": false,
+        "join_date": 1574451682.42911,
+        "last_activity_date": 1610168400.991868,
+        "last_donation_date": 1610168400.991868,
+        "donations_last_week": 276,
+        "days_inactive": 0,
+        "last_seen_formatted": "1/8/2021 11:50:23 PM",
+        "last_seen_delta": "10 Minutes",
+        "join_date_label": "11/22/2019",
+        "activity_date_label": "1/9/2021",
+        "days_from_join": 413,
+        "new": false,
+        "time_in_clan": "14 Months",
+        "total_donations": 570,
+        "donations_daily": 44,
+        "events": [
+            {
+                "date": "11/22/2019",
+                "timestamp": 1574451682.42911,
+                "event": "join",
+                "message": "Joined clan"
+            },
+            {
+                "date": "3/5/2020",
+                "timestamp": 1583465401.889116,
+                "event": "role change",
+                "message": "Changed role to member"
+            },
+            {
+                "date": "9/2/2020",
+                "timestamp": 1599066782.672453,
+                "event": "quit",
+                "message": "Departed clan"
+            },
+            {
+                "date": "12/27/2020",
+                "timestamp": 1609112700.553651,
+                "event": "join",
+                "message": "Joined clan"
+            }
+        ],
+        "notes": "",
+        "current_war": {
+            "in_war": false,
+            "status": "na",
+            "score": 0,
+            "battles_played": false,
+            "cards_earned": 0,
+            "collection_win_cards": 0,
+            "collection_day_battles_played": 0,
+            "collection_battle_wins": 0,
+            "collection_battle_losses": 0,
+            "wins": 0,
+            "war_league": "na",
+            "number_of_battles": 0
+        },
+        "warlog": [],
+        "donation_score": 24,
+        "war_score": 0,
+        "donation_status": "normal",
+        "status": "normal",
+        "activity_status": "good",
+        "role_label": "Member",
+        "trophies_status": "normal",
+        "arena_league_label": "Challenger III",
+        "leadership": false,
+        "war_win_rate": 0,
+        "war_battles": 0,
+        "war_collection_win_rate": 0,
+        "war_collection_cards_average": 0,
+        "war_score_average": 0
+    },
+    {
         "tag": "#J8CGQRJY",
         "name": "CaptAwhole",
         "exp_level": 13,
         "trophies": 4736,
         "role": "elder",
         "last_seen": "20210108T190251.000Z",
-        "clan_rank": 4,
+        "clan_rank": 5,
         "previous_clan_rank": 2,
         "donations": 136,
         "donations_received": 400,
@@ -400,115 +500,15 @@
         "war_score_average": 0
     },
     {
-        "tag": "#GL0VQ8YV",
-        "name": "njwalt",
-        "exp_level": 13,
-        "trophies": 4688,
-        "role": "member",
-        "last_seen": "20210108T141539.000Z",
-        "clan_rank": 5,
-        "previous_clan_rank": 6,
-        "donations": 286,
-        "donations_received": 240,
-        "clan_chest_points": 0,
-        "war_readiness": 53.92156862745098,
-        "war_readiness_status": "normal",
-        "arena_league": {
-            "id": "challenger-3",
-            "trophies": 4600,
-            "collection_win": {
-                "bronze": 160,
-                "silver": 320,
-                "gold": 560,
-                "legendary": 880
-            }
-        },
-        "score": 27,
-        "vacation": false,
-        "safe": false,
-        "blacklist": false,
-        "no_promote": false,
-        "join_date": 1574451682.42911,
-        "last_activity_date": 1610135101.002929,
-        "last_donation_date": 1610135101.002929,
-        "donations_last_week": 276,
-        "days_inactive": 0,
-        "last_seen_formatted": "1/8/2021 2:15:39 PM",
-        "last_seen_delta": "9 Hours",
-        "join_date_label": "11/22/2019",
-        "activity_date_label": "1/8/2021",
-        "days_from_join": 413,
-        "new": false,
-        "time_in_clan": "14 Months",
-        "total_donations": 562,
-        "donations_daily": 47,
-        "events": [
-            {
-                "date": "11/22/2019",
-                "timestamp": 1574451682.42911,
-                "event": "join",
-                "message": "Joined clan"
-            },
-            {
-                "date": "3/5/2020",
-                "timestamp": 1583465401.889116,
-                "event": "role change",
-                "message": "Changed role to member"
-            },
-            {
-                "date": "9/2/2020",
-                "timestamp": 1599066782.672453,
-                "event": "quit",
-                "message": "Departed clan"
-            },
-            {
-                "date": "12/27/2020",
-                "timestamp": 1609112700.553651,
-                "event": "join",
-                "message": "Joined clan"
-            }
-        ],
-        "notes": "",
-        "current_war": {
-            "in_war": false,
-            "status": "na",
-            "score": 0,
-            "battles_played": false,
-            "cards_earned": 0,
-            "collection_win_cards": 0,
-            "collection_day_battles_played": 0,
-            "collection_battle_wins": 0,
-            "collection_battle_losses": 0,
-            "wins": 0,
-            "war_league": "na",
-            "number_of_battles": 0
-        },
-        "warlog": [],
-        "donation_score": 27,
-        "war_score": 0,
-        "donation_status": "normal",
-        "status": "normal",
-        "activity_status": "good",
-        "role_label": "Member",
-        "trophies_status": "normal",
-        "arena_league_label": "Challenger III",
-        "leadership": false,
-        "war_win_rate": 0,
-        "war_battles": 0,
-        "war_collection_win_rate": 0,
-        "war_collection_cards_average": 0,
-        "war_score_average": 0
-    },
-    {
         "tag": "#2Q2RUJ2Q",
         "name": "Jeffweeeeeeeeee",
         "exp_level": 13,
         "trophies": 4677,
         "role": "member",
-        "last_seen": "20210108T211954.000Z",
+        "last_seen": "20210108T234654.000Z",
         "clan_rank": 6,
         "previous_clan_rank": 5,
-        "donations": 612,
+        "donations": 638,
         "donations_received": 480,
         "clan_chest_points": 0,
         "war_readiness": 39.21568627450981,
@@ -529,19 +529,19 @@
         "blacklist": false,
         "no_promote": false,
         "join_date": 1604404800.453498,
-        "last_activity_date": 1610159400.98062,
-        "last_donation_date": 1610159400.98062,
+        "last_activity_date": 1610168400.991868,
+        "last_donation_date": 1610168400.991868,
         "donations_last_week": 700,
         "days_inactive": 0,
-        "last_seen_formatted": "1/8/2021 9:19:54 PM",
-        "last_seen_delta": "2 Hours",
+        "last_seen_formatted": "1/8/2021 11:46:54 PM",
+        "last_seen_delta": "13 Minutes",
         "join_date_label": "11/3/2020",
-        "activity_date_label": "1/8/2021",
+        "activity_date_label": "1/9/2021",
         "days_from_join": 66,
         "new": false,
         "time_in_clan": "2 Months",
-        "total_donations": 1312,
-        "donations_daily": 109,
+        "total_donations": 1338,
+        "donations_daily": 103,
         "events": [
             {
                 "date": "11/3/2020",
@@ -623,7 +623,7 @@
         "new": false,
         "time_in_clan": "14 Months",
         "total_donations": 1125,
-        "donations_daily": 94,
+        "donations_daily": 87,
         "events": [
             {
                 "date": "11/25/2019",
@@ -705,7 +705,7 @@
         "new": false,
         "time_in_clan": "14 Months",
         "total_donations": 1351,
-        "donations_daily": 113,
+        "donations_daily": 104,
         "events": [
             {
                 "date": "11/22/2019",
@@ -746,18 +746,18 @@
         "war_score_average": 0
     },
     {
-        "tag": "#YLCPYQPR",
-        "name": "Gopher!",
+        "tag": "#2CRR2R9JR",
+        "name": "Michael Scott",
         "exp_level": 13,
-        "trophies": 4623,
+        "trophies": 4631,
         "role": "member",
-        "last_seen": "20210108T202512.000Z",
+        "last_seen": "20210108T234901.000Z",
         "clan_rank": 9,
-        "previous_clan_rank": 11,
-        "donations": 465,
-        "donations_received": 400,
+        "previous_clan_rank": 19,
+        "donations": 528,
+        "donations_received": 440,
         "clan_chest_points": 0,
-        "war_readiness": 58.415841584158414,
+        "war_readiness": 55.88235294117647,
         "war_readiness_status": "normal",
         "arena_league": {
             "id": "challenger-3",
@@ -774,32 +774,26 @@
         "safe": false,
         "blacklist": false,
         "no_promote": false,
-        "join_date": 1574406000,
-        "last_activity_date": 1610155800.976898,
-        "last_donation_date": 1610155800.976898,
-        "donations_last_week": 534,
+        "join_date": 1599298200.506156,
+        "last_activity_date": 1610168400.991868,
+        "last_donation_date": 1610168400.991868,
+        "donations_last_week": 923,
         "days_inactive": 0,
-        "last_seen_formatted": "1/8/2021 8:25:12 PM",
-        "last_seen_delta": "3 Hours",
-        "join_date_label": "11/22/2019",
-        "activity_date_label": "1/8/2021",
-        "days_from_join": 413,
+        "last_seen_formatted": "1/8/2021 11:49:01 PM",
+        "last_seen_delta": "11 Minutes",
+        "join_date_label": "9/5/2020",
+        "activity_date_label": "1/9/2021",
+        "days_from_join": 125,
         "new": false,
-        "time_in_clan": "14 Months",
-        "total_donations": 999,
-        "donations_daily": 83,
+        "time_in_clan": "4 Months",
+        "total_donations": 1451,
+        "donations_daily": 112,
         "events": [
             {
-                "date": "11/22/2019",
-                "timestamp": 1574406000,
+                "date": "9/5/2020",
+                "timestamp": 1599298200.506156,
                 "event": "join",
                 "message": "Joined clan"
-            },
-            {
-                "date": "1/31/2020",
-                "timestamp": 1580511601.836969,
-                "event": "role change",
-                "message": "Changed role to member"
             }
         ],
         "notes": "",
@@ -834,18 +828,18 @@
         "war_score_average": 0
     },
     {
-        "tag": "#2CRR2R9JR",
-        "name": "Michael Scott",
+        "tag": "#YLCPYQPR",
+        "name": "Gopher!",
         "exp_level": 13,
-        "trophies": 4620,
+        "trophies": 4623,
         "role": "member",
-        "last_seen": "20210108T220849.000Z",
+        "last_seen": "20210108T202512.000Z",
         "clan_rank": 10,
-        "previous_clan_rank": 19,
-        "donations": 512,
-        "donations_received": 440,
+        "previous_clan_rank": 11,
+        "donations": 465,
+        "donations_received": 400,
         "clan_chest_points": 0,
-        "war_readiness": 55.88235294117647,
+        "war_readiness": 58.415841584158414,
         "war_readiness_status": "normal",
         "arena_league": {
             "id": "challenger-3",
@@ -862,26 +856,32 @@
         "safe": false,
         "blacklist": false,
         "no_promote": false,
-        "join_date": 1599298200.506156,
-        "last_activity_date": 1610152200.973808,
-        "last_donation_date": 1610152200.973808,
-        "donations_last_week": 923,
+        "join_date": 1574406000,
+        "last_activity_date": 1610155800.976898,
+        "last_donation_date": 1610155800.976898,
+        "donations_last_week": 534,
         "days_inactive": 0,
-        "last_seen_formatted": "1/8/2021 10:08:49 PM",
-        "last_seen_delta": "2 Hours",
-        "join_date_label": "9/5/2020",
+        "last_seen_formatted": "1/8/2021 8:25:12 PM",
+        "last_seen_delta": "4 Hours",
+        "join_date_label": "11/22/2019",
         "activity_date_label": "1/8/2021",
-        "days_from_join": 125,
+        "days_from_join": 413,
         "new": false,
-        "time_in_clan": "4 Months",
-        "total_donations": 1435,
-        "donations_daily": 120,
+        "time_in_clan": "14 Months",
+        "total_donations": 999,
+        "donations_daily": 77,
         "events": [
             {
-                "date": "9/5/2020",
-                "timestamp": 1599298200.506156,
+                "date": "11/22/2019",
+                "timestamp": 1574406000,
                 "event": "join",
                 "message": "Joined clan"
+            },
+            {
+                "date": "1/31/2020",
+                "timestamp": 1580511601.836969,
+                "event": "role change",
+                "message": "Changed role to member"
             }
         ],
         "notes": "",
@@ -939,7 +939,7 @@
                 "legendary": 880
             }
         },
-        "score": 8,
+        "score": 5,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -957,7 +957,7 @@
         "new": false,
         "time_in_clan": "14 Months",
         "total_donations": 330,
-        "donations_daily": 28,
+        "donations_daily": 25,
         "events": [
             {
                 "date": "11/22/2019",
@@ -994,7 +994,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 8,
+        "donation_score": 5,
         "war_score": 0,
         "donation_status": "normal",
         "status": "ok",
@@ -1019,7 +1019,7 @@
         "clan_rank": 12,
         "previous_clan_rank": 10,
         "donations": 228,
-        "donations_received": 296,
+        "donations_received": 312,
         "clan_chest_points": 0,
         "war_readiness": 86.27450980392157,
         "war_readiness_status": "good",
@@ -1044,14 +1044,14 @@
         "donations_last_week": 763,
         "days_inactive": 0,
         "last_seen_formatted": "1/8/2021 11:38:00 PM",
-        "last_seen_delta": "7 Minutes",
+        "last_seen_delta": "22 Minutes",
         "join_date_label": "11/22/2019",
         "activity_date_label": "1/8/2021",
         "days_from_join": 413,
         "new": false,
         "time_in_clan": "14 Months",
         "total_donations": 991,
-        "donations_daily": 83,
+        "donations_daily": 76,
         "events": [
             {
                 "date": "11/22/2019",
@@ -1127,7 +1127,7 @@
                 "legendary": 880
             }
         },
-        "score": -7,
+        "score": -8,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1145,7 +1145,7 @@
         "new": false,
         "time_in_clan": "12 Months",
         "total_donations": 152,
-        "donations_daily": 13,
+        "donations_daily": 12,
         "events": [
             {
                 "date": "1/4/2020",
@@ -1176,7 +1176,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -7,
+        "donation_score": -8,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -1215,7 +1215,7 @@
                 "legendary": 880
             }
         },
-        "score": -1,
+        "score": -2,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1226,14 +1226,14 @@
         "donations_last_week": 133,
         "days_inactive": 0,
         "last_seen_formatted": "1/8/2021 11:26:34 AM",
-        "last_seen_delta": "12 Hours",
+        "last_seen_delta": "13 Hours",
         "join_date_label": "11/6/2020",
         "activity_date_label": "1/8/2021",
         "days_from_join": 63,
         "new": false,
         "time_in_clan": "2 Months",
         "total_donations": 228,
-        "donations_daily": 19,
+        "donations_daily": 18,
         "events": [
             {
                 "date": "11/6/2020",
@@ -1258,7 +1258,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -1,
+        "donation_score": -2,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -1297,7 +1297,7 @@
                 "legendary": 880
             }
         },
-        "score": -2,
+        "score": -4,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1308,14 +1308,14 @@
         "donations_last_week": 134,
         "days_inactive": 0,
         "last_seen_formatted": "1/8/2021 5:29:14 PM",
-        "last_seen_delta": "6 Hours",
+        "last_seen_delta": "7 Hours",
         "join_date_label": "12/13/2020",
         "activity_date_label": "1/8/2021",
         "days_from_join": 26,
         "new": false,
         "time_in_clan": "26 Days",
         "total_donations": 210,
-        "donations_daily": 18,
+        "donations_daily": 16,
         "events": [
             {
                 "date": "12/13/2020",
@@ -1340,7 +1340,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -2,
+        "donation_score": -4,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -1379,7 +1379,7 @@
                 "legendary": 880
             }
         },
-        "score": 40,
+        "score": 39,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1390,14 +1390,14 @@
         "donations_last_week": 388,
         "days_inactive": 0,
         "last_seen_formatted": "1/8/2021 9:20:00 PM",
-        "last_seen_delta": "2 Hours",
+        "last_seen_delta": "3 Hours",
         "join_date_label": "1/4/2020",
         "activity_date_label": "1/8/2021",
         "days_from_join": 370,
         "new": false,
         "time_in_clan": "12 Months",
         "total_donations": 772,
-        "donations_daily": 64,
+        "donations_daily": 59,
         "events": [
             {
                 "date": "1/4/2020",
@@ -1428,9 +1428,9 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 40,
+        "donation_score": 39,
         "war_score": 0,
-        "donation_status": "good",
+        "donation_status": "normal",
         "status": "normal",
         "activity_status": "good",
         "role_label": "Elder",
@@ -1453,7 +1453,7 @@
         "clan_rank": 17,
         "previous_clan_rank": 16,
         "donations": 186,
-        "donations_received": 310,
+        "donations_received": 320,
         "clan_chest_points": 0,
         "war_readiness": 46.53465346534654,
         "war_readiness_status": "normal",
@@ -1467,7 +1467,7 @@
                 "legendary": 880
             }
         },
-        "score": 15,
+        "score": 12,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1485,7 +1485,7 @@
         "new": false,
         "time_in_clan": "7 Months",
         "total_donations": 418,
-        "donations_daily": 35,
+        "donations_daily": 32,
         "events": [
             {
                 "date": "6/9/2020",
@@ -1510,7 +1510,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 15,
+        "donation_score": 12,
         "war_score": 0,
         "donation_status": "normal",
         "status": "ok",
@@ -1549,7 +1549,7 @@
                 "legendary": 880
             }
         },
-        "score": -4,
+        "score": -5,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1567,7 +1567,7 @@
         "new": false,
         "time_in_clan": "7 Months",
         "total_donations": 196,
-        "donations_daily": 16,
+        "donations_daily": 15,
         "events": [
             {
                 "date": "6/22/2020",
@@ -1592,7 +1592,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -4,
+        "donation_score": -5,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -1631,7 +1631,7 @@
                 "legendary": 880
             }
         },
-        "score": -10,
+        "score": -11,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1642,14 +1642,14 @@
         "donations_last_week": 8,
         "days_inactive": 0,
         "last_seen_formatted": "1/8/2021 3:21:23 AM",
-        "last_seen_delta": "20 Hours",
+        "last_seen_delta": "21 Hours",
         "join_date_label": "3/10/2020",
         "activity_date_label": "1/8/2021",
         "days_from_join": 304,
         "new": false,
         "time_in_clan": "10 Months",
         "total_donations": 120,
-        "donations_daily": 10,
+        "donations_daily": 9,
         "events": [
             {
                 "date": "3/10/2020",
@@ -1698,7 +1698,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -10,
+        "donation_score": -11,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -1737,7 +1737,7 @@
                 "legendary": 880
             }
         },
-        "score": 16,
+        "score": 13,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1755,7 +1755,7 @@
         "new": false,
         "time_in_clan": "14 Months",
         "total_donations": 434,
-        "donations_daily": 36,
+        "donations_daily": 33,
         "events": [
             {
                 "date": "11/26/2019",
@@ -1792,7 +1792,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 16,
+        "donation_score": 13,
         "war_score": 0,
         "donation_status": "normal",
         "status": "ok",
@@ -1831,7 +1831,7 @@
                 "legendary": 880
             }
         },
-        "score": 4,
+        "score": 2,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -1842,14 +1842,14 @@
         "donations_last_week": 106,
         "days_inactive": 0,
         "last_seen_formatted": "1/8/2021 6:15:14 PM",
-        "last_seen_delta": "5 Hours",
+        "last_seen_delta": "6 Hours",
         "join_date_label": "1/4/2020",
         "activity_date_label": "1/8/2021",
         "days_from_join": 370,
         "new": false,
         "time_in_clan": "12 Months",
         "total_donations": 282,
-        "donations_daily": 24,
+        "donations_daily": 22,
         "events": [
             {
                 "date": "1/4/2020",
@@ -1880,12 +1880,94 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 4,
+        "donation_score": 2,
         "war_score": 0,
         "donation_status": "normal",
         "status": "ok",
         "activity_status": "good",
         "role_label": "Elder",
+        "trophies_status": "ok",
+        "arena_league_label": "Challenger II",
+        "leadership": false,
+        "war_win_rate": 0,
+        "war_battles": 0,
+        "war_collection_win_rate": 0,
+        "war_collection_cards_average": 0,
+        "war_score_average": 0
+    },
+    {
+        "tag": "#8VLL2QL8P",
+        "name": "climaxspot",
+        "exp_level": 11,
+        "trophies": 4419,
+        "role": "member",
+        "last_seen": "20210108T234533.000Z",
+        "clan_rank": 22,
+        "previous_clan_rank": 29,
+        "donations": 0,
+        "donations_received": 0,
+        "clan_chest_points": 0,
+        "war_readiness": 25.742574257425744,
+        "war_readiness_status": "bad",
+        "arena_league": {
+            "id": "challenger-2",
+            "trophies": 4300,
+            "collection_win": {
+                "bronze": 160,
+                "silver": 320,
+                "gold": 560,
+                "legendary": 880
+            }
+        },
+        "score": -60,
+        "vacation": false,
+        "safe": false,
+        "blacklist": false,
+        "no_promote": false,
+        "join_date": 1578918509.251174,
+        "last_activity_date": 1609473600.424642,
+        "last_donation_date": 1609473600.424642,
+        "donations_last_week": 0,
+        "days_inactive": 8,
+        "last_seen_formatted": "1/8/2021 11:45:33 PM",
+        "last_seen_delta": "14 Minutes",
+        "join_date_label": "1/13/2020",
+        "activity_date_label": "12/31/2020",
+        "days_from_join": 361,
+        "new": false,
+        "time_in_clan": "12 Months",
+        "total_donations": 0,
+        "donations_daily": 0,
+        "events": [
+            {
+                "date": "1/13/2020",
+                "timestamp": 1578918509.251174,
+                "event": "join",
+                "message": "Joined clan"
+            }
+        ],
+        "notes": "",
+        "current_war": {
+            "in_war": false,
+            "status": "na",
+            "score": 0,
+            "battles_played": false,
+            "cards_earned": 0,
+            "collection_win_cards": 0,
+            "collection_day_battles_played": 0,
+            "collection_battle_wins": 0,
+            "collection_battle_losses": 0,
+            "wins": 0,
+            "war_league": "na",
+            "number_of_battles": 0
+        },
+        "warlog": [],
+        "donation_score": -60,
+        "war_score": 0,
+        "donation_status": "bad",
+        "status": "bad",
+        "activity_status": "bad",
+        "role_label": "Inactive 8 days",
         "trophies_status": "ok",
         "arena_league_label": "Challenger II",
         "leadership": false,
@@ -1902,7 +1984,7 @@
         "trophies": 4406,
         "role": "coLeader",
         "last_seen": "20210108T190144.000Z",
-        "clan_rank": 22,
+        "clan_rank": 23,
         "previous_clan_rank": 22,
         "donations": 150,
         "donations_received": 240,
@@ -1919,7 +2001,7 @@
                 "legendary": 880
             }
         },
-        "score": 30,
+        "score": 26,
         "vacation": false,
         "safe": true,
         "blacklist": false,
@@ -1937,7 +2019,7 @@
         "new": false,
         "time_in_clan": "14 Months",
         "total_donations": 601,
-        "donations_daily": 50,
+        "donations_daily": 46,
         "events": [
             {
                 "date": "11/22/2019",
@@ -2010,7 +2092,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 30,
+        "donation_score": 26,
         "war_score": 0,
         "donation_status": "normal",
         "status": "normal",
@@ -2032,7 +2114,7 @@
         "trophies": 4390,
         "role": "member",
         "last_seen": "20210108T233405.000Z",
-        "clan_rank": 23,
+        "clan_rank": 24,
         "previous_clan_rank": 23,
         "donations": 703,
         "donations_received": 400,
@@ -2060,14 +2142,14 @@
         "donations_last_week": 1083,
         "days_inactive": 0,
         "last_seen_formatted": "1/8/2021 11:34:05 PM",
-        "last_seen_delta": "11 Minutes",
+        "last_seen_delta": "26 Minutes",
         "join_date_label": "12/21/2020",
         "activity_date_label": "1/8/2021",
         "days_from_join": 18,
         "new": false,
         "time_in_clan": "18 Days",
         "total_donations": 1786,
-        "donations_daily": 149,
+        "donations_daily": 137,
         "events": [
             {
                 "date": "12/21/2020",
@@ -2114,7 +2196,7 @@
         "trophies": 4380,
         "role": "member",
         "last_seen": "20210108T143106.000Z",
-        "clan_rank": 24,
+        "clan_rank": 25,
         "previous_clan_rank": 24,
         "donations": 132,
         "donations_received": 200,
@@ -2131,7 +2213,7 @@
                 "legendary": 880
             }
         },
-        "score": 5,
+        "score": 3,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2149,7 +2231,7 @@
         "new": false,
         "time_in_clan": "5 Months",
         "total_donations": 304,
-        "donations_daily": 25,
+        "donations_daily": 23,
         "events": [
             {
                 "date": "8/22/2020",
@@ -2186,7 +2268,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 5,
+        "donation_score": 3,
         "war_score": 0,
         "donation_status": "normal",
         "status": "ok",
@@ -2208,7 +2290,7 @@
         "trophies": 4371,
         "role": "elder",
         "last_seen": "20210108T182505.000Z",
-        "clan_rank": 25,
+        "clan_rank": 26,
         "previous_clan_rank": 25,
         "donations": 354,
         "donations_received": 440,
@@ -2225,7 +2307,7 @@
                 "legendary": 880
             }
         },
-        "score": 40,
+        "score": 35,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2236,14 +2318,14 @@
         "donations_last_week": 366,
         "days_inactive": 0,
         "last_seen_formatted": "1/8/2021 6:25:05 PM",
-        "last_seen_delta": "5 Hours",
+        "last_seen_delta": "6 Hours",
         "join_date_label": "1/11/2020",
         "activity_date_label": "1/8/2021",
         "days_from_join": 363,
         "new": false,
         "time_in_clan": "12 Months",
         "total_donations": 720,
-        "donations_daily": 60,
+        "donations_daily": 55,
         "events": [
             {
                 "date": "1/11/2020",
@@ -2274,9 +2356,9 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 40,
+        "donation_score": 35,
         "war_score": 0,
-        "donation_status": "good",
+        "donation_status": "normal",
         "status": "normal",
         "activity_status": "good",
         "role_label": "Elder",
@@ -2296,7 +2378,7 @@
         "trophies": 4345,
         "role": "member",
         "last_seen": "20210108T232152.000Z",
-        "clan_rank": 26,
+        "clan_rank": 27,
         "previous_clan_rank": 28,
         "donations": 52,
         "donations_received": 40,
@@ -2313,7 +2395,7 @@
                 "legendary": 880
             }
         },
-        "score": -7,
+        "score": -8,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2324,14 +2406,14 @@
         "donations_last_week": 102,
         "days_inactive": 0,
         "last_seen_formatted": "1/8/2021 11:21:52 PM",
-        "last_seen_delta": "23 Minutes",
+        "last_seen_delta": "1 Hours",
         "join_date_label": "1/4/2020",
         "activity_date_label": "1/8/2021",
         "days_from_join": 370,
         "new": false,
         "time_in_clan": "12 Months",
         "total_donations": 154,
-        "donations_daily": 13,
+        "donations_daily": 12,
         "events": [
             {
                 "date": "1/4/2020",
@@ -2392,94 +2474,12 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -7,
+        "donation_score": -8,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
         "activity_status": "good",
         "role_label": "Member",
-        "trophies_status": "ok",
-        "arena_league_label": "Challenger II",
-        "leadership": false,
-        "war_win_rate": 0,
-        "war_battles": 0,
-        "war_collection_win_rate": 0,
-        "war_collection_cards_average": 0,
-        "war_score_average": 0
-    },
-    {
-        "tag": "#8VLL2QL8P",
-        "name": "climaxspot",
-        "exp_level": 11,
-        "trophies": 4344,
-        "role": "member",
-        "last_seen": "20210108T194956.000Z",
-        "clan_rank": 27,
-        "previous_clan_rank": 29,
-        "donations": 0,
-        "donations_received": 0,
-        "clan_chest_points": 0,
-        "war_readiness": 25.742574257425744,
-        "war_readiness_status": "bad",
-        "arena_league": {
-            "id": "challenger-2",
-            "trophies": 4300,
-            "collection_win": {
-                "bronze": 160,
-                "silver": 320,
-                "gold": 560,
-                "legendary": 880
-            }
-        },
-        "score": -60,
-        "vacation": false,
-        "safe": false,
-        "blacklist": false,
-        "no_promote": false,
-        "join_date": 1578918509.251174,
-        "last_activity_date": 1609473600.424642,
-        "last_donation_date": 1609473600.424642,
-        "donations_last_week": 0,
-        "days_inactive": 8,
-        "last_seen_formatted": "1/8/2021 7:49:56 PM",
-        "last_seen_delta": "4 Hours",
-        "join_date_label": "1/13/2020",
-        "activity_date_label": "12/31/2020",
-        "days_from_join": 361,
-        "new": false,
-        "time_in_clan": "12 Months",
-        "total_donations": 0,
-        "donations_daily": 0,
-        "events": [
-            {
-                "date": "1/13/2020",
-                "timestamp": 1578918509.251174,
-                "event": "join",
-                "message": "Joined clan"
-            }
-        ],
-        "notes": "",
-        "current_war": {
-            "in_war": false,
-            "status": "na",
-            "score": 0,
-            "battles_played": false,
-            "cards_earned": 0,
-            "collection_win_cards": 0,
-            "collection_day_battles_played": 0,
-            "collection_battle_wins": 0,
-            "collection_battle_losses": 0,
-            "wins": 0,
-            "war_league": "na",
-            "number_of_battles": 0
-        },
-        "warlog": [],
-        "donation_score": -60,
-        "war_score": 0,
-        "donation_status": "bad",
-        "status": "bad",
-        "activity_status": "bad",
-        "role_label": "Inactive 8 days",
         "trophies_status": "ok",
         "arena_league_label": "Challenger II",
         "leadership": false,
@@ -2513,7 +2513,7 @@
                 "legendary": 880
             }
         },
-        "score": 22,
+        "score": 19,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2524,14 +2524,14 @@
         "donations_last_week": 270,
         "days_inactive": 0,
         "last_seen_formatted": "1/8/2021 6:16:39 PM",
-        "last_seen_delta": "5 Hours",
+        "last_seen_delta": "6 Hours",
         "join_date_label": "12/1/2020",
         "activity_date_label": "1/8/2021",
         "days_from_join": 38,
         "new": false,
         "time_in_clan": "38 Days",
         "total_donations": 502,
-        "donations_daily": 42,
+        "donations_daily": 39,
         "events": [
             {
                 "date": "12/1/2020",
@@ -2556,10 +2556,10 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 22,
+        "donation_score": 19,
         "war_score": 0,
         "donation_status": "normal",
-        "status": "normal",
+        "status": "ok",
         "activity_status": "good",
         "role_label": "Member",
         "trophies_status": "ok",
@@ -2595,7 +2595,7 @@
                 "legendary": 880
             }
         },
-        "score": -8,
+        "score": -9,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2613,7 +2613,7 @@
         "new": false,
         "time_in_clan": "6 Months",
         "total_donations": 146,
-        "donations_daily": 12,
+        "donations_daily": 11,
         "events": [
             {
                 "date": "7/20/2020",
@@ -2638,7 +2638,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -8,
+        "donation_score": -9,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -2677,7 +2677,7 @@
                 "legendary": 880
             }
         },
-        "score": -3,
+        "score": -4,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2695,7 +2695,7 @@
         "new": false,
         "time_in_clan": "4 Months",
         "total_donations": 206,
-        "donations_daily": 17,
+        "donations_daily": 16,
         "events": [
             {
                 "date": "8/27/2020",
@@ -2732,7 +2732,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -3,
+        "donation_score": -4,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -2757,7 +2757,7 @@
         "clan_rank": 31,
         "previous_clan_rank": 27,
         "donations": 343,
-        "donations_received": 336,
+        "donations_received": 360,
         "clan_chest_points": 0,
         "war_readiness": 62.745098039215684,
         "war_readiness_status": "normal",
@@ -2789,7 +2789,7 @@
         "new": false,
         "time_in_clan": "3 Months",
         "total_donations": 1020,
-        "donations_daily": 85,
+        "donations_daily": 78,
         "events": [
             {
                 "date": "10/14/2020",
@@ -2853,7 +2853,7 @@
                 "legendary": 880
             }
         },
-        "score": -15,
+        "score": -16,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -2864,14 +2864,14 @@
         "donations_last_week": 28,
         "days_inactive": 2,
         "last_seen_formatted": "1/6/2021 1:19:48 PM",
-        "last_seen_delta": "2 Days, 10 Hours",
+        "last_seen_delta": "2 Days, 11 Hours",
         "join_date_label": "11/1/2020",
         "activity_date_label": "1/6/2021",
         "days_from_join": 68,
         "new": false,
         "time_in_clan": "2 Months",
         "total_donations": 56,
-        "donations_daily": 5,
+        "donations_daily": 4,
         "events": [
             {
                 "date": "11/1/2020",
@@ -2896,7 +2896,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -15,
+        "donation_score": -16,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -2946,7 +2946,7 @@
         "donations_last_week": 0,
         "days_inactive": 34,
         "last_seen_formatted": "1/8/2021 5:25:53 AM",
-        "last_seen_delta": "18 Hours",
+        "last_seen_delta": "19 Hours",
         "join_date_label": "11/19/2020",
         "activity_date_label": "12/5/2020",
         "days_from_join": 50,
@@ -3017,7 +3017,7 @@
                 "legendary": 880
             }
         },
-        "score": -15,
+        "score": -16,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -3035,7 +3035,7 @@
         "new": false,
         "time_in_clan": "10 Months",
         "total_donations": 58,
-        "donations_daily": 5,
+        "donations_daily": 4,
         "events": [
             {
                 "date": "2/29/2020",
@@ -3072,7 +3072,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -15,
+        "donation_score": -16,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -3111,7 +3111,7 @@
                 "legendary": 880
             }
         },
-        "score": -11,
+        "score": -12,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -3122,14 +3122,14 @@
         "donations_last_week": 38,
         "days_inactive": 1,
         "last_seen_formatted": "1/7/2021 9:29:55 PM",
-        "last_seen_delta": "1 Days, 2 Hours",
+        "last_seen_delta": "1 Days, 3 Hours",
         "join_date_label": "8/22/2020",
         "activity_date_label": "1/7/2021",
         "days_from_join": 139,
         "new": false,
         "time_in_clan": "5 Months",
         "total_donations": 106,
-        "donations_daily": 9,
+        "donations_daily": 8,
         "events": [
             {
                 "date": "8/22/2020",
@@ -3154,7 +3154,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -11,
+        "donation_score": -12,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -3275,7 +3275,7 @@
                 "legendary": 880
             }
         },
-        "score": 14,
+        "score": 11,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -3293,7 +3293,7 @@
         "new": false,
         "time_in_clan": "6 Months",
         "total_donations": 405,
-        "donations_daily": 34,
+        "donations_daily": 31,
         "events": [
             {
                 "date": "7/20/2020",
@@ -3318,7 +3318,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 14,
+        "donation_score": 11,
         "war_score": 0,
         "donation_status": "normal",
         "status": "ok",
@@ -3357,7 +3357,7 @@
                 "legendary": 880
             }
         },
-        "score": -3,
+        "score": -4,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -3375,7 +3375,7 @@
         "new": false,
         "time_in_clan": "2 Months",
         "total_donations": 206,
-        "donations_daily": 17,
+        "donations_daily": 16,
         "events": [
             {
                 "date": "11/1/2020",
@@ -3400,7 +3400,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -3,
+        "donation_score": -4,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -3439,7 +3439,7 @@
                 "legendary": 880
             }
         },
-        "score": -11,
+        "score": -12,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -3457,7 +3457,7 @@
         "new": false,
         "time_in_clan": "3 Months",
         "total_donations": 104,
-        "donations_daily": 9,
+        "donations_daily": 8,
         "events": [
             {
                 "date": "10/24/2020",
@@ -3482,7 +3482,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -11,
+        "donation_score": -12,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -3521,7 +3521,7 @@
                 "legendary": 880
             }
         },
-        "score": 18,
+        "score": 16,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -3539,7 +3539,7 @@
         "new": false,
         "time_in_clan": "14 Months",
         "total_donations": 462,
-        "donations_daily": 38,
+        "donations_daily": 36,
         "events": [
             {
                 "date": "11/19/2019",
@@ -3588,7 +3588,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 18,
+        "donation_score": 16,
         "war_score": 0,
         "donation_status": "normal",
         "status": "ok",
@@ -3627,7 +3627,7 @@
                 "legendary": 880
             }
         },
-        "score": 4,
+        "score": 2,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -3638,14 +3638,14 @@
         "donations_last_week": 176,
         "days_inactive": 0,
         "last_seen_formatted": "1/8/2021 9:28:53 PM",
-        "last_seen_delta": "2 Hours",
+        "last_seen_delta": "3 Hours",
         "join_date_label": "11/30/2020",
         "activity_date_label": "1/8/2021",
         "days_from_join": 39,
         "new": false,
         "time_in_clan": "39 Days",
         "total_donations": 286,
-        "donations_daily": 24,
+        "donations_daily": 22,
         "events": [
             {
                 "date": "11/30/2020",
@@ -3670,7 +3670,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": 4,
+        "donation_score": 2,
         "war_score": 0,
         "donation_status": "normal",
         "status": "ok",
@@ -3720,7 +3720,7 @@
         "donations_last_week": 0,
         "days_inactive": 34,
         "last_seen_formatted": "1/5/2021 2:15:33 AM",
-        "last_seen_delta": "3 Days, 21 Hours",
+        "last_seen_delta": "3 Days, 22 Hours",
         "join_date_label": "10/29/2020",
         "activity_date_label": "12/5/2020",
         "days_from_join": 71,
@@ -4014,13 +4014,95 @@
         "war_score_average": 0
     },
     {
+        "tag": "#YCGRVYVPU",
+        "name": "FixTeN",
+        "exp_level": 9,
+        "trophies": 4147,
+        "role": "member",
+        "last_seen": "20210108T234128.000Z",
+        "clan_rank": 46,
+        "previous_clan_rank": 49,
+        "donations": 8,
+        "donations_received": 80,
+        "clan_chest_points": 0,
+        "war_readiness": 0.0,
+        "war_readiness_status": "normal",
+        "arena_league": {
+            "id": "challenger-1",
+            "trophies": 4000,
+            "collection_win": {
+                "bronze": 160,
+                "silver": 320,
+                "gold": 560,
+                "legendary": 880
+            }
+        },
+        "score": -13,
+        "vacation": false,
+        "safe": false,
+        "blacklist": false,
+        "no_promote": false,
+        "join_date": 1607733900.932445,
+        "last_activity_date": 1609784100.665755,
+        "last_donation_date": 1609784100.665755,
+        "donations_last_week": 84,
+        "days_inactive": 4,
+        "last_seen_formatted": "1/8/2021 11:41:28 PM",
+        "last_seen_delta": "19 Minutes",
+        "join_date_label": "12/11/2020",
+        "activity_date_label": "1/4/2021",
+        "days_from_join": 28,
+        "new": false,
+        "time_in_clan": "28 Days",
+        "total_donations": 92,
+        "donations_daily": 7,
+        "events": [
+            {
+                "date": "12/11/2020",
+                "timestamp": 1607733900.932445,
+                "event": "join",
+                "message": "Joined clan"
+            }
+        ],
+        "notes": "",
+        "current_war": {
+            "in_war": false,
+            "status": "na",
+            "score": 0,
+            "battles_played": false,
+            "cards_earned": 0,
+            "collection_win_cards": 0,
+            "collection_day_battles_played": 0,
+            "collection_battle_wins": 0,
+            "collection_battle_losses": 0,
+            "wins": 0,
+            "war_league": "na",
+            "number_of_battles": 0
+        },
+        "warlog": [],
+        "donation_score": -13,
+        "war_score": 0,
+        "donation_status": "ok",
+        "status": "bad",
+        "activity_status": "normal",
+        "role_label": "Member",
+        "trophies_status": "ok",
+        "arena_league_label": "Legendary Arena",
+        "leadership": false,
+        "war_win_rate": 0,
+        "war_battles": 0,
+        "war_collection_win_rate": 0,
+        "war_collection_cards_average": 0,
+        "war_score_average": 0
+    },
+    {
         "tag": "#LC9C9RQ",
         "name": "Jim Halpert",
         "exp_level": 11,
         "trophies": 4129,
         "role": "member",
         "last_seen": "20210105T180921.000Z",
-        "clan_rank": 46,
+        "clan_rank": 47,
         "previous_clan_rank": 46,
         "donations": 0,
         "donations_received": 0,
@@ -4102,7 +4184,7 @@
         "trophies": 4129,
         "role": "member",
         "last_seen": "20210105T144149.000Z",
-        "clan_rank": 47,
+        "clan_rank": 48,
         "previous_clan_rank": 47,
         "donations": 23,
         "donations_received": 40,
@@ -4119,7 +4201,7 @@
                 "legendary": 880
             }
         },
-        "score": -9,
+        "score": -10,
         "vacation": false,
         "safe": false,
         "blacklist": false,
@@ -4137,7 +4219,7 @@
         "new": false,
         "time_in_clan": "57 Days",
         "total_donations": 128,
-        "donations_daily": 11,
+        "donations_daily": 10,
         "events": [
             {
                 "date": "11/12/2020",
@@ -4162,7 +4244,7 @@
             "number_of_battles": 0
         },
         "warlog": [],
-        "donation_score": -9,
+        "donation_score": -10,
         "war_score": 0,
         "donation_status": "ok",
         "status": "bad",
@@ -4184,7 +4266,7 @@
         "trophies": 4125,
         "role": "member",
         "last_seen": "20201229T231218.000Z",
-        "clan_rank": 48,
+        "clan_rank": 49,
         "previous_clan_rank": 48,
         "donations": 0,
         "donations_received": 0,
@@ -4250,88 +4332,6 @@
         "status": "bad",
         "activity_status": "bad",
         "role_label": "Inactive 22 days",
-        "trophies_status": "ok",
-        "arena_league_label": "Legendary Arena",
-        "leadership": false,
-        "war_win_rate": 0,
-        "war_battles": 0,
-        "war_collection_win_rate": 0,
-        "war_collection_cards_average": 0,
-        "war_score_average": 0
-    },
-    {
-        "tag": "#YCGRVYVPU",
-        "name": "FixTeN",
-        "exp_level": 9,
-        "trophies": 4094,
-        "role": "member",
-        "last_seen": "20210108T234128.000Z",
-        "clan_rank": 49,
-        "previous_clan_rank": 49,
-        "donations": 8,
-        "donations_received": 80,
-        "clan_chest_points": 0,
-        "war_readiness": 0.0,
-        "war_readiness_status": "normal",
-        "arena_league": {
-            "id": "challenger-1",
-            "trophies": 4000,
-            "collection_win": {
-                "bronze": 160,
-                "silver": 320,
-                "gold": 560,
-                "legendary": 880
-            }
-        },
-        "score": -12,
-        "vacation": false,
-        "safe": false,
-        "blacklist": false,
-        "no_promote": false,
-        "join_date": 1607733900.932445,
-        "last_activity_date": 1609784100.665755,
-        "last_donation_date": 1609784100.665755,
-        "donations_last_week": 84,
-        "days_inactive": 4,
-        "last_seen_formatted": "1/8/2021 11:41:28 PM",
-        "last_seen_delta": "4 Minutes",
-        "join_date_label": "12/11/2020",
-        "activity_date_label": "1/4/2021",
-        "days_from_join": 28,
-        "new": false,
-        "time_in_clan": "28 Days",
-        "total_donations": 92,
-        "donations_daily": 8,
-        "events": [
-            {
-                "date": "12/11/2020",
-                "timestamp": 1607733900.932445,
-                "event": "join",
-                "message": "Joined clan"
-            }
-        ],
-        "notes": "",
-        "current_war": {
-            "in_war": false,
-            "status": "na",
-            "score": 0,
-            "battles_played": false,
-            "cards_earned": 0,
-            "collection_win_cards": 0,
-            "collection_day_battles_played": 0,
-            "collection_battle_wins": 0,
-            "collection_battle_losses": 0,
-            "wins": 0,
-            "war_league": "na",
-            "number_of_battles": 0
-        },
-        "warlog": [],
-        "donation_score": -12,
-        "war_score": 0,
-        "donation_status": "ok",
-        "status": "bad",
-        "activity_status": "normal",
-        "role_label": "Member",
         "trophies_status": "ok",
         "arena_league_label": "Legendary Arena",
         "leadership": false,
