@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 46966,
+    "clan_score": 46945,
     "required_trophies": 4600,
     "donations_per_week": 2100,
     "clan_war_trophies": 1780,
@@ -38,23 +38,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 4996,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "leader",
-            "last_seen": "20210112T001756.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 76,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
@@ -65,9 +48,26 @@
             },
             "role": "elder",
             "last_seen": "20210111T203003.000Z",
-            "clan_rank": 3,
+            "clan_rank": 2,
             "previous_clan_rank": 11,
             "donations": 20,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 4954,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "leader",
+            "last_seen": "20210112T010231.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 2,
+            "donations": 76,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -489,7 +489,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210111T222230.000Z",
+            "last_seen": "20210112T010553.000Z",
             "clan_rank": 28,
             "previous_clan_rank": 27,
             "donations": 0,
