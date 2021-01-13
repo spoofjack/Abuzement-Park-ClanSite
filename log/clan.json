@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47413,
+    "clan_score": 47424,
     "required_trophies": 4600,
-    "donations_per_week": 5032,
+    "donations_per_week": 5060,
     "clan_war_trophies": 1780,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -68,7 +68,24 @@
             "clan_rank": 3,
             "previous_clan_rank": 2,
             "donations": 28,
-            "donations_received": 230,
+            "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 4935,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "leader",
+            "last_seen": "20210113T173410.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 4,
+            "donations": 142,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -82,26 +99,9 @@
             },
             "role": "member",
             "last_seen": "20210113T153801.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 157,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 4909,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "leader",
-            "last_seen": "20210113T172446.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 4,
-            "donations": 142,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -204,7 +204,7 @@
             "clan_rank": 11,
             "previous_clan_rank": 13,
             "donations": 242,
-            "donations_received": 230,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -330,16 +330,16 @@
             "tag": "#PRJ9JC9J",
             "name": "max the great",
             "exp_level": 12,
-            "trophies": 4661,
+            "trophies": 4655,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20210113T162606.000Z",
+            "last_seen": "20210113T173023.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 20,
-            "donations": 112,
+            "donations": 140,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -561,7 +561,7 @@
             "clan_rank": 32,
             "previous_clan_rank": 30,
             "donations": 278,
-            "donations_received": 232,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -744,7 +744,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20210111T020711.000Z",
+            "last_seen": "20210113T174404.000Z",
             "clan_rank": 43,
             "previous_clan_rank": 42,
             "donations": 18,
