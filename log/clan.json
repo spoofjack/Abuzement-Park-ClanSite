@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47317,
+    "clan_score": 47323,
     "required_trophies": 4600,
-    "donations_per_week": 4490,
+    "donations_per_week": 4510,
     "clan_war_trophies": 1780,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -64,10 +64,10 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20210113T120315.000Z",
+            "last_seen": "20210113T122744.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 445,
+            "donations": 455,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -81,11 +81,11 @@
                 "name": "Challenger III"
             },
             "role": "leader",
-            "last_seen": "20210113T022734.000Z",
+            "last_seen": "20210113T122529.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 4,
-            "donations": 114,
-            "donations_received": 120,
+            "donations": 124,
+            "donations_received": 130,
             "clan_chest_points": 0
         },
         {
@@ -119,7 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 368,
-            "donations_received": 190,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -327,6 +327,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "exp_level": 11,
+            "trophies": 4642,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20210113T122737.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 19,
+            "donations": 13,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PRJ9JC9J",
             "name": "max the great",
             "exp_level": 12,
@@ -337,27 +354,10 @@
             },
             "role": "member",
             "last_seen": "20210112T231456.000Z",
-            "clan_rank": 19,
+            "clan_rank": 20,
             "previous_clan_rank": 20,
             "donations": 104,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "exp_level": 11,
-            "trophies": 4613,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20210113T085015.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 19,
-            "donations": 13,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -667,23 +667,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YCGRVYVPU",
-            "name": "FixTeN",
-            "exp_level": 9,
-            "trophies": 4315,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20210113T102202.000Z",
-            "clan_rank": 39,
-            "previous_clan_rank": 46,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#LYJQPUUR",
             "name": "Papi",
             "exp_level": 11,
@@ -694,8 +677,25 @@
             },
             "role": "member",
             "last_seen": "20210106T131948.000Z",
-            "clan_rank": 40,
+            "clan_rank": 39,
             "previous_clan_rank": 39,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YCGRVYVPU",
+            "name": "FixTeN",
+            "exp_level": 9,
+            "trophies": 4304,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20210113T121948.000Z",
+            "clan_rank": 40,
+            "previous_clan_rank": 46,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
