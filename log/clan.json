@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47479,
+    "clan_score": 47482,
     "required_trophies": 4600,
-    "donations_per_week": 5380,
+    "donations_per_week": 5400,
     "clan_war_trophies": 1780,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -166,11 +166,28 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20210113T115246.000Z",
+            "last_seen": "20210113T214809.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 6,
             "donations": 368,
-            "donations_received": 200,
+            "donations_received": 220,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "exp_level": 13,
+            "trophies": 4824,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20210113T214308.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 12,
+            "donations": 64,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -184,27 +201,10 @@
             },
             "role": "elder",
             "last_seen": "20210113T132204.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 8,
             "donations": 154,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "exp_level": 13,
-            "trophies": 4814,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20210113T214308.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 12,
-            "donations": 54,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -752,23 +752,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#99Q80PG9",
-            "name": "Kevin Malone",
-            "exp_level": 10,
-            "trophies": 4268,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20210113T004404.000Z",
-            "clan_rank": 44,
-            "previous_clan_rank": 44,
-            "donations": 20,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9992GG0CQ",
             "name": "freighttrain",
             "exp_level": 12,
@@ -779,10 +762,27 @@
             },
             "role": "member",
             "last_seen": "20210109T010517.000Z",
-            "clan_rank": 45,
+            "clan_rank": 44,
             "previous_clan_rank": 43,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#99Q80PG9",
+            "name": "Kevin Malone",
+            "exp_level": 10,
+            "trophies": 4257,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20210113T215155.000Z",
+            "clan_rank": 45,
+            "previous_clan_rank": 44,
+            "donations": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
