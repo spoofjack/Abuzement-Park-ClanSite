@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47346,
+    "clan_score": 47362,
     "required_trophies": 4600,
-    "donations_per_week": 4840,
+    "donations_per_week": 4850,
     "clan_war_trophies": 1780,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -72,6 +72,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "exp_level": 13,
+            "trophies": 4933,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20210113T153801.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 5,
+            "donations": 157,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 13,
@@ -82,26 +99,9 @@
             },
             "role": "leader",
             "last_seen": "20210113T140614.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 4,
             "donations": 124,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "exp_level": 13,
-            "trophies": 4901,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20210113T152939.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 5,
-            "donations": 157,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -510,7 +510,7 @@
             "clan_rank": 29,
             "previous_clan_rank": 29,
             "donations": 114,
-            "donations_received": 100,
+            "donations_received": 110,
             "clan_chest_points": 0
         },
         {
@@ -795,10 +795,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20210112T182924.000Z",
+            "last_seen": "20210113T154036.000Z",
             "clan_rank": 46,
             "previous_clan_rank": 45,
-            "donations": 16,
+            "donations": 26,
             "donations_received": 0,
             "clan_chest_points": 0
         },
