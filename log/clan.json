@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48075,
+    "clan_score": 48071,
     "required_trophies": 4600,
     "donations_per_week": 9042,
     "clan_war_trophies": 1780,
@@ -344,23 +344,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCLYCCLR",
-            "name": "yggdrasil",
-            "exp_level": 11,
-            "trophies": 4696,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20210115T220407.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 17,
-            "donations": 92,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8LV22G2LY",
             "name": "tryhard",
             "exp_level": 12,
@@ -371,10 +354,27 @@
             },
             "role": "member",
             "last_seen": "20210115T012725.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 20,
             "donations": 241,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCLYCCLR",
+            "name": "yggdrasil",
+            "exp_level": 11,
+            "trophies": 4678,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20210116T024048.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 17,
+            "donations": 92,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -421,7 +421,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210116T014649.000Z",
+            "last_seen": "20210116T023952.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 31,
             "donations": 106,
