@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48086,
+    "clan_score": 48075,
     "required_trophies": 4600,
     "donations_per_week": 9042,
     "clan_war_trophies": 1780,
@@ -55,23 +55,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5018,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20210116T013857.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 5,
-            "donations": 568,
-            "donations_received": 390,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -82,10 +65,27 @@
             },
             "role": "member",
             "last_seen": "20210115T231203.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 6,
             "donations": 277,
             "donations_received": 360,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 4997,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20210116T022240.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 5,
+            "donations": 568,
+            "donations_received": 390,
             "clan_chest_points": 0
         },
         {
@@ -608,7 +608,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210115T232130.000Z",
+            "last_seen": "20210116T022946.000Z",
             "clan_rank": 35,
             "previous_clan_rank": 34,
             "donations": 418,
