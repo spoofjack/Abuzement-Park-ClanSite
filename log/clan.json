@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48479,
+    "clan_score": 48489,
     "required_trophies": 4600,
-    "donations_per_week": 10030,
+    "donations_per_week": 10038,
     "clan_war_trophies": 1780,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -72,6 +72,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 5010,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "leader",
+            "last_seen": "20210116T185824.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 2,
+            "donations": 391,
+            "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -82,7 +99,7 @@
             },
             "role": "member",
             "last_seen": "20210116T172526.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 305,
             "donations_received": 396,
@@ -99,7 +116,7 @@
             },
             "role": "elder",
             "last_seen": "20210116T163938.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 4,
             "donations": 576,
             "donations_received": 430,
@@ -116,27 +133,10 @@
             },
             "role": "coLeader",
             "last_seen": "20210116T182529.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 8,
             "donations": 763,
             "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 4980,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "leader",
-            "last_seen": "20210116T184308.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 2,
-            "donations": 391,
-            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 6,
             "donations": 154,
-            "donations_received": 264,
+            "donations_received": 272,
             "clan_chest_points": 0
         },
         {
@@ -279,13 +279,13 @@
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "exp_level": 13,
-            "trophies": 4789,
+            "trophies": 4770,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20210116T182444.000Z",
+            "last_seen": "20210116T185331.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 13,
             "donations": 249,
@@ -353,10 +353,10 @@
                 "name": "Challenger III"
             },
             "role": "elder",
-            "last_seen": "20210116T122727.000Z",
+            "last_seen": "20210116T185826.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 17,
-            "donations": 384,
+            "donations": 392,
             "donations_received": 460,
             "clan_chest_points": 0
         },
