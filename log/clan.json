@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48874,
+    "clan_score": 48883,
     "required_trophies": 4600,
-    "donations_per_week": 11750,
+    "donations_per_week": 11758,
     "clan_war_trophies": 1780,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,7 +47,7 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20210117T182023.000Z",
+            "last_seen": "20210117T184413.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 3,
             "donations": 1252,
@@ -72,6 +72,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5107,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20210117T183411.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 6,
+            "donations": 760,
+            "donations_received": 510,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -82,7 +99,7 @@
             },
             "role": "coLeader",
             "last_seen": "20210117T161031.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 905,
             "donations_received": 560,
@@ -99,27 +116,10 @@
             },
             "role": "member",
             "last_seen": "20210117T173659.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 7,
             "donations": 371,
             "donations_received": 476,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5076,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20210117T173335.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 6,
-            "donations": 752,
-            "donations_received": 510,
             "clan_chest_points": 0
         },
         {
@@ -183,11 +183,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20210117T182541.000Z",
+            "last_seen": "20210117T183349.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 15,
             "donations": 590,
-            "donations_received": 544,
+            "donations_received": 552,
             "clan_chest_points": 0
         },
         {
@@ -330,7 +330,7 @@
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "exp_level": 13,
-            "trophies": 4779,
+            "trophies": 4760,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -531,23 +531,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8JP0JJP2",
-            "name": "Kronx",
-            "exp_level": 11,
-            "trophies": 4513,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20210116T180317.000Z",
-            "clan_rank": 31,
-            "previous_clan_rank": 29,
-            "donations": 86,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YCGRVYVPU",
             "name": "FixTeN",
             "exp_level": 10,
@@ -557,10 +540,27 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210115T142252.000Z",
-            "clan_rank": 32,
+            "last_seen": "20210117T183718.000Z",
+            "clan_rank": 31,
             "previous_clan_rank": 30,
             "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8JP0JJP2",
+            "name": "Kronx",
+            "exp_level": 11,
+            "trophies": 4497,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20210117T183116.000Z",
+            "clan_rank": 32,
+            "previous_clan_rank": 29,
+            "donations": 86,
             "donations_received": 0,
             "clan_chest_points": 0
         },
