@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48647,
+    "clan_score": 48658,
     "required_trophies": 4600,
     "donations_per_week": 11046,
     "clan_war_trophies": 1780,
@@ -123,6 +123,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9CCL2G0G",
+            "name": "Patrick",
+            "exp_level": 13,
+            "trophies": 5010,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20210117T122715.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 8,
+            "donations": 701,
+            "donations_received": 560,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -133,27 +150,10 @@
             },
             "role": "elder",
             "last_seen": "20210116T235104.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 6,
             "donations": 632,
             "donations_received": 470,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9CCL2G0G",
-            "name": "Patrick",
-            "exp_level": 13,
-            "trophies": 4981,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20210117T122715.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 8,
-            "donations": 701,
-            "donations_received": 560,
             "clan_chest_points": 0
         },
         {
@@ -327,23 +327,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 4759,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20210116T223737.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 16,
-            "donations": 249,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y2C2RQG9R",
             "name": "kr21__",
             "exp_level": 12,
@@ -354,10 +337,27 @@
             },
             "role": "member",
             "last_seen": "20210116T173542.000Z",
-            "clan_rank": 20,
+            "clan_rank": 19,
             "previous_clan_rank": 17,
             "donations": 168,
             "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 4740,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20210117T125204.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 16,
+            "donations": 249,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -455,7 +455,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20210117T123004.000Z",
+            "last_seen": "20210117T125925.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 26,
             "donations": 48,
