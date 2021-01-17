@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48675,
+    "clan_score": 48681,
     "required_trophies": 4600,
-    "donations_per_week": 11136,
+    "donations_per_week": 11256,
     "clan_war_trophies": 1780,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -38,6 +38,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5136,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20210117T131821.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 3,
+            "donations": 1164,
+            "donations_received": 620,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 13,
@@ -47,28 +64,11 @@
                 "name": "Master I"
             },
             "role": "leader",
-            "last_seen": "20210117T055809.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 2,
-            "donations": 437,
-            "donations_received": 480,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5102,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20210117T044222.000Z",
+            "last_seen": "20210117T132515.000Z",
             "clan_rank": 3,
-            "previous_clan_rank": 3,
-            "donations": 1104,
-            "donations_received": 600,
+            "previous_clan_rank": 2,
+            "donations": 477,
+            "donations_received": 500,
             "clan_chest_points": 0
         },
         {
@@ -123,23 +123,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5018,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20210117T130301.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 6,
-            "donations": 692,
-            "donations_received": 470,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -150,10 +133,27 @@
             },
             "role": "elder",
             "last_seen": "20210117T122715.000Z",
-            "clan_rank": 8,
+            "clan_rank": 7,
             "previous_clan_rank": 8,
             "donations": 701,
-            "donations_received": 580,
+            "donations_received": 600,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 4997,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20210117T132427.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 6,
+            "donations": 712,
+            "donations_received": 490,
             "clan_chest_points": 0
         },
         {
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 19,
             "donations": 86,
-            "donations_received": 70,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -306,7 +306,7 @@
             "clan_rank": 17,
             "previous_clan_rank": 20,
             "donations": 104,
-            "donations_received": 70,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -340,7 +340,7 @@
             "clan_rank": 19,
             "previous_clan_rank": 16,
             "donations": 279,
-            "donations_received": 50,
+            "donations_received": 70,
             "clan_chest_points": 0
         },
         {
