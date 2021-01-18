@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49044,
+    "clan_score": 49032,
     "required_trophies": 4600,
     "donations_per_week": 1540,
     "clan_war_trophies": 1770,
@@ -72,23 +72,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5162,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20210118T224502.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 4,
-            "donations": 150,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 13,
@@ -99,10 +82,27 @@
             },
             "role": "leader",
             "last_seen": "20210118T024856.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 3,
             "donations": 8,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5139,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20210118T224502.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 4,
+            "donations": 150,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -608,7 +608,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210118T192209.000Z",
+            "last_seen": "20210118T225220.000Z",
             "clan_rank": 35,
             "previous_clan_rank": 36,
             "donations": 48,
