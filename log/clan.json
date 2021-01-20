@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49408,
+    "clan_score": 49466,
     "required_trophies": 4600,
     "donations_per_week": 4238,
     "clan_war_trophies": 1770,
@@ -106,6 +106,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5250,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20210120T145940.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 7,
+            "donations": 543,
+            "donations_received": 210,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -116,27 +133,10 @@
             },
             "role": "elder",
             "last_seen": "20210120T113655.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 6,
             "donations": 264,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5132,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20210120T145940.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 7,
-            "donations": 543,
-            "donations_received": 210,
             "clan_chest_points": 0
         },
         {
@@ -599,23 +599,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#99Q80PG9",
-            "name": "Kevin Malone",
-            "exp_level": 10,
-            "trophies": 4377,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20210119T003443.000Z",
-            "clan_rank": 35,
-            "previous_clan_rank": 36,
-            "donations": 28,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#L9UG9VLJ2",
             "name": "Churro",
             "exp_level": 10,
@@ -626,9 +609,26 @@
             },
             "role": "member",
             "last_seen": "20210118T181912.000Z",
-            "clan_rank": 36,
+            "clan_rank": 35,
             "previous_clan_rank": 37,
             "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#99Q80PG9",
+            "name": "Kevin Malone",
+            "exp_level": 10,
+            "trophies": 4364,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20210120T151005.000Z",
+            "clan_rank": 36,
+            "previous_clan_rank": 36,
+            "donations": 28,
             "donations_received": 0,
             "clan_chest_points": 0
         },
