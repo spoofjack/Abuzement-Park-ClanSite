@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49349,
+    "clan_score": 49337,
     "required_trophies": 4600,
     "donations_per_week": 3340,
     "clan_war_trophies": 1770,
@@ -208,23 +208,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 4986,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20210120T003446.000Z",
-            "clan_rank": 12,
-            "previous_clan_rank": 17,
-            "donations": 82,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PYL9RLGQG",
             "name": "Jesse",
             "exp_level": 13,
@@ -235,7 +218,7 @@
             },
             "role": "elder",
             "last_seen": "20210119T205313.000Z",
-            "clan_rank": 13,
+            "clan_rank": 12,
             "previous_clan_rank": 11,
             "donations": 112,
             "donations_received": 80,
@@ -252,9 +235,26 @@
             },
             "role": "elder",
             "last_seen": "20210119T231045.000Z",
-            "clan_rank": 14,
+            "clan_rank": 13,
             "previous_clan_rank": 13,
             "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 4947,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20210120T004919.000Z",
+            "clan_rank": 14,
+            "previous_clan_rank": 17,
+            "donations": 82,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -415,7 +415,7 @@
             "tag": "#20LGGP900",
             "name": "blackdog",
             "exp_level": 12,
-            "trophies": 4749,
+            "trophies": 4731,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
