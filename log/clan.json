@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49525,
+    "clan_score": 49541,
     "required_trophies": 4600,
     "donations_per_week": 4400,
     "clan_war_trophies": 1770,
@@ -72,6 +72,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 5297,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "leader",
+            "last_seen": "20210120T172653.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 5,
+            "donations": 92,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -82,27 +99,10 @@
             },
             "role": "coLeader",
             "last_seen": "20210120T162359.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 3,
             "donations": 396,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 5265,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "leader",
-            "last_seen": "20210120T172653.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 5,
-            "donations": 92,
-            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -489,7 +489,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20210118T173628.000Z",
+            "last_seen": "20210120T173731.000Z",
             "clan_rank": 28,
             "previous_clan_rank": 29,
             "donations": 0,
