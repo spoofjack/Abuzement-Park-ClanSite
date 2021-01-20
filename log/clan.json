@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49400,
+    "clan_score": 49392,
     "required_trophies": 4600,
-    "donations_per_week": 3960,
+    "donations_per_week": 3988,
     "clan_war_trophies": 1770,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -38,6 +38,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "exp_level": 13,
+            "trophies": 5321,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20210120T120403.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 4,
+            "donations": 30,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -48,27 +65,10 @@
             },
             "role": "elder",
             "last_seen": "20210120T113740.000Z",
-            "clan_rank": 2,
+            "clan_rank": 3,
             "previous_clan_rank": 2,
             "donations": 314,
-            "donations_received": 150,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "exp_level": 13,
-            "trophies": 5312,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20210120T103240.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 4,
-            "donations": 30,
-            "donations_received": 200,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -85,7 +85,7 @@
             "clan_rank": 4,
             "previous_clan_rank": 3,
             "donations": 370,
-            "donations_received": 200,
+            "donations_received": 208,
             "clan_chest_points": 0
         },
         {
@@ -119,24 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 264,
-            "donations_received": 190,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5118,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20210120T114819.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 7,
-            "donations": 469,
-            "donations_received": 210,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -150,7 +133,7 @@
             },
             "role": "elder",
             "last_seen": "20210120T111416.000Z",
-            "clan_rank": 8,
+            "clan_rank": 7,
             "previous_clan_rank": 11,
             "donations": 150,
             "donations_received": 210,
@@ -167,10 +150,27 @@
             },
             "role": "member",
             "last_seen": "20210119T151911.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 62,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5094,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20210120T120211.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 7,
+            "donations": 497,
+            "donations_received": 210,
             "clan_chest_points": 0
         },
         {
@@ -591,7 +591,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210120T115947.000Z",
+            "last_seen": "20210120T120902.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 35,
             "donations": 90,
