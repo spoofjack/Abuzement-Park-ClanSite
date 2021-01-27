@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51743,
+    "clan_score": 51735,
     "required_trophies": 4600,
     "donations_per_week": 3718,
     "clan_war_trophies": 1760,
@@ -38,23 +38,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#UVGUUVC0",
-            "name": "ok guy",
-            "exp_level": 13,
-            "trophies": 5557,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "coLeader",
-            "last_seen": "20210127T022700.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 1,
-            "donations": 324,
-            "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
@@ -65,9 +48,26 @@
             },
             "role": "coLeader",
             "last_seen": "20210126T212632.000Z",
-            "clan_rank": 3,
+            "clan_rank": 2,
             "previous_clan_rank": 4,
             "donations": 432,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#UVGUUVC0",
+            "name": "ok guy",
+            "exp_level": 13,
+            "trophies": 5511,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "coLeader",
+            "last_seen": "20210127T022700.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 1,
+            "donations": 324,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -160,10 +160,10 @@
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
-            "trophies": 5281,
+            "trophies": 5310,
             "arena": {
-                "id": 54000015,
-                "name": "Master I"
+                "id": 54000016,
+                "name": "Master II"
             },
             "role": "elder",
             "last_seen": "20210127T022151.000Z",
