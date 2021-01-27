@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51811,
+    "clan_score": 51826,
     "required_trophies": 4600,
-    "donations_per_week": 3858,
+    "donations_per_week": 3938,
     "clan_war_trophies": 1760,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -21,6 +21,23 @@
     "clan_chest_points": null,
     "member_list": [
         {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5612,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20210127T110403.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 4,
+            "donations": 492,
+            "donations_received": 210,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
@@ -31,27 +48,10 @@
             },
             "role": "coLeader",
             "last_seen": "20210126T204131.000Z",
-            "clan_rank": 1,
+            "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 86,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5582,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "coLeader",
-            "last_seen": "20210127T110403.000Z",
-            "clan_rank": 2,
-            "previous_clan_rank": 4,
-            "donations": 472,
-            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 66,
-            "donations_received": 150,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -119,7 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 104,
-            "donations_received": 180,
+            "donations_received": 190,
             "clan_chest_points": 0
         },
         {
@@ -183,11 +183,11 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20210127T022151.000Z",
+            "last_seen": "20210127T111928.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 9,
-            "donations": 174,
-            "donations_received": 160,
+            "donations": 234,
+            "donations_received": 170,
             "clan_chest_points": 0
         },
         {
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 15,
             "donations": 70,
-            "donations_received": 180,
+            "donations_received": 190,
             "clan_chest_points": 0
         },
         {
@@ -374,7 +374,7 @@
             "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 292,
-            "donations_received": 230,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -582,23 +582,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YCGRVYVPU",
-            "name": "FixTeN",
-            "exp_level": 10,
-            "trophies": 4617,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20210127T110924.000Z",
-            "clan_rank": 34,
-            "previous_clan_rank": 34,
-            "donations": 0,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2998GQ9YY",
             "name": "The_Myth_",
             "exp_level": 13,
@@ -609,10 +592,27 @@
             },
             "role": "member",
             "last_seen": "20210126T134826.000Z",
-            "clan_rank": 35,
+            "clan_rank": 34,
             "previous_clan_rank": 35,
             "donations": 54,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YCGRVYVPU",
+            "name": "FixTeN",
+            "exp_level": 10,
+            "trophies": 4583,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20210127T111620.000Z",
+            "clan_rank": 35,
+            "previous_clan_rank": 34,
+            "donations": 0,
+            "donations_received": 60,
             "clan_chest_points": 0
         },
         {
@@ -687,7 +687,7 @@
             "tag": "#2029V090",
             "name": "Bkr",
             "exp_level": 13,
-            "trophies": 4390,
+            "trophies": 4420,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
