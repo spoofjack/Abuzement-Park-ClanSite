@@ -1,14 +1,14 @@
 {
-    "last_update": 1611774001.302372,
+    "last_update": 1611774901.510232,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
             "join_date": 1574406000,
-            "last_activity_date": 1611774001.302372,
-            "last_donation_date": 1611774001.302372,
+            "last_activity_date": 1611774901.510232,
+            "last_donation_date": 1611774901.510232,
             "role": "coLeader",
             "status": "present",
-            "donations": 568,
+            "donations": 584,
             "donations_last_week": 1298,
             "events": [
                 {
@@ -382,11 +382,11 @@
         "#YLCPYQPR": {
             "name": "Gopher!",
             "join_date": 1574406000,
-            "last_activity_date": 1611640801.177095,
-            "last_donation_date": 1611640801.177095,
+            "last_activity_date": 1611774901.510232,
+            "last_donation_date": 1611774901.510232,
             "role": "member",
             "status": "present",
-            "donations": 92,
+            "donations": 130,
             "donations_last_week": 380,
             "events": [
                 {
@@ -5689,7 +5689,7 @@
             "last_activity_date": 1609088401.301864,
             "last_donation_date": 1609088401.301864,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 188,
             "events": [
@@ -5698,6 +5698,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1604405700.437409
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1611774901.510232
                 }
             ]
         },
