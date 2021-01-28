@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51748,
+    "clan_score": 51750,
     "required_trophies": 4600,
     "donations_per_week": 5118,
     "clan_war_trophies": 1760,
@@ -89,6 +89,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 5424,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "leader",
+            "last_seen": "20210128T000501.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 5,
+            "donations": 242,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -99,27 +116,10 @@
             },
             "role": "elder",
             "last_seen": "20210127T233301.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 116,
             "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 5420,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "leader",
-            "last_seen": "20210127T235234.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 5,
-            "donations": 242,
-            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -387,7 +387,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20210127T232810.000Z",
+            "last_seen": "20210128T000957.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 22,
             "donations": 356,
