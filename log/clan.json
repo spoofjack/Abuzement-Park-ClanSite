@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52207,
+    "clan_score": 52172,
     "required_trophies": 4600,
-    "donations_per_week": 9638,
+    "donations_per_week": 9646,
     "clan_war_trophies": 1760,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -72,23 +72,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5500,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "coLeader",
-            "last_seen": "20210130T222636.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 4,
-            "donations": 1150,
-            "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -99,10 +82,27 @@
             },
             "role": "elder",
             "last_seen": "20210130T143032.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 6,
             "donations": 258,
             "donations_received": 480,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5455,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "coLeader",
+            "last_seen": "20210130T222636.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 4,
+            "donations": 1150,
+            "donations_received": 528,
             "clan_chest_points": 0
         },
         {
@@ -126,16 +126,16 @@
             "tag": "#PYYJL8GCJ",
             "name": "JM",
             "exp_level": 12,
-            "trophies": 5428,
+            "trophies": 5408,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20210130T214633.000Z",
+            "last_seen": "20210130T223329.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 9,
-            "donations": 246,
+            "donations": 254,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -463,23 +463,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8VLL2QL8P",
-            "name": "climaxspot",
-            "exp_level": 11,
-            "trophies": 4957,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20210130T221022.000Z",
-            "clan_rank": 27,
-            "previous_clan_rank": 28,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#QGYPU2RC",
             "name": "gioaguilar",
             "exp_level": 12,
@@ -490,9 +473,26 @@
             },
             "role": "member",
             "last_seen": "20210129T222851.000Z",
-            "clan_rank": 28,
+            "clan_rank": 27,
             "previous_clan_rank": 27,
             "donations": 20,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8VLL2QL8P",
+            "name": "climaxspot",
+            "exp_level": 11,
+            "trophies": 4936,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20210130T223202.000Z",
+            "clan_rank": 28,
+            "previous_clan_rank": 28,
+            "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
         },
