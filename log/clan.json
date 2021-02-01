@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52409,
+    "clan_score": 52398,
     "required_trophies": 4600,
-    "donations_per_week": 210,
+    "donations_per_week": 230,
     "clan_war_trophies": 1760,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -81,11 +81,11 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20210201T024005.000Z",
+            "last_seen": "20210201T030506.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 5,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#GL0VQ8YV",
-            "name": "njwalt",
-            "exp_level": 13,
-            "trophies": 5395,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20210201T022239.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 7,
-            "donations": 40,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PYYJL8GCJ",
             "name": "JM",
             "exp_level": 12,
@@ -183,10 +166,27 @@
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20210201T021933.000Z",
-            "clan_rank": 10,
+            "last_seen": "20210201T030015.000Z",
+            "clan_rank": 9,
             "previous_clan_rank": 8,
-            "donations": 20,
+            "donations": 30,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#GL0VQ8YV",
+            "name": "njwalt",
+            "exp_level": 13,
+            "trophies": 5372,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20210201T031059.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 7,
+            "donations": 50,
             "donations_received": 0,
             "clan_chest_points": 0
         },
