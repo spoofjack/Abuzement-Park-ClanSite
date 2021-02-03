@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 49883,
+    "clan_score": 49873,
     "required_trophies": 4600,
     "donations_per_week": 4540,
     "clan_war_trophies": 1710,
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 5148,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20210203T185842.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 8,
-            "donations": 64,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 13,
@@ -184,10 +167,27 @@
             },
             "role": "elder",
             "last_seen": "20210203T173043.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 20,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 5128,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20210203T185842.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 8,
+            "donations": 64,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
