@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50062,
+    "clan_score": 50028,
     "required_trophies": 4600,
     "donations_per_week": 5510,
     "clan_war_trophies": 1710,
@@ -55,23 +55,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#J8CGQRJY",
-            "name": "CaptAwhole",
-            "exp_level": 13,
-            "trophies": 5281,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20210204T101020.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 3,
-            "donations": 88,
-            "donations_received": 210,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -82,7 +65,7 @@
             },
             "role": "elder",
             "last_seen": "20210204T064205.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 6,
             "donations": 162,
             "donations_received": 280,
@@ -99,7 +82,7 @@
             },
             "role": "leader",
             "last_seen": "20210204T013435.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 5,
             "donations": 137,
             "donations_received": 280,
@@ -116,10 +99,27 @@
             },
             "role": "elder",
             "last_seen": "20210204T020218.000Z",
-            "clan_rank": 6,
+            "clan_rank": 5,
             "previous_clan_rank": 4,
             "donations": 198,
             "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J8CGQRJY",
+            "name": "CaptAwhole",
+            "exp_level": 13,
+            "trophies": 5213,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20210204T101020.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 3,
+            "donations": 88,
+            "donations_received": 210,
             "clan_chest_points": 0
         },
         {
