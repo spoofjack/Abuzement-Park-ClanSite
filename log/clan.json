@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 50276,
+    "clan_score": 50290,
     "required_trophies": 4600,
-    "donations_per_week": 7010,
+    "donations_per_week": 7020,
     "clan_war_trophies": 1710,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -72,6 +72,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 5270,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "leader",
+            "last_seen": "20210205T033859.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 4,
+            "donations": 137,
+            "donations_received": 290,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
@@ -82,7 +99,7 @@
             },
             "role": "coLeader",
             "last_seen": "20210205T012510.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 9,
             "donations": 908,
             "donations_received": 360,
@@ -98,8 +115,8 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20210205T024149.000Z",
-            "clan_rank": 5,
+            "last_seen": "20210205T033446.000Z",
+            "clan_rank": 6,
             "previous_clan_rank": 7,
             "donations": 390,
             "donations_received": 320,
@@ -116,27 +133,10 @@
             },
             "role": "elder",
             "last_seen": "20210204T220917.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 3,
             "donations": 190,
             "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 5242,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "leader",
-            "last_seen": "20210204T223742.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 4,
-            "donations": 137,
-            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -183,10 +183,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20210204T213309.000Z",
+            "last_seen": "20210205T034349.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 13,
-            "donations": 170,
+            "donations": 180,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -421,7 +421,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20210205T025630.000Z",
+            "last_seen": "20210205T033454.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 24,
             "donations": 144,
