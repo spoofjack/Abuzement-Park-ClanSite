@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51239,
+    "clan_score": 51216,
     "required_trophies": 4600,
     "donations_per_week": 11070,
     "clan_war_trophies": 1710,
@@ -92,13 +92,13 @@
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 13,
-            "trophies": 5388,
+            "trophies": 5364,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "leader",
-            "last_seen": "20210207T132727.000Z",
+            "last_seen": "20210207T134550.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 391,
@@ -140,23 +140,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "exp_level": 13,
-            "trophies": 5269,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20210207T133128.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 8,
-            "donations": 558,
-            "donations_received": 560,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9P0V20CY8",
             "name": "Hilda",
             "exp_level": 13,
@@ -167,7 +150,7 @@
             },
             "role": "elder",
             "last_seen": "20210207T073132.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 9,
             "donations": 358,
             "donations_received": 560,
@@ -184,10 +167,27 @@
             },
             "role": "member",
             "last_seen": "20210207T013758.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 10,
             "donations": 246,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "exp_level": 13,
+            "trophies": 5246,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20210207T133128.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 8,
+            "donations": 558,
+            "donations_received": 560,
             "clan_chest_points": 0
         },
         {
@@ -676,7 +676,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210207T130046.000Z",
+            "last_seen": "20210207T134550.000Z",
             "clan_rank": 39,
             "previous_clan_rank": 39,
             "donations": 328,
