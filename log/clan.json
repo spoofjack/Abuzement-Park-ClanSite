@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51216,
+    "clan_score": 51192,
     "required_trophies": 4600,
     "donations_per_week": 11120,
     "clan_war_trophies": 1710,
@@ -89,23 +89,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 5364,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "leader",
-            "last_seen": "20210207T144212.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 5,
-            "donations": 411,
-            "donations_received": 560,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
@@ -116,7 +99,7 @@
             },
             "role": "elder",
             "last_seen": "20210207T113259.000Z",
-            "clan_rank": 6,
+            "clan_rank": 5,
             "previous_clan_rank": 3,
             "donations": 138,
             "donations_received": 440,
@@ -133,10 +116,27 @@
             },
             "role": "elder",
             "last_seen": "20210207T132249.000Z",
-            "clan_rank": 7,
+            "clan_rank": 6,
             "previous_clan_rank": 7,
             "donations": 425,
             "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 5317,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "leader",
+            "last_seen": "20210207T145053.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 5,
+            "donations": 411,
+            "donations_received": 560,
             "clan_chest_points": 0
         },
         {
@@ -676,7 +676,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210207T142358.000Z",
+            "last_seen": "20210207T145335.000Z",
             "clan_rank": 39,
             "previous_clan_rank": 39,
             "donations": 328,
