@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51393,
+    "clan_score": 51376,
     "required_trophies": 4600,
     "donations_per_week": 502,
     "clan_war_trophies": 1710,
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5284,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20210208T060509.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 8,
-            "donations": 58,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -184,7 +167,7 @@
             },
             "role": "elder",
             "last_seen": "20210208T032442.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 11,
             "donations": 28,
             "donations_received": 40,
@@ -201,9 +184,26 @@
             },
             "role": "member",
             "last_seen": "20210208T000138.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 9,
             "donations": 0,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5244,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20210208T060509.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 8,
+            "donations": 58,
             "donations_received": 40,
             "clan_chest_points": 0
         },
