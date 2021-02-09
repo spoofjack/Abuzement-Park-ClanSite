@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 51637,
+    "clan_score": 51639,
     "required_trophies": 4600,
-    "donations_per_week": 3030,
+    "donations_per_week": 3040,
     "clan_war_trophies": 1730,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -41,7 +41,7 @@
             "tag": "#8C099Q9J8",
             "name": "Bow To Chase",
             "exp_level": 13,
-            "trophies": 5621,
+            "trophies": 5629,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
@@ -119,7 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 8,
             "donations": 136,
-            "donations_received": 150,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -132,10 +132,10 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20210209T180124.000Z",
+            "last_seen": "20210209T191200.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 9,
-            "donations": 334,
+            "donations": 344,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -361,23 +361,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "exp_level": 12,
-            "trophies": 5001,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20210209T185912.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 20,
-            "donations": 67,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2CRR2R9JR",
             "name": "Michael Scott",
             "exp_level": 13,
@@ -388,7 +371,7 @@
             },
             "role": "member",
             "last_seen": "20210209T044306.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 21,
             "donations": 72,
             "donations_received": 120,
@@ -405,10 +388,27 @@
             },
             "role": "member",
             "last_seen": "20210209T153238.000Z",
-            "clan_rank": 23,
+            "clan_rank": 22,
             "previous_clan_rank": 22,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "exp_level": 12,
+            "trophies": 4985,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20210209T185912.000Z",
+            "clan_rank": 23,
+            "previous_clan_rank": 20,
+            "donations": 67,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
