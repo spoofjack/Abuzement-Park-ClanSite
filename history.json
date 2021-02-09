@@ -1,14 +1,14 @@
 {
-    "last_update": 1612911600.512193,
+    "last_update": 1612912500.531171,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
             "join_date": 1574406000,
-            "last_activity_date": 1612909800.582278,
-            "last_donation_date": 1612909800.582278,
+            "last_activity_date": 1612912500.531171,
+            "last_donation_date": 1612912500.531171,
             "role": "coLeader",
             "status": "present",
-            "donations": 324,
+            "donations": 334,
             "donations_last_week": 1436,
             "events": [
                 {
@@ -34,11 +34,11 @@
         "#UVGUUVC0": {
             "name": "ok guy",
             "join_date": 1574406000,
-            "last_activity_date": 1612910700.603851,
-            "last_donation_date": 1612910700.603851,
+            "last_activity_date": 1612912500.531171,
+            "last_donation_date": 1612912500.531171,
             "role": "coLeader",
             "status": "present",
-            "donations": 254,
+            "donations": 274,
             "donations_last_week": 924,
             "events": [
                 {
@@ -5116,11 +5116,11 @@
         "#8LV22G2LY": {
             "name": "tryhard",
             "join_date": 1598140800.697419,
-            "last_activity_date": 1612855800.457841,
-            "last_donation_date": 1612855800.457841,
+            "last_activity_date": 1612912500.531171,
+            "last_donation_date": 1612912500.531171,
             "role": "member",
             "status": "present",
-            "donations": 90,
+            "donations": 100,
             "donations_last_week": 402,
             "events": [
                 {
@@ -5791,7 +5791,7 @@
             "last_activity_date": 1609142400.838601,
             "last_donation_date": 1609142400.838601,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 10,
             "events": [
@@ -5800,6 +5800,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1604733301.277123
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1612912500.531171
                 }
             ]
         },
