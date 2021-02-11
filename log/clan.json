@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52003,
+    "clan_score": 52001,
     "required_trophies": 4600,
-    "donations_per_week": 6272,
+    "donations_per_week": 6288,
     "clan_war_trophies": 1730,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -220,7 +220,7 @@
             "last_seen": "20210211T211433.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 12,
-            "donations": 98,
+            "donations": 106,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -543,25 +543,8 @@
             "last_seen": "20210211T205245.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 30,
-            "donations": 428,
+            "donations": 436,
             "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YCGRVYVPU",
-            "name": "FixTeN",
-            "exp_level": 10,
-            "trophies": 4839,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20210211T203839.000Z",
-            "clan_rank": 32,
-            "previous_clan_rank": 35,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -575,10 +558,27 @@
             },
             "role": "member",
             "last_seen": "20210211T201211.000Z",
-            "clan_rank": 33,
+            "clan_rank": 32,
             "previous_clan_rank": 32,
             "donations": 276,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YCGRVYVPU",
+            "name": "FixTeN",
+            "exp_level": 10,
+            "trophies": 4819,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20210211T203839.000Z",
+            "clan_rank": 33,
+            "previous_clan_rank": 35,
+            "donations": 0,
+            "donations_received": 16,
             "clan_chest_points": 0
         },
         {
