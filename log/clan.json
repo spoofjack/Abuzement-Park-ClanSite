@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52025,
+    "clan_score": 52006,
     "required_trophies": 4600,
     "donations_per_week": 6640,
     "clan_war_trophies": 1730,
@@ -157,23 +157,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5382,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20210212T015733.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 11,
-            "donations": 240,
-            "donations_received": 280,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PYYJL8GCJ",
             "name": "JM",
             "exp_level": 12,
@@ -184,7 +167,7 @@
             },
             "role": "member",
             "last_seen": "20210211T192223.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 110,
             "donations_received": 40,
@@ -201,10 +184,27 @@
             },
             "role": "elder",
             "last_seen": "20210211T195122.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 6,
             "donations": 341,
             "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5337,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20210212T015733.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 11,
+            "donations": 240,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -693,7 +693,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210212T015519.000Z",
+            "last_seen": "20210212T020359.000Z",
             "clan_rank": 40,
             "previous_clan_rank": 40,
             "donations": 138,
