@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52797,
+    "clan_score": 52805,
     "required_trophies": 4600,
-    "donations_per_week": 9960,
+    "donations_per_week": 9970,
     "clan_war_trophies": 1730,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -293,6 +293,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PV02PGVQ",
+            "name": "someone",
+            "exp_level": 12,
+            "trophies": 5196,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20210214T051141.000Z",
+            "clan_rank": 17,
+            "previous_clan_rank": 18,
+            "donations": 323,
+            "donations_received": 450,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8GUQLCGR",
             "name": "the Batman",
             "exp_level": 13,
@@ -303,27 +320,10 @@
             },
             "role": "elder",
             "last_seen": "20210214T020708.000Z",
-            "clan_rank": 17,
+            "clan_rank": 18,
             "previous_clan_rank": 17,
             "donations": 347,
             "donations_received": 520,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PV02PGVQ",
-            "name": "someone",
-            "exp_level": 12,
-            "trophies": 5167,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20210214T051141.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 18,
-            "donations": 323,
-            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -574,10 +574,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20210214T032919.000Z",
+            "last_seen": "20210214T052014.000Z",
             "clan_rank": 33,
             "previous_clan_rank": 33,
-            "donations": 740,
+            "donations": 750,
             "donations_received": 520,
             "clan_chest_points": 0
         },
