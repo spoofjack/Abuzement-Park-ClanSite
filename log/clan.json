@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52792,
+    "clan_score": 52766,
     "required_trophies": 4600,
-    "donations_per_week": 2830,
+    "donations_per_week": 2840,
     "clan_war_trophies": 1750,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,7 +30,7 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20210216T144522.000Z",
+            "last_seen": "20210216T152834.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 144,
@@ -191,23 +191,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YLCPYQPR",
-            "name": "Gopher!",
-            "exp_level": 13,
-            "trophies": 5387,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20210216T115138.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 10,
-            "donations": 138,
-            "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PQLGY8QL",
             "name": "Yomken",
             "exp_level": 13,
@@ -218,17 +201,34 @@
             },
             "role": "member",
             "last_seen": "20210216T063039.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 13,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
         },
         {
+            "tag": "#YLCPYQPR",
+            "name": "Gopher!",
+            "exp_level": 13,
+            "trophies": 5362,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20210216T152514.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 10,
+            "donations": 148,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#J28UPQ0P",
             "name": "didthrashersmom",
             "exp_level": 13,
-            "trophies": 5380,
+            "trophies": 5355,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5321,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20210216T150834.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 11,
-            "donations": 84,
-            "donations_received": 190,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2CRR2R9JR",
             "name": "Michael Scott",
             "exp_level": 13,
@@ -269,10 +252,27 @@
             },
             "role": "member",
             "last_seen": "20210215T175830.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5276,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20210216T150834.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 11,
+            "donations": 84,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -585,7 +585,7 @@
             "tag": "#YCGRVYVPU",
             "name": "FixTeN",
             "exp_level": 10,
-            "trophies": 4840,
+            "trophies": 4820,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
