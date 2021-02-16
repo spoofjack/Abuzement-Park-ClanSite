@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 52691,
+    "clan_score": 52689,
     "required_trophies": 4600,
-    "donations_per_week": 1770,
+    "donations_per_week": 1790,
     "clan_war_trophies": 1750,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -55,6 +55,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5578,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20210216T014949.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 5,
+            "donations": 112,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -65,27 +82,10 @@
             },
             "role": "elder",
             "last_seen": "20210216T004804.000Z",
-            "clan_rank": 3,
+            "clan_rank": 4,
             "previous_clan_rank": 3,
             "donations": 84,
-            "donations_received": 70,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5548,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20210215T213538.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 5,
-            "donations": 92,
-            "donations_received": 120,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -310,23 +310,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "exp_level": 13,
-            "trophies": 5250,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20210216T013049.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 20,
-            "donations": 144,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y2C2RQG9R",
             "name": "kr21__",
             "exp_level": 12,
@@ -337,10 +320,27 @@
             },
             "role": "member",
             "last_seen": "20210215T030638.000Z",
-            "clan_rank": 19,
+            "clan_rank": 18,
             "previous_clan_rank": 18,
             "donations": 0,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "exp_level": 13,
+            "trophies": 5182,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20210216T013049.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 20,
+            "donations": 144,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -391,7 +391,7 @@
             "clan_rank": 22,
             "previous_clan_rank": 24,
             "donations": 38,
-            "donations_received": 60,
+            "donations_received": 70,
             "clan_chest_points": 0
         },
         {
