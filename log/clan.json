@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53355,
+    "clan_score": 53342,
     "required_trophies": 4600,
     "donations_per_week": 8260,
     "clan_war_trophies": 1750,
@@ -21,23 +21,6 @@
     "clan_chest_points": null,
     "member_list": [
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5766,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20210219T024400.000Z",
-            "clan_rank": 1,
-            "previous_clan_rank": 1,
-            "donations": 217,
-            "donations_received": 230,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#UVGUUVC0",
             "name": "ok guy",
             "exp_level": 13,
@@ -48,10 +31,27 @@
             },
             "role": "coLeader",
             "last_seen": "20210219T053636.000Z",
-            "clan_rank": 2,
+            "clan_rank": 1,
             "previous_clan_rank": 2,
             "donations": 422,
             "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5740,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20210219T134139.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 1,
+            "donations": 217,
+            "donations_received": 230,
             "clan_chest_points": 0
         },
         {
@@ -81,7 +81,7 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20210219T103249.000Z",
+            "last_seen": "20210219T134230.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 108,
