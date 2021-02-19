@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53391,
+    "clan_score": 53408,
     "required_trophies": 4600,
-    "donations_per_week": 8590,
+    "donations_per_week": 8600,
     "clan_war_trophies": 1750,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -75,17 +75,34 @@
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 13,
-            "trophies": 5608,
+            "trophies": 5613,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
             "role": "leader",
-            "last_seen": "20210219T200359.000Z",
+            "last_seen": "20210219T203234.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 3,
-            "donations": 406,
+            "donations": 416,
             "donations_received": 300,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8CLQGRJL0",
+            "name": "klawler",
+            "exp_level": 13,
+            "trophies": 5606,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "elder",
+            "last_seen": "20210219T202651.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 6,
+            "donations": 424,
+            "donations_received": 450,
             "clan_chest_points": 0
         },
         {
@@ -99,27 +116,10 @@
             },
             "role": "member",
             "last_seen": "20210219T180026.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 118,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8CLQGRJL0",
-            "name": "klawler",
-            "exp_level": 13,
-            "trophies": 5578,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20210219T202651.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 6,
-            "donations": 424,
-            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -251,7 +251,7 @@
                 "name": "Master II"
             },
             "role": "elder",
-            "last_seen": "20210219T163220.000Z",
+            "last_seen": "20210219T204457.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 342,
@@ -353,7 +353,7 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20210219T193126.000Z",
+            "last_seen": "20210219T204449.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 20,
             "donations": 395,
@@ -636,7 +636,7 @@
             "tag": "#YCGRVYVPU",
             "name": "FixTeN",
             "exp_level": 10,
-            "trophies": 4716,
+            "trophies": 4728,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
