@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53395,
+    "clan_score": 53389,
     "required_trophies": 4600,
-    "donations_per_week": 9738,
+    "donations_per_week": 9756,
     "clan_war_trophies": 1750,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -55,23 +55,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#CLL8Q09",
-            "name": "Wub",
-            "exp_level": 13,
-            "trophies": 5698,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "leader",
-            "last_seen": "20210220T145101.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 4,
-            "donations": 574,
-            "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
@@ -82,10 +65,27 @@
             },
             "role": "elder",
             "last_seen": "20210220T135326.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 128,
             "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CLL8Q09",
+            "name": "Wub",
+            "exp_level": 13,
+            "trophies": 5670,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "leader",
+            "last_seen": "20210220T151030.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 4,
+            "donations": 574,
+            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -276,6 +276,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 5336,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20210220T150403.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 13,
+            "donations": 132,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YLCPYQPR",
             "name": "Gopher!",
             "exp_level": 13,
@@ -286,27 +303,10 @@
             },
             "role": "member",
             "last_seen": "20210220T143435.000Z",
-            "clan_rank": 16,
+            "clan_rank": 17,
             "previous_clan_rank": 18,
             "donations": 458,
-            "donations_received": 488,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 5307,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20210220T134256.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 13,
-            "donations": 114,
-            "donations_received": 0,
+            "donations_received": 496,
             "clan_chest_points": 0
         },
         {
@@ -612,7 +612,7 @@
             "clan_rank": 35,
             "previous_clan_rank": 35,
             "donations": 722,
-            "donations_received": 510,
+            "donations_received": 520,
             "clan_chest_points": 0
         },
         {
