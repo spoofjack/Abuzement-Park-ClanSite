@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53285,
+    "clan_score": 53263,
     "required_trophies": 4600,
-    "donations_per_week": 9140,
+    "donations_per_week": 9150,
     "clan_war_trophies": 1750,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -174,23 +174,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5502,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20210220T030839.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 10,
-            "donations": 318,
-            "donations_received": 440,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -201,10 +184,27 @@
             },
             "role": "elder",
             "last_seen": "20210220T025433.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 11,
             "donations": 381,
             "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5452,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20210220T052036.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 10,
+            "donations": 328,
+            "donations_received": 440,
             "clan_chest_points": 0
         },
         {
@@ -429,23 +429,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#QLJJ0QYJ",
-            "name": "Night Witch",
-            "exp_level": 12,
-            "trophies": 5095,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20210220T050405.000Z",
-            "clan_rank": 25,
-            "previous_clan_rank": 32,
-            "donations": 110,
-            "donations_received": 210,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#898R0LQRG",
             "name": "beast boy",
             "exp_level": 12,
@@ -456,10 +439,27 @@
             },
             "role": "member",
             "last_seen": "20210219T121812.000Z",
-            "clan_rank": 26,
+            "clan_rank": 25,
             "previous_clan_rank": 24,
             "donations": 106,
             "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#QLJJ0QYJ",
+            "name": "Night Witch",
+            "exp_level": 12,
+            "trophies": 5051,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20210220T051537.000Z",
+            "clan_rank": 26,
+            "previous_clan_rank": 32,
+            "donations": 110,
+            "donations_received": 220,
             "clan_chest_points": 0
         },
         {
