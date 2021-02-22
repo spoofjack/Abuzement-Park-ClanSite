@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53525,
+    "clan_score": 53541,
     "required_trophies": 4600,
-    "donations_per_week": 28,
+    "donations_per_week": 58,
     "clan_war_trophies": 1750,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -140,6 +140,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8GUQLCGR",
+            "name": "the Batman",
+            "exp_level": 13,
+            "trophies": 5556,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "elder",
+            "last_seen": "20210222T002232.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 12,
+            "donations": 30,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9CCL2G0G",
             "name": "Patrick",
             "exp_level": 13,
@@ -150,7 +167,7 @@
             },
             "role": "elder",
             "last_seen": "20210221T123910.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 0,
             "donations_received": 0,
@@ -167,25 +184,8 @@
             },
             "role": "coLeader",
             "last_seen": "20210221T231837.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 7,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8GUQLCGR",
-            "name": "the Batman",
-            "exp_level": 13,
-            "trophies": 5525,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "elder",
-            "last_seen": "20210221T215301.000Z",
             "clan_rank": 10,
-            "previous_clan_rank": 12,
+            "previous_clan_rank": 7,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -357,7 +357,7 @@
             "clan_rank": 20,
             "previous_clan_rank": 20,
             "donations": 20,
-            "donations_received": 0,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
@@ -459,7 +459,7 @@
             "clan_rank": 26,
             "previous_clan_rank": 24,
             "donations": 0,
-            "donations_received": 10,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -629,7 +629,7 @@
             "clan_rank": 36,
             "previous_clan_rank": 36,
             "donations": 8,
-            "donations_received": 10,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -761,7 +761,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20210213T041410.000Z",
+            "last_seen": "20210222T002120.000Z",
             "clan_rank": 44,
             "previous_clan_rank": 44,
             "donations": 0,
