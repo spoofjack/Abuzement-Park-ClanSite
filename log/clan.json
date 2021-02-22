@@ -3,9 +3,9 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53530,
+    "clan_score": 53512,
     "required_trophies": 4600,
-    "donations_per_week": 336,
+    "donations_per_week": 384,
     "clan_war_trophies": 1750,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -51,7 +51,7 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 30,
-            "donations_received": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -221,7 +221,7 @@
             "clan_rank": 12,
             "previous_clan_rank": 15,
             "donations": 40,
-            "donations_received": 8,
+            "donations_received": 16,
             "clan_chest_points": 0
         },
         {
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PYYJL8GCJ",
-            "name": "JM",
-            "exp_level": 12,
-            "trophies": 5441,
-            "arena": {
-                "id": 54000016,
-                "name": "Master II"
-            },
-            "role": "member",
-            "last_seen": "20210221T020136.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 13,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y2C2RQG9R",
             "name": "kr21__",
             "exp_level": 12,
@@ -269,9 +252,26 @@
             },
             "role": "member",
             "last_seen": "20210220T221838.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PYYJL8GCJ",
+            "name": "JM",
+            "exp_level": 12,
+            "trophies": 5395,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20210222T013016.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 13,
+            "donations": 20,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -296,13 +296,13 @@
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "exp_level": 13,
-            "trophies": 5361,
+            "trophies": 5336,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20210221T163549.000Z",
+            "last_seen": "20210222T013545.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 17,
             "donations": 0,
@@ -340,7 +340,7 @@
             "clan_rank": 19,
             "previous_clan_rank": 19,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -404,10 +404,10 @@
                 "name": "Master I"
             },
             "role": "member",
-            "last_seen": "20210222T005957.000Z",
+            "last_seen": "20210222T014237.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 23,
-            "donations": 30,
+            "donations": 58,
             "donations_received": 40,
             "clan_chest_points": 0
         },
