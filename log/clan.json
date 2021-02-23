@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 53919,
+    "clan_score": 53915,
     "required_trophies": 4600,
     "donations_per_week": 2138,
     "clan_war_trophies": 1770,
@@ -310,6 +310,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8YRYRG0G",
+            "name": "Blobby",
+            "exp_level": 13,
+            "trophies": 5303,
+            "arena": {
+                "id": 54000016,
+                "name": "Master II"
+            },
+            "role": "member",
+            "last_seen": "20210223T111633.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 19,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#LYJ020LL",
             "name": "Moon",
             "exp_level": 13,
@@ -320,27 +337,10 @@
             },
             "role": "member",
             "last_seen": "20210223T102856.000Z",
-            "clan_rank": 18,
+            "clan_rank": 19,
             "previous_clan_rank": 18,
             "donations": 67,
             "donations_received": 130,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8YRYRG0G",
-            "name": "Blobby",
-            "exp_level": 13,
-            "trophies": 5296,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20210222T165310.000Z",
-            "clan_rank": 19,
-            "previous_clan_rank": 19,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -582,23 +582,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YCGRVYVPU",
-            "name": "FixTeN",
-            "exp_level": 10,
-            "trophies": 4928,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20210222T204812.000Z",
-            "clan_rank": 34,
-            "previous_clan_rank": 34,
-            "donations": 8,
-            "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#20LGGP900",
             "name": "blackdog",
             "exp_level": 12,
@@ -609,9 +592,26 @@
             },
             "role": "member",
             "last_seen": "20210222T145912.000Z",
-            "clan_rank": 35,
+            "clan_rank": 34,
             "previous_clan_rank": 35,
             "donations": 20,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YCGRVYVPU",
+            "name": "FixTeN",
+            "exp_level": 10,
+            "trophies": 4870,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20210223T112003.000Z",
+            "clan_rank": 35,
+            "previous_clan_rank": 34,
+            "donations": 8,
             "donations_received": 40,
             "clan_chest_points": 0
         },
