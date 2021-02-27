@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54620,
+    "clan_score": 54664,
     "required_trophies": 4600,
     "donations_per_week": 9408,
     "clan_war_trophies": 1770,
@@ -58,17 +58,34 @@
             "tag": "#CLL8Q09",
             "name": "Wub",
             "exp_level": 13,
-            "trophies": 5761,
+            "trophies": 5790,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
             "role": "leader",
-            "last_seen": "20210227T142316.000Z",
+            "last_seen": "20210227T162322.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 10,
             "donations": 510,
             "donations_received": 400,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5750,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20210227T160804.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 13,
+            "donations": 1205,
+            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -82,7 +99,7 @@
             },
             "role": "member",
             "last_seen": "20210226T213945.000Z",
-            "clan_rank": 4,
+            "clan_rank": 5,
             "previous_clan_rank": 4,
             "donations": 182,
             "donations_received": 40,
@@ -99,7 +116,7 @@
             },
             "role": "elder",
             "last_seen": "20210227T103547.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 3,
             "donations": 66,
             "donations_received": 360,
@@ -116,27 +133,10 @@
             },
             "role": "elder",
             "last_seen": "20210226T230814.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 502,
             "donations_received": 400,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5686,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20210227T160804.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 13,
-            "donations": 1205,
-            "donations_received": 480,
             "clan_chest_points": 0
         },
         {
@@ -262,13 +262,13 @@
             "tag": "#PYYJL8GCJ",
             "name": "JM",
             "exp_level": 12,
-            "trophies": 5527,
+            "trophies": 5533,
             "arena": {
                 "id": 54000016,
                 "name": "Master II"
             },
             "role": "member",
-            "last_seen": "20210227T025105.000Z",
+            "last_seen": "20210227T161855.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 14,
             "donations": 222,
@@ -412,23 +412,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#QLJJ0QYJ",
-            "name": "Night Witch",
-            "exp_level": 12,
-            "trophies": 5169,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "member",
-            "last_seen": "20210227T160716.000Z",
-            "clan_rank": 24,
-            "previous_clan_rank": 23,
-            "donations": 102,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#82UQ80Q8",
             "name": "PhantomX",
             "exp_level": 13,
@@ -439,7 +422,7 @@
             },
             "role": "member",
             "last_seen": "20210227T152009.000Z",
-            "clan_rank": 25,
+            "clan_rank": 24,
             "previous_clan_rank": 25,
             "donations": 638,
             "donations_received": 480,
@@ -456,10 +439,27 @@
             },
             "role": "elder",
             "last_seen": "20210207T033653.000Z",
-            "clan_rank": 26,
+            "clan_rank": 25,
             "previous_clan_rank": 26,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#QLJJ0QYJ",
+            "name": "Night Witch",
+            "exp_level": 12,
+            "trophies": 5131,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "member",
+            "last_seen": "20210227T161914.000Z",
+            "clan_rank": 26,
+            "previous_clan_rank": 23,
+            "donations": 102,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
