@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 54528,
+    "clan_score": 54502,
     "required_trophies": 4600,
     "donations_per_week": 10688,
     "clan_war_trophies": 1770,
@@ -72,23 +72,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#J28UPQ0P",
-            "name": "didthrashersmom",
-            "exp_level": 13,
-            "trophies": 5813,
-            "arena": {
-                "id": 54000017,
-                "name": "Master III"
-            },
-            "role": "coLeader",
-            "last_seen": "20210228T132322.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 4,
-            "donations": 1303,
-            "donations_received": 560,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8CLQGRJL0",
             "name": "klawler",
             "exp_level": 13,
@@ -99,10 +82,27 @@
             },
             "role": "elder",
             "last_seen": "20210228T035231.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 7,
             "donations": 588,
             "donations_received": 440,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#J28UPQ0P",
+            "name": "didthrashersmom",
+            "exp_level": 13,
+            "trophies": 5760,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20210228T142126.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 4,
+            "donations": 1303,
+            "donations_received": 560,
             "clan_chest_points": 0
         },
         {
@@ -761,7 +761,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20210228T124349.000Z",
+            "last_seen": "20210228T142645.000Z",
             "clan_rank": 44,
             "previous_clan_rank": 44,
             "donations": 176,
