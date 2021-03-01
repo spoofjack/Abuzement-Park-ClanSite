@@ -1,5 +1,5 @@
 {
-    "last_update": 1614646801.212332,
+    "last_update": 1614647700.986693,
     "members": {
         "#J28UPQ0P": {
             "name": "didthrashersmom",
@@ -34,11 +34,11 @@
         "#UVGUUVC0": {
             "name": "ok guy",
             "join_date": 1574406000,
-            "last_activity_date": 1614642300.972221,
-            "last_donation_date": 1614642300.972221,
+            "last_activity_date": 1614647700.986693,
+            "last_donation_date": 1614647700.986693,
             "role": "coLeader",
             "status": "present",
-            "donations": 71,
+            "donations": 89,
             "donations_last_week": 844,
             "events": [
                 {
@@ -6181,7 +6181,7 @@
             "last_activity_date": 1614646801.212332,
             "last_donation_date": 1614646801.212332,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 36,
             "donations_last_week": 230,
             "events": [
@@ -6190,6 +6190,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1614132000.591734
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1614647700.986693
                 }
             ]
         },
