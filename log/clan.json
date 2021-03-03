@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 47822,
+    "clan_score": 47790,
     "required_trophies": 4600,
     "donations_per_week": 4680,
     "clan_war_trophies": 1870,
@@ -55,23 +55,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#8C099Q9J8",
-            "name": "Bow To Chase",
-            "exp_level": 13,
-            "trophies": 5115,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "coLeader",
-            "last_seen": "20210303T174912.000Z",
-            "clan_rank": 3,
-            "previous_clan_rank": 1,
-            "donations": 226,
-            "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#J8CGQRJY",
             "name": "CaptAwhole",
             "exp_level": 13,
@@ -82,7 +65,7 @@
             },
             "role": "elder",
             "last_seen": "20210303T163055.000Z",
-            "clan_rank": 4,
+            "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 112,
             "donations_received": 200,
@@ -99,10 +82,27 @@
             },
             "role": "member",
             "last_seen": "20210303T123123.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 5,
             "donations": 254,
             "donations_received": 232,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8C099Q9J8",
+            "name": "Bow To Chase",
+            "exp_level": 13,
+            "trophies": 5049,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20210303T180024.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 1,
+            "donations": 226,
+            "donations_received": 320,
             "clan_chest_points": 0
         },
         {
@@ -463,6 +463,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YCGRVYVPU",
+            "name": "FixTeN",
+            "exp_level": 10,
+            "trophies": 4583,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20210303T180510.000Z",
+            "clan_rank": 27,
+            "previous_clan_rank": 37,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YLGUQRVVQ",
             "name": "Granteli",
             "exp_level": 13,
@@ -473,25 +490,8 @@
             },
             "role": "elder",
             "last_seen": "20210207T033653.000Z",
-            "clan_rank": 27,
-            "previous_clan_rank": 27,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YCGRVYVPU",
-            "name": "FixTeN",
-            "exp_level": 10,
-            "trophies": 4571,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20210303T135742.000Z",
             "clan_rank": 28,
-            "previous_clan_rank": 37,
+            "previous_clan_rank": 27,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -744,7 +744,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20210303T135601.000Z",
+            "last_seen": "20210303T180549.000Z",
             "clan_rank": 43,
             "previous_clan_rank": 43,
             "donations": 46,
