@@ -3,7 +3,7 @@
     "name": "Abuzement Park",
     "badge_id": 16000003,
     "type": "open",
-    "clan_score": 48986,
+    "clan_score": 49001,
     "required_trophies": 4600,
     "donations_per_week": 288,
     "clan_war_trophies": 1870,
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9P0V20CY8",
+            "name": "Hilda",
+            "exp_level": 13,
+            "trophies": 5086,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20210308T043645.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 10,
+            "donations": 44,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8YRYRG0G",
             "name": "Blobby",
             "exp_level": 13,
@@ -167,7 +184,7 @@
             },
             "role": "member",
             "last_seen": "20210308T011143.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 14,
             "donations": 0,
             "donations_received": 0,
@@ -184,27 +201,10 @@
             },
             "role": "leader",
             "last_seen": "20210308T004713.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 12,
             "donations": 30,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9P0V20CY8",
-            "name": "Hilda",
-            "exp_level": 13,
-            "trophies": 5069,
-            "arena": {
-                "id": 54000015,
-                "name": "Master I"
-            },
-            "role": "elder",
-            "last_seen": "20210308T043645.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 10,
-            "donations": 44,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -262,7 +262,7 @@
             "tag": "#PQLGY8QL",
             "name": "Yomken",
             "exp_level": 13,
-            "trophies": 4952,
+            "trophies": 4981,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
